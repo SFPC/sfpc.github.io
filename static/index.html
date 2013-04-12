@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Template &middot; Bootstrap</title>
+		<title>SFPC</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
@@ -115,11 +115,14 @@
 		<script src="../assets/js/html5shiv.js"></script>
 		<![endif]-->
 		<!-- Fav and touch icons -->
+
+		<!-- 
 		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
 		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
 		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
-		<link rel="shortcut icon" href="../assets/ico/favicon.png">
+		<link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png"> -->
+		<!-- <link rel="shortcut icon" href="../assets/ico/favicon.png"> -->
+	
 	</head>
 	<body>
 		<div class="container-narrow">
@@ -128,14 +131,14 @@
 					<li class="active"><a href="#">Home</a></li>
 					<li><a href="about.html">About</a></li>
 					<li><a href="mission.html">Mission</a></li>
-					<li><a href="FAQ.html">FAQ</a></li>
+					<li><a href="faq.html">FAQ</a></li>
 					<li><a href="contact.html">Contact</a></li>
 				</ul>
 				<h3 class="muted">school for poetic computation</h3>
 			</div>
 			<hr>
 			<div class="clearfix">
-					<div id="slideshow">
+					<div id="slideshow" style="width:700px;">
 						
 						<img src="slides/pushPixel.jpg" alt="Slideshow Image 1" class="active" />
 						<img src="slides/circuit.jpg" alt="Slideshow Image 3" />
@@ -143,7 +146,7 @@
 						<img src="slides/code.jpg" alt="Slideshow Image 5" />
 						
 						
-						<div class="overlay"> 
+						<div class="overlay" style="display:block"> 
 							
 							<div class="pull-right" style="margin: 20px; padding: 10px; background-color: rgba(255,255,255,0.9); z-index: 100; max-width: 700px">
 				<p class="lead"><b>school for poetic computation</b> is an artist run school launching this fall in New York.  A small group of students and faculty will work closely to explore the intersections of code, design, hardware and theory -- focusing especially on artistic intervention. It's a 10 week program, a hybrid of residency and research group, that will happen multiple times per year to be a powerboost for creativity. <em>Our motto is: more poems less demos.</p> 
@@ -160,7 +163,26 @@
 				<div class="span6">
 					<h4>email list</h4>
 					<p>join the email list for more info: 
-					<div class="input-prepend"><span class="add-on"><i class="icon-envelope"></i></span><input type="text" id="" name=""></div>
+					
+					
+<form method="post" action="http://scripts.dreamhost.com/add_list.cgi"> 
+<input type="hidden" name="list" value="school" /> 
+<input type="hidden" name="domain" value="sfpc.io" /> 
+<input type="hidden" name="url" value="http://sfpc.io/subscribed.html" /> 
+<input type="hidden" name="unsuburl" value="http://sfpc.io/unsubscribed.html" /> 
+<input type="hidden" name="alreadyonurl" value="http://sfpc.io/alreadyon.html" /> 
+<input type="hidden" name="notonurl" value="http://sfpc.io/notonurl.html" /> 
+<input type="hidden" name="invalidurl" value="http://sfpc.io/invalidurl.html" /> 
+<input type="hidden" name="emailconfirmurl" value="http://sfpc.io/emailconfirmed.html" /> 
+<input type="hidden" name="emailit" value="1" /> 
+Name: <input name="name" type="text" /><br/>
+E-mail: <input name="email"  type="text" /><br /> 
+<input type="submit" class="btn" name="submit" value="join" /> 
+<input type="submit" class="btn" name="unsub" value="unsubscribe" /> 
+</form>			
+					
+					
+					
 				</div>
 				
 				<div class="span6">
