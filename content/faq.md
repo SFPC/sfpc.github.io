@@ -23,7 +23,7 @@ type: doc
 <dd>Anyone who is excited by our mission statement and wants to create their ideas into projects. We are hoping to get somewhere between 15~20 students. We are looking for students who will make full time commitment for the period of session.</dd>
 <dl>
 <dt>How can I apply?</dt>
-<dd>Our application period for the fall term has closed, but we are still acception applications on a rolling basis <a href="http://goo.gl/7qa9O/">here</a>. Please sign up at our mailing list to get the latest news.</dd>
+<dd>Our application period for the fall term has closed, but we are still acception applications on a rolling basis <a href="https://docs.google.com/forms/d/13HfY4UVZbA7NOwcF24EZ009Wfvl4M_OKGVcn8C5CJtY/viewform">here</a>. Please sign up at our mailing list to get the latest news.</dd>
 <dl>
 <dt>Is there tuition to attend the school?</dt>
 <dd>There will be a fixed rate tuition to attend the school, somewhere between the cost of one and two courses at a university. We're still figuring out how low we can go, we think around $5,000 might make sense. A big part of the tuition goes toward paying for classroom and co-working space for students. We're also looking at scholarships, and hope to increase that portion of the program as we mature.</dd>
@@ -82,4 +82,4 @@ type: doc
 <dt>Why do you teach?</dt>
 <dd>Teaching inspires to continue to learn. We love meeting new people and we often make our best work in collaboration with others.</dd>
 </dl>
-_if you have questions, please send them to <strike>info@sfpc.io</strike> (for now: zach@openframeworks.cc)_
+if you have questions, please send them to info@sfpc.io
