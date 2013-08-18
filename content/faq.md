@@ -32,7 +32,7 @@ type: doc
 <dd>Each term will be roughly ten weeks full time, so students can come on a tourist visa, etc</dd>
 <dl>
 <dt>Where will the school be located?</dt>
-<dd>In the fall of 2013, we will be located in Dumbo, Brooklyn New York at the Made in NYC media center</dd>
+<dd>In the fall of 2013, we will be located in Downtown Brooklyn, New York at the Metropolitan Exchange.</dd>
 <dl>
 <dt>Can Non-US Citizen apply?</dt>
 <dd>Yes! We are designing one session to be 10 week in order to accommodate International students visiting with a tourist visa.</dd>
@@ -82,4 +82,9 @@ type: doc
 <dt>Why do you teach?</dt>
 <dd>Teaching inspires to continue to learn. We love meeting new people and we often make our best work in collaboration with others.</dd>
 </dl>
+
+<dt>How can I help?</dt>
+<dd>We would love to hear what you want to help with. At the moment, we are looking for help with visiting lecture, design, PR and space management. </dd>
+</dl>
+
 if you have questions, please send them to info@sfpc.io
