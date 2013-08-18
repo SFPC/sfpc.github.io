@@ -1,0 +1,4 @@
+indexes:
+  tag: 'tags'
+baseurl: 'http://hugo.spf13.com'
+...

@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+  <head>
+  <title>Configuring Hugo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/bootstrap-responsive.css">
+
+  </head>
+  <body>
+    <div class="navbar"></div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="well" style="background-color: #222; color: #ccc;">
+            <h1>Hugo</h1>
+            <p>A Fast and Flexible Static Site Generator built with love by <a href="http://spf13.com">spf13</a> in Go</p>
+          </div>
+                  <ul class="nav nav-list">
+            <li> <a href="/">Home</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Getting Started</li>
+            <li> <a href="/doc/installing">Installing Hugo</a></li>
+            <li> <a href="/doc/usage">Usage</a> </li>
+            <li> <a href="/doc/configuration">Configuration</a></li>
+            <li> <a href="/doc/source-directory">Input Directory Layout</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Layout</li>
+            <li> <a href="/doc/templates">Templates</a></li>
+            <li> <a href="/doc/variables">Variables</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Content</li>
+            <li> <a href="/doc/organization">Organization</a></li>
+            <li> <a href="/doc/front-matter">Front Matter</a></li>
+            <li> <a href="/doc/example">Example</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Extras</li>
+            <li> <a href="/doc/shortcodes">ShortCodes</a></li>
+            <li> <a href="/doc/indexes">Indexes</a></li>
+            <li> <a href="/doc/aliases">Aliases</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Meta</li>
+            <li> <a href="/doc/release-notes">Release Notes</a></li>
+            <li> <a href="/doc/roadmap">Roadmap</a> </li>
+            <li> <a href="/doc/contributing">Contributing</a></li>
+            <li> <a href="/doc/contributors">Contributors</a></li>
+            <li> <a href="/doc/license">License</a></li>
+          </ul>
+
+        </div>
+        <div class="span9">
+
+          <h1>Configuring Hugo</h1>
+          <p>The directory structure and templates provide the majority of the
+configuration for a site. In fact a config file isn&rsquo;t even needed for many websites
+since the defaults used follow commonly used patterns.</p>
+
+<p>Hugo expects to find the config file in the root of the source directory and
+will look there first for a config.yaml file. If none is present it will
+then look for a config.json file, followed by a config.toml file.</p>
+
+<p><strong>Please note the field names must be all lowercase</strong></p>
+
+<h2>Examples</h2>
+
+<p>The following is an example of a yaml config file with the default values:</p>
+
+<pre><code>---
+contentdir: &quot;content&quot;
+layoutdir: &quot;layouts&quot;
+publishdir: &quot;public&quot;
+builddrafts: false
+indexes:
+   category: &quot;categories&quot;
+   tag: &quot;tags&quot;
+baseurl: &quot;http://yoursite.com/&quot;
+...
+</code></pre>
+
+<p>The following is an example of a json config file with the default values:</p>
+
+<pre><code>{
+    &quot;contentdir&quot;: &quot;content&quot;,
+    &quot;layoutdir&quot;: &quot;layouts&quot;,
+    &quot;publishdir&quot;: &quot;public&quot;,
+    &quot;builddrafts&quot;: false,
+    &quot;indexes&quot;: {
+       &quot;category&quot;: &quot;categories&quot;,
+       &quot;tag&quot;: &quot;tags&quot;
+    },
+    &quot;baseurl&quot;: &quot;http://yoursite.com/&quot;
+}
+</code></pre>
+
+<p>The following is an example of a toml config file with the default values:</p>
+
+<pre><code>contentdir = &quot;content&quot;
+layoutdir = &quot;layouts&quot;
+publishdir = &quot;public&quot;
+builddrafts = false
+baseurl = &quot;http://yoursite.com/&quot;
+[indexes]
+   category = &quot;categories&quot;
+   tag = &quot;tags&quot;
+</code></pre>
+
+        </div>
+      </div>
+      <hr>
+      <footer id="footer">
+            <p class="pull-right"><a href="#top">Back to top</a></p>
+            Made by <a href="http://spf13.com">Steve Francia</a>.<br>
+            Code licensed under the <a href="https://github.com/spf13/hugo/blob/master/LICENSE.md">Simple Public License 2.0</a>.<br>
+      </footer>
+    </div>
+  </body>
+
+</html>
+

@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+  <head>
+  <title>Using Hugo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/bootstrap-responsive.css">
+
+  </head>
+  <body>
+    <div class="navbar"></div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="well" style="background-color: #222; color: #ccc;">
+            <h1>Hugo</h1>
+            <p>A Fast and Flexible Static Site Generator built with love by <a href="http://spf13.com">spf13</a> in Go</p>
+          </div>
+                  <ul class="nav nav-list">
+            <li> <a href="/">Home</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Getting Started</li>
+            <li> <a href="/doc/installing">Installing Hugo</a></li>
+            <li> <a href="/doc/usage">Usage</a> </li>
+            <li> <a href="/doc/configuration">Configuration</a></li>
+            <li> <a href="/doc/source-directory">Input Directory Layout</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Layout</li>
+            <li> <a href="/doc/templates">Templates</a></li>
+            <li> <a href="/doc/variables">Variables</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Content</li>
+            <li> <a href="/doc/organization">Organization</a></li>
+            <li> <a href="/doc/front-matter">Front Matter</a></li>
+            <li> <a href="/doc/example">Example</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Extras</li>
+            <li> <a href="/doc/shortcodes">ShortCodes</a></li>
+            <li> <a href="/doc/indexes">Indexes</a></li>
+            <li> <a href="/doc/aliases">Aliases</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Meta</li>
+            <li> <a href="/doc/release-notes">Release Notes</a></li>
+            <li> <a href="/doc/roadmap">Roadmap</a> </li>
+            <li> <a href="/doc/contributing">Contributing</a></li>
+            <li> <a href="/doc/contributors">Contributors</a></li>
+            <li> <a href="/doc/license">License</a></li>
+          </ul>
+
+        </div>
+        <div class="span9">
+
+          <h1>Using Hugo</h1>
+          <p>Make sure either hugo is in your path or provide a path to it.</p>
+
+<pre><code>$ hugo --help
+usage: hugo [flags] []
+  -b, --base-url=&quot;&quot;: hostname (and path) to the root eg. http://spf13.com/
+  -D, --build-drafts=false: include content marked as draft
+      --config=&quot;&quot;: config file (default is path/config.yaml|json|toml)
+  -d, --destination=&quot;&quot;: filesystem path to write files to
+  -h, --help=false: show this help
+      --port=&quot;1313&quot;: port to run web server on, default :1313
+  -S, --server=false: run a (very) simple web server
+  -s, --source=&quot;&quot;: filesystem path to read files relative from
+      --uglyurls=false: use /filename.html instead of /filename/
+  -v, --verbose=false: verbose output
+      --version=false: which version of hugo
+  -w, --watch=false: watch filesystem for changes and recreate as needed
+</code></pre>
+
+<h2>Common Usage Example:</h2>
+
+<p>The most common use is probably to run hugo with your current
+directory being the input directory.</p>
+
+<pre><code>$ hugo
+&gt; X pages created
+&gt; Y indexes created
+  in 8 ms
+</code></pre>
+
+<p>If you are working on things and want to see the changes
+immediately, tell Hugo to watch for changes. <strong>It will
+recreate the site faster than you can tab over to
+your browser to view the changes.</strong></p>
+
+<pre><code>$ hugo -s ~/mysite --watch
+   Watching for changes. Press ctrl+c to stop
+   15 pages created
+   0 tags created
+   in 8 ms
+</code></pre>
+
+<p>Hugo can even run a server and create your site at the same time!</p>
+
+<pre><code>$hugo --server -ws ~/mysite
+   Watching for changes. Press ctrl+c to stop
+   15 pages created
+   0 tags created
+   in 8 ms
+   Web Server is available at http://localhost:1313
+   Press ctrl+c to stop
+</code></pre>
+
+        </div>
+      </div>
+      <hr>
+      <footer id="footer">
+            <p class="pull-right"><a href="#top">Back to top</a></p>
+            Made by <a href="http://spf13.com">Steve Francia</a>.<br>
+            Code licensed under the <a href="https://github.com/spf13/hugo/blob/master/LICENSE.md">Simple Public License 2.0</a>.<br>
+      </footer>
+    </div>
+  </body>
+
+</html>
+

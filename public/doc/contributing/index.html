@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+  <head>
+  <title>Contributing to Hugo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/bootstrap-responsive.css">
+
+  </head>
+  <body>
+    <div class="navbar"></div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="well" style="background-color: #222; color: #ccc;">
+            <h1>Hugo</h1>
+            <p>A Fast and Flexible Static Site Generator built with love by <a href="http://spf13.com">spf13</a> in Go</p>
+          </div>
+                  <ul class="nav nav-list">
+            <li> <a href="/">Home</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Getting Started</li>
+            <li> <a href="/doc/installing">Installing Hugo</a></li>
+            <li> <a href="/doc/usage">Usage</a> </li>
+            <li> <a href="/doc/configuration">Configuration</a></li>
+            <li> <a href="/doc/source-directory">Input Directory Layout</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Layout</li>
+            <li> <a href="/doc/templates">Templates</a></li>
+            <li> <a href="/doc/variables">Variables</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Content</li>
+            <li> <a href="/doc/organization">Organization</a></li>
+            <li> <a href="/doc/front-matter">Front Matter</a></li>
+            <li> <a href="/doc/example">Example</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Extras</li>
+            <li> <a href="/doc/shortcodes">ShortCodes</a></li>
+            <li> <a href="/doc/indexes">Indexes</a></li>
+            <li> <a href="/doc/aliases">Aliases</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Meta</li>
+            <li> <a href="/doc/release-notes">Release Notes</a></li>
+            <li> <a href="/doc/roadmap">Roadmap</a> </li>
+            <li> <a href="/doc/contributing">Contributing</a></li>
+            <li> <a href="/doc/contributors">Contributors</a></li>
+            <li> <a href="/doc/license">License</a></li>
+          </ul>
+
+        </div>
+        <div class="span9">
+
+          <h1>Contributing to Hugo</h1>
+          <p>We welcome all contributions. If you want to contribute, all
+that is needed is simply fork Hugo, make changes and submit
+a pull request. If you prefer, pick something from the roadmap
+or contact <a href="http://spf13.com">spf13</a> about what may make sense
+to do next.</p>
+
+<h2>Overview</h2>
+
+<ol>
+<li>Fork it from <a href="https://github.com/spf13/hugo">https://github.com/spf13/hugo</a></li>
+<li>Create your feature branch (<code>git checkout -b my-new-feature</code>)</li>
+<li>Commit your changes (<code>git commit -am 'Add some feature'</code>)</li>
+<li>Push to the branch (<code>git push origin my-new-feature</code>)</li>
+<li>Create new Pull Request</li>
+</ol>
+
+<h3>Clone locally (for contributors):</h3>
+
+<pre><code>git clone https://github.com/spf13/hugo
+cd hugo
+go get
+</code></pre>
+
+<p>Because go expects all of your libraries to be found in either
+$GOROOT or $GOPATH, it&rsquo;s helpful to symlink the project to one
+of the following paths:</p>
+
+<ul>
+<li>ln -s /path/to/your/hugo $GOPATH/src/github.com/spf13/hugo</li>
+<li>ln -s /path/to/your/hugo $GOROOT/src/pkg/github.com/spf13/hugo</li>
+</ul>
+
+<h3>Running Hugo</h3>
+
+<pre><code>cd /path/to/hugo
+go install github.com/spf13/hugo/hugolibs
+go run main.go
+</code></pre>
+
+<h3>Building Hugo</h3>
+
+<pre><code>cd /path/to/hugo
+go build -o hugo main.go
+mv hugo /usr/local/bin/
+</code></pre>
+
+        </div>
+      </div>
+      <hr>
+      <footer id="footer">
+            <p class="pull-right"><a href="#top">Back to top</a></p>
+            Made by <a href="http://spf13.com">Steve Francia</a>.<br>
+            Code licensed under the <a href="https://github.com/spf13/hugo/blob/master/LICENSE.md">Simple Public License 2.0</a>.<br>
+      </footer>
+    </div>
+  </body>
+
+</html>
+

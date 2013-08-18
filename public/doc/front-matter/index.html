@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+  <head>
+  <title>Front Matter</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/bootstrap-responsive.css">
+
+  </head>
+  <body>
+    <div class="navbar"></div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="well" style="background-color: #222; color: #ccc;">
+            <h1>Hugo</h1>
+            <p>A Fast and Flexible Static Site Generator built with love by <a href="http://spf13.com">spf13</a> in Go</p>
+          </div>
+                  <ul class="nav nav-list">
+            <li> <a href="/">Home</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Getting Started</li>
+            <li> <a href="/doc/installing">Installing Hugo</a></li>
+            <li> <a href="/doc/usage">Usage</a> </li>
+            <li> <a href="/doc/configuration">Configuration</a></li>
+            <li> <a href="/doc/source-directory">Input Directory Layout</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Layout</li>
+            <li> <a href="/doc/templates">Templates</a></li>
+            <li> <a href="/doc/variables">Variables</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Content</li>
+            <li> <a href="/doc/organization">Organization</a></li>
+            <li> <a href="/doc/front-matter">Front Matter</a></li>
+            <li> <a href="/doc/example">Example</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Extras</li>
+            <li> <a href="/doc/shortcodes">ShortCodes</a></li>
+            <li> <a href="/doc/indexes">Indexes</a></li>
+            <li> <a href="/doc/aliases">Aliases</a></li>
+            <li class="divider"></li>
+            <li class="nav-header">Meta</li>
+            <li> <a href="/doc/release-notes">Release Notes</a></li>
+            <li> <a href="/doc/roadmap">Roadmap</a> </li>
+            <li> <a href="/doc/contributing">Contributing</a></li>
+            <li> <a href="/doc/contributors">Contributors</a></li>
+            <li> <a href="/doc/license">License</a></li>
+          </ul>
+
+        </div>
+        <div class="span9">
+
+          <h1>Front Matter</h1>
+          <p>The front matter is one of the features that gives Hugo it&rsquo;s strength. It enables
+you to include the meta data of the content right with it. Hugo supports a few
+different formats each with their own identifying tokens.</p>
+
+<p>Supported formats: <br>
+  <strong>YAML</strong>, identified by &lsquo;---&rsquo;. <br>
+  <strong>TOML</strong>, indentified with &lsquo;+++&rsquo;.<br>
+  <strong>JSON</strong>, a single JSON object which is surrounded by &lsquo;{&rsquo; and &lsquo;}&rsquo; each on their own line.</p>
+
+<h3>YAML Example</h3>
+
+<pre><code>---
+title: &quot;spf13-vim 3.0 release and new website&quot;
+description: &quot;spf13-vim is a cross platform distribution of vim plugins and resources for Vim.&quot;
+tags: [ &quot;.vimrc&quot;, &quot;plugins&quot;, &quot;spf13-vim&quot;, &quot;vim&quot; ]
+pubdate: &quot;2012-04-06&quot;
+categories:
+  - &quot;Development&quot;
+  - &quot;VIM&quot;
+slug: &quot;spf13-vim-3-0-release-and-new-website&quot;
+---
+Content of the file goes Here
+</code></pre>
+
+<h3>TOML Example</h3>
+
+<pre><code>+++
+title = &quot;spf13-vim 3.0 release and new website&quot;
+description = &quot;spf13-vim is a cross platform distribution of vim plugins and resources for Vim.&quot;
+tags = [ &quot;.vimrc&quot;, &quot;plugins&quot;, &quot;spf13-vim&quot;, &quot;vim&quot; ]
+Pubdate = &quot;2012-04-06&quot;
+categories = [
+  &quot;Development&quot;,
+  &quot;VIM&quot;
+]
+slug = &quot;spf13-vim-3-0-release-and-new-website&quot;
++++
+Content of the file goes Here
+</code></pre>
+
+<h3>JSON Example</h3>
+
+<pre><code>{
+&quot;title&quot;: &quot;spf13-vim 3.0 release and new website&quot;,
+&quot;description&quot;: &quot;spf13-vim is a cross platform distribution of vim plugins and resources for Vim.&quot;,
+&quot;tags&quot;: [ &quot;.vimrc&quot;, &quot;plugins&quot;, &quot;spf13-vim&quot;, &quot;vim&quot; ],
+&quot;date&quot;: &quot;2012-04-06&quot;,
+&quot;categories&quot;: [
+    &quot;Development&quot;,
+    &quot;VIM&quot;
+],
+&quot;slug&quot;: &quot;spf13-vim-3-0-release-and-new-website&quot;,
+}
+Content of the file goes Here
+</code></pre>
+
+<h3>Variables</h3>
+
+<p>There are a few predefined variables that Hugo is aware of and utilizes. The user can also create
+any variable they want to. These will be placed into the <code>.Params</code> variable available to the templates.
+<strong>Field names are case insensitive.</strong></p>
+
+<h4>Required</h4>
+
+<p><strong>title</strong>  The title for the content. <br>
+<strong>description</strong> The description for the content.<br>
+<strong>date</strong> The date the content will be sorted by.<br>
+<strong>indexes</strong> These will use the field name of the plural form of the index (see tags and categories above)</p>
+
+<h4>Optional</h4>
+
+<p><strong>redirect</strong> Mark the post as a redirect post<br>
+<strong>draft</strong> If true the content will not be rendered unless <code>hugo</code> is called with -d<br>
+<strong>type</strong> The type of the content (will be derived from the directory automatically if unset).<br>
+<strong>markup</strong> (Experimental) Specify &ldquo;rst&rdquo; for reStructuredText (requires
+           <code>rst2html</code>,) or &ldquo;md&rdquo; (default) for the Markdown.<br>
+<strong>slug</strong> The token to appear in the tail of the url.<br>
+  <em>or</em><br>
+<strong>url</strong> The full path to the content from the web root.<br>
+<em>If neither is present the filename will be used.</em></p>
+
+        </div>
+      </div>
+      <hr>
+      <footer id="footer">
+            <p class="pull-right"><a href="#top">Back to top</a></p>
+            Made by <a href="http://spf13.com">Steve Francia</a>.<br>
+            Code licensed under the <a href="https://github.com/spf13/hugo/blob/master/LICENSE.md">Simple Public License 2.0</a>.<br>
+      </footer>
+    </div>
+  </body>
+
+</html>
+
