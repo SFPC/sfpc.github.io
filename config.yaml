@@ -1,4 +1,10 @@
+---
+sourcedir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+builddrafts: false
 indexes:
-  tag: 'tags'
-baseurl: 'http://hugo.spf13.com'
+   category: "categories"
+   tag: "tags"
+baseurl: "http://yoursite.com/"
 ...

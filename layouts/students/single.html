@@ -1,0 +1,21 @@
+{{ template "chrome/header.html" . }}
+
+	<script>
+			$( function() {
+				if ($(window).width() > 768){
+				//$('#native').html($('#column').html());
+				$('.columnize-me').columnize({ columns: 2 }
+				  );
+			      }
+			});
+	</script>
+
+          <h2>{{ .Title }}</h2>
+          
+          <p>This is the first group starting in the fall 2013</p>
+
+          <div class="columnize-me">
+          {{ .Content }}
+      	 </div>
+
+{{ template "chrome/footer.html" . }}
