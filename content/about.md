@@ -40,3 +40,7 @@ Jen is currently an Associate Research Scholar in the [Spatial Information Desig
 Taeyoon had solo exhibitions in Art Space Hue; South Korea, Spanien 13c; Denmark and Eyebeam Art and Technology Center, New York. His work has been presented at festivals such as Dislocate; Japan, Upgrade!; Macedonia, I.S.E.A, Zero One Festival; San Jose, Nam June Paik Art Center; South Korea. Taeyoon self published three books about politics of art and urbanism.
 
 Taeyoon studied performance and new media at the School of the Art Institute of Chicago and Korea Advanced Institute of Science and Technology. He lectured at Parsons School of Design and has been facilitating free classes at the Public School New York. Taeyoon was a fellow at Eyebeam and also directs GaOk, a workspace and residency for cultural producers in Seoul.
+
+## Casey Gollan
+
+[Casey](http://caseyagollan.com) studied art and design at Cooper Union. He works with <a href="http://facebook.com/freecooperunion"><em>Free</em> Cooper Union</a> to uphold the school's mission of "Free Education to All," and come up with ways to help people let go of broken/doomed paradigms. He is a Fall 2013 fellow at BHQFU where he is organizing [conversations](http://bhqfu.org/they-cant-kill-us-all), [lectures](http://bhqfu.org/lecture-series), [group research](http://education.hackpad.com), and action on issues of education and student power. At SFPC he is helping start the school and handling day-to-day operations.
