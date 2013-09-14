@@ -13,7 +13,7 @@ type: students
 
 #### Simona De Rosa 
  
-[Simona](http://simonaderosa.tumblr.com/) is a designer, observer, researcher and strategist born in south of Italy, now living and working in Berlin at Nokia (HERE Maps). She studied at Polytechnic of Milan, at Design Faculty (2007), during 2009 deeply curious and attracted by the "Next Billion People" she moved to China to pursue a double master degree in Design & Innovation at Tongji University, Shanghai.  Last May, she took part to [The Art of Data-based Visual Narratives](http://gestaltenspace.tumblr.com/post/51724176169/gestalten-workshop-with-nicolas-felton-thank) by Nicholas Felto, where she had a revealing glimpse on the importance of code: it allows to deal with (big)data sets that go beyond what we can see with normal eyes.
+[Simona](http://simonaderosa.tumblr.com/) is a designer, observer, researcher and strategist born in south of Italy, now living and working in Berlin at Nokia (HERE Maps). She studied at Polytechnic of Milan, at Design Faculty (2007), during 2009 deeply curious and attracted by the "Next Billion People" she moved to China to pursue a double master degree in Design & Innovation at Tongji University, Shanghai.  Last May, she took part to [The Art of Data-based Visual Narratives](http://gestaltenspace.tumblr.com/post/51724176169/gestalten-workshop-with-nicolas-felton-thank) by Nicholas Felton, where she had a revealing glimpse on the importance of code: it allows to deal with (big)data sets that go beyond what we can see with normal eyes.
 
 Realizing that coding is not only about data representation, but actually coding is everywhere: from ordering food, to using an ATM, recording memories, talking to family and friends, Simona believes it's not too late to learn how to program, because it teaches you how to think!
 
@@ -155,13 +155,11 @@ If Jesse could eat one last meal on earth, it would be toast.
 
 ---------------------------------------
 
-![evan picture](../static/media/fall13/evan.png)
+![tega picture](../static/media/fall13/tega.png)
 
-#### Evan Misshula
+#### Tega Brain
 
+[Tega Brain](http://tegabrain.com) is an artist, environmental engineer and educator from Sydney Australia. With qualifications in both art and environmental engineering, her practice explores science, ecology and engineering in the Anthoposcene. She creates site specific installations, disfunctional devices, experimental infrastructures, speculative services and information visualisations (sometimes using underpants). 
 
-Evan is a social justice advocate, researcher and FREE software evangalist. He is a PhD student at the CUNY Graduate Center. He is deeply commited to using both computation and art to advance the causes of justice and compassion.
-
-This summer he was a fellow at the [Data Science for Social Good](http://dssg.io/) program at the University of Chicago. He hopes to use this time to build software that encourages people to collaborate and visualize solutions to problems of inequity. education and escape poverty. He has taught statistics, remedial math and computer security.
-
+She teaches courses in art, design and engineering in universities in Sydney and is in the USA as a recipient of an Australia Council for the Arts early career artist fellowship.
 

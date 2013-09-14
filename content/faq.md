@@ -7,7 +7,7 @@ Aliases:
 type: doc
 ---
 
- _We have had a joke that this is going to be an answerless FAQ :) At this point, we have a lot more questions than answers. At any rate, here's some attempted answers. As we get closer to announcing the first call, this will tighten up_
+ _We have had a joke that this is going to be an answerless FAQ :) At this point, we have a lot more questions than answers. At any rate, here's some attempted answers. As we get closer to announcing the first call, this will tighten up._
 
 ## Administration
 
@@ -26,7 +26,7 @@ type: doc
 <dd>Our application period for the fall term has closed, but we are still acception applications on a rolling basis <a href="https://docs.google.com/forms/d/13HfY4UVZbA7NOwcF24EZ009Wfvl4M_OKGVcn8C5CJtY/viewform">here</a>. Please sign up at our mailing list to get the latest news.</dd>
 <dl>
 <dt>Is there tuition to attend the school?</dt>
-<dd>There will be a fixed rate tuition to attend the school, somewhere between the cost of one and two courses at a university. We're still figuring out how low we can go, we think around $5,000 might make sense. A big part of the tuition goes toward paying for classroom and co-working space for students. We're also looking at scholarships, and hope to increase that portion of the program as we mature.</dd>
+<dd>There will be fixed rate tuition to attend the school, somewhere between the cost of one and two courses at a university. We're still figuring out how low we can go, we think around $5,000 might make sense. A big part of the tuition goes toward paying for classroom and co-working space for students. We're also looking at scholarships, and hope to increase that portion of the program as we mature.</dd>
 <dl>
 <dt>How long is a term of the school?</dt>
 <dd>Each term will be roughly ten weeks full time, so students can come on a tourist visa, etc</dd>
@@ -39,15 +39,15 @@ type: doc
 </dl>
 <dl>
 <dt>Can I work while attending this school?</dt>
-<dd>No, we want all students to be full time during the 10 weeks</dd>
+<dd>No, we want all students to be full time during the 10 weeks.</dd>
 </dl>
 <dl>
 <dt>How many terms per years are you planning?</dt>
-<dd>we are planning 2 or 3 terms per year with different themes / teachers, so students can continue at the school if they'd like</dd>
+<dd>We are planning 2 or 3 terms per year with different themes / teachers, so students can continue at the school if they'd like.</dd>
 </dl>
 <dl>
 <dt>Can I come for a portion of the time?</dt>
-<dd>No, we want students to be full time for the whole 10 weeks</dd>
+<dd>No, we want students to be full time for the whole 10 weeks.</dd>
 </dl>
 
 ## Philosophy
@@ -75,7 +75,7 @@ type: doc
 </dl>
 <dl>
 <dt>What other schools like this exist?</dt>
-<dd> Here's alist of shorter, non degree granting schools: [hacker school](https://www.hackerschool.com/), [code fellows](http://www.codefellows.org/rails), [starter league](http://www.starterleague.com/). There's also places like [the brooklyn institute](http://thebrooklyninstitute.com/the-institute), [LA game space](http://lagamespace.org/alpha/), [kitchen table coders](kitchentablecoders.com). [Teachablefile](http://teachablefile.org/) is a huge list of artist run schools. This book, [Art School: (Propositions for the 21st Century)](http://www.amazon.com/Art-School-Propositions-21st-Century/dp/0262134934), is a good intro to alternative art schools.
+<p><dd >Here's a list of shorter, non degree granting schools: <a href="https://www.hackerschool.com/">hacker school</a>, <a href="http://www.codefellows.org/rails">code fellows</a>, <a href="http://www.starterleague.com/">starter league</a>. There's also places like <a href="http://thebrooklyninstitute.com/the-institute">the brooklyn institute</a>, <a href="http://lagamespace.org/alpha/">LA game space</a>, <a href="kitchentablecoders.com">kitchen table coders</a>. <a href="http://teachablefile.org/">Teachablefile</a> is a huge list of artist run schools. This book, <a href="http://www.amazon.com/Art-School-Propositions-21st-Century/dp/0262134934">Art School: (Propositions for the 21st Century)</a>, is a good intro to alternative art schools.</p>
 </dd>
 </dl>
 <dl>
