@@ -4,7 +4,7 @@ Pubdate: "2014-03-08"
 Aliases:
     - /doc/redirects/
     - /doc/alias/    
-type: column
+type: doc
 ---
 
 <div class="columnize-me">
