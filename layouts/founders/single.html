@@ -1,0 +1,25 @@
+{{ template "chrome/header.html" . }}
+
+	<script>
+			$( function() {
+				if ($(window).width() > 800){
+				//$('#native').html($('#column').html());
+				$('.columnize-me').columnize({ columns: 2 }
+				  );
+			      }
+			});
+	</script>
+
+          <h2>{{ .Title }}</h2>
+          
+          <p>School for poetic computation was founded by Amit, Jen, Taeyoon and Zach in 2013. Each semester we work with new teachers and visiting artists to make ideal learning environment. In spring 2014, Zach, Taeyoon and Casey are leading administration of the school. 
+
+We are a group of artists, hackers and educators who are super committed to open source and open hardware, to radical openness and generosity. 
+
+</p>
+
+          <div class="columnize-me">
+          {{ .Content }}
+      	 </div>
+
+{{ template "chrome/footer.html" . }}
