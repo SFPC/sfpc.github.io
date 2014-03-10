@@ -7,8 +7,8 @@ Aliases:
 type: participate
 ---
 
-![classes](/static/media/SPCpicket.jpg)
- 
+![classes](/static/media/SPCPicket.jpg)
+
 **Application form is now online <a href="https://docs.google.com/forms/d/1TzmAH_zl3Ygfo-g97coeSXZABtVAYAPMMYjvtz8BJVE/viewform">here!</a>** 
 
 SFPC (School for poetic computation) will host an intensive two weeks session in New York City from April 20th~May 4th, 2014. It will be a space for students to develop deep curiosity of what it means to work poetically in computational media. SFPC co-founders Zachary Lieberman and Taeyoon Choi will be accompanied by new teachers and visiting artists. 
