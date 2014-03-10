@@ -23,7 +23,7 @@ SFPC frequently asked questions:
 <dd>Anyone who is excited by our mission statement and wants to transform their ideas into projects. We are hoping to get somewhere between 10~15 students. We are looking for students who will make full time commitment for the period of session. </dd>
 <dl>
 <dt>How can I apply?</dt>
-<dd>Please check our calls for students in the 'Participate' section of this website. All open calls to upcoming sessions of the school will be listed there. If there are no open calls at the present moment, we will also continue to accept applications on a rolling basis <a href="https://docs.google.com/forms/d/13HfY4UVZbA7NOwcF24EZ009Wfvl4M_OKGVcn8C5CJtY/viewform">here</a>. You can also sign up at our mailing list to get the latest news.</dd>
+<dd>Please check our calls for students in the 'Participate' section of this website. All open calls to upcoming sessions of the school will be listed there. You can also sign up at our mailing list to get the latest news.</dd>
 <dl>
 <dt>Is there tuition to attend the school?</dt>
 <dd> Yes, there is a fixed-rate tuition which is based on the cost of running the program and varies by semester.

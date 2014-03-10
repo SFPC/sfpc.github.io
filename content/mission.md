@@ -38,7 +38,14 @@ The goal of the school is to promote completely strange, whimsical, and beautifu
 <p>
 This is not a program to get a degree, there are large programs for that. This is not a program to go for vocational skills, there are programs for that. This is a program for self initiated learners who want to explore new possibilities. This is a program for thinkers in search of a community to realize greater dreams.
 </p>
-
+ 
 </div>
 
 ![classes](/static/media/learning.jpg)
+ 
+
+<img src="http://farm6.staticflickr.com/5533/10933875623_7f9bc3c03b_z.jpg">
+<p><em>Fall 2013 students and co-founders<em></p>
+ 
+<img src= "http://farm4.staticflickr.com/3755/11059008304_0ab68c2abc_z.jpg">  
+<p><em>SFPC:The First Class at Eyebeam Art and Technology Center</em></p>

@@ -4,14 +4,14 @@ Pubdate: "2014-03-08"
 Aliases:
     - /doc/redirects/
     - /doc/alias/    
-type: doc
+type: participate
 ---
 
 ![classes](/static/media/SPCpicket.jpg)
  
 **Application form is now online <a href="https://docs.google.com/forms/d/1TzmAH_zl3Ygfo-g97coeSXZABtVAYAPMMYjvtz8BJVE/viewform">here!</a>** 
 
-SFPC (School for poetic computation) will host an intensive two week session in New York City. The spring term will run from April 20th~May 4th and will be a space for students to develop a deep curiosity of what it means to work poetically in computational media. SFPC co-founders Zachary Lieberman and Taeyoon Choi will be accompanied by new teachers. 
+SFPC (School for poetic computation) will host an intensive two weeks session in New York City from April 20th~May 4th, 2014. It will be a space for students to develop deep curiosity of what it means to work poetically in computational media. SFPC co-founders Zachary Lieberman and Taeyoon Choi will be accompanied by new teachers and visiting artists. 
 
 
 **What will happen in two weeks?**  
@@ -19,21 +19,22 @@ SFPC (School for poetic computation) will host an intensive two week session in 
 * Daily workshops on programming, hardware and theory in an ideal learning environment. 
 * Teachers will provide technical, conceptual and artistic guide. 
 * Topics will include animation and computer vision with openFrameworks, basic electronics and robotics, history of art and computation.  
-* Artists in residence will share their creative process throughout two weeks. 
-* Peer to Peer collaboration is highly encouraged.  
- 
+* Series of homeworks and propositions. 
+* Visiting artists will share their creative process throughout two weeks. 
+* Peer to Peer collaboration is highly encouraged among participants.  
+* 15 participants in one class.  
  
 **Who are we looking for?** 
 
-We are looking for participants from diverse backgrounds: artists, programmers, educators, writers and anyone with a passion for poetic computation. Our only expectation is that you are eager to experiment, can learn from failure, and come fully dedicated to this two week experience. In the past, we had students with diverse technical experience and we were delighted to learn that everyone had something to learn from our classes.      
+We are looking for participants from diverse backgrounds: artists, programmers, educators, writers and anyone with a passion for poetic computation. Our only expectation is that you are eager to experiment, can learn from failure, and come fully dedicated to this two weeks experience. In the past, we had students with diverse technical experience and we were delighted to learn that everyone had something to learn from our classes and each other.      
 
 **How much is tuition?**
 
-Two weeks program will cost 1000 USD. It is directly proportional to the cost of our ten weeks program. The tuition goes to paying for space, teachers and materials. 
+Two weeks program will cost 1000 USD. It is directly proportional to the cost of our ten weeks program. The tuition goes to paying for space, teachers and materials. We value transparency in finance. 
  
 **Deadline is March 28th, 2014** 
 
-If you have already applied through our rolling application, we will contact you regarding spring term.
+Please apply <a href="https://docs.google.com/forms/d/1TzmAH_zl3Ygfo-g97coeSXZABtVAYAPMMYjvtz8BJVE/viewform">here!</a> In the past, we recieved 60+ strong applications and we assume this time will be competitive as well. We select participants based on work sample and application form. If you have already applied through our rolling application, we will contact you regarding spring term.
 
 **What is School for poetic computation?**
 
@@ -44,9 +45,9 @@ The school aims to be more than a technical bootcamp. It is an opportunity to wo
   
 **Some pictures from fall of 2013** 
 
-  <img src="http://farm8.staticflickr.com/7351/10294223446_40d090f2b9_z.jpg" width="600">
+  <img src="http://farm4.staticflickr.com/3779/9989822786_284c343177_z.jpg" width="600">
   
-*Zach showing books in class.* 
+*Zach in class* 
   
   <img src="http://farm4.staticflickr.com/3687/11058967193_ef3456e12a_z.jpg" width="600">
   
@@ -58,4 +59,24 @@ The school aims to be more than a technical bootcamp. It is an opportunity to wo
  
  <img src="http://farm3.staticflickr.com/2886/9989825416_df33158c34_z.jpg" width="600">
  
- *Taeyoon explaining Direct Current in class.
+ *Taeyoon explaining Direct Current in class.*
+ 
+ <img src="http://farm8.staticflickr.com/7332/10295963283_5bee024c73_z.jpg" width="600">
+ 
+ *Student lead workshop*
+ 
+ <img src="http://farm3.staticflickr.com/2832/10296136344_a16c1f3577_z.jpg" width="600">
+ 
+ *Fall 2013 student Motoi Shimazu playing with a hand wired oscillator circuit* 
+ 
+ <img src="http://farm8.staticflickr.com/7386/10296087924_afc2f1f719_z.jpg" width="600"> 
+ 
+ *Weekly Open Dinner with everyone* 
+ 
+ <img src="http://farm8.staticflickr.com/7429/10294369644_f5c936d5a7_z.jpg" width="600">
+ 
+ *Fall 2013 students working together*
+  
+ <img src="http://farm8.staticflickr.com/7346/10931588546_7c6c7bc7c1_z.jpg" width="600">
+ 
+ *Fall 2013 student Simona de Rosa's Tasted project*
