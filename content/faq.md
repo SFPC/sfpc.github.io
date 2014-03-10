@@ -6,9 +6,8 @@ Aliases:
     - /doc/alias/    
 type: doc
 ---
- 
-Frequently Asked Questions for SFPC
- 
+
+SFPC frequently asked questions: 
 
 ## Administration
 
@@ -44,7 +43,7 @@ We aspire to provide scholarships to students who cannot afford to attend sfpc, 
 <dd>Sessions of the school vary in length. Our Spring 2014 will be a two week intensive. We are also planning a ten week fall session.</dd>
 <dl>
 <dt>Where will the school be located?</dt>
-<dd>In the fall of 2013, we were located in Downtown Brooklyn, New York at the Metropolitan Exchange. In the spring of 2014, we are planning to find home in New York City. </dd>
+<dd>In the fall of 2013, we were located in Downtown Brooklyn, New York at the Metropolitan Exchange. In the spring of 2014, we will be located in Manhattan </dd>
 <dl>
 <dt>Can Non-US Citizen apply?</dt>
 <dd>Yes! We are designing one session to be 10 week in order to accommodate International students visiting with a visitor visa.</dd>
@@ -87,20 +86,29 @@ We aspire to provide scholarships to students who cannot afford to attend sfpc, 
 </dl>
 <dl>
 <dt>What other schools like this exist?</dt>
-<p><dd >Here's a list of shorter, non degree granting schools: <a href="https://www.hackerschool.com/">hacker school</a>, <a href="http://www.codefellows.org/rails">code fellows</a>, <a href="http://www.starterleague.com/">starter league</a>. There's also places like <a href="http://thebrooklyninstitute.com/the-institute">the brooklyn institute</a>, <a href="http://lagamespace.org/alpha/">LA game space</a>, <a href="kitchentablecoders.com">kitchen table coders</a>. <a href="http://teachablefile.org/">Teachablefile</a> is a huge list of artist run schools. This book, <a href="http://www.amazon.com/Art-School-Propositions-21st-Century/dp/0262134934">Art School: (Propositions for the 21st Century)</a>, is a good intro to alternative art schools.</p>
+<dd >Here's a list of shorter, non degree granting schools: <a href="https://www.hackerschool.com/">hacker school</a>, <a href="http://www.codefellows.org/rails">code fellows</a>, <a href="http://www.starterleague.com/">starter league</a>. There's also places like <a href="http://thebrooklyninstitute.com/the-institute">the brooklyn institute</a>, <a href="http://lagamespace.org/alpha/">LA game space</a>, <a href="kitchentablecoders.com">kitchen table coders</a>. <a href="http://teachablefile.org/">Teachablefile</a> is a huge list of artist run schools. This book, <a href="http://www.amazon.com/Art-School-Propositions-21st-Century/dp/0262134934">Art School: (Propositions for the 21st Century)</a>, is a good intro to alternative art schools.
 </dd>
 </dl>
+
 <dl>
 <dt>Why do you teach?</dt>
 <dd>Teaching inspires to continue to learn. We love meeting new people and we often make our best work in collaboration with others. Big part of our school is to create sustainable community of practitioners that will grow over years to collaborate on projects and teach wider community. We are proud of our first class of students from 2013 and we maintain an active mailing list. </dd>
 </dl>
 
+<dl>
 <dt>How can I help?</dt>
 <dd>We would love to hear what you want to help with. At the moment, we are looking for help with visiting lectures, design, PR and space management.
 If you have questions, please see the class materials from previous sessions of the school or get in touch via our contact.</dd>
 </dl>
 
-<dt>I'd like to write about your school, how can I ask for interview?</dt>
-<dd>We love to talk with journalists and bloggers who are excited about poetic computation and our school. Check out these articles on <a href="http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/">New York Times</a>, <a href="http://www.creativeapplications.net/profile/talking-poetry-and-pedagogy-with-the-sfpc-team/">Creative Application</a> and <a href="http://thecreatorsproject.vice.com/blog/you-wont-find-typical-homework-projects-at-the-school-of-poetic-computation">The Creators Project</a> for our previous interviews. 
+</dl>
+<dt>Where can I learn more about this project?</dt>
+<dd>Check out these articles on SFPC <a href="http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/">New York Times</a>, <a href="http://www.creativeapplications.net/profile/talking-poetry-and-pedagogy-with-the-sfpc-team/">Creative Application</a> and <a href="http://thecreatorsproject.vice.com/blog/you-wont-find-typical-homework-projects-at-the-school-of-poetic-computation">The Creators Project</a>.</dd>
+</dl>
+
+</dl>
+<dt>I have a question!  How can I contact you?</dt>
+<dd>our email is info@sfpc.io</dd>
+</dl>
 
 if you have questions, please send them to info@sfpc.io

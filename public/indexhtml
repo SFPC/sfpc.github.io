@@ -101,7 +101,6 @@
           <li><a href="../about">About</a></li>
           <li><a href="../mission">Mission</a></li>
            <li><a href="../faq">FAQ</a></li>
-               <li><a href="../visiting">Guests</a></li>
            <li><a href="../participate">Participate</a></li>
            <li><a href="http://blog.sfpc.io" target="_blank" rel="external">Blog&nbsp; ></a></li>
 
@@ -125,7 +124,7 @@
 						<div class="overlay" style="display:block"> 
 							
 							<div class="pull-right" style="margin: 20px; padding: 10px; background-color: rgba(255,255,255,0.9); z-index: 100; max-width: 700px">
-				<p class="lead"><b>school for poetic computation</b> is an artist run school in New York that was founded in 2013. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory -- focusing especially on artistic intervention. It's a hybrid of residency and research group that happen in different length. We are now calling for students in new two weeks program starting in May of 2014.  <em>Our motto is: more poetry, less demo.</em></p> 
+				<p class="lead"><b>school for poetic computation</b> is an artist run school in New York that was founded in 2013. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory -- focusing especially on artistic intervention. It's a hybrid of a school, residency and research group.<br/><br/><em>Our motto is: more poetry, less demo.</em></p> 
 				</div>
 							
 							
