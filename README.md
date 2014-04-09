@@ -21,6 +21,6 @@ content lives as markdown files in /content
 
 ### to generate:
 
-./hugo-darwin 386 -b "http://sfpc.io"
+./hugo-darwin-386 -b "http://sfpc.io"
 
 to fix index before push: mv public/indexhtml "index.html"
