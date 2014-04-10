@@ -1,0 +1,15 @@
+<nav>
+  <ul>
+  {% for p in site.pages %}
+    {% if 'main-nav' == p.group %}
+      <li>
+        <a {% if page.url == p.url %}class="active"{% endif %} href="{{ p.url }}">
+          {{ p.title }}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+  <li><a href="http://blog.sfpc.io">Blog ></a></li>
+  <li><a href="http://sfpc.io/thefirstclass">Fall 2013 ></a></li>
+  </ul>
+</nav>
