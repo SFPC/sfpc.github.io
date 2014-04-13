@@ -11,3 +11,5 @@ Icon
 .Spotlight-V100
 .Trashes
 _site
+
+Gemfile.lock
