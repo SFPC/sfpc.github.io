@@ -1,9 +1,9 @@
 html {
-  margin:20px;
+  margin: 0 20px;
+  padding: 0;
 }
 body {
   font-family:Lato, sans-serif;
-  max-width:700px;
   margin:auto;
   background: white;
 }
@@ -16,7 +16,6 @@ h1 a:link, h1 a:visited {
   color: #2c3e50; /* DARK BLUE */
   text-decoration: none;
 }
-
 
 a:link, a:visited {
   color: #1ABC9C
@@ -32,7 +31,198 @@ dd {
   margin-top:10px;
   padding-bottom:10px;
 }
-nav ul {
+
+/* TOP BAR NAVIGATION */
+header {
+  position: relative;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  justify-content: center;
+  -webkit-justify-content: center;
+  width: 100%;
+  background-color: white;
+  top: 0; 
+  left: 0;
+  z-index: 55;
+}
+  header section {
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    justify-content: center;
+    min-width: 80%;
+    max-width: 80%;
+    /*height: 50px;*/
+  }
+  header h1 {
+    display: flex;
+    display: -webkit-flex;
+    flex: 1 0 0;
+    justify-content: flex-start;
+    color: black;
+    padding: 10px 10px 10px 0;
+    min-width: 90px;
+    background: lime;
+  }
+    /* LOGO SVG */
+    header h1 a {
+      position: relative;
+      /*min-width: 200px;*/
+      max-width: 100%;
+      display: flex;
+      align-items: center;
+      display: block;
+    }
+
+header nav {
+    display: flex;
+    flex: 1 0 0;
+    justify-content: space-around;
+    align-items: flex-start;
+    overflow: visible;
+    background-color: cyan;
+    /*min-width: 600px;*/
+  }
+    header nav ul {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    header li {
+      display: flex;
+      display: -webkit-flex;
+      /*flex: 1 0 0;*/
+      /*justify-content: center;*/
+      align-items: center;
+      font-size: 14px;
+      color: black;
+      font-family: 'ApercuBold','Helvetic Neue', sans-serif;
+      font-weight: bold;
+      margin-top: 18px;
+      /*background-color: blue;*/
+      cursor: default;
+      color: #2c3e50;
+      /*color: #1abca2;*/
+
+      -moz-box-sizing: border-box; 
+      -webkit-box-sizing: border-box; 
+      box-sizing: border-box;
+    }
+    header li a {
+      color: #2c3e50;
+      text-decoration: none;
+    }
+    nav li a:hover {
+      /*background-color: yellow;*/
+      /*border-bottom: 1px solid black;*/
+      text-decoration: underline;
+    }
+    nav li.dropdown { 
+        position: relative; 
+        display: inline-block;
+        /*display: flex;*/
+        /*flex-direction: column;*/
+        align-items: flex-start;
+        webkit-align-items: flex-start;
+        background-color: white;
+        overflow: visible;
+        /*width: 80px;*/
+        /*text-align: center;*/
+        /*min-height: 100px;*/
+        /*margin: 0 auto;*/
+        /*margin-top: 84px; */
+        z-index: 50;
+        padding-left: 5px;
+        /*background-color: red;*/
+        /*padding: 0 10px 0 10px;*/
+    }
+      nav li.dropdown.about { min-width:60px; max-width: 60px;}
+      nav li.dropdown.classes { min-width:65px; max-width: 65px;}
+      nav li.dropdown.people { min-width:55px; max-width: 55px;}
+      nav li.dropdown.participate { min-width: 100px; max-width: 100px; display: inline-block;}
+      nav li.dropdown.connect { min-width:40px; max-width: 40px;}
+      nav li.dropdown.more { min-width:42px; max-width: 42px;}
+        
+        nav li.dropdown.home:hover { min-width: 55px; max-width: 55px; display: inline-block;}
+        nav li.dropdown.about:hover { min-width: 60px; max-width: 60px; display: inline-block;}
+        nav li.dropdown.classes:hover { min-width: 65px; max-width: 65px; display: inline-block;}
+        nav li.dropdown.people:hover { min-width: 55px; max-width: 55px; display: inline-block;}
+        nav li.dropdown.participate:hover { min-width: 100px; max-width: 100px; display: inline-block;}
+        nav li.dropdown.connect:hover { min-width: 40px; max-width: 40px; display: inline-block;}
+        nav li.dropdown.more:hover { min-width: 42px; max-width: 42px; display: inline-block;}
+        
+      nav li.dropdown a:first-child {
+        display: flex;
+        flex: 1 0 0;
+      }
+    nav li.dropdown:hover {
+      /* position: absolute; */
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        /*text-align: center;*/
+        /*min-height: 100px;*/
+        /*max-width: 50px;*/
+        /*margin: 0 auto;*/
+        /*margin-top: 84px; */
+        z-index: 50;
+        padding-left: 5px;
+        /*padding: 0 10px 0 10px;*/
+        /*background-color: red;*/
+    }
+/*    nav li.dropdown.nd-dropdown:hover {
+      min-height: 50px;
+      margin-top: 34px; 
+    }*/
+      nav li.dropdown:hover a:first-child {
+        margin-top: 0;
+        display:flex;
+        display: -webkit-flex;
+      }
+      nav li.dropdown:hover div a {
+        margin-top: 5px;
+        display: flex;
+        flex: 1 0 0;
+      }
+    nav li.dropdown div {
+      background-color: white;
+      padding-right: 5px;
+      display: none;
+    }
+    nav li.dropdown:hover div {
+      position: absolute;
+      background-color: white;
+      padding-top: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      padding-left: 5px;
+      margin-left: -5px;
+      display: flex;
+      flex-direction: column;
+    }
+      nav li.dropdown.participate:hover div {
+        position: absolute;
+        min-width: 90px;
+        max-width: 90px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*nav ul {
   list-style-type:none;
   margin:0;
   padding:0;
@@ -51,11 +241,30 @@ nav ul li a:hover, nav ul li a:active {
 nav a.active {
   font-weight:bold;
   color:black;
-  background:#eee;
+  background:#eee;*/
 }
 img {
   max-width:100%;
 }
+
+
+
+
 footer {
   border-top:1px solid #eee;
+}
+
+@media (max-width: 1000px) {
+  header section { min-width: 100%; max-width: 100%;}
+}
+
+@media (max-width: 750px) {
+  header section { flex-direction: column; -webkit-flex-direction: column;}
+  header {background: red; height: 150px; position: relative;}
+  header h1 { flex: 1 0 0;}
+  header nav { flex: 4 0 0;}
+}
+
+@media (max-width: 640px) {
+  header h1 {font-size: 1.3em;}
 }

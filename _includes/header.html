@@ -8,8 +8,54 @@
 
   <nav>
     <ul>
+      <!-- <li class="home dropdown">
+        <span class="home">
+          <a class="home" href="index.html">Home</a>
+        </span>
+      </li> -->
+      <li class="about dropdown">
+          <span class="mission"> <a href="mission.html">Mission</a></span>
+          <div>
+              <a class="faq" href="faq.html">FAQ</a>
+              <a class="press" href="press.html">Press</a>
+              <a class="finances" href="finances.html">Finances</a>
+          </div>
+      </li>
+      <li class="classes dropdown">
+          <span class="courses"><a href="courses.html">Classes</a></span>
+          <div>
+              <a class="workshops" href="workshops.html">Workshops</a>
+              <a class="projects" href="projects.html">Projects</a>
+              <a class="visiting" href="visiting.html">Lectures</a>
+          </div>
+      </li>
+      <li class="people dropdown">
+          <span class="founders"><a href="founders.html">People</a></span>
+          <div>
+              <a class="teachers-people" href="projects.html">Projects</a>
+              <a class="student-people" href="tools.html">Tools</a>
+          </div>
+      </li>
+      <li class="connect dropdown">
+          <span class="updates"><a href="updates.html">Blog</a></span>
+          <div>
+              <a class="blog" href="blog.html">Flikr</a>
+              <!-- <a class="forum" href="forum.html">FORUM</a> -->
+              <a class="subscribe" href="subscribe.html">Github</a>
+              <a class="subscribe" href="subscribe.html">Friends</a>
+          </div>
+      </li>
+      <li class="participate dropdown">
+          <span class="participate"><a href="student_participant.html">Participate</a></span>
+          <div>
+              <a href="student_participant.html">as a Student</a>
+              <a href="teacher_participant.html">as a teacher</a>
+              <a href="provide_space.html">as a Sponsor</a>
+              <!-- <a href="provide_sponsorship.html">Provide Funding</a> -->
+          </div>
+      </li>
     <!-- take out this liquid template and hardcode the nav -->
-    {% for p in site.pages %}
+    <!-- {% for p in site.pages %}
       {% if 'main-nav' == p.group %}
         <li>
           <a {% if page.url == p.url %} class="active" {% endif %} href="{{ p.url }}">
@@ -17,9 +63,9 @@
           </a>
         </li>
       {% endif %}
-    {% endfor %}
-    <li><a href="http://blog.sfpc.io">Blog ></a></li>
-    <li><a href="http://sfpc.io/thefirstclass">Fall 2013 ></a></li>
+    {% endfor %} -->
+      <!-- <li><a href="http://blog.sfpc.io">Blog ></a></li> -->
+      <!-- <li><a href="http://sfpc.io/thefirstclass">Fall 2013 ></a></li> -->
     </ul>
   </nav>
 </section>
