@@ -5,8 +5,19 @@ body {
   font-family:Lato, sans-serif;
   max-width:700px;
   margin:auto;
-  background: red;
+  background: white;
 }
+h1 {
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+h1 a:link, h1 a:visited {
+  color: #2c3e50; /* DARK BLUE */
+  text-decoration: none;
+}
+
+
 a:link, a:visited {
   color: #1ABC9C
 }
