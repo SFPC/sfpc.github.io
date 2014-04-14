@@ -11,7 +11,7 @@
 	<header>
 		{% include header.html %}
 	</header>
-	<article class="container">
+	<article class="container {% if page.parent-height %} {{page.parent-height}} {% endif %}">
 			<h1>{% if page.group != "main-nav" %}{{page.title}}{% endif %}</h1>
 			{{content}}
 	</article>
