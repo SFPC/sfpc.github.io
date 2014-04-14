@@ -1,7 +1,8 @@
 ---
 title: Home
-layout: index
+layout: default
 group: main-nav
+parent-height: full-height
 ---
 
 <section class="intro">
