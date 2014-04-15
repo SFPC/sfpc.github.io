@@ -640,7 +640,7 @@ img.press-sites {
   position: relative;
   display: flex;
   max-width: 80%;
-  /*min-width: 970px;*/
+  min-width: 970px;
   font-family: sans-serif;
   font-size: 1.5em;
   flex-direction: row;
@@ -1099,11 +1099,16 @@ img {
   .mission.p-wrapper p { margin: 0 10px 10px 0;}
   .faq.p-wrapper div:first-child { margin: 0 20px 0 10px;}
   .faq.p-wrapper div { margin: 0 10px 0 10px;}
+  .student-wrapper { margin: 0 10px; min-width: 0; max-width: 100%;}
   footer .centering-wrapper-row { min-width: 100%; max-width: 100%;}
   footer .subscribe-module { margin-left: 10px;}
   footer div.space-between div:first-child {margin-left: 10px;}
   footer div.space-between div:last-child {margin-right: 10px;}
   footer .social-icons-wrapper { margin-right: 10px;}
+}
+
+@media (max-width: 950px) {
+  .student-wrapper { -webkit-justify-content: space-around;}
 }
 
 @media (max-width: 750px) {
@@ -1120,6 +1125,7 @@ img {
   .faq.p-wrapper div { margin: 0 10px 0 10px;}
   .faq.p-wrapper div:first-child { margin: 0 20px 0 10px;}
   .faq.p-wrapper div:first-child > * { margin: 10px 0}
+  .student-wrapper { max-width: 100%; min-width: 100%; -webkit-justify-content: space-around;}
   footer .social-icons-wrapper { margin: 30px 0 0 10px;}
   footer article.contact-info-wrapper { -webkit-justify-content: flex-start; -webkit-align-items: flex-start;}
   footer .contact-info-wrapper div.space-between { flex-direction: column; align-items: flex-start;}
