@@ -697,14 +697,15 @@ img.press-sites {
     width: 280px;
     font-size: .4em;
   }
+/* UPDATES & BLOG POTENTIAL STYLING */
 .content-wrapper.update {
   flex-direction: column;
-  max-width: 75%;
+  max-width: 80%;
 }
 .content.update {
   display: flex;
   width: 100%;
-  height: 280px;
+  height: 300px;
   /*background: red;*/
   flex-direction: row;
   overflow: hidden;
@@ -712,7 +713,7 @@ img.press-sites {
 }
 .content-image.update {
   display: flex;
-  flex: 2 0 0;
+  flex: 1 0 0;
 
   background-size: auto 100%, auto;
   background-position:center; 
@@ -771,6 +772,110 @@ img.press-sites {
     color: rgb(3, 186, 211);
   }
     .content-title-info p.date b:hover {
+      border-bottom: 1px solid rgb(3, 186, 211);;
+      cursor: pointer;
+
+      -moz-box-sizing: border-box; 
+      -webkit-box-sizing: border-box; 
+      box-sizing: border-box;
+    }
+
+/* CLASSES */
+.content-wrapper.classes {
+  flex-direction: column;
+  max-width: 80%;
+}
+.content.classes {
+  display: flex;
+  width: 100%;
+  height: 300px;
+  /*background: red;*/
+  flex-direction: row;
+  overflow: hidden;
+  margin-bottom: 45px;
+}
+.content-image.classes {
+  display: flex;
+  flex: 2 0 0;
+
+  background-size: auto 100%, auto;
+  background-position:center; 
+  background-repeat: no-repeat;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+  .content-image.classes:hover {
+    cursor: pointer;
+  }
+  .content-image img {
+    width: 100%;
+    /*padding-right: 20px;*/
+  }
+    .content-image img:hover {
+      width: 100%;
+      /*padding-right: 20px;*/
+    }
+.content-info-wrapper.classes {
+  flex: 1 0 0;
+  margin-left: 15px;
+}
+.content-details.classes {
+  width: 100%;
+  margin: 10px 0;
+
+}
+.content-details.classes p {
+  width: 100%;
+  font-size: .4em;
+}
+.content-details.classes.participating-people {
+  background: red;
+  margin: 0 0 10px 0;
+}
+.content-details.classes.participating-people ul {
+  font-size: .35em;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+}
+  .content-details.classes.participating-people li {
+    font-size: 1em;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+  }
+.content-title-info.classes {
+  width: 100%;
+}
+  .content-title-info.classes p.title {
+    font-size: .8em;
+    margin: 0;
+    padding: 0;
+  }
+    .content-title-info.classes p.title b:hover {
+      cursor: pointer;
+      color: rgba(0, 0, 0, 0.3);
+    }
+  .content-title-info.classes p.date{
+    font-size: .35em;
+    margin: 0;
+    padding: 0;
+    margin-top: 4px;
+  }
+  .content-title-info.classes p.date b{
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    color: rgb(3, 186, 211);
+  }
+    .content-title-info.classes p.date b:hover {
       border-bottom: 1px solid rgb(3, 186, 211);;
       cursor: pointer;
 
