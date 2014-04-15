@@ -739,9 +739,14 @@ img.press-sites {
   flex: 1 0 0;
   margin-left: 15px;
 }
+.content-details.flex-wrapper {
+  /*width: 100%; */
+  flex: 1 0 0;
+  display: flex; 
+  flex-direction: column;
+}
 .content-details.update {
   width: 100%;
-
 }
 .content-details.update p {
   width: 100%;
@@ -797,14 +802,14 @@ img.press-sites {
 .content.classes.flex-wrapper {
   display: flex;
   width: 100%;
-  height: 322px;
+  /*height: 322px;*/
   /*background: red;*/
   flex-direction: row;
   overflow: hidden;
   margin-bottom: 45px;
 }
 .content.classes.flex-wrapper:first-child {
-  /*height: 400px;*/
+  height: 400px;
   /*background: yellow;*/
   margin-bottom: 0;
 }
@@ -848,7 +853,7 @@ img.press-sites {
 }
 .content-details.classes {
   /*width: 100%;*/
-  margin: 10px 10px 10px 0;
+  margin: 10px 20px 10px 0;
 
 }
 .content-details.classes p {
@@ -862,16 +867,19 @@ img.press-sites {
   flex:1 0 0;
   -webkit-flex: 1 0 0;
 }
+  .content-details.classes.participating-people.teachers { order: 2;}
+  .content-details.classes.participating-people.visitors { order: 3;}
+
 .content-details.classes.participating-people ul {
   font-size: .35em;
   list-style: none;
-  margin: 0;
+  margin: 0 10px 0 0;
   padding: 0;
   display: flex;
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
 }
-  .content-details.classes.participating-people li {
+  .content-details.classes.participating-people ul li {
     font-size: 1em;
     list-style: none;
     margin: 0;
@@ -881,7 +889,7 @@ img.press-sites {
     align-items: center;
     -webkit-align-items: center;
   }
-    .content-details.classes.participating-people li .profile-pic {
+    .content-details.classes.participating-people ul li .profile-pic {
       min-width: 25px;
       min-height: 25px;
       max-width: 25px;
@@ -892,19 +900,27 @@ img.press-sites {
       margin: 0 8px 0 0;
       overflow: hidden;
     }
-      .content-details.classes.participating-people li .profile-pic img {
+      .content-details.classes.participating-people ul li .profile-pic img {
         margin: 0;
         padding: 0;
         /*width: 100%;*/
         height: 25px;
       }
+    .content-details.classes.participating-people ul li span {
+      margin-right: 5px;
+    }
+  .content-details.classes.participating-people.courses ul li, .content-details.classes.participating-people.workshops ul li {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+  }
 .content-title-info.classes {
   height: 105px;
   margin-right: 10px;
 }
   .content-title-info.classes p.title {
     font-size: .8em;
-    margin: 0;
+    margin: 0 0 10px 0;
     padding: 0;
   }
     .content-title-info.classes p.title b:hover {
@@ -1429,7 +1445,19 @@ img {
   .faq.p-wrapper div:first-child > * { margin: 10px 0}
   .student-wrapper { max-width: 100%; min-width: 100%; -webkit-justify-content: space-around;}
   .grid-wrapper { max-width: 100%; min-width: 100%; -webkit-justify-content: space-around;}
-  .content.classes.flex-wrapper:first-child { height: 200px;}
+  .content.classes.flex-wrapper:first-child { height: 450px; display: flex; flex-direction: column;}
+  .content.classes.flex-wrapper:first-child .content-info-wrapper.classes { order: 2;}
+  .content-image.classes { flex: 1 0 0; order: 1;}
+  .content-title-info.classes { margin: 10px 0 0 0;}
+  .content.classes.flex-wrapper { height: auto; width: 100%;}
+  .content.classes.flex-wrapper .content-info-wrapper.classes { flex: 1 0 0; display: flex; flex-direction-row; width: 100%; flex-wrap: wrap;}
+  .content-details.classes.participating-people { flex: none; width: 50%;}
+  .content-details.classes.participating-people.visitors {order: 2;}
+  .content-details.classes.participating-people.teachers {order: 1;}
+  .content-details.classes.participating-people.students { width: 100%;}
+  .content-details.classes.participating-people.workshops {}
+  .content-details.classes.participating-people.courses {}
+  .content-details.flex-wrapper { order: 3; width: 100%; display: flex; flex-direction: row; flex: auto;}
   footer .social-icons-wrapper { margin: 30px 0 0 10px;}
   footer article.contact-info-wrapper { -webkit-justify-content: flex-start; -webkit-align-items: flex-start;}
   footer .contact-info-wrapper div.space-between { flex-direction: column; align-items: flex-start;}
@@ -1439,5 +1467,9 @@ img {
 }
 
 @media (max-width: 640px) {
+  /*header h1 {font-size: 1.3em;}*/
+}
+
+@media (max-width: 550px) {
   /*header h1 {font-size: 1.3em;}*/
 }

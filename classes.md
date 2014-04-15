@@ -33,7 +33,8 @@ group: main-nav
 
 <div class="content classes flex-wrapper">
 <div class="content-info-wrapper classes">
-<div class="content-details classes participating-people">
+<div class="content-details flex-wrapper">
+<div class="content-details classes participating-people courses">
 <b>Courses</b>
 <ul>
 <li>Computer Vision & Image Processing</li>
@@ -47,7 +48,8 @@ group: main-nav
 <li>Principles of 3D</li>
 <li>Art of Walking</li>
 </ul>
-<div class="content-details classes participating-people">
+</div>
+<div class="content-details classes participating-people workshops">
 <b>Workshops</b>
 <ul>
 <li>Rasberry Pi & Node.js</li>
@@ -62,59 +64,62 @@ group: main-nav
 </ul>
 </div>
 </div>
-<div class="content-details classes participating-people">
+<div class="content-details classes participating-people teachers">
 <b>Teachers</b>
 <ul>
-<li><div class="profile-pic"><img src="/img/assets/images/people/zach_lieberman.jpeg"></div>Zach Lieberman</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jen_lowe.jpeg"></div>Jen Lowe</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/taeyoon_choi.jpeg"></div>Taeyoon Choi</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/amit_pitaru.jpg"></div>Amit Pitaru</li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/zach_lieberman.jpeg"></div><span>Zach Lieberman</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jen_lowe.jpeg"></div><span>Jen Lowe</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/taeyoon_choi.jpeg"></div><span>Taeyoon Choi</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/amit_pitaru.jpg"></div><span>Amit Pitaru</span></li>
 </ul>
-<div class="content-details classes participating-people">
+<div class="content-details classes participating-people students">
 <b>Students</b>
 <ul>
-<li><div class="profile-pic"><img src="/img/assets/images/people/simona.png"></div>Simona De Rosa</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/ishac.png"></div>Ishac Bertran</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/moises.png"></div>Moises Sanabria</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/claire.png"></div>Claire Lin</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/le.png"></div>Le Wei</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jonathanD.png"></div>Jonathan Dahan</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/mini.png"></div>Mini Kim</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/andy.png"></div>Andy Clymer</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jonathanW.png"></div>Jonathan Wohl</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/rachel.png"></div>Rachel Uwa</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/peng.png"></div>Peng Chen</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jason.png"></div>Jason Levine</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/motoi.png"></div>Motoi Shimizu</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jessica.png"></div>Jessica Wolpert</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/tega.png"></div>Tega Brain</li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/simona.png"></div><span>Simona De Rosa</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/ishac.png"></div><span>Ishac Bertran</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/moises.png"></div><span>Moises Sanabria</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/claire.png"></div><span>Claire Lin</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/le.png"></div><span>Le Wei</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jonathanD.png"></div><span>Jonathan Dahan</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/mini.png"></div><span>Mini Kim</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/andy.png"></div><span>Andy Clymer</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jonathanW.png"></div><span>Jonathan Wohl</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/rachel.png"></div><span>Rachel Uwa</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/peng.png"></div><span>Peng Chen</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jason.png"></div><span>Jason Levine</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/motoi.png"></div><span>Motoi Shimizu</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jessica.png"></div><span>Jessica Wolpert</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/tega.png"></div><span>Tega Brain</span></li>
 </ul>
 </div>
 </div>
 
-<div class="content-details classes participating-people">
+<div class="content-details classes participating-people visitors">
 <b>Visitors</b>
 <ul>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jacob_tonsky.jpg"></div>Jacob Tonsky</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/ramsey_nasser.jpg"></div>Ramsey Nasser</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/bret_victor.jpg"></div>Bret Victor</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/adam_magyar.jpg"></div>Adam Magyar</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/dan_phiffer.jpg"></div>Dan Phiffer</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/cedrick_kiefer.jpg"></div>Cedric Kiefer</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jacob_gaboury.jpg"></div>Jacob Gaboury</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/kyle_mcdonald.jpg"></div>Kyle McDonald</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/brian_droitcour.jpg"></div>Brian Droicour</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/brian_house.jpg"></div>Brian House</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/zach_gage.jpg"></div>Zach Gage</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jurg_lehni.jpg"></div>Jurg Lehni</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/christine_sun_kim.jpg"></div>Christine Sun Kim</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/paula_antonelli.jpg"></div>Paula Antonelli</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/cid_lieberman.jpg"></div>Cid Lieberman</li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jacob_tonsky.jpg"></div><span>Jacob Tonsky</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/ramsey_nasser.jpg"></div><span>Ramsey Nasser</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/bret_victor.jpg"></div><span>Bret Victor</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/adam_magyar.jpg"></div><span>Adam Magyar</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/dan_phiffer.jpg"></div><span>Dan Phiffer</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/cedrick_kiefer.jpg"></div><span>Cedric Kiefer</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jacob_gaboury.jpg"></div><span>Jacob Gaboury</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/kyle_mcdonald.jpg"></div><span>Kyle McDonald</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/brian_droitcour.jpg"></div><span>Brian Droicour</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/brian_house.jpg"></div><span>Brian House</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/zach_gage.jpg"></div><span>Zach Gage</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jurg_lehni.jpg"></div><span>Jurg Lehni</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/christine_sun_kim.jpg"></div><span>Christine Sun Kim</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/paula_antonelli.jpg"></div><span>Paula Antonelli</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/cid_lieberman.jpg"></div><span>Cid Lieberman</span></li>
 </ul>
 </div>
 </div>
 </div>
 </article>
+
+
+
 
 
 
@@ -138,7 +143,8 @@ group: main-nav
 
 <div class="content classes flex-wrapper">
 <div class="content-info-wrapper classes">
-<div class="content-details classes participating-people">
+<div class="content-details flex-wrapper">
+<div class="content-details classes participating-people courses">
 <b>Courses</b>
 <ul>
 <li>Computer Vision & Image Processing</li>
@@ -152,7 +158,8 @@ group: main-nav
 <li>Principles of 3D</li>
 <li>Art of Walking</li>
 </ul>
-<div class="content-details classes participating-people">
+</div>
+<div class="content-details classes participating-people workshops">
 <b>Workshops</b>
 <ul>
 <li>Rasberry Pi & Node.js</li>
@@ -167,54 +174,56 @@ group: main-nav
 </ul>
 </div>
 </div>
-<div class="content-details classes participating-people">
+
+
+<div class="content-details classes participating-people teachers">
 <b>Teachers</b>
 <ul>
-<li><div class="profile-pic"><img src="/img/assets/images/people/zach_lieberman.jpeg"></div>Zach Lieberman</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jen_lowe.jpeg"></div>Jen Lowe</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/taeyoon_choi.jpeg"></div>Taeyoon Choi</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/amit_pitaru.jpg"></div>Amit Pitaru</li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/zach_lieberman.jpeg"></div><span>Zach Lieberman</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jen_lowe.jpeg"></div><span>Jen Lowe</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/taeyoon_choi.jpeg"></div><span>Taeyoon Choi</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/amit_pitaru.jpg"></div><span>Amit Pitaru</span></li>
 </ul>
-<div class="content-details classes participating-people">
+<div class="content-details classes participating-people students">
 <b>Students</b>
 <ul>
-<li><div class="profile-pic"><img src="/img/assets/images/people/simona.png"></div>Simona De Rosa</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/ishac.png"></div>Ishac Bertran</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/moises.png"></div>Moises Sanabria</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/claire.png"></div>Claire Lin</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/le.png"></div>Le Wei</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jonathanD.png"></div>Jonathan Dahan</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/mini.png"></div>Mini Kim</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/andy.png"></div>Andy Clymer</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jonathanW.png"></div>Jonathan Wohl</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/rachel.png"></div>Rachel Uwa</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/peng.png"></div>Peng Chen</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jason.png"></div>Jason Levine</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/motoi.png"></div>Motoi Shimizu</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jessica.png"></div>Jessica Wolpert</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/tega.png"></div>Tega Brain</li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/simona.png"></div><span>Simona De Rosa</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/ishac.png"></div><span>Ishac Bertran</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/moises.png"></div><span>Moises Sanabria</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/claire.png"></div><span>Claire Lin</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/le.png"></div><span>Le Wei</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jonathanD.png"></div><span>Jonathan Dahan</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/mini.png"></div><span>Mini Kim</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/andy.png"></div><span>Andy Clymer</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jonathanW.png"></div><span>Jonathan Wohl</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/rachel.png"></div><span>Rachel Uwa</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/peng.png"></div><span>Peng Chen</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jason.png"></div><span>Jason Levine</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/motoi.png"></div><span>Motoi Shimizu</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jessica.png"></div><span>Jessica Wolpert</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/tega.png"></div><span>Tega Brain</span></li>
 </ul>
 </div>
 </div>
 
-<div class="content-details classes participating-people">
+<div class="content-details classes participating-people visitors">
 <b>Visitors</b>
 <ul>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jacob_tonsky.jpg"></div>Jacob Tonsky</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/ramsey_nasser.jpg"></div>Ramsey Nasser</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/bret_victor.jpg"></div>Bret Victor</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/adam_magyar.jpg"></div>Adam Magyar</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/dan_phiffer.jpg"></div>Dan Phiffer</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/cedrick_kiefer.jpg"></div>Cedric Kiefer</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jacob_gaboury.jpg"></div>Jacob Gaboury</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/kyle_mcdonald.jpg"></div>Kyle McDonald</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/brian_droitcour.jpg"></div>Brian Droicour</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/brian_house.jpg"></div>Brian House</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/zach_gage.jpg"></div>Zach Gage</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/jurg_lehni.jpg"></div>Jurg Lehni</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/christine_sun_kim.jpg"></div>Christine Sun Kim</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/paula_antonelli.jpg"></div>Paula Antonelli</li>
-<li><div class="profile-pic"><img src="/img/assets/images/people/cid_lieberman.jpg"></div>Cid Lieberman</li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jacob_tonsky.jpg"></div><span>Jacob Tonsky</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/ramsey_nasser.jpg"></div><span>Ramsey Nasser</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/bret_victor.jpg"></div><span>Bret Victor</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/adam_magyar.jpg"></div><span>Adam Magyar</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/dan_phiffer.jpg"></div><span>Dan Phiffer</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/cedrick_kiefer.jpg"></div><span>Cedric Kiefer</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jacob_gaboury.jpg"></div><span>Jacob Gaboury</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/kyle_mcdonald.jpg"></div><span>Kyle McDonald</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/brian_droitcour.jpg"></div><span>Brian Droicour</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/brian_house.jpg"></div><span>Brian House</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/zach_gage.jpg"></div><span>Zach Gage</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/jurg_lehni.jpg"></div><span>Jurg Lehni</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/christine_sun_kim.jpg"></div><span>Christine Sun Kim</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/paula_antonelli.jpg"></div><span>Paula Antonelli</span></li>
+<li><div class="profile-pic"><img src="/img/assets/images/people/cid_lieberman.jpg"></div><span>Cid Lieberman</span></li>
 </ul>
 </div>
 </div>
