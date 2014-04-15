@@ -186,7 +186,7 @@ header nav {
     }
       nav li.dropdown.about { min-width:60px; max-width: 60px;}
       nav li.dropdown.classes { min-width:65px; max-width: 65px;}
-      nav li.dropdown.people { min-width:55px; max-width: 55px;}
+      nav li.dropdown.people-nav { min-width:55px; max-width: 55px;}
       nav li.dropdown.participate { min-width: 85px; max-width: 85px; display: inline-block;}
       nav li.dropdown.connect { min-width:40px; max-width: 40px;}
       nav li.dropdown.more { min-width:42px; max-width: 42px;}
@@ -194,7 +194,7 @@ header nav {
         nav li.dropdown.home:hover { min-width: 55px; max-width: 55px; display: inline-block;}
         nav li.dropdown.about:hover { min-width: 60px; max-width: 60px; display: inline-block;}
         nav li.dropdown.classes:hover { min-width: 65px; max-width: 65px; display: inline-block;}
-        nav li.dropdown.people:hover { min-width: 55px; max-width: 55px; display: inline-block;}
+        nav li.dropdown.people-nav:hover { min-width: 55px; max-width: 55px; display: inline-block;}
         nav li.dropdown.participate:hover { min-width: 85px; max-width: 85px; display: inline-block;}
         nav li.dropdown.connect:hover { min-width: 40px; max-width: 40px; display: inline-block;}
         nav li.dropdown.more:hover { min-width: 42px; max-width: 42px; display: inline-block;}
@@ -634,7 +634,9 @@ img.press-sites {
     margin-bottom: 5px;
   }
 
-/* STUDENTS */
+
+
+/* STUDENTS ----> CHANGING NAME TO GRID-WRAPPER */ 
 
 .student-wrapper {
   position: relative;
@@ -903,6 +905,145 @@ img.press-sites {
     box-sizing: border-box;
   }
 
+/* PEOPLE */
+
+.grid-wrapper {
+  position: relative;
+  display: flex;
+  max-width: 80%;
+  min-width: 970px;
+  font-family: sans-serif;
+  font-size: 1.5em;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+.people {
+  display: flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  margin:  0 0 30px 0;
+  width: 300px;
+}
+  /*.people:hover .people-title-info {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-top: none;
+
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
+  }*/
+.people-image {
+  width: 100%;
+  height: 170px;
+  background-color: black;
+  overflow: hidden;
+}
+  .people-image:hover {
+    cursor: pointer;
+  }
+  .people-image img {
+    width: 100%;
+  }
+.people-title-info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  /*height: 60px;*/
+  background-color: white;
+  color: black;
+  align-items: flex-start;
+}
+  .people-title-info p {
+    font-family: 'Apercu','Helvetica Neue', sans-serif;
+    margin-top: 0;
+    padding: 0;
+    /*padding-left: 10px;*/
+  }
+    .people-title-info p:nth-child(1) {
+      margin-top: 8px;
+      font-size: .45em;
+    }
+    .people-title-info p:nth-child(2) {
+      margin-top: 5px;
+      font-size: .3em;
+      color: black;
+    }
+      .people-title-info span {
+        color: rgb(255, 0, 82);
+      }
+      .people-title-info span:hover {
+        border-bottom: 1px solid rgb(255, 0, 82);
+        -moz-box-sizing: border-box; 
+        -webkit-box-sizing: border-box; 
+        box-sizing: border-box;
+      }
+        .people-title-info span.teacher-title {
+          color: rgb(3, 186, 211);
+          color: #1ABC9C;
+
+        }
+        .people-title-info span.visiting-title {
+          color: rgb(4, 172, 38);
+          color: #1ABC9C;
+
+        }
+        .people-title-info span.student-title {
+          color: rgb(255, 0, 82);
+          color: #1ABC9C;
+
+        }
+          .people-title-info span.teacher-title:hover {
+            border-bottom: 1px solid rgb(3, 186, 211);
+
+          }
+          .people-title-info span.visiting-title:hover {
+            border-bottom: 1px solid rgb(4, 172, 38);
+
+          }
+          .people-title-info span.student-title:hover {
+            border-bottom: 1px solid rgb(255, 0, 82);
+
+          }
+          .people-info {
+            margin-top: 10px;
+          }
+    .people-title-info p:hover {
+      cursor: pointer;
+    }
+    /*.people:hover p:nth-child(2) {
+      color: gray;
+    }*/
+.people-info-preview {
+  width: 100%;
+}
+.people-info p {
+  font-size: .4em;
+  margin: 0;
+}
+.people-info p.notes {
+  display: inline-block;
+  position: relative;
+  /* top: -18px; */
+  float: left;
+  margin: 0;
+  padding: 0;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+}
+  .people-info p.notes:hover {
+    border-bottom: 1px solid gray;
+    cursor: pointer;
+
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
+  }
+
+
 /* FOOTER */
 footer {
   display: flex;
@@ -1100,6 +1241,7 @@ img {
   .faq.p-wrapper div:first-child { margin: 0 20px 0 10px;}
   .faq.p-wrapper div { margin: 0 10px 0 10px;}
   .student-wrapper { margin: 0 10px; min-width: 0; max-width: 100%;}
+  .grid-wrapper { margin: 0 10px; min-width: 0; max-width: 100%;}
   footer .centering-wrapper-row { min-width: 100%; max-width: 100%;}
   footer .subscribe-module { margin-left: 10px;}
   footer div.space-between div:first-child {margin-left: 10px;}
@@ -1109,6 +1251,7 @@ img {
 
 @media (max-width: 950px) {
   .student-wrapper { -webkit-justify-content: space-around;}
+  .grid-wrapper { -webkit-justify-content: space-around;}
 }
 
 @media (max-width: 750px) {
@@ -1126,6 +1269,7 @@ img {
   .faq.p-wrapper div:first-child { margin: 0 20px 0 10px;}
   .faq.p-wrapper div:first-child > * { margin: 10px 0}
   .student-wrapper { max-width: 100%; min-width: 100%; -webkit-justify-content: space-around;}
+  .grid-wrapper { max-width: 100%; min-width: 100%; -webkit-justify-content: space-around;}
   footer .social-icons-wrapper { margin: 30px 0 0 10px;}
   footer article.contact-info-wrapper { -webkit-justify-content: flex-start; -webkit-align-items: flex-start;}
   footer .contact-info-wrapper div.space-between { flex-direction: column; align-items: flex-start;}
