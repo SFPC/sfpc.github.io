@@ -108,6 +108,7 @@ header {
     color: black;
     margin: 10px 10px 10px 0;
     min-width: 90px;
+    font-size: 1.3em;
     /*background: lime;*/
   }
     /* LOGO SVG */
@@ -1222,6 +1223,177 @@ img.press-sites {
     -webkit-box-sizing: border-box; 
     box-sizing: border-box;
   }
+
+/* PROFILE */
+.profile-projects-grid-wrapper {
+  width: 100%;
+  background: red;
+  display: flex;
+  -webkit-display: flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  margin:  0 0 30px 0;
+  /*width: 300px;*/
+  /*height: 100px;*/
+  overflow: hidden;
+  align-items: flex-end;
+  -webkit-align-items: flex-end;
+}
+  /*.profile:hover .profile-title-info {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-top: none;
+
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
+  }*/
+  .profile-flex-wrapper {
+    display: flex;
+    flex-direction: row;
+    -webkit-flex-direction: row;
+  }
+  .profile-info-flex-wrapper {
+    display: flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    flex: 2 0 0;
+    -webkit-flex: 2 0 0;
+  }
+  .profile-project-flex-wrapper-full-width {
+    width: 100%;
+  }
+  .profile-project-flex-wrapper-responsive {
+    display: flex;
+    flex: 2 0 0;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+    .profile-project-flex-wrapper p.project-header {
+      font-size: .6em;
+      margin-bottom: 10px;
+    }
+.profile-image {
+  /*max-width: 300px;*/
+  min-width: 300px;
+  max-height: 300px;
+  min-height: 300px;
+  background-color: white;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex: 1 0 0;
+  -webkit-flex: 1 0 0;
+}
+  .profile-image p {
+    width: 100%;
+  }
+  .profile-image img {
+    width: 100%;
+    max-width: 300px;
+  }
+.profile-title-info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  /*height: 60px;*/
+  background-color: white;
+  color: black;
+  align-items: flex-start;
+}
+  .profile-title-info p {
+    font-family: 'Apercu','Helvetica Neue', sans-serif;
+    margin-top: 0;
+    padding: 0;
+    /*padding-left: 10px;*/
+  }
+    .profile-title-info p:nth-child(1) {
+      margin: -2px 0 3px 8px;
+      font-size: .75em;
+    }
+    .profile-title-info p:nth-child(2), .profile-title-info p:nth-child(3), .profile-title-info p:nth-child(4), .profile-title-info p:nth-child(5) {
+      margin: 0 0 3px 8px;
+      font-size: .4em;
+      color: black;
+    }
+      .profile-title-info span {
+        color: rgb(255, 0, 82);
+      }
+      .profile-title-info span:hover {
+        border-bottom: 1px solid rgb(255, 0, 82);
+        -moz-box-sizing: border-box; 
+        -webkit-box-sizing: border-box; 
+        box-sizing: border-box;
+      }
+        .profile-title-info span.teacher-title {
+          color: rgb(3, 186, 211);
+          color: #1ABC9C;
+
+        }
+        .profile-title-info span.visiting-title {
+          color: rgb(4, 172, 38);
+          color: #1ABC9C;
+
+        }
+        .profile-title-info span.student-title {
+          color: rgb(255, 0, 82);
+          color: #1ABC9C;
+
+        }
+          .profile-title-info span.teacher-title:hover {
+            border-bottom: 1px solid rgb(3, 186, 211);
+
+          }
+          .profile-title-info span.visiting-title:hover {
+            border-bottom: 1px solid rgb(4, 172, 38);
+
+          }
+          .profile-title-info span.student-title:hover {
+            border-bottom: 1px solid rgb(255, 0, 82);
+
+          }
+          .profile-info {
+            margin: 0 0 0 8px;
+          }
+    .profile-title-info p:hover {
+      cursor: pointer;
+    }
+    /*.profile:hover p:nth-child(2) {
+      color: gray;
+    }*/
+.profile-info-preview {
+  width: 100%;
+}
+.profile-info p {
+  font-size: .4em;
+  margin: 20px 0;
+}
+.profile-info p.notes {
+  display: inline-block;
+  position: relative;
+  /* top: -18px; */
+  float: left;
+  margin: 0;
+  padding: 0;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+}
+  .profile-info p.notes:hover {
+    border-bottom: 1px solid gray;
+    cursor: pointer;
+
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
+  }
+
 
 
 /* FOOTER */

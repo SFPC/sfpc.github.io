@@ -15,7 +15,7 @@ group: main-nav
 </section>
 
 <section class="content-wrapper"> 
-<div class="student-wrapper">
+<div class="grid-wrapper">
 <article class="project">
 <div class="project-image">
 <img src="/img/assets/images/presentation/tasted.jpg"/>
