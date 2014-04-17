@@ -5,7 +5,7 @@ group: people
 affiliation:
 - class: Fall 2013
   role: Student
-picture: /img/assets/images/people/default.png
+picture: /img/people/claire_lin.png
 twitter:
 github: clairelin
 website: http://portfolio.claireraelin.com

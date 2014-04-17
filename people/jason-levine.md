@@ -5,7 +5,7 @@ group: people
 affiliation:
 - class: Fall 2013
   role: Student
-picture: /img/people/default.png
+picture: /img/people/jason_levine.png
 twitter: xululululuuum
 github: jasonlevine
 website: http://jasonlevine.ca

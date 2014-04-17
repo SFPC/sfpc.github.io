@@ -5,7 +5,7 @@ group: people
 affiliation:
 - class: Fall 2013
   role: Student
-picture: /img/people/default.png
+picture: /img/people/jonathan_dahan.png
 twitter: jedahan
 github: jedahan
 website: http://jedahan.com

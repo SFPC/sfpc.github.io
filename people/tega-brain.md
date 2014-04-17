@@ -5,7 +5,7 @@ group: people
 affiliation:
 - class: Fall 2013
   role: Student
-picture: /img/people/default.png
+picture: /img/people/tega_brain.png
 twitter: tegabrain
 github: tegacodes
 website: http://tegabrain.com

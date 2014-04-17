@@ -5,7 +5,7 @@ group: people
 affiliation:
 - class: Fall 2013
   role: Student
-picture: /img/people/default.png
+picture: /img/people/mini_kim.png
 twitter: minsunmini
 github: minsunmini
 website: http://minsunmini.com

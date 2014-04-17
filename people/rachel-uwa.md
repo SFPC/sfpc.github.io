@@ -5,7 +5,7 @@ group: people
 affiliation:
 - class: Fall 2013
   role: Student
-picture: /img/people/default.png
+picture: /img/people/rachel_uwa.png
 twitter: onna_no_hito
 github: onna-no-hito
 website:
