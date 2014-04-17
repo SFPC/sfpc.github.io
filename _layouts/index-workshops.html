@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<section class="current-tab">
+	<div class="centering-wrapper">
+		<h3>{{page.title}}</h3>
+		{{content}}
+		<div class="year-menu">
+		<p class="underline">Fall 2013</p>
+		<p>Spring 2014</p>
+		</div>
+</div>	
+	</div>
+</section>
+
+<section class="content-wrapper">
+	<div class="grid-wrapper">
+<!-- bring the variable to this page = people -->
+{% assign selectedgroup = page.selectedgroup %}
+
+<!-- loop through everypage on the site
+only create an article if its people -->
+{% for page in site.pages %}
+	{% if selectedgroup == page.group %}
+		<article class="project">
+			<div class="project-image">
+			<!-- if makes things not render -->
+			{% if page.picture %}
+				<img src="{{page.picture}}" />
+			{% else %}
+				<img src="/img/people/default.png" />
+			{% endif %}
+			</div>
+			<div class="project-title-info">
+				<p><b>{{page.title}}</b></p>
+				<p>By <b><span class="teacher-title">{{page.author}}</span></b></p>
+			</div>
+			<div class="project-info">
+				<p>{{page.content | truncate: 300}}</p>
+				<p class="notes"><a href="">notes</a></p>
+			</div>
+		</article>
+	{% endif %}
+{% endfor %}
+</div>
+</section>
