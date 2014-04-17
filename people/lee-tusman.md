@@ -1,7 +1,11 @@
 ---
 title: Lee Tusman
 layout: student
-group: spring14
+group: people
+affiliation:
+- class: Spring 2014
+  role: Student
+picture: /img/people/default.png
 twitter: 2sman2sman
 github:
 website: http://leetusman.com

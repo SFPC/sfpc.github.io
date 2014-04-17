@@ -1,7 +1,11 @@
 ---
 title: Hiroaki Yamane
 layout: student
-group: spring14
+group: people
+affiliation:
+- class: Spring 2014
+  role: Student
+picture: /img/people/default.png
 twitter:
 github:
 website: http://mnmly.com

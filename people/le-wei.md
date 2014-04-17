@@ -1,7 +1,11 @@
 ---
 title: Le Wei
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/people/default.png
 twitter: lewei
 github: leeee
 website:

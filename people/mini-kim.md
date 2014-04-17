@@ -1,7 +1,11 @@
 ---
 title: Mini Kim
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/people/default.png
 twitter: minsunmini
 github: minsunmini
 website: http://minsunmini.com

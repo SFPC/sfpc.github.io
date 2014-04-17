@@ -1,7 +1,11 @@
 ---
 title: Jonathan Dahan
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/people/default.png
 twitter: jedahan
 github: jedahan
 website: http://jedahan.com

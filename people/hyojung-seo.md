@@ -1,7 +1,11 @@
 ---
 title: Hyojung SEO
 layout: student
-group: spring14
+group: people
+affiliation:
+- class: Spring 2014
+  role: Student
+picture: /img/people/default.png
 twitter: seohyo117
 github: seohyo
 website: http://untitled5.com

@@ -1,7 +1,11 @@
 ---
 title: Daniel Wilson
 layout: student
-group: spring14
+group: people
+affiliation:
+- class: Spring 2014
+  role: Student
+picture: /img/assets/images/people/default.png
 twitter:
 github:
 website: http://danieljwilson.com

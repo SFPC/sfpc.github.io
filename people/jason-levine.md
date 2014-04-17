@@ -1,7 +1,11 @@
 ---
 title: Jason Levine
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/people/default.png
 twitter: xululululuuum
 github: jasonlevine
 website: http://jasonlevine.ca

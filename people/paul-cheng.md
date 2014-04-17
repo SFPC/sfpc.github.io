@@ -1,7 +1,11 @@
 ---
 title: Paul Cheng
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/people/default.png
 twitter: paulcccheng
 github: bestpaul1985
 website: http://www.ooxxv5.com

@@ -1,7 +1,11 @@
 ---
 title: Rachel Uwa
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/people/default.png
 twitter: onna_no_hito
 github: onna-no-hito
 website:

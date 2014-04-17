@@ -1,7 +1,11 @@
 ---
 title: Nathan Koch
 layout: student
-group: spring14
+group: people
+affiliation:
+- class: Spring 2014
+  role: Student
+picture: /img/people/default.png
 twitter:
 github: nathankoch
 website: http://nathankoch.com

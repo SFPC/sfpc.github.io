@@ -1,7 +1,11 @@
 ---
 title: Claire Lin
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/assets/images/people/default.png
 twitter:
 github: clairelin
 website: http://portfolio.claireraelin.com

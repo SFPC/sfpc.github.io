@@ -1,7 +1,11 @@
 ---
 title: Andy Clymer
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/assets/images/people/default.png
 twitter: andyclymer
 github: andyclymer
 website: http://andyclymer.com

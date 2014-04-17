@@ -3,7 +3,7 @@ title: Alex Zandi
 layout: student
 group: people
 affiliation:
-- class: Fall 2014
+- class: Spring 2014
   role: Student
 picture: /img/assets/images/people/default.png
 twitter:

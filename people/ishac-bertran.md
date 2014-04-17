@@ -1,7 +1,11 @@
 ---
 title: Ishac Bertran
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/people/ishac_bertran.png
 twitter: ishacbertran
 github: ishback
 website: http://www.ishback.com

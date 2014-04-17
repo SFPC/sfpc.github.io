@@ -1,7 +1,11 @@
 ---
 title: Simona De Rosa
 layout: student
-group: fall13
+group: people
+affiliation:
+- class: Fall 2013
+  role: Student
+picture: /img/people/default.png
 twitter: derosimona
 github: derosimona
 website: http://simonaderosa.tumblr.com

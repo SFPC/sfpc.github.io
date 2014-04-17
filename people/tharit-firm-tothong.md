@@ -1,7 +1,11 @@
 ---
 title: Tharit Tothong
 layout: student
-group: spring14
+group: people
+affiliation:
+- class: Spring 2014
+  role: Student
+picture: /img/people/default.png
 twitter: firmread
 github: firmread
 website: http://firmread.com
