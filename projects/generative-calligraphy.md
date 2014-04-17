@@ -4,7 +4,7 @@ layout: project
 group: projects
 date: Fall 2013
 author: Le Wei
-picture:
-project-link: httP://www.example.com
+picture: /img/projects/generative_calligraphy.png
+project-link: http://www.example.com
 ---
 “Generative Calligraphy"
