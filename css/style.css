@@ -607,9 +607,9 @@ img.press-sites {
 }
   .text-wrapper p {
     width: 100%;
-    display: flex;
-    justify-content: center;
-    -webkit-justify-content: center;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*-webkit-justify-content: center;*/
     /*background-color: red;*/
   }
     .text-wrapper p img {
@@ -1619,7 +1619,7 @@ img {
   p.intro-info.intro-1 { width: 80%;}
   .current-tab { margin-top: 100px;}
   .p-wrapper { flex-direction: column;}
-  .mission.p-wrapper:first-child p { margin-right: 0;}
+  .mission.p-wrapper p { margin: 0 10px 10px 10px;}
   .faq.p-wrapper { flex-direction: column;}
   .faq.p-wrapper div { margin: 0 10px 0 10px;}
   .faq.p-wrapper div:first-child { margin: 0 20px 0 10px;}
