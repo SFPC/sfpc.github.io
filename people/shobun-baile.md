@@ -5,7 +5,7 @@ group: people
 affiliation:
 - class: Spring 2014
   role: Student
-picture: /img/people/default.png
+picture: /img/people/shobunbaile.jpg
 twitter:
 github:
 website: http://shobunbaile.com/portfolio

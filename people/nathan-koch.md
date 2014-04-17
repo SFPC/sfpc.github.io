@@ -5,7 +5,7 @@ group: people
 affiliation:
 - class: Spring 2014
   role: Student
-picture: /img/people/default.png
+picture: /img/people/nathankoch.jpg
 twitter:
 github: nathankoch
 website: http://nathankoch.com

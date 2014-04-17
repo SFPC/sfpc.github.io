@@ -5,7 +5,7 @@ group: people
 affiliation:
 - class: Spring 2014
   role: Student
-picture: /img/assets/images/people/default.png
+picture: /img/people/alexzandi.jpg
 twitter:
 github:
 website:
