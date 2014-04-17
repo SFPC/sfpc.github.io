@@ -7,4 +7,4 @@ author: Jen Lowe
 picture:
 notes-link:
 ---
-Math class, understading numbers, what do we want to knoe about math, what are common algorythms.
+Math class, understading numbers, what do we want to know about math, what are common algorythms.

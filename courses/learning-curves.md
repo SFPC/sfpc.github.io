@@ -1,11 +1,10 @@
 ---
 title: Learning Curves
+layout: courses
+group: courses
+date: Fall 2013
 author: Amit Pitaru
-layout: classes
-group: fall13
-github:
-cover-image:
-website:
+picture:
 notes-link:
 ---
 How to appraoch learning to code. How to create an environment wher you’re motivated to learn. Create your own computer language.
