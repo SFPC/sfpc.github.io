@@ -607,10 +607,13 @@ img.press-sites {
 }
   .text-wrapper p {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    -webkit-justify-content: center;
     /*background-color: red;*/
   }
     .text-wrapper p img {
-      width: 100%;
+      width: 80%;
       /*background-color: red;*/
     }
   .text-wrapper .centering-wrapper {
