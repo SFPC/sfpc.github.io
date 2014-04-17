@@ -1,6 +1,6 @@
 ---
 title: Git/Github
-layout: courses
+layout: workshops
 group: workshops
 date: Fall 2013
 author: Motoi Shimizu

@@ -1,11 +1,10 @@
 ---
 title: Wi-fi Everything
+layout: workshops
+group: workshops
+date: Fall 2013
 author: Dan Phiffer
-layout: classes
-group: fall13
-github:
-cover-image:
-website: http://example.com
+picture: /img/workshops/wifi_everything.jpg
 notes-link:
 ---
 Wi-fi vs. Bluetooth dimistified. Understanding networking. Learn about protocols, and creating [ersonal hotspots.

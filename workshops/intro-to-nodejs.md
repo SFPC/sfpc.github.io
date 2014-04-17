@@ -1,11 +1,10 @@
 ---
 title: Intro to Node.js
-author: Jonathan Dahan & John Wohl
-layout: classes
-group: fall13
-github:
-cover-image:
-website: http://example.com
+layout: workshops
+group: workshops
+date: Fall 2013
+author: Jonathan Dahan & Jon Wohl
+picture: /img/workshops/intro_to_nodejs.png
 notes-link:
 ---
 What is Node.js. What is it good for. Installing and running Node.js. Making a Hello world. Where to find more resources.
