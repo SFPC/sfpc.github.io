@@ -1,10 +1,10 @@
 ---
 title: Bridge Between Broken Networks
+layout: lectures
+group: lectures
+date: Fall 2013
 author: Dan Phiffer
-layout: classes
-group: fall13
-github: http://github.com/example/project
-website: http://example.com
+picture: /img/lectures/dan_phiffer.jpg
 notes-link:
 ---
 Dan Phiffer talks about his work and process that inspired him to make OccupyHere.org

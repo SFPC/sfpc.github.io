@@ -1,10 +1,10 @@
 ---
 title: Artist Lecture on Sound and Performance
+layout: lectures
+group: lectures
+date: Fall 2013
 author: Brian House
-layout: classes
-group: fall13
-github: http://github.com/example/project
-website: http://example.com
+picture: /img/lectures/brian_house.jpg
 notes-link:
 ---
 Introduction to the work of Brian House, and his through on Poetic Computation. What he is currently working and what he things about data.

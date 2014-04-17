@@ -1,10 +1,10 @@
 ---
 title: Poems and Propositions
+layout: lectures
+group: lectures
+date: Fall 2013
 author: Bret Victor
-layout: classes
-group: fall13
-github: http://github.com/example/project
-website: http://example.com
+picture: /img/lectures/bret_victor.jpg
 notes-link:
 ---
 Lecture on Poetry through interactive poems.

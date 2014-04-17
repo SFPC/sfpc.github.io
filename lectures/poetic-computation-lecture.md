@@ -1,10 +1,10 @@
 ---
 title: Poetic Computation
+layout: lectures
+group: lectures
+date: Fall 2013
 author: Ramsey Nasser
-layout: classes
-group: fall13
-github: http://github.com/example/project
-website: http://example.com
+picture: /img/lectures/ramsey_nasser.jpg
 notes-link:
 ---
 Ramsey took us through his history in learning to code through an amazing interactive presentation.

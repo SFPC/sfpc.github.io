@@ -1,10 +1,10 @@
 ---
-title: Poetic Computation at MoMa
+title: Artist Lecture on Balance
+layout: lectures
+group: lectures
+date: Fall 2013
 author: Paula Antonelli
-layout: project
-group: fall13
-github: http://github.com/example/project
-website: http://example.com
+picture: /img/lectures/paula_antonelli.jpg
 notes-link:
 ---
 Visit to Anotnelli’s to learn about the new acquisitions regarding games, technology and type at the MoMa, and the future of technology at the MoMa.
