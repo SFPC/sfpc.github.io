@@ -26,9 +26,10 @@ only create an article if its people -->
 				<img src="/img/people/default.png" />
 			{% endif %}
 			</div>
-			<div class="project-title-info">
+			<div class="tools-title-info">
 				<p><b>{{page.title}}</b></p>
-				<p>By <b><span class="student-title">{{page.author}}</span></b></p>
+				<!-- <p><b><a href="{{page.main-site}}" target="_blank">Main Site</a></b></p> -->
+				<p class="download"><a href="{{page.download}}" target="_blank"><i class="fa fa-arrow-circle-o-down"></i></a></p>
 			</div>
 			<div class="project-info">
 				<p>{{page.content | truncate: 300}}</p>

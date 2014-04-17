@@ -1013,6 +1013,11 @@ img.press-sites {
       font-size: .3em;
       color: black;
     }
+    .project-title-info p:nth-child(3) {
+      margin-top: 5px;
+      font-size: .3em;
+      color: black;
+    }
       .project-title-info span {
         color: rgb(255, 0, 82);
       }
@@ -1397,6 +1402,30 @@ img.press-sites {
     box-sizing: border-box;
   }
 
+/* TOOLS */
+
+.tools-title-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  -webkit-justify-content: space-between;
+  -webkit-align-items: center;
+  font-size: .4em;
+}
+  .tools-title-info p {
+    margin-top: 5px;
+  }
+  .tools-title-info p:nth-child(1) {
+  }
+  .tools-title-info p:nth-child(2) {
+    font-size: .9em;
+  }
+.tools-title-info p.download {
+  width: 20px;
+  height: 20px;
+  background: red;
+}
 
 
 /* FOOTER */
@@ -1595,8 +1624,8 @@ img {
   .mission.p-wrapper p { margin: 0 10px 10px 0;}
   .faq.p-wrapper div:first-child { margin: 0 20px 0 10px;}
   .faq.p-wrapper div { margin: 0 10px 0 10px;}
-  .student-wrapper { margin: 0 10px; min-width: 0; max-width: 100%;}
-  .grid-wrapper { margin: 0 10px; min-width: 0; max-width: 100%;}
+  .student-wrapper { margin: 0 10px; min-width: 100%; max-width: 100%;}
+  .grid-wrapper { margin: 0 10px; min-width: 100%; max-width: 100%;}
   .content-wrapper.classes { max-width: 100%; margin: 0 10px;}
   footer .centering-wrapper-row { min-width: 100%; max-width: 100%;}
   footer .subscribe-module { margin-left: 10px;}
