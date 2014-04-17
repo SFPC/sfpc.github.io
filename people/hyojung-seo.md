@@ -1,5 +1,5 @@
 ---
-title: Hyojung SEO
+title: Hyojung Seo
 layout: student
 group: people
 affiliation:
