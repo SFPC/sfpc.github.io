@@ -1,6 +1,6 @@
 ---
 title: Taeyoon Choi
-layout: people
+layout: person
 group: people
 affiliation:
 - class: Spring 2014

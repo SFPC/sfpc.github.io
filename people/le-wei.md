@@ -1,6 +1,6 @@
 ---
 title: Le Wei
-layout: student
+layout: person
 group: people
 affiliation:
 - class: Fall 2013

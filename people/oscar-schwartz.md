@@ -1,6 +1,6 @@
 ---
 title: Oscar Schwartz
-layout: student
+layout: person
 group: people
 affiliation:
 - class: Spring 2014

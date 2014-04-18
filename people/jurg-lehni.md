@@ -1,6 +1,6 @@
 ---
 title: Jurg Lehni
-layout: people
+layout: person
 group: people
 affiliation:
 - class: Fall 2013
