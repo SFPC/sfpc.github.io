@@ -21,12 +21,12 @@ layout: default
 					<p><b>{{page.title}}</b></p>
 
 					{% for affiliation in page.affiliation %}
-						<p>Roles <b><span class="teacher-title">{{affiliation.role}}</b></p>
-						<p>Class <b><span class="teacher-title">{{affiliation.class}}</b></p>
+						<p>Roles <b><span>{{affiliation.role}}</b></p>
+						<p>Class <b><span>{{affiliation.class}}</b></p>
 					{% endfor %}
 
 					{% if page.website %}
-						<p>Website<a href=""><span class="teacher-title">{{page.website}}</span></a></p>
+						<p>Website <a href="{{page.website}}" target="_blank"><span>{{page.website}}</span></a></p>
 					{% endif %}
 
 					{% if page.twitter %}

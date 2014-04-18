@@ -383,7 +383,6 @@ header nav {
 
 section.intro {
   height: 100%;
-  overflow: hidden;
   z-index: 25;
 
   display: flex;
@@ -837,7 +836,6 @@ img.press-sites {
 .student-image {
   width: 300px;
   height: 300px;
-  overflow: hidden;
 }
   .student-image img {
     width: 100%;
@@ -870,7 +868,6 @@ img.press-sites {
   margin-top: -10px;
   margin-bottom: 30px;
   padding-top: 0;
-  overflow: hidden;
   height: 200px;
 }
   .student-details p {
@@ -1369,7 +1366,6 @@ img.press-sites {
   max-height: 100px;
   min-height: 100px;
   background-color: black;
-  overflow: hidden;
   position: relative;
 }
   .people-image:hover {
@@ -1486,7 +1482,6 @@ img.press-sites {
 
 .profile {
   margin:  0 0 30px 0;
-  overflow: hidden;
 
   display: flex;
   display: -webkit-flex;
@@ -1558,7 +1553,6 @@ img.press-sites {
   max-height: 300px;
   min-height: 300px;
   background-color: white;
-  overflow: hidden;
   position: relative;
 
   display: flex;
@@ -1613,48 +1607,15 @@ img.press-sites {
       color: black;
     }
       .profile-title-info span {
-        color: rgb(255, 0, 82);
+        color: #2c3e50;
       }
-      .profile-title-info span:hover {
-        border-bottom: 1px solid rgb(255, 0, 82);
-
-        -moz-box-sizing: border-box; 
-        -webkit-box-sizing: border-box; 
-        box-sizing: border-box;
-      }
-        .profile-title-info span.teacher-title {
-          color: rgb(3, 186, 211);
+        .profile-title-info a span {
           color: #1ABC9C;
-
+          text-decoration: none;
         }
-        .profile-title-info span.visiting-title {
-          color: rgb(4, 172, 38);
-          color: #1ABC9C;
-
-        }
-        .profile-title-info span.student-title {
-          color: rgb(255, 0, 82);
-          color: #1ABC9C;
-
-        }
-          .profile-title-info span.teacher-title:hover {
-            border-bottom: 1px solid rgb(3, 186, 211);
-
-          }
-          .profile-title-info span.visiting-title:hover {
-            border-bottom: 1px solid rgb(4, 172, 38);
-
-          }
-          .profile-title-info span.student-title:hover {
-            border-bottom: 1px solid rgb(255, 0, 82);
-
-          }
           .profile-info {
             margin: 0 0 0 8px;
           }
-    .profile-title-info p:hover {
-      cursor: pointer;
-    }
 .profile-info-preview {
   width: 100%;
 }
