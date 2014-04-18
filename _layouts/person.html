@@ -46,7 +46,9 @@ layout: default
 
 				</div>
 				<div class="profile-info">
-					<p>{{content}}</p>
+					{% if content %}
+						<p>{{content}}</p>
+					{% endif %}
 				</div>
 			</div>
 		</div>
