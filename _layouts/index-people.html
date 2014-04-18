@@ -1,15 +1,7 @@
 ---
 layout: default
 ---
-<section class="current-tab">
-	<div class="centering-wrapper">
-		<h3>{{page.title}}</h3>
-		{{content}}
-	</div>
-</section>
-
-<section class="content-wrapper">
-	<div class="grid-wrapper">
+<div class="grid-wrapper">
 <!-- bring the variable to this page = people -->
 {% assign selectedgroup = page.selectedgroup %}
 
@@ -28,7 +20,7 @@ only create an article if its people -->
 			</div>
 			<div class="people-flex-wrapper">
 				<div class="people-title-info">
-					<p><b>{{page.title}}</b></p>
+					<p><b><a href="{{page.url}}" >{{page.title}}</a></b></p>
 
 					<!-- second loop -->
 					{% for affiliation in page.affiliation %}
@@ -45,4 +37,3 @@ only create an article if its people -->
 	{% endif %}
 {% endfor %}
 </div>
-</section>

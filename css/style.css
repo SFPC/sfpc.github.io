@@ -77,7 +77,7 @@ dd {
 
 /* TOP BAR NAVIGATION */
 header {
-  position: absolute;
+  position: relative;
 
   display: flex;
   display: -webkit-flex;

@@ -13,9 +13,19 @@
 		{% include header.html %}
 	</header>
 	<article class="container {% if page.parent-height %} {{page.parent-height}} {% endif %}">
-			<h1>{% if page.group != "main-nav" %}{{page.title}}{% endif %}</h1>
+		{% if page.group != "people"%}
+		<section class="current-tab">
+			<div class="centering-wrapper">
+				<h3>{{page.title}}</h3>
+			</div>
+		</section>
+		{% endif %}
+
+		<section class="content-wrapper">
 			{{content}}
+		</section>
 	</article>
+
 	<footer>
 		{% include footer.html %}
 	</footer>
