@@ -971,10 +971,6 @@ img.press-sites {
     margin: 0;
     padding: 0;
   }
-    .content-title-info p.title b:hover {
-      cursor: pointer;
-      color: rgba(0, 0, 0, 0.3);
-    }
   .content-title-info p.date{
     font-size: .4em;
     margin: 0;
@@ -987,14 +983,6 @@ img.press-sites {
     margin-top: 10px;
     color: rgb(3, 186, 211);
   }
-    .content-title-info p.date b:hover {
-      border-bottom: 1px solid rgb(3, 186, 211);;
-      cursor: pointer;
-
-      -moz-box-sizing: border-box; 
-      -webkit-box-sizing: border-box; 
-      box-sizing: border-box;
-    }
 
 /* CLASSES */
 .content-wrapper.classes {
@@ -1106,6 +1094,9 @@ img.press-sites {
   -moz-flex: 1 0 0;
   -ms-flex: 1 0 0;
 }
+  .content-details.classes.participating-people b {
+    font-size: 0.5em;
+  }
   .content-details.classes.participating-people.teachers { 
     order: 2;
     -webkit-order: 2;
@@ -1190,10 +1181,6 @@ img.press-sites {
     margin: 0 0 10px 0;
     padding: 0;
   }
-    .content-title-info.classes p.title b:hover {
-      cursor: pointer;
-      color: rgba(0, 0, 0, 0.3);
-    }
   .content-title-info.classes p.date{
     font-size: .35em;
     margin: 0;
@@ -1204,16 +1191,8 @@ img.press-sites {
     margin: 0;
     padding: 0;
     margin-top: 10px;
-    color: #1ABC9C;
+    color: #2c3e50; /* DARK BLUE */
   }
-    .content-title-info.classes p.date b:hover {
-      border-bottom: 1px solid rgb(3, 186, 211);;
-      cursor: pointer;
-
-      -moz-box-sizing: border-box; 
-      -webkit-box-sizing: border-box; 
-      box-sizing: border-box;
-    }
 
 /* PROJECTS */
 
