@@ -533,6 +533,7 @@ section.intro {
   display: inline-block;
   margin: 10px 10px 10px 10px;
   min-width: 300px;
+  max-width: 300px;
   position: relative;
 }
   .press-wrapper-start {
@@ -567,7 +568,7 @@ img.press-sites {
   justify-content: center;
   text-align: center;
   color: white;
-  font-size: .7em;
+  font-size: 1em;
   font-family: 'Apercu', 'Helvetica Neue', sans-serif;
   /*left: 0;*/
   /*border: 10px solid white;*/
