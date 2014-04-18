@@ -1163,8 +1163,8 @@ img.press-sites {
       font-size: 0.6em;
     }
       .content-details.classes.participating-people ul li a:hover {
-        border-bottom: 1px solid #1ABC9C;
-
+        /*border-bottom: 1px solid #1ABC9C;*/
+        text-decoration: underline;
         -moz-box-sizing: border-box; 
         -webkit-box-sizing: border-box; 
         box-sizing: border-box;
