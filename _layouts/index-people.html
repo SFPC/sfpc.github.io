@@ -13,7 +13,7 @@ only create an article if its people -->
 			<div class="people-image">
 			<!-- if makes things not render -->
 			{% if page.picture %}
-				<img src="{{page.picture}}" />
+				<a href="{{page.url}}"><img src="{{page.picture}}" /></a>
 			{% else %}
 				<img src="/img/people/default.png" />
 			{% endif %}
