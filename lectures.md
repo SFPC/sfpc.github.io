@@ -1,6 +1,6 @@
 ---
 title: Lectures
-layout: index-lectures
+layout: index-grid
 group: main-nav
 selectedgroup: lectures
 ---

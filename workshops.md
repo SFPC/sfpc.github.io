@@ -1,6 +1,6 @@
 ---
 title: Workshops
-layout: index-workshops
+layout: index-grid
 group: main-nav
 selectedgroup: workshops
 ---
