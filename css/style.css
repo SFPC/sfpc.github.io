@@ -1216,9 +1216,6 @@ img.press-sites {
   background-color: black;
   overflow: hidden;
 }
-  .project-image:hover {
-    cursor: pointer;
-  }
   .project-image img {
     width: 100%;
   }
@@ -1288,22 +1285,22 @@ img.press-sites {
         }
           .project-title-info span.teacher-title:hover {
             border-bottom: 1px solid rgb(3, 186, 211);
+            cursor: pointer;
 
           }
           .project-title-info span.visiting-title:hover {
             border-bottom: 1px solid rgb(4, 172, 38);
+            cursor: pointer;
 
           }
           .project-title-info span.student-title:hover {
             border-bottom: 1px solid rgb(255, 0, 82);
+            cursor: pointer;
 
           }
           .project-info {
             margin-top: 10px;
           }
-    .project-title-info p:hover {
-      cursor: pointer;
-    }
 .project-info-preview {
   width: 100%;
 }
@@ -1320,14 +1317,6 @@ img.press-sites {
   -webkit-margin-before: 0;
   -webkit-margin-after: 0;
 }
-  .project-info p.notes:hover {
-    border-bottom: 1px solid gray;
-    cursor: pointer;
-
-    -moz-box-sizing: border-box; 
-    -webkit-box-sizing: border-box; 
-    box-sizing: border-box;
-  }
 
 /* PEOPLE */
 
