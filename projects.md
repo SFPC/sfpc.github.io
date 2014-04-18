@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: index-projects
+layout: index-grid
 group: main-nav
 selectedgroup: projects
 ---
