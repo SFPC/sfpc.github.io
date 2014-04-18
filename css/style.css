@@ -523,7 +523,9 @@ section.intro {
   }
 
   /* FAQ */
-
+  .faq.centering-wrapper {
+    width: 80%;
+  }
   .faq.p-wrapper {
     flex: 1 0 0;
     -webkit-flex: 1 0 0;
@@ -742,7 +744,6 @@ img.press-sites {
   position: relative;
   width: 100%;
   font-family: sans-serif;
-  font-size: 1.2em;
 
   display: flex;
   display: -webkit-flex;
@@ -767,7 +768,7 @@ img.press-sites {
   position: relative;
   width: 100%;
   font-family: sans-serif;
-  font-size: 1.5em;
+  font-size: 1.2em;
 
   display: flex;
   display: -webkit-flex;
@@ -1080,7 +1081,7 @@ img.press-sites {
 }
 .content-details.classes p {
   width: 100%;
-  font-size: .4em;
+  font-size: .6em;
   margin: 10px 0;
 }
 .content-details.classes.participating-people {
@@ -1092,7 +1093,7 @@ img.press-sites {
   -ms-flex: 1 0 0;
 }
   .content-details.classes.participating-people b {
-    font-size: 0.5em;
+    font-size: 0.6em;
   }
   .content-details.classes.participating-people.teachers { 
     order: 2;
@@ -1109,7 +1110,7 @@ img.press-sites {
   }
 
 .content-details.classes.participating-people ul {
-  font-size: .35em;
+  font-size: 1em;
   list-style: none;
   margin: 0 10px 0 0;
   padding: 0;
@@ -1125,7 +1126,6 @@ img.press-sites {
   -ms-flex-wrap: wrap;
 }
   .content-details.classes.participating-people ul li {
-    font-size: 1em;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -1160,11 +1160,17 @@ img.press-sites {
     .content-details.classes.participating-people ul li a {
       margin-right: 5px;
       text-decoration: none;
+      font-size: 0.6em;
     }
       .content-details.classes.participating-people ul li a:hover {
         border-bottom: 1px solid #1ABC9C;
+
+        -moz-box-sizing: border-box; 
+        -webkit-box-sizing: border-box; 
+        box-sizing: border-box;
       }
   .content-details.classes.participating-people.courses ul li, .content-details.classes.participating-people.workshops ul li {
+    font-size: 0.6em;
     margin: 0;
     padding: 0;
     width: 100%;
@@ -1174,12 +1180,12 @@ img.press-sites {
   margin-right: 10px;
 }
   .content-title-info.classes p.title {
-    font-size: .8em;
+    font-size: 1em;
     margin: 0 0 10px 0;
     padding: 0;
   }
   .content-title-info.classes p.date{
-    font-size: .35em;
+    font-size: .6em;
     margin: 0;
     padding: 0;
     margin-top: 4px;
@@ -1243,16 +1249,16 @@ img.press-sites {
   }
     .project-title-info p:nth-child(1) {
       margin-top: 8px;
-      font-size: .45em;
+      font-size: .6em;
     }
     .project-title-info p:nth-child(2) {
       margin-top: 5px;
-      font-size: .3em;
+      font-size: .4em;
       color: black;
     }
     .project-title-info p:nth-child(3) {
       margin-top: 5px;
-      font-size: .3em;
+      font-size: .4em;
       color: black;
     }
       .project-title-info a {
@@ -1272,8 +1278,9 @@ img.press-sites {
   width: 100%;
 }
 .project-info p {
-  font-size: .35em;
+  font-size: .5em;
   margin: 0;
+  font-family: 'Apercu', 'Helvetica Neue', 'Arial', sans-serif;
 }
 .project-info p.notes {
   display: inline-block;
@@ -1292,7 +1299,7 @@ img.press-sites {
   max-width: 80%;
   min-width: 970px;
   font-family: sans-serif;
-  font-size: 1.5em;
+  /*font-size: 1.5em;*/
 
   display: flex;
   display: -webkit-flex;
