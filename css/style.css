@@ -1959,6 +1959,7 @@ footer {
   .faq.p-wrapper div { margin: 0 10px 0 10px; }
   .grid-wrapper { margin: 0 10px; min-width: 100%; max-width: 100%; }
   .content-wrapper.classes { max-width: 100%; margin: 0 10px;}
+  .project { margin: 0 10px 30px 10px;}
   footer .centering-wrapper-row { min-width: 100%; max-width: 100%; }
   footer .subscribe-module { margin-left: 10px; }
   footer div.space-between div:first-child { margin-left: 10px; }
