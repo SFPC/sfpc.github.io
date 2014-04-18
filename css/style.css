@@ -1219,7 +1219,7 @@ img.press-sites {
 .project-title-info {
   width: 100%;
   background-color: white;
-  color: black;
+  color: #2c3e50;
 
   display: flex;
   display: -webkit-flex;
@@ -1255,46 +1255,16 @@ img.press-sites {
       font-size: .3em;
       color: black;
     }
-      .project-title-info span {
-        color: rgb(255, 0, 82);
+      .project-title-info a {
+        text-decoration: none;
       }
-      .project-title-info span:hover {
-        border-bottom: 1px solid rgb(255, 0, 82);
+      .project-title-info a:hover {
+        border-bottom: 1px solid #1ABC9C;
 
         -moz-box-sizing: border-box; 
         -webkit-box-sizing: border-box; 
         box-sizing: border-box;
       }
-        .project-title-info span.teacher-title {
-          color: rgb(3, 186, 211);
-          color: #1ABC9C;
-
-        }
-        .project-title-info span.visiting-title {
-          color: rgb(4, 172, 38);
-          color: #1ABC9C;
-
-        }
-        .project-title-info span.student-title {
-          color: rgb(255, 0, 82);
-          color: #1ABC9C;
-
-        }
-          .project-title-info span.teacher-title:hover {
-            border-bottom: 1px solid rgb(3, 186, 211);
-            cursor: pointer;
-
-          }
-          .project-title-info span.visiting-title:hover {
-            border-bottom: 1px solid rgb(4, 172, 38);
-            cursor: pointer;
-
-          }
-          .project-title-info span.student-title:hover {
-            border-bottom: 1px solid rgb(255, 0, 82);
-            cursor: pointer;
-
-          }
           .project-info {
             margin-top: 10px;
           }
