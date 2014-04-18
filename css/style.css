@@ -792,6 +792,7 @@ img.press-sites {
 
 .grid-wrapper {
   position: relative;
+  width: 80%;
   max-width: 80%;
   min-width: 970px;
   font-family: sans-serif;
@@ -1294,33 +1295,6 @@ img.press-sites {
 
 /* PEOPLE */
 
-.grid-wrapper {
-  position: relative;
-  max-width: 80%;
-  min-width: 970px;
-  font-family: sans-serif;
-  /*font-size: 1.5em;*/
-
-  display: flex;
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flex;
-
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  -moz-flex-direction: row;
-  -ms-flex-direction: row;
-
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  -moz-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-
-  justify-content: space-between;
-  -webkit-justify-content: space-between;
-  -moz-justify-content: space-between;
-  -ms-justify-content: space-between;
-}
 .people {
   margin:  0 0 30px 0;
   width: 300px;
@@ -1438,6 +1412,7 @@ img.press-sites {
 
 .profile {
   margin:  0 0 30px 0;
+  width: 100%;
 
   display: flex;
   display: -webkit-flex;
@@ -1449,21 +1424,28 @@ img.press-sites {
   -moz-flex-direction: column;
   -ms-flex-direction: column;
 
-  align-items: flex-end;
+  /*align-items: flex-end;
   -webkit-align-items: flex-end;
   -moz-align-items: flex-end;
-  -ms-align-items: flex-end;
+  -ms-align-items: flex-end;*/
 }
   .profile-flex-wrapper {
+    margin: 0 10px;
+
+    flex: 1 0 0;
+    -webkit-flex: 1 0 0;
+    -moz-flex: 1 0 0;
+    -ms-flex: 1 0 0;
+
     display: flex;
     display: -webkit-flex;
     display: -moz-flex;
     display: -ms-flex;
 
     flex-direction: row;
-    -webkit-flex-direction: row;
-    -moz-flex-direction: row;
-    -ms-flex-direction: row;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
   }
   .profile-info-flex-wrapper {
     display: flex;
@@ -1505,21 +1487,21 @@ img.press-sites {
       margin-bottom: 10px;
     }
 .profile-image {
-  min-width: 300px;
+  /*min-width: 300px;
   max-height: 300px;
-  min-height: 300px;
+  min-height: 300px;*/
   background-color: white;
   position: relative;
 
-  display: flex;
+/*  display: flex;
   display: -webkit-flex;
   display: -moz-flex;
-  display: -ms-flex;
+  display: -ms-flex;*/
 
-  flex: 1 0 0;
+/*  flex: 1 0 0;
   -webkit-flex: 1 0 0;
   -moz-flex: 1 0 0;
-  -ms-flex: 1 0 0;
+  -ms-flex: 1 0 0;*/
 }
   .profile-image p {
     width: 100%;
@@ -1554,11 +1536,11 @@ img.press-sites {
     padding: 0;
   }
     .profile-title-info p:nth-child(1) {
-      margin: -2px 0 3px 8px;
+      margin: 5px 0 3px 0;
       font-size: .8em;
     }
     .profile-title-info p:nth-child(2), .profile-title-info p:nth-child(3), .profile-title-info p:nth-child(4), .profile-title-info p:nth-child(5) {
-      margin: 0 0 3px 8px;
+      /*margin: 0 0 3px 8px;*/
       font-size: .5em;
       color: black;
     }
@@ -1570,13 +1552,13 @@ img.press-sites {
           text-decoration: none;
         }
           .profile-info {
-            margin: 0 0 0 8px;
+            /*margin: 0 0 0 8px;*/
           }
 .profile-info-preview {
   width: 100%;
 }
 .profile-info p {
-  font-size: .4em;
+  font-size: .5em;
   margin: 20px 0;
 }
 .profile-info p.notes {
@@ -1975,7 +1957,6 @@ footer {
   .mission.p-wrapper p { margin: 0 10px 10px 0; }
   .faq.p-wrapper div:first-child { margin: 0 20px 0 10px; }
   .faq.p-wrapper div { margin: 0 10px 0 10px; }
-  .student-wrapper { margin: 0 10px; min-width: 100%; max-width: 100%; }
   .grid-wrapper { margin: 0 10px; min-width: 100%; max-width: 100%; }
   .content-wrapper.classes { max-width: 100%; margin: 0 10px;}
   footer .centering-wrapper-row { min-width: 100%; max-width: 100%; }
@@ -2189,4 +2170,17 @@ footer {
 @media (max-width: 500px) {
   .content-details.classes.participating-people.teachers { width: 100%;}
   .content-details.classes.participating-people.visitors { width: 100%;}
+}
+
+
+@media (min-width: 1000px) {
+  .profile-flex-wrapper { margin: 0;}
+}
+
+@media (min-width: 640px) {
+  .profile-flex-wrapper { flex-direction: row;}
+  .profile-image { height: 300px;}
+  .profile-image img { width: 100%; }
+  .profile-info-flex-wrapper { margin: 0 0 0 10px;}
+  .profile-title-info p:nth-child(1) { margin-top: 0;}
 }
