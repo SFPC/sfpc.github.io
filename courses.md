@@ -1,6 +1,6 @@
 ---
 title: Courses
-layout: index-courses
+layout: index-grid
 group: main-nav
 selectedgroup: courses
 ---
