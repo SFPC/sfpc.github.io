@@ -1324,8 +1324,8 @@ img.press-sites {
 .people {
   margin:  0 0 30px 0;
   width: 300px;
-  height: 100px;
-  overflow: hidden;
+  /*height: 100px;*/
+  /*overflow: hidden;*/
 
   display: flex;
   display: -webkit-flex;
@@ -1379,48 +1379,27 @@ img.press-sites {
     .people-title-info p:nth-child(1) {
       color: #1ABC9C;
       margin: -2px 0 3px 8px;
-      font-size: .45em;
+      font-size: .6em;
     }
-      .people-title-info p:nth-child(1):hover {
-        color: rgba(0, 0, 0, 0.3); /* LIGHT GRAY */
-        margin: -2px 0 3px 8px;
-        font-size: .45em;
+      .people-title-info p:nth-child(1) a {
+        text-decoration: none;
+      }
+      .people-title-info p:nth-child(1) a:hover {
+        text-decoration: underline;
       }
     .people-title-info p:nth-child(2), .people-title-info p:nth-child(3) {
       margin: 0 0 3px 8px;
-      font-size: .3em;
-      color: black;
+      font-size: .4em;
+      color: #2c3e50;
     }
-      .people-title-info span {
-        color: rgb(255, 0, 82);
-      }
-      .people-title-info span:hover {
-        border-bottom: 1px solid rgb(255, 0, 82);
-
-        -moz-box-sizing: border-box; 
-        -webkit-box-sizing: border-box; 
-        box-sizing: border-box;
-      }
-        .people-title-info span.teacher-title {
-          color: #2c3e50;
-        }
-        .people-title-info span.visiting-title {
-          color: #2c3e50;
-        }
-        .people-title-info span.student-title {
-          color: #2c3e50;
-        }
           .people-info {
             margin: 0 0 0 8px;
           }
-    .people-title-info p:hover {
-      cursor: pointer;
-    }
 .people-info-preview {
   width: 100%;
 }
 .people-info p {
-  font-size: .35em;
+  font-size: .5em;
   margin: 0;
 }
 .people-info p.notes {
