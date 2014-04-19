@@ -45,14 +45,14 @@ html {
   -webkit-text-size-adjust:none;
 }
 body {
-  font-family:'Apercu', sans-serif;
+  font-family:'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   margin: 0;
   padding:0;
   background: white;
   height: 100%;
 }
 h1 {
-  font-family: 'Apercu', 'Helvetica Neue', sans-serif;
+  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   margin: 0;
   padding: 0;
   color: black;
@@ -293,7 +293,7 @@ nav ul li a {
   /* FAQ */
   .faq.centering-wrapper {
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
   }
   .faq.p-wrapper {
     flex: 1 0 0;
@@ -332,7 +332,7 @@ nav ul li a {
       width: auto;
       margin-left: 0;
       font-size: .9em;
-      font-family: 'Apercu';
+      font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
       color: #2c3e50;
     }
 .about-wrapper {
@@ -404,13 +404,13 @@ nav ul li a {
   -webkit-margin-after: 0.5em;
 }
   .centering-wrapper p.faq {
-    font-family: 'Apercu-Italic', 'Helvetica Neue', sans-serif;
+    font-family: 'Apercu-Italic', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   }
 .centering-wrapper h3 {
   margin: 0;
 }
 .centering-wrapper h4 {
-  font-family: 'Apercu','Helvetica Neue', sans-serif;
+  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-size: 1.5em;
   color: #2c3e50;
   margin: 20px 0 0 0;
@@ -420,7 +420,7 @@ nav ul li a {
   margin-top: 1em;
   -webkit-margin-after: 0;
   -webkit-margin-before: 1em;
-  font-family: 'Apercu','Helvetica Neue', sans-serif;
+  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   color: #2c3e50;
 }
 
@@ -455,7 +455,11 @@ img.press-sites {
   box-shadow:         0px 0px 12px 0px rgba(50, 50, 50, 0.41);
 }
 .press-info {
-  display: none;
+  display: flex;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+
   position: absolute;
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 100;
@@ -477,7 +481,7 @@ img.press-sites {
   text-align: center;
   color: white;
   font-size: 1em;
-  font-family: 'Apercu', 'Helvetica Neue', sans-serif;
+  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
   img.press-sites:hover {
     cursor: pointer;
@@ -749,7 +753,7 @@ img.press-sites {
   margin: 0 auto;
   max-width: 80%;
   color: #2c3e50;
-  font-family: 'Apercu', 'Helvetica Neue', sans-serif;
+  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 
   flex-direction: column;
   -webkit-flex-direction: column;
@@ -787,10 +791,12 @@ img.press-sites {
   display: -ms-flex;
 }
 .content.classes.flex-wrapper:first-child {
-  height: 300px;
+  height: auto;
   margin-bottom: 0;
 }
 .content-image.classes {
+  height: 200px;
+
   background-size: auto 100%, auto;
   background-position:center;
   background-repeat: no-repeat;
@@ -837,6 +843,7 @@ img.press-sites {
 }
 
 .content.classes.flex-wrapper:first-child .content-info-wrapper.classes {
+  height: auto;
   display: block;
 }
 .content-details.classes {
@@ -1043,7 +1050,7 @@ img.press-sites {
 .project-info p {
   font-size: .55em;
   margin: 0;
-  font-family: 'Apercu', 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
 .project-info p.notes {
   display: inline-block;
@@ -1135,7 +1142,7 @@ article.people {
   -ms-align-items: flex-start;
 }
   .people-title-info p {
-    font-family: 'Apercu','Helvetica Neue', sans-serif;
+    font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
     margin-top: 0;
     padding: 0;
   }
@@ -1332,7 +1339,7 @@ article.people {
   -ms-align-items: flex-start;
 }
   .profile-title-info p {
-    font-family: 'Apercu','Helvetica Neue', sans-serif;
+    font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
     margin-top: 0;
     padding: 0;
   }
@@ -1450,6 +1457,7 @@ article.people {
 
 /* FOOTER */
 footer {
+
   width: 100%;
   position: relative;
   z-index: 30;
@@ -1489,7 +1497,7 @@ footer {
   .subscribe-module {
     min-width: 300px;
     max-width: 300px;
-    font-family:'ApercuProRegular', 'Helvetica', sans-serif;
+    font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 
     align-items: flex-start;
     -webkit-align-items: flex-start;
@@ -2070,10 +2078,13 @@ footer {
 }
 
 @media (min-width: 640px) {
+  .content-image.classes { height: auto;}
   .profile-flex-wrapper { flex-direction: row;}
   .profile-image { height: 300px;}
   .profile-image img { width: 100%; }
   .profile-info-flex-wrapper { margin: 0 0 0 10px;}
   .profile-title-info p:nth-child(1) { margin-top: 0;}
+  .faq.centering-wrapper { width: 80%;}
+  .press-info { display: none;}
   /*body#index article.motto { margin-top: 25%;}*/
 }
