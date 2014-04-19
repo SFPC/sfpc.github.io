@@ -20,7 +20,7 @@
 	<header class="group">
 		{% include nav.html %}
 	</header>
-	<article class="content-wrapper">
+	<article class="content-wrapper {% if page.slug == "index" %} {{'motto'}} {% endif %}">
 		{{content}}
 	</section>
 	<footer>	

@@ -172,7 +172,7 @@ nav ul li a {
       -o-background-size: cover;
       background-size: cover;
     }
-    body#index article {
+    body#index article.motto {
       padding:10px;
       margin:10px;
       background:#fff;
