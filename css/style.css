@@ -818,9 +818,6 @@ img.press-sites {
   -moz-flex: 2 0 0;
   -ms-flex: 2 0 0;
 }
-  .content-image.classes:hover {
-    cursor: pointer;
-  }
   .content-image img {
     width: 100%;
   }
@@ -1450,7 +1447,7 @@ article.people {
 
 #participate .centering-wrapper {
   font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
   font-size: .9em;
   /*background: red;*/
@@ -1841,7 +1838,7 @@ footer {
     padding:0;
   }
   nav a:hover {
-    color:#000;
+    color: #2c3e50; /* DARK BLUE */
     text-decoration:underline;
   }
   nav div {
@@ -2090,5 +2087,6 @@ footer {
   .press-info { display: none;}
   .project { width: 300px;}
   article.people { width: 300px;}
+  #participate .centering-wrapper { width: 80%;}
   /*body#index article.motto { margin-top: 25%;}*/
 }
