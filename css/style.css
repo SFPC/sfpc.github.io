@@ -1158,13 +1158,6 @@ article.people {
       .people-title-info span {
         color: rgb(255, 0, 82);
       }
-      .people-title-info span:hover {
-        border-bottom: 1px solid rgb(255, 0, 82);
-
-        -moz-box-sizing: border-box;
-        -webkit-box-sizing: border-box;
-        box-sizing: border-box;
-      }
         .people-title-info span.teacher-title {
           color: #2c3e50;
         }
