@@ -843,7 +843,7 @@ img.press-sites {
 }
 .content-details.classes p {
   width: 100%;
-  font-size: .65em;
+  font-size: .7em;
   margin: 10px 0;
 }
 .content-details.classes.participating-people {
@@ -1928,7 +1928,7 @@ footer {
     -ms-justify-content: space-around;
   }
   .content.classes.flex-wrapper:first-child {
-    height: 450px;
+    height: auto;
 
     display: flex;
     display: -webkit-flex;
