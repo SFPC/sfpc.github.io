@@ -102,6 +102,7 @@ nav h2 {
   width:100%;
   z-index:100;
   overflow:hidden;
+  background:#fff;
 }
 #nav-jump #full {
   display:none;
@@ -140,7 +141,7 @@ nav ul li a {
   font-weight:normal!important;
 }
 
-#home .home, #mission .mission, #faq .faq, #press .press, #classes .classes, #courses .courses, #workshops .workshops, #lectures .lectures, #people .people, #projects .projects, #blog .blog, #friends .friends, #participate .participate, #donate .donate {
+#index .index, #mission .mission, #faq .faq, #press .press, #classes .classes, #courses .courses, #workshops .workshops, #lectures .lectures, #people .people, #projects .projects, #blog .blog, #friends .friends, #participate .participate, #donate .donate {
   font-family:ApercuBold;
   color:#000;
 }
@@ -160,92 +161,21 @@ nav ul li a {
 
 /* INTRO IMAGE */
 
-    .splash-intro-img {
-      background-image: url("../img/pushPixel_splash.jpg");
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      margin: 0 auto;
-      width: 100%;
-      height: 100%;
-      background-color: white;
-      z-index: 0;
-      overflow: hidden;
-
+    body#index {
+      background-image: url("/img/pushPixel_splash.jpg");
       background-size: auto 100%, auto;
       background-position:center;
       background-repeat: no-repeat;
-
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
     }
-
-    /* INTRO IMAGE */
-    .intro {
-      position: relative;
-      display: block;
-      height: 100%;
-    }
-    .intro-image {
-      position: absolute;
-      margin: 0 auto;
-      left: 0;
-      right: 0;
-      width: 70%;
-      z-index: 0;
-    }
-    .intro-continue {
-      position: absolute;
-      width: 60px;
-      height: 60px;
-      background-color: white;
-      margin: 0 auto;
-      bottom: 15px;
-      left: 0;
-      right: 0;
-      z-index: 25;
-      color: black;
-      text-align: center;
-      font-size: 3.5em;
-      font-weight: bold;
-      cursor: pointer;
-    }
-
-/* INTRO INFO + MOTTO  */
-.intro-1 { font-family:'Helvetica Neue', sans-serif; display: block; padding: 10px; width: 40%;}
-.intro-2 { font-family:'Helvetica Neue', sans-serif; display: none; padding: 10px; width: 40%;}
-.intro-3 { font-family:'Helvetica Neue', sans-serif; display: none; padding: 10px; width: 45%;}
-
-section.intro {
-  height: 100%;
-  z-index: 25;
-
-  display: flex;
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flex;
-
-  justify-content: center;
-  -webkit-justify-content: center;
-  -moz-justify-content: center;
-  -ms-justify-content: center;
-
-  align-items: center;
-  -webkit-align-items: center;
-  -moz-align-items: center;
-  -ms-align-items: center;
-}
-  .intro-info {
-    font-size: 24px;
-    color: #2c3e50;
-    background-color: white;
-    z-index: 25;
-  }
-    .intro-info span {
-      font-style: italic;
+    body#index article {
+      padding:10px;
+      margin:10px;
+      background:#fff;
+      max-width:600px;
     }
 
 /* CURRENT SECTION*/
@@ -602,21 +532,11 @@ img.press-sites {
     width: 80%;
   }
 .content-wrapper {
-  position: relative;
-  width: 100%;
   font-family: sans-serif;
   font-size: 1.2em;
-
-  display: flex;
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flex;
-
-  justify-content: space-around;
-  -webkit-justify-content: space-around;
-  -moz-justify-content: space-around;
-  -ms-justify-content: space-around;
-
+}
+.content-wrapper p {
+  margin-bottom:10px;
 }
   ul.requirements li {
     list-style-type: disc;
@@ -1870,11 +1790,13 @@ footer {
     width:100%;
   }
   header {
-    margin:20px 10px;
+    padding:20px 10px;
+    background:#fff;
   }
   nav {
     width:100%;
     border-top:none;
+    min-height:0;
   }
   nav h2 {
     float:left;
