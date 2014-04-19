@@ -534,8 +534,9 @@ img.press-sites {
     width: 80%;
   }
 .content-wrapper {
-  font-family: sans-serif;
+  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-size: 1.1em;
+  color: #2c3e50; /* DARK BLUE */
 }
 .content-wrapper p {
   margin-bottom:10px;
@@ -2072,6 +2073,7 @@ footer {
 }
 @media (min-width: 1000px) {
   .profile-flex-wrapper { margin: 0;}
+  body#index article.motto { margin: 0 auto; position: absolute; top: 50%; margin-top: -3%; left: 0; right: 0;}
 }
 
 @media (min-width: 640px) {
@@ -2080,4 +2082,5 @@ footer {
   .profile-image img { width: 100%; }
   .profile-info-flex-wrapper { margin: 0 0 0 10px;}
   .profile-title-info p:nth-child(1) { margin-top: 0;}
+  /*body#index article.motto { margin-top: 25%;}*/
 }
