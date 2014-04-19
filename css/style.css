@@ -2076,8 +2076,11 @@ footer {
   body#index article.motto { margin: 0 auto; position: absolute; top: 50%; margin-top: -3%; left: 0; right: 0;}
 }
 
-@media (min-width: 640px) {
+@media (min-width: 750px) {
   .content-image.classes { height: auto;}
+}
+
+@media (min-width: 640px) {
   .profile-flex-wrapper { flex-direction: row;}
   .profile-image { height: 300px;}
   .profile-image img { width: 100%; }
