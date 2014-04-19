@@ -142,8 +142,9 @@ nav ul li a {
 }
 
 #index .index, #mission .mission, #faq .faq, #press .press, #classes .classes, #courses .courses, #workshops .workshops, #lectures .lectures, #people .people, #projects .projects, #blog .blog, #friends .friends, #participate .participate, #donate .donate {
-  font-family:ApercuBold;
-  color:#000;
+  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  color: #2c3e50; /* DARK BLUE */
+  /*color: black;*/
 }
 
 /* CONTAINER */
