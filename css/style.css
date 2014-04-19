@@ -591,6 +591,7 @@ img.press-sites {
 .student {
   margin: 10px 0;
   width: 300px;
+  height: 350px;
 
   display: flex;
   display: -webkit-flex;
@@ -634,10 +635,8 @@ img.press-sites {
   }
 .student-details {
   width: 300px;
-  margin-top: -10px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   padding-top: 0;
-  height: 200px;
 }
   .student-details p {
     width: 280px;
