@@ -360,7 +360,9 @@ section.intro {
   }
 
   /* FAQ */
-
+  .faq.centering-wrapper {
+    width: 80%;
+  }
   .faq.p-wrapper {
     flex: 1 0 0;
     -webkit-flex: 1 0 0;
@@ -579,7 +581,6 @@ img.press-sites {
   position: relative;
   width: 100%;
   font-family: sans-serif;
-  font-size: 1.2em;
 
   display: flex;
   display: -webkit-flex;
@@ -604,7 +605,7 @@ img.press-sites {
   position: relative;
   width: 100%;
   font-family: sans-serif;
-  font-size: 1.5em;
+  font-size: 1.2em;
 
   display: flex;
   display: -webkit-flex;
@@ -628,6 +629,7 @@ img.press-sites {
 
 .grid-wrapper {
   position: relative;
+  width: 80%;
   max-width: 80%;
   min-width: 970px;
   font-family: sans-serif;
@@ -917,7 +919,7 @@ img.press-sites {
 }
 .content-details.classes p {
   width: 100%;
-  font-size: .4em;
+  font-size: .6em;
   margin: 10px 0;
 }
 .content-details.classes.participating-people {
@@ -929,7 +931,7 @@ img.press-sites {
   -ms-flex: 1 0 0;
 }
   .content-details.classes.participating-people b {
-    font-size: 0.5em;
+    font-size: 0.6em;
   }
   .content-details.classes.participating-people.teachers {
     order: 2;
@@ -946,7 +948,7 @@ img.press-sites {
   }
 
 .content-details.classes.participating-people ul {
-  font-size: .35em;
+  font-size: 1em;
   list-style: none;
   margin: 0 10px 0 0;
   padding: 0;
@@ -962,7 +964,6 @@ img.press-sites {
   -ms-flex-wrap: wrap;
 }
   .content-details.classes.participating-people ul li {
-    font-size: 1em;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -997,11 +998,17 @@ img.press-sites {
     .content-details.classes.participating-people ul li a {
       margin-right: 5px;
       text-decoration: none;
+      font-size: 0.6em;
     }
       .content-details.classes.participating-people ul li a:hover {
-        border-bottom: 1px solid #1ABC9C;
+        /*border-bottom: 1px solid #1ABC9C;*/
+        text-decoration: underline;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
       }
   .content-details.classes.participating-people.courses ul li, .content-details.classes.participating-people.workshops ul li {
+    font-size: 0.6em;
     margin: 0;
     padding: 0;
     width: 100%;
@@ -1011,12 +1018,12 @@ img.press-sites {
   margin-right: 10px;
 }
   .content-title-info.classes p.title {
-    font-size: .8em;
+    font-size: 1em;
     margin: 0 0 10px 0;
     padding: 0;
   }
   .content-title-info.classes p.date{
-    font-size: .35em;
+    font-size: .6em;
     margin: 0;
     padding: 0;
     margin-top: 4px;
@@ -1056,7 +1063,7 @@ img.press-sites {
 .project-title-info {
   width: 100%;
   background-color: white;
-  color: black;
+  color: #2c3e50;
 
   display: flex;
   display: -webkit-flex;
@@ -1080,58 +1087,28 @@ img.press-sites {
   }
     .project-title-info p:nth-child(1) {
       margin-top: 8px;
-      font-size: .45em;
+      font-size: .6em;
     }
     .project-title-info p:nth-child(2) {
       margin-top: 5px;
-      font-size: .3em;
-      color: black;
+      font-size: .4em;
+      color: #2c3e50;
     }
     .project-title-info p:nth-child(3) {
       margin-top: 5px;
-      font-size: .3em;
+      font-size: .4em;
       color: black;
     }
-      .project-title-info span {
-        color: rgb(255, 0, 82);
+      .project-title-info a {
+        text-decoration: none;
       }
-      .project-title-info span:hover {
-        border-bottom: 1px solid rgb(255, 0, 82);
+      .project-title-info a:hover {
+        border-bottom: 1px solid #1ABC9C;
 
         -moz-box-sizing: border-box;
         -webkit-box-sizing: border-box;
         box-sizing: border-box;
       }
-        .project-title-info span.teacher-title {
-          color: rgb(3, 186, 211);
-          color: #1ABC9C;
-
-        }
-        .project-title-info span.visiting-title {
-          color: rgb(4, 172, 38);
-          color: #1ABC9C;
-
-        }
-        .project-title-info span.student-title {
-          color: rgb(255, 0, 82);
-          color: #1ABC9C;
-
-        }
-          .project-title-info span.teacher-title:hover {
-            border-bottom: 1px solid rgb(3, 186, 211);
-            cursor: pointer;
-
-          }
-          .project-title-info span.visiting-title:hover {
-            border-bottom: 1px solid rgb(4, 172, 38);
-            cursor: pointer;
-
-          }
-          .project-title-info span.student-title:hover {
-            border-bottom: 1px solid rgb(255, 0, 82);
-            cursor: pointer;
-
-          }
           .project-info {
             margin-top: 10px;
           }
@@ -1139,8 +1116,9 @@ img.press-sites {
   width: 100%;
 }
 .project-info p {
-  font-size: .35em;
+  font-size: .5em;
   margin: 0;
+  font-family: 'Apercu', 'Helvetica Neue', 'Arial', sans-serif;
 }
 .project-info p.notes {
   display: inline-block;
@@ -1184,8 +1162,8 @@ img.press-sites {
 article.people {
   margin:  0 0 30px 0;
   width: 300px;
-  height: 100px;
-  overflow: hidden;
+  /*height: 100px;*/
+  /*overflow: hidden;*/
 
   display: flex;
   display: -webkit-flex;
@@ -1239,17 +1217,18 @@ article.people {
     .people-title-info p:nth-child(1) {
       color: #1ABC9C;
       margin: -2px 0 3px 8px;
-      font-size: .45em;
+      font-size: .6em;
     }
-      .people-title-info p:nth-child(1):hover {
-        color: rgba(0, 0, 0, 0.3); /* LIGHT GRAY */
-        margin: -2px 0 3px 8px;
-        font-size: .45em;
+      .people-title-info p:nth-child(1) a {
+        text-decoration: none;
+      }
+      .people-title-info p:nth-child(1) a:hover {
+        text-decoration: underline;
       }
     .people-title-info p:nth-child(2), .people-title-info p:nth-child(3) {
       margin: 0 0 3px 8px;
-      font-size: .3em;
-      color: black;
+      font-size: .4em;
+      color: #2c3e50;
     }
       .people-title-info span {
         color: rgb(255, 0, 82);
@@ -1273,14 +1252,11 @@ article.people {
           .people-info {
             margin: 0 0 0 8px;
           }
-    .people-title-info p:hover {
-      cursor: pointer;
-    }
 .people-info-preview {
   width: 100%;
 }
 .people-info p {
-  font-size: .35em;
+  font-size: .45em;
   margin: 0;
 }
 .people-info p.notes {
@@ -1319,6 +1295,7 @@ article.people {
 
 .profile {
   margin:  0 0 30px 0;
+  width: 100%;
 
   display: flex;
   display: -webkit-flex;
@@ -1330,21 +1307,28 @@ article.people {
   -moz-flex-direction: column;
   -ms-flex-direction: column;
 
-  align-items: flex-end;
+  /*align-items: flex-end;
   -webkit-align-items: flex-end;
   -moz-align-items: flex-end;
-  -ms-align-items: flex-end;
+  -ms-align-items: flex-end;*/
 }
   .profile-flex-wrapper {
+    margin: 0 10px;
+
+    flex: 1 0 0;
+    -webkit-flex: 1 0 0;
+    -moz-flex: 1 0 0;
+    -ms-flex: 1 0 0;
+
     display: flex;
     display: -webkit-flex;
     display: -moz-flex;
     display: -ms-flex;
 
     flex-direction: row;
-    -webkit-flex-direction: row;
-    -moz-flex-direction: row;
-    -ms-flex-direction: row;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
   }
   .profile-info-flex-wrapper {
     display: flex;
@@ -1386,21 +1370,21 @@ article.people {
       margin-bottom: 10px;
     }
 .profile-image {
-  min-width: 300px;
+  /*min-width: 300px;
   max-height: 300px;
-  min-height: 300px;
+  min-height: 300px;*/
   background-color: white;
   position: relative;
 
-  display: flex;
+/*  display: flex;
   display: -webkit-flex;
   display: -moz-flex;
-  display: -ms-flex;
+  display: -ms-flex;*/
 
-  flex: 1 0 0;
+/*  flex: 1 0 0;
   -webkit-flex: 1 0 0;
   -moz-flex: 1 0 0;
-  -ms-flex: 1 0 0;
+  -ms-flex: 1 0 0;*/
 }
   .profile-image p {
     width: 100%;
@@ -1435,12 +1419,12 @@ article.people {
     padding: 0;
   }
     .profile-title-info p:nth-child(1) {
-      margin: -2px 0 3px 8px;
-      font-size: .75em;
+      margin: 5px 0 3px 0;
+      font-size: .8em;
     }
     .profile-title-info p:nth-child(2), .profile-title-info p:nth-child(3), .profile-title-info p:nth-child(4), .profile-title-info p:nth-child(5) {
-      margin: 0 0 3px 8px;
-      font-size: .4em;
+      /*margin: 0 0 3px 8px;*/
+      font-size: .5em;
       color: black;
     }
       .profile-title-info span {
@@ -1451,13 +1435,13 @@ article.people {
           text-decoration: none;
         }
           .profile-info {
-            margin: 0 0 0 8px;
+            /*margin: 0 0 0 8px;*/
           }
 .profile-info-preview {
   width: 100%;
 }
 .profile-info p {
-  font-size: .4em;
+  font-size: .5em;
   margin: 20px 0;
 }
 .profile-info p.notes {
@@ -1927,9 +1911,9 @@ footer {
   .mission.p-wrapper p { margin: 0 10px 10px 0; }
   .faq.p-wrapper div:first-child { margin: 0 20px 0 10px; }
   .faq.p-wrapper div { margin: 0 10px 0 10px; }
-  .student-wrapper { margin: 0 10px; min-width: 100%; max-width: 100%; }
   .grid-wrapper { margin: 0 10px; min-width: 100%; max-width: 100%; }
   .content-wrapper.classes { max-width: 100%; margin: 0 10px;}
+  .project { margin: 0 10px 30px 10px;}
   footer .centering-wrapper-row { min-width: 100%; max-width: 100%; }
   footer .subscribe-module { margin-left: 10px; }
   footer div.space-between div:first-child { margin-left: 10px; }
@@ -2129,4 +2113,15 @@ footer {
   content: "";
   display: table;
   clear: both;
+}
+@media (min-width: 1000px) {
+  .profile-flex-wrapper { margin: 0;}
+}
+
+@media (min-width: 640px) {
+  .profile-flex-wrapper { flex-direction: row;}
+  .profile-image { height: 300px;}
+  .profile-image img { width: 100%; }
+  .profile-info-flex-wrapper { margin: 0 0 0 10px;}
+  .profile-title-info p:nth-child(1) { margin-top: 0;}
 }

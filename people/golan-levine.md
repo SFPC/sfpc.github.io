@@ -11,4 +11,3 @@ github:
 website:
 place:
 ---
-Lorem Ipsum
