@@ -267,8 +267,8 @@ nav ul li a {
     margin-left: 0;
   }
   .mission.p-wrapper {
-    font-family: 'Apercu', 'Helvetica Neue', sans-serif;
-    font-size: .9em;
+    font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-size: .85em;
 
     flex-direction: column;
     -webkit-flex-direction: column;
@@ -292,6 +292,7 @@ nav ul li a {
 
   /* FAQ */
   .faq.centering-wrapper {
+    margin: 0 auto;
     width: 80%;
   }
   .faq.p-wrapper {
@@ -549,6 +550,7 @@ img.press-sites {
 /* STUDENTS */
 
 .grid-wrapper {
+  margin: 0 auto;
   position: relative;
   width: 80%;
   max-width: 80%;
@@ -743,6 +745,7 @@ img.press-sites {
 
 /* CLASSES */
 .content-wrapper.classes {
+  margin: 0 auto;
   max-width: 80%;
   color: #2c3e50;
   font-family: 'Apercu', 'Helvetica Neue', sans-serif;
@@ -1420,6 +1423,17 @@ article.people {
   width: 20px;
   height: 20px;
   background: red;
+}
+
+
+/* PARTICIPATE */
+
+#participate .centering-wrapper {
+  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  width: 80%;
+  margin: 0 auto;
+  font-size: .8em;
+  /*background: red;*/
 }
 
 

@@ -4,7 +4,7 @@ layout: default
 group: main-nav
 slug: participate
 ---
-<div>
+<div class="centering-wrapper">
 ## Open Calls
 
 We are not accepting applications right now. Stay tuned on our mailing list for future sessions.
