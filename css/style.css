@@ -635,7 +635,7 @@ img.press-sites {
 }
   .student-details p {
     width: 280px;
-    font-size: .4em;
+    font-size: .6em;
   }
 
 /* UPDATES & BLOG POTENTIAL STYLING */
@@ -856,7 +856,7 @@ img.press-sites {
   -ms-flex: 1 0 0;
 }
   .content-details.classes.participating-people b {
-    font-size: 0.6em;
+    font-size: 0.8em;
   }
   .content-details.classes.participating-people.teachers {
     order: 2;
@@ -933,7 +933,7 @@ img.press-sites {
         box-sizing: border-box;
       }
   .content-details.classes.participating-people.courses ul li, .content-details.classes.participating-people.workshops ul li {
-    font-size: 0.6em;
+    font-size: 0.65em;
     margin: 0;
     padding: 0;
     width: 100%;
@@ -1314,7 +1314,7 @@ article.people {
 .profile-title-info {
   width: 100%;
   background-color: white;
-  color: black;
+  color: #2c3e50; /* DARK BLUE */
 
   display: flex;
   display: -webkit-flex;
@@ -1342,7 +1342,7 @@ article.people {
     }
     .profile-title-info p:nth-child(2), .profile-title-info p:nth-child(3), .profile-title-info p:nth-child(4), .profile-title-info p:nth-child(5) {
       /*margin: 0 0 3px 8px;*/
-      font-size: .5em;
+      font-size: .6em;
       color: black;
     }
       .profile-title-info span {
@@ -1359,7 +1359,7 @@ article.people {
   width: 100%;
 }
 .profile-info p {
-  font-size: .5em;
+  font-size: .6em;
   margin: 20px 0;
 }
 .profile-info p.notes {
@@ -1422,7 +1422,7 @@ article.people {
 /* FRIENDS */
 
 #friends article {
-  background: yellow;
+  /*background: yellow;*/
 }
 
 /*.student-image.organization {
