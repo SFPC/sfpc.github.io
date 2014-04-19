@@ -8,26 +8,28 @@
 	<link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
 	<title>{% if page.title %}{{page.title}} | {% endif %}School for Poetic Computation</title>
 </head>
-<body>
+<body id="{% if page.slug %}{{ page.slug }}{% endif %}">
+<a id="nav-jump" href="#main-nav">
+	{% if page.slug == "home" %}
+	<span id="abbrev">SFPC</span>
+	<span id="full">School for Poetic Computation</span>
+	{% else %}
+	{{ page.title }}
+	{% endif %}
+	&nbsp;&nbsp;<span class="depravedhamburger">&#9776;</span></a>
+<section class="container {% if page.parent-height %} {{page.parent-height}} {% endif %}">
 	<header>
-		{% include header.html %}
+		{% include nav.html %}
 	</header>
-	<article class="container {% if page.parent-height %} {{page.parent-height}} {% endif %}">
-		{% if page.group != "people"%}
-		<section class="current-tab">
-			<div class="centering-wrapper">
-				<h3>{{page.title}}</h3>
-			</div>
-		</section>
-		{% endif %}
-
-		<section class="content-wrapper">
-			{{content}}
-		</section>
-	</article>
-
+	<article class="content-wrapper">
+		{{content}}
+	</section>
 	<footer>
 		{% include footer.html %}
+		<a name="main-nav">
+			{% include nav.html %}
+		</a>
 	</footer>
+</article>
 </body>
 </html>

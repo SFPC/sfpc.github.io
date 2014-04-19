@@ -2,8 +2,9 @@
 title: Participate
 layout: default
 group: main-nav
+slug: participate
 ---
-
+<div>
 ## Open Calls
 
 We are not accepting applications right now. Stay tuned on our mailing list for future sessions.
@@ -81,5 +82,4 @@ The school aims to be more than a technical bootcamp. It is an opportunity to wo
  <img src="http://farm8.staticflickr.com/7346/10931588546_7c6c7bc7c1_z.jpg" width="600">
 
  *Fall 2013 student Simona de Rosa's Tasted project*
-
- ##
+</div>

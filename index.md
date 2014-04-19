@@ -3,6 +3,7 @@ title: Home
 layout: default
 group: main-nav
 parent-height: full-height
+slug: index
 ---
 
 <section class="intro">
