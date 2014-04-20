@@ -1321,9 +1321,9 @@ article.people {
   }
     .profile-title-info p:nth-child(1) {
       margin: 5px 0 3px 0;
-      font-size: .8em;
+      font-size: 1em;
     }
-    .profile-title-info p:nth-child(2), .profile-title-info p:nth-child(3), .profile-title-info p:nth-child(4), .profile-title-info p:nth-child(5) {
+    .profile-title-info p:nth-child(2), .profile-title-info p:nth-child(3), .profile-title-info p:nth-child(4), .profile-title-info p:nth-child(5), .profile-title-info p:nth-child(6) {
       /*margin: 0 0 3px 8px;*/
       font-size: .6em;
       color: black;
