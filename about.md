@@ -2,6 +2,7 @@
 title: About
 layout: default
 group: main-nav
+slug: about
 ---
 
 ## About

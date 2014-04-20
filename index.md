@@ -1,11 +1,11 @@
 ---
 title: Home
-layout: index
+layout: default
 group: main-nav
+parent-height: full-height
+slug: index
 ---
 
-![](/img/slides/pushPixel.jpg)
+**School for Poetic Computation** is an artist run school in New York that was founded in 2013. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory — focusing especially on artistic intervention. It's a hybrid of a school, residency and research group.
 
-<p id="paragraph-test">School for Poetic Computation is an artist run school in New York that was founded in 2013. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory -- focusing especially on artistic intervention. It's a hybrid of residency and research group that happen in different length and multiple times per year. Our motto is: more poems less demos. We are now calling for students in new two weeks program starting in May of 2014.</p>
-
-
+_Our motto is: **more poetry, less demo**_
