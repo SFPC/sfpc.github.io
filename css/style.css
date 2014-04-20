@@ -18,7 +18,7 @@ html {
   -webkit-text-size-adjust:none;
 }
 body {
-  font-family:'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   margin: 0;
   padding:0;
   background: white;
@@ -840,6 +840,7 @@ img.press-sites {
 }
   .content-details.classes.participating-people b {
     font-size: 0.8em;
+    font-family: 'Apercu Bold', 'Helvetica Neue Bold', 'Helvetica Bold','Arial Bold';
   }
   .content-details.classes.participating-people.teachers {
     order: 2;
@@ -903,18 +904,27 @@ img.press-sites {
         padding: 0;
         height: 25px;
       }
-    .content-details.classes.participating-people ul li a {
+    /*.content-details.classes.participating-people ul li a {
       margin-right: 5px;
       text-decoration: none;
       font-size: 0.65em;
+      color: #2c3e50;
     }
       .content-details.classes.participating-people ul li a:hover {
-        /*border-bottom: 1px solid #1ABC9C;*/
         text-decoration: underline;
         -moz-box-sizing: border-box;
         -webkit-box-sizing: border-box;
         box-sizing: border-box;
-      }
+        pointer-events: none;
+        cursor: default;
+      }*/
+
+      .content-details.classes.participating-people ul li span {
+      margin-right: 5px;
+      text-decoration: none;
+      font-size: 0.65em;
+      color: #2c3e50;
+    }
   .content-details.classes.participating-people.courses ul li, .content-details.classes.participating-people.workshops ul li {
     font-size: 0.65em;
     margin: 0;
