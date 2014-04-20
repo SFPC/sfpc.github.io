@@ -1,34 +1,5 @@
 /* FONTS */
 
-/*@font-face {
-    font-family: 'Apercu-Italic';
-    src: url('../fonts/apercu-italic.woff') format('woff');
-}
-@font-face {
-    font-family: 'ApercuProRegular';
-    src: url('../fonts/apercu_regular_pro.eot');
-    src: url('../fonts/apercu_regular_pro.eot') format('embedded-opentype'),
-         url('../fonts/apercu_regular_pro.woff') format('woff'),
-         url('../fonts/apercu_regular_pro.ttf') format('truetype'),
-         url('../fonts/apercu_regular_pro.svg#ApercuProRegular') format('svg');
-}
-@font-face {
-    font-family: 'AkzidenzGrotesk-Bold';
-    src: url('../fonts/AkzidenzGrotesk-Bold.eot');
-    src: url('../fonts/AkzidenzGrotesk-Bold.eot') format('embedded-opentype'),
-         url('../fonts/AkzidenzGrotesk-Bold.woff') format('woff'),
-         url('../fonts/AkzidenzGrotesk-Bold.ttf') format('truetype'),
-         url('../fonts/AkzidenzGrotesk-Bold.svg#AkzidenzGrotesk-Bold') format('svg');
-}
-@font-face {
-    font-family: 'ApercuBold';
-    src: url('../fonts/apercubold.eot');
-    src: url('../fonts/apercubold.eot') format('embedded-opentype'),
-         url('../fonts/apercubold.woff') format('woff'),
-         url('../fonts/apercubold.ttf') format('truetype'),
-         url('../fonts/apercubold.svg#ApercuBold') format('svg');
-}*/
-
 
 /* RESET */
 p {
@@ -47,14 +18,14 @@ html {
   -webkit-text-size-adjust:none;
 }
 body {
-  font-family:'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family:'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   margin: 0;
   padding:0;
   background: white;
   height: 100%;
 }
 h1 {
-  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   margin: 0;
   padding: 0;
   color: black;
@@ -144,7 +115,7 @@ nav ul li a {
 }
 
 #index .index, #mission .mission, #faq .faq, #press .press, #classes .classes, #courses .courses, #workshops .workshops, #lectures .lectures, #people .people, #projects .projects, #blog .blog, #friends .friends, #participate .participate, #donate .donate {
-  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   color: #2c3e50; /* DARK BLUE */
   /*color: black;*/
 }
@@ -189,7 +160,7 @@ nav ul li a {
     position: relative;
     width: 100%;
     height: 100px;
-    font-family: 'ApercuBold','Helvetica Neue', sans-serif;
+    font-family: 'Apercu RegularBold','Helvetica Neue', sans-serif;
     font-size: 1.5em;
     color: #2c3e50;
 
@@ -276,7 +247,7 @@ nav ul li a {
     margin-left: 0;
   }
   .mission.p-wrapper {
-    font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
     font-size: .85em;
 
     flex-direction: column;
@@ -341,7 +312,7 @@ nav ul li a {
       width: auto;
       margin-left: 0;
       font-size: .9em;
-      font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+      font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
       color: #2c3e50;
     }
 .about-wrapper {
@@ -413,13 +384,13 @@ nav ul li a {
   -webkit-margin-after: 0.5em;
 }
   .centering-wrapper p.faq {
-    font-family: 'Apercu-Italic', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Apercu Regular-Italic', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   }
 .centering-wrapper h3 {
   margin: 0;
 }
 .centering-wrapper h4 {
-  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-size: 1.5em;
   color: #2c3e50;
   margin: 20px 0 0 0;
@@ -429,7 +400,7 @@ nav ul li a {
   margin-top: 1em;
   -webkit-margin-after: 0;
   -webkit-margin-before: 1em;
-  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   color: #2c3e50;
 }
 
@@ -490,7 +461,7 @@ img.press-sites {
   text-align: center;
   color: white;
   font-size: 1em;
-  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
   img.press-sites:hover {
     cursor: pointer;
@@ -547,7 +518,7 @@ img.press-sites {
     width: 80%;
   }
 .content-wrapper {
-  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-size: 1.1em;
   color: #2c3e50; /* DARK BLUE */
 }
@@ -761,7 +732,7 @@ img.press-sites {
   margin: 0 auto;
   max-width: 80%;
   color: #2c3e50;
-  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 
   flex-direction: column;
   -webkit-flex-direction: column;
@@ -1018,7 +989,7 @@ img.press-sites {
   -ms-align-items: flex-start;
 }
   .project-title-info p {
-    font-family: 'Apercu','Helvetica Neue', sans-serif;
+    font-family: 'Apercu Regular','Helvetica Neue', sans-serif;
     margin-top: 0;
     padding: 0;
   }
@@ -1055,7 +1026,7 @@ img.press-sites {
 .project-info p {
   font-size: .55em;
   margin: 0;
-  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
 .project-info p.notes {
   display: inline-block;
@@ -1147,7 +1118,7 @@ article.people {
   -ms-align-items: flex-start;
 }
   .people-title-info p {
-    font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
     margin-top: 0;
     padding: 0;
   }
@@ -1344,7 +1315,7 @@ article.people {
   -ms-align-items: flex-start;
 }
   .profile-title-info p {
-    font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
     margin-top: 0;
     padding: 0;
   }
@@ -1452,7 +1423,7 @@ article.people {
 /* PARTICIPATE */
 
 #participate .centering-wrapper {
-  font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   width: 100%;
   margin: 0 auto;
   font-size: .9em;
@@ -1503,7 +1474,7 @@ footer {
     margin-left: 10px;
     min-width: 300px;
     max-width: 300px;
-    font-family: 'Apercu', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Apercu Regular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 
     align-items: flex-start;
     -webkit-align-items: flex-start;
@@ -2099,5 +2070,6 @@ footer {
   .project { width: 300px;}
   article.people { width: 300px;}
   #participate .centering-wrapper { width: 80%;}
+  footer .centering-wrapper-row { margin-top: 50px;}
   /*body#index article.motto { margin-top: 25%;}*/
 }
