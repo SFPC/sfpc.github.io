@@ -4,7 +4,7 @@ layout: person
 group: people
 affiliation:
 - class: Spring 2014
-  role: Student
+  role: Teacher
 picture: /img/people/taeyoon_choi.jpeg
 twitter:
 github:
