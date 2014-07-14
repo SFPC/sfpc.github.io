@@ -7,4 +7,4 @@ author: Syd Lieberman
 picture: /img/lectures/syd_lieberman.jpg
 notes-link:
 ---
-Amazing storyteller Cid Lieberman, teaches us about the power of stories, memory, and voice.
+Amazing storyteller Syd Lieberman, teaches us about the power of stories, memory, and voice.
