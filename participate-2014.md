@@ -8,7 +8,7 @@ slug: participate
 
 <img src="http://sfpc.io/img/SPCPicket.jpg" width="640">
 
-## Spring 2014 Session
+## Fall 2014 Session
 
 School for poetic computation(SFPC) will host an intensive ten weeks session in New York City from October 1st - Dec 12. SFPC is an ideal environment for students to develop and further a deep curiosity of what it means to work poetically in computational media.
 
