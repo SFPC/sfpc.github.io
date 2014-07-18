@@ -55,9 +55,13 @@ Please apply here! In the past, we received 60+ strong applications and we assum
 SFPC is an alternative model for art and technology education. We are striving to create a new kind of school through collaboration between faculty and students. By participating you will be actively shaping an emerging culture of open source and transparent education. 
 
 You can read some articles about the kind of work that's developed at SFPC: <a href="https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html">Yahoo Tech</a>, video sketch of the final day at <a href="https://vialogues.com/vialogues/play/14021"> Seen in NY</a> and also students' response to the school can be found here: <a href="http://uncommonplaces.com/2014/06/school-poetic-computation/">Ida's post</a>, <a href="http://www.thehacktory.org/the-school-for-poetic-computation/">Lee's post</a>
+
+<br/>
+<br/>
+<br/>
+<br/>
  
 **Some pictures from previous classes**
-
 
 <img src="https://farm6.staticflickr.com/5165/14025742715_fd5f2a794d_z.jpg" width="640" height="427" alt="sfpc-0239">
 
