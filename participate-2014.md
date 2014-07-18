@@ -24,9 +24,6 @@ Feel free to reach out to us if you have questions about the school: info@sfpc.i
 
 **Who is going to teach?**
 
-Benedetto,Brain,Burtch,Choi,Lieberman,Nasser,Pitaru
-
-
 <a href="http://thesystemis.com/">Zachary Lieberman</a>, <a href="http://taeyoonchoi.com">Taeyoon Choi</a>, <a href="http://tegabrain.com">Tega Brain</a>, <a href="nas.sr/">Ramsey Nasser</a>, <a href="www.allisonburtch.net/">Allison Burtch</a>, <a href="http://uncommonplaces.com/">Ida Benedetto</a>, <a href="http://www.pitaru.com">Amit Pitaru</a>, as well as a variety of other workshop leaders and visiting artists.  
 
 **What will happen in ten weeks?**
@@ -74,14 +71,13 @@ Seo, Alex and Alex hanging out in the backyard.
 
 Diana, from students presentation in the first day.  
 
-<img src="https://farm3.staticflickr.com/2902/14026109874_113d0d4a18_z.jpg" width="640" height="427" alt="sfpc-0008"></a>
+<img src="https://farm3.staticflickr.com/2902/14026109874_113d0d4a18_z.jpg" width="640" height="427" alt="sfpc-0008">
 
 Daniel's open mouth moment of 'Wow!' 
 
- <img src="https://farm6.staticflickr.com/5569/14498712358_0e807d8d69_z.jpg" width="640" height="427" alt="sfpc-0111"> 
+<img src="https://farm6.staticflickr.com/5569/14498712358_0e807d8d69_z.jpg" width="640" height="427" alt="sfpc-0111"> 
 
 Zach in class. 
-
 
 <img src="https://farm8.staticflickr.com/7439/14145670224_536bca3b6e_z.jpg" width="640" height="427" alt="IMG_1157">
 
@@ -90,7 +86,6 @@ Poet, Kenneth Goldsmith presenting a piece at the final event for spring session
 <img src="https://farm8.staticflickr.com/7317/14165504353_4fba48bff1_z.jpg" width="640" height="427" alt="IMG_1241">
  
 Slide from Firm's presentation. We don't have homeworks, but propositions. 
-
 
 <img src="http://farm4.staticflickr.com/3687/11058967193_ef3456e12a_z.jpg" width="600">
  
