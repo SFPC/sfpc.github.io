@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/css/style.css">
+	<style type="text/css">
+
+	.centering-wrapper {
+	max-width:650px;
+	}
+
+	</style>
+	<title>{% if page.title %}{{page.title}} | {% endif %}School for Poetic Computation</title>
+</head>
+<body id="{% if page.slug %}{{ page.slug }}{% endif %}">
+<a id="nav-jump" href="#main-nav">
+	{% if page.slug == "index" %}
+	<span id="abbrev">SFPC</span>
+	<span id="full">School for Poetic Computation</span>
+	{% else %}
+	{{ page.title }}
+	{% endif %}
+	&nbsp;&nbsp;<span class="depravedhamburger">&#9776;</span></a>
+<section class="container {% if page.parent-height %} {{page.parent-height}} {% endif %}">
+	<header class="group">
+		{% include nav.html %}
+	</header>
+	<article class="content-wrapper {% if page.slug == "index" %} {{'motto'}} {% endif %}">
+		{{content}}
+	</section>
+	<footer>	
+		<a name="main-nav">
+			{% include nav.html %}
+		</a>
+		{% include footer.html %}
+	</footer>
+</article>
+
+<script type="text/javascript">
+WebFontConfig = { fontdeck: { id: '39609' } };
+
+(function() {
+  var wf = document.createElement('script');
+  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+  wf.type = 'text/javascript';
+  wf.async = 'true';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(wf, s);
+})();
+</script>
+
+</body>
+
+</html>
