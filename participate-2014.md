@@ -12,7 +12,7 @@ slug: participate
 
 School for poetic computation(SFPC) will host an intensive ten weeks session in New York City from October 1st - Dec 12. SFPC is an ideal environment for students to develop and further a deep curiosity of what it means to work poetically in computational media.
 
-SFPC is not a technical bootcamp.  Rather, it is an opportunity to work intensively with a small group of faculty, visiting artists and peers to explore artistic freedom through computation. Computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation. 
+SFPC is not a technical bootcamp. Rather, it is an opportunity to work intensively with a small group of faculty, visiting artists and peers to explore artistic freedom through computation. Computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation. 
 
 SFPC has held two successful sessions to date, a ten week course in Fall 2013 that culminated in an exhibition at <a href="http://eyebeam.org/">Eyebeam Art and Technology Center</a>, and two week session in Spring of 2014 held at <a href="http://orbitalnyc.com/">Orbital</a> in Lower East Side. 
 
@@ -24,7 +24,10 @@ Feel free to reach out to us if you have questions about the school: info@sfpc.i
 
 **Who is going to teach?**
 
-<a href="http://thesystemis.com/">Zachary Lieberman</a>, <a href="http://taeyoonchoi.com">Taeyoon Choi</a>, <a href="http://www.pitaru.com">Amit Pitaru</a>, <a href="http://tegabrain.com">Tega Brain</a>, <a href="nas.sr/">Ramsey Nasser</a>, <a href="www.allisonburtch.net/">Allison Burtch</a>, <a href="http://uncommonplaces.com/">Ida Benedetto</a>, as well as a variety of other workshop leaders and visiting artists.  
+Benedetto,Brain,Burtch,Choi,Lieberman,Nasser,Pitaru
+
+
+<a href="http://thesystemis.com/">Zachary Lieberman</a>, <a href="http://taeyoonchoi.com">Taeyoon Choi</a>, <a href="http://tegabrain.com">Tega Brain</a>, <a href="nas.sr/">Ramsey Nasser</a>, <a href="www.allisonburtch.net/">Allison Burtch</a>, <a href="http://uncommonplaces.com/">Ida Benedetto</a>, <a href="http://www.pitaru.com">Amit Pitaru</a>, as well as a variety of other workshop leaders and visiting artists.  
 
 **What will happen in ten weeks?**
 
@@ -122,37 +125,4 @@ Fall 2013 students working together.
 Fall 2013 student Simona de Rosa's Tasted project. 
 
 
-
-<div>
-<h2 id="student">Student Participant</h2>
-<p>The school for poetic computation will host an intensive two week session in New York City. The spring term will run from April 20th~May 4th and will be a space for students to develop a deep curiosity of what it means to work creatively in all forms of computational media.</p>
-<p>The school aims to be more than a technical bootcamp. It is an opportunity to work intensively with a small group of students, faculty and artists to explore questions about the poetics of computation. For us, computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation.</p>
-<p>We are looking for participants from diverse backgrounds: artists, hackers, educators, writers and anyone with a passion for creative computation. Our only expectation is that you are eager to experiment, can learn from failure, and come fully dedicated to this two week experience. The program will include ten workshops and a daily lecture series exploring programming, physical computing and history of media art. Sessions will be lead by the school's founders and visiting artists and technologists including several alumni from the school's first class.</p> 
-</div>
-<div>
-<p>SFPC is an alternative model for art and technology education. We are striving to create a new kind of school through collaboration between faculty and students. By participating you will be actively shaping an emerging culture of opensource and transparent education. This spring intensive is our next step in sharing the school's mission with a growing community of those who are always curious. We will work from a new space in Brooklyn and are also planning a second full time, 10 week program to start in September of 2014.</p>
-<!-- <div class="apply-box">APPLY</div> -->
-</div>
-
-
-
-
-<div>
-<h2 id="teacher">Teacher Participant</h2>
-
-<p>We are open to your ideas for workshops and lectures for the upcoming fall 2014 and spring 2015 session. We try to do our best in arranging artist, poets and creative engineers to visits the school and meet with smaller groups of students over one or more days. We are always searching for new collaborators to shape the school to become diverse place. If you are inspired to become a part of this community or wish to continue contributing to it, please contact us directly. info@sfpc.io </p>
-</div>	
-
-
-<div>
-<h2 id="sponsor">Provide Sponsorship</h2>
-<p><b>School for Poetic Computation</b> is a cooperative education program initiated by SFPC.LLC, it was founded in 2013 by a group of artists.</p>
-<p>We are not registered as a non-profit organization and we are also not a business running for profit. We value transparency in education and administration. After covering our costs, we pass on any additional support to our students in the form of reduced fees. This is shown in our financial record from the fall 2013 session is available here. Our aim is to provide the best possible learning experience for our students and teaching experience for our teachers.  Our tuition is already subsidized thanks to some of our teachers donating their fees back to the school and thanks to the generous support of our friends and colleagues in the form of time, visits, mentoring etc.</p>
-<p>At the moment we are actively looking for corporate sponsors and individual donors. While we charge tuition to our students, we still need help with raising funds to rent a space for 20 people, pay an administrator and an accountant. We are not trying to grow in scale, but want to deepen our capacity to teach and to build up facilities available to teachers and students in the form of equipment and insurance. Help us become an inspiring model for what an art and technology education can be. </p>
-<p>To provide support to the school for poetic computation, please contact admin@sfpc.io for more details. </p>
-<p>We are also able to receive tax deductible donation through our fiscal sponsor, Eyebeam Art and Technology Center.</p>
-</div>
-
-
-
-</div>
+ 
