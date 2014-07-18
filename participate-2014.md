@@ -1,6 +1,6 @@
 ---
 title: Participate 2014
-layout: default
+layout: default-fixed-width
 group: main-nav
 slug: participate
 ---
