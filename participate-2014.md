@@ -62,9 +62,6 @@ You can read some articles about the kind of work that's developed at SFPC: <a h
 <br/>
  
 **Some pictures from previous classes**
-<<<<<<< HEAD
- <object width="640" height="533"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F77364911%40N08%2Fsets%2F72157645752997831%2Fshow%2F&page_show_back_url=%2Fphotos%2F77364911%40N08%2Fsets%2F72157645752997831%2F&set_id=72157645752997831&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F77364911%40N08%2Fsets%2F72157645752997831%2Fshow%2F&page_show_back_url=%2Fphotos%2F77364911%40N08%2Fsets%2F72157645752997831%2F&set_id=72157645752997831&jump_to=" width="640"  ></embed></object>
-=======
 
 <img src="https://farm6.staticflickr.com/5165/14025742715_fd5f2a794d_z.jpg" width="640" height="427" alt="sfpc-0239">
 
@@ -128,4 +125,3 @@ Fall 2013 student Simona de Rosa's Tasted project.
 
 
  
->>>>>>> a251d8ed9993ef40258118a9aa6a700a08269c1b
