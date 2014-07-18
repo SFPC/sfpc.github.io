@@ -73,6 +73,7 @@ nav {
   background: white;
   border-top:2px solid #1ABC9C;
 }
+
 nav h2 {
   padding:1px 10px 5px 10px;
 }
@@ -80,6 +81,7 @@ nav h2 {
   display:block;
   margin:0 0 10px 0;
   padding:10px 0;
+
   color:#1ABC9C;
   text-decoration:none;
   border-bottom:2px solid #1ABC9C;
@@ -1458,7 +1460,8 @@ article.people {
 
 /* FOOTER */
 footer {
-
+padding-top: 100px;
+  color: #ccc;
   width: 100%;
   position: relative;
   z-index: 30;
@@ -1539,7 +1542,7 @@ footer {
     .form-flex {
       margin: 0;
       width: 100%;
-
+color: #ccc;
       display: flex;
       display: -webkit-flex;
       display: -moz-flex;
@@ -1558,7 +1561,7 @@ footer {
     }
       .form-flex input.text {
         border: none;
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid #ccc;
       }
         .form-flex div.flex-helper {
           display: flex;
@@ -1610,7 +1613,8 @@ footer {
 
       .form-flex input.btn {
         border: none;
-        border: 1px solid black;
+        color:#ccc;
+        border: 1px solid #ccc;
         background-color: white;
         cursor: pointer;
       }
@@ -2070,10 +2074,12 @@ footer {
 
 /* Clearfix */
 
+
 .group:after {
   content: "";
   display: table;
   clear: both;
+  padding-bottom: 30px;
 }
 @media (min-width: 1000px) {
   .profile-flex-wrapper { margin: 0;}
