@@ -6,7 +6,7 @@ slug: participate
 ---
 <div class="centering-wrapper">
 
-<a href="https://www.flickr.com/photos/77364911@N08/14683976861" title="SPCPicket by Taeyoon Choi, on Flickr"><img src="https://farm3.staticflickr.com/2915/14683976861_f034907cff_z.jpg" width="640" height="427" alt="SPCPicket"></a>
+<img src="http://sfpc.io/img/SPCPicket.jpg" width="640">
 
 ## Fall 2014 Session
 
