@@ -36,7 +36,6 @@ Feel free to reach out to us if you have questions about the school: info@sfpc.i
 
 * 15 participants in one session. 
 * 24/7 access to work space at Orbital, 155 Rivington Street, in Manhattan's Lower East Side.
-
 * Daily classes on programming, electronics, history and theory of computation with teachers. 
 * Teachers supporting participants with technical, conceptual and artistic guidance.
 * Workshops with visiting artists. 
