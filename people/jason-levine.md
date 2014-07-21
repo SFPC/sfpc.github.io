@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Student
 picture: /img/people/jason_levine.png
+pictureMed: /img/peopleMed/jason_levine.png
 twitter: xululululuuum
 github: jasonlevine
 website: http://jasonlevine.ca

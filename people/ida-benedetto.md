@@ -6,6 +6,7 @@ affiliation:
 - class: Spring 2014
   role: Student
 picture: /img/people/idabenedetto.jpg
+pictureMed: /img/peopleMed/idabenedetto.jpg
 twitter:
 github:
 website: http://uncommonplaces.com

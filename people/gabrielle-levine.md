@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Visitor
 picture: /img/people/gabriella_levine.png
+pictureMed: /img/peopleMed/gabriella_levine.png
 twitter:
 github:
 website:

@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Visitor
 picture: /img/people/eva_schindling.png
+pictureMed: /img/peopleMed/eva_schindling.png
 twitter:
 github:
 website:

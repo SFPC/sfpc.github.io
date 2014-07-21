@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Student
 picture: /img/people/jonathan_wohl.png
+pictureMed: /img/peopleMed/jonathan_wohl.png
 twitter: jonwohl
 github: jmwohl
 website: http://jonwohl.com

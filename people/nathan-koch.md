@@ -6,6 +6,7 @@ affiliation:
 - class: Spring 2014
   role: Student
 picture: /img/people/nathankoch.jpg
+pictureMed: /img/peopleMed/nathankoch.jpg
 twitter:
 github: nathankoch
 website: http://nathankoch.com

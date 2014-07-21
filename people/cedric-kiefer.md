@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Visitor
 picture: /img/people/cedrick_kiefer.png
+pictureMed: /img/peopleMed/cedrick_kiefer.png
 twitter:
 github:
 website:

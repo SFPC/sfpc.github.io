@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Student
 picture: /img/people/moises_sanabria.png
+pictureMed: /img/peopleMed/moises_sanabria.png
 twitter:
 github: moises404
 website: http://art404.com

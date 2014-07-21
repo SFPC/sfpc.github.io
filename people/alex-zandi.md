@@ -6,6 +6,10 @@ affiliation:
 - class: Spring 2014
   role: Student
 picture: /img/people/alexzandi.jpg
+pictureMed: /img/peopleMed/alexzandi.jpg
+pictureMed: /img/peopleMed/alexzandi.jpg
+pictureMed: /img/peopleMed/alexzandi.jpg
+pictureMed: /img/peopleMed/alexzandi.jpg
 twitter:
 github:
 website:

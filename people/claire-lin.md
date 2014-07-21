@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Student
 picture: /img/people/claire_lin.png
+pictureMed: /img/peopleMed/claire_lin.png
 twitter:
 github: clairelin
 website: http://portfolio.claireraelin.com

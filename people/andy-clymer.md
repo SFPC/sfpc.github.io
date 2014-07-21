@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Student
 picture: /img/people/andy_clymer.png
+pictureMed: /img/peopleMed/andy_clymer.png
 twitter: andyclymer
 github: andyclymer
 website: http://andyclymer.com

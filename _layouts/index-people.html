@@ -12,10 +12,10 @@ only create an article if its people -->
 		<article class="people">
 			<div class="people-image">
 			<!-- if makes things not render -->
-			{% if page.picture %}
-				<a href="{{page.url}}"><img src="{{page.picture}}" /></a>
+			{% if page.pictureMed %}
+				<a href="{{page.url}}"><img src="{{page.pictureMed}}" /></a>
 			{% else %}
-				<img src="/img/people/default.png" />
+				<img src="/img/peopleMed/default.png" />
 			{% endif %}
 			</div>
 			<div class="people-flex-wrapper">

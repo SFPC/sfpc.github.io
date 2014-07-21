@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Teacher
 picture: /img/people/amit_pitaru.jpg
+pictureMed: /img/peopleMed/amit_pitaru.jpg
 twitter:
 github:
 website:

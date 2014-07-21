@@ -6,6 +6,7 @@ affiliation:
 - class: Spring 2014
   role: Student
 picture: /img/people/default.png
+pictureMed: /img/peopleMed/default.png
 twitter: 2sman2sman
 github:
 website: http://leetusman.com

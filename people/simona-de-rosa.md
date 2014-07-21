@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Student
 picture: /img/people/simona_derosa.png
+pictureMed: /img/peopleMed/simona_derosa.png
 twitter: derosimona
 github: derosimona
 website: http://simonaderosa.tumblr.com

@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Student
 picture: /img/people/motoi_shimizu.png
+pictureMed: /img/peopleMed/motoi_shimizu.png
 twitter: motoishmz
 github: motoishmz
 website: http://nuafk.jp

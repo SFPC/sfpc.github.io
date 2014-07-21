@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Visitor
 picture: /img/people/joanne_mcneil.png
+pictureMed: /img/peopleMed/joanne_mcneil.png
 twitter:
 github:
 website:

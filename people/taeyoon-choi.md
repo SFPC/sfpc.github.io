@@ -6,6 +6,7 @@ affiliation:
 - class: Spring 2014
   role: Teacher
 picture: /img/people/taeyoon_choi.jpeg
+pictureMed: /img/peopleMed/taeyoon_choi.jpeg
 twitter:
 github:
 website:

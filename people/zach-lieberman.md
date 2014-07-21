@@ -8,6 +8,7 @@ affiliation:
   class: Spring 2014
   role: Teacher
 picture: /img/people/zach_lieberman.jpeg
+pictureMed: /img/peopleMed/zach_lieberman.jpeg
 twitter:
 github:
 website:

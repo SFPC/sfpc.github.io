@@ -6,6 +6,7 @@ affiliation:
 - class: Fall 2013
   role: Visitor
 picture: /img/people/lauren_mccarthy.png
+pictureMed: /img/peopleMed/lauren_mccarthy.png
 twitter:
 github:
 website:
