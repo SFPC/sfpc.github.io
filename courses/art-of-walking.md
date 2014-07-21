@@ -7,4 +7,4 @@ author: Taeyoon Choi
 picture: /img/courses/art_of_walking.jpg
 notes-link:
 ---
-Get out of the computer. See patterns in the city related to technology and society. Go to exhibitons.
+Walking, reading, writing and seeing patterns in the city and computation. Read works of Georges Perec and Walter Benjamin.   

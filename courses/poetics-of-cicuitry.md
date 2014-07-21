@@ -7,4 +7,4 @@ author: Taeyoon Choi
 picture: /img/courses/poetics_of_circuitry.jpg
 notes-link:
 ---
-Intro to circuits, learning binary, logic gates, and short history of physical computing.
+Hands on session for low level electronics: circuits, binary numbers, logic gates, sensors and actuators. Also an overview of analog/ digital computing.

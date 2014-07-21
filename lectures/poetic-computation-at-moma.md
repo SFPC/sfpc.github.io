@@ -1,10 +1,10 @@
 ---
-title: Artist Lecture on Balance
+title: Paola Antonell
 layout: lectures
 group: lectures
 date: Fall 2013
-author: Paula Antonelli
+author: Paola Antonelli
 picture: /img/lectures/paula_antonelli.jpg
 notes-link:
 ---
-Visit to Anotnelli’s to learn about the new acquisitions regarding games, technology and type at the MoMa, and the future of technology at the MoMa.
+SFPC visits Paola Anotnelli at MoMA s to learn about their new acquisitions including video games, technology. Talk abotu future of R&D department at MoMA. 

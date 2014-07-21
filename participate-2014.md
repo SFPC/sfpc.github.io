@@ -18,9 +18,9 @@ SFPC has held two successful sessions to date, a ten week course in Fall 2013 th
 
 The Fall 2014 and Spring 2015 sessions will, for the first time, focus on two areas of research which we are calling:new audiences and assistive technology.   
  
-On new audiences, we will be trying to answer the question, "how can we spread what we care about far and wide and to diverse new groups?" Students focused on this track will be engaged in teaching and designing tools, systems, and approaches to help bring poetic computation to far flung places. 
+With new audiences, we will be trying to answer the question, "how can we spread what we care about far and wide and to diverse new groups?" Students focused on this track will be engaged in teaching and designing tools, systems, and approaches to help bring poetic computation to far flung places. 
 
-On assistive technology, we will examine how computation and artistic works can be enabling forces, helping people overcome challenges, and offering new means of communication and expression. SFPC will be partnering with several institutions and individuals in the NYC area to explore and refine these approaches. 
+With assistive technology, we will examine how computation and artistic works can be enabling forces, helping people overcome challenges, and offering new means of communication and expression. SFPC will be partnering with several institutions and individuals in the NYC area to explore and refine these approaches. 
 
 The idea behind these interconnected "tracks" is to build on SFPC's core curriculum by exploring the common ground which we can take the ideas developed in our classroom space into the streets. We see them as platforms to help promote fearless prototyping, asking difficult questions and creating projects that embody issues that are not yet commonly addressed in the art / tech world.
  
@@ -50,7 +50,7 @@ We are looking for participants from diverse backgrounds: artists, programmers, 
 
 **How much is tuition?**
 
-Two weeks program will cost $5000 USD. The tuition goes to paying for space, teachers and materials. We value transparency in finance.
+Ten weeks program will cost $5000 USD. The tuition goes to paying for space, teachers and materials. We value transparency in finance.
 
 **Deadline is August 8th, 2014**
 

@@ -7,4 +7,4 @@ author: Ramsey Nasser
 picture: /img/lectures/ramsey_nasser.jpg
 notes-link:
 ---
-Ramsey took us through his history in learning to code through an amazing interactive presentation.
+Special lecture by Ramsey Nasser for the opening of SFPC. He told his history in learning to program and invent his own languages and tools.
