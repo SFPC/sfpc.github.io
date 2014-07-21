@@ -6,7 +6,7 @@ slug: participate
 ---
 <div class="centering-wrapper">
 
-<img src="http://sfpc.io/img/SPCPicket.jpg" width="640">
+<img src="../img/SPCPicket.jpg" width="640">
 
 ## Fall 2014 Session
 
@@ -60,28 +60,116 @@ Please <a href="https://docs.google.com/forms/d/1qKQj3CJ9_TVD7iQjLaRyljEAIMMmI1p
 
 SFPC is an alternative school for art and technology. We are striving to create a mode of education based on collaboration between faculty and students. By participating you will be actively shaping an emerging culture of open source and transparent education. 
 
-You can read some articles about the kind of work that's developed at SFPC: <a href="https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html">Yahoo Tech</a>, video sketch of the final day at <a href="https://vialogues.com/vialogues/play/14021"> Seen in NY</a> and also students' response to the school can be found here: <a href="http://uncommonplaces.com/2014/06/school-poetic-computation/">Ida's post</a>, <a href="http://www.thehacktory.org/the-school-for-poetic-computation/">Lee's post</a>
+You can read some articles about the kind of work that's developed at SFPC: <a href="https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html">Yahoo Tech</a>, video sketch of the final day at <a href="https://vialogues.com/vialogues/play/14021"> Seen in NY</a> and also students' reports on their time at the school can be found here: <a href="http://uncommonplaces.com/2014/06/school-poetic-computation/">Ida</a>, <a href="http://www.thehacktory.org/the-school-for-poetic-computation/">Lee</a>
 
 
 <br/>
 <br/>
-<br/>
-<br/>
 
- 
-**Some pictures and video from previous classes**
-<object width="600" height="475"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F77364911%40N08%2Fsets%2F72157645752997831%2Fshow%2F&page_show_back_url=%2Fphotos%2F77364911%40N08%2Fsets%2F72157645752997831%2F&set_id=72157645752997831&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F77364911%40N08%2Fsets%2F72157645752997831%2Fshow%2F&page_show_back_url=%2Fphotos%2F77364911%40N08%2Fsets%2F72157645752997831%2F&set_id=72157645752997831&jump_to=" width="600" height="475"></embed></object>
+<ul id="slideshow" style="padding-left: 0px;">					
+<li>
+		<img src="../img/slideshow/10294100174_6e384c2cc9_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10294117814_4afc45eed7_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10294204386_e26bd5b401_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10294593503_95c1e5e35f_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10295143366_55f3c78027_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10296039036_97ffc47f58_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10296239455_0b651224a2_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10933552824_7129c31680_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10933602015_1b03ac3138_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10933605686_99645d9d1c_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10933606935_f1cf1d193d_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10933632023_f87a4fa705_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10933666386_2e0a2acfb6_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/10933876403_cef896810a_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/11107493835_b3308fa736_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/11107607306_625826c86f_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/11107704765_37d6e24b47_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/11107746386_73827ce275_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/11107930636_e9346f283e_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/14025713955_9c0c50a49b_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/14025742715_1a81c342f8_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/14026101524_7bc30a0e6d_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/14026162024_d04a8f0568_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/14045667883_0178339cdf_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/14045672763_58deff7d7b_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/14045721593_5570c7d043_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/14498687340_877735e487_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/14498712358_cb1f048b84_o.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/diana.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/door.jpg" />
+	</li>
+<li>
+		<img src="../img/slideshow/kenneth.jpg" />
+	</li>
 
-<iframe src="//player.vimeo.com/video/86799888?title=0&amp;byline=0&amp;portrait=0" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/86799888"></p>
- 
-Make a game or tool to help others understand binary numbers. 
+<li>
+		<img src="../img/slideshow/packed.jpg" />
+	</li>
 
-<iframe src="//player.vimeo.com/video/94125713?title=0&amp;byline=0&amp;portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/94125713"></p>
+</ul>
 
-Hiro's work in progress during Spring 2014 
 
-<iframe src="//player.vimeo.com/video/81147226?title=0&amp;byline=0&amp;portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/81147226"></p>
 
-Tega's work in progress during Fall 2013 
 
+
+				
 

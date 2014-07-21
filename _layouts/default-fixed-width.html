@@ -4,6 +4,27 @@
 	<meta charset="utf-8">
 	<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript" src="/js/jquery.innerfade.js"></script>
+		
+		<script type="text/javascript">
+	   $(document).ready(
+				function(){
+					$('#slideshow').innerfade({
+						speed: 1000,
+						timeout: 5000,
+						type: 'sequence',
+						containerheight: '400px'
+					});
+
+			});
+  	</script>
+
+		<style type="text/css" media="screen, projection">
+					@import url(/css/jq_fade.css);
+		</style>	
+
 	<link rel="stylesheet" href="/css/style.css">
 	<style type="text/css">
 
@@ -30,6 +51,7 @@
 	<article class="content-wrapper {% if page.slug == "index" %} {{'motto'}} {% endif %}">
 		{{content}}
 	</section>
+
 	<footer>	
 		<a name="main-nav">
 			{% include nav.html %}
