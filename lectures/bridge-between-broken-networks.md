@@ -7,4 +7,4 @@ author: Dan Phiffer
 picture: /img/lectures/dan_phiffer.jpg
 notes-link:
 ---
-Dan Phiffer talks about his work and process that inspired him to make OccupyHere.org
+Dan Phiffer talked about his work and process that inspired him to make OccupyHere.org

@@ -7,4 +7,4 @@ author: Bret Victor
 picture: /img/lectures/bret_victor.jpg
 notes-link:
 ---
-Lecture on Poetry through interactive poems.
+Special presentation by Bret Victor on poetry, told through few interactive poems he's made.
