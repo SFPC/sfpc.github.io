@@ -30,7 +30,7 @@ Feel free to reach out to us if you have questions about the school: info@sfpc.i
 
 ##Who is going to teach?
 
-<a href="http://thesystemis.com/">Zachary Lieberman</a>, <a href="http://taeyoonchoi.com">Taeyoon Choi</a>, <a href="http://tegabrain.com">Tega Brain</a>, <a href="nas.sr/">Ramsey Nasser</a>, <a href="www.allisonburtch.net/">Allison Burtch</a>, <a href="http://uncommonplaces.com/">Ida Benedetto</a>, <a href="http://www.pitaru.com">Amit Pitaru</a>, as well as a variety of other workshop leaders and visiting artists.  
+<a href="http://thesystemis.com/">Zachary Lieberman</a>, <a href="http://taeyoonchoi.com">Taeyoon Choi</a>, <a href="http://tegabrain.com">Tega Brain</a>, <a href="http://nas.sr/">Ramsey Nasser</a>, <a href="http://www.allisonburtch.net/">Allison Burtch</a>, <a href="http://uncommonplaces.com/">Ida Benedetto</a>, <a href="http://www.pitaru.com">Amit Pitaru</a>, as well as a variety of other workshop leaders and visiting artists.  
 
 ## What will happen in ten weeks?
 
