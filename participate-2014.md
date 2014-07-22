@@ -62,7 +62,7 @@ Please <a href="https://docs.google.com/forms/d/1qKQj3CJ9_TVD7iQjLaRyljEAIMMmI1p
 
 SFPC is an alternative school for art and technology. We are striving to create a mode of education based on collaboration between faculty and students. By participating you will be actively shaping an emerging culture of open source and transparent education. 
 
-You can read some articles about the kind of work that's developed at SFPC: <a href="https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html">Yahoo Tech</a>, video sketch of the final day at <a href="https://vialogues.com/vialogues/play/14021"> Seen in NY</a> and also students' reports on their time at the school can be found here: <a href="http://uncommonplaces.com/2014/06/school-poetic-computation/">Ida</a>, <a href="http://www.thehacktory.org/the-school-for-poetic-computation/">Lee</a>. 
+You can read some articles about the kind of work that's developed at SFPC: <a href="https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html">Yahoo Tech</a>, video sketch of the final day at <a href="https://vialogues.com/vialogues/play/14021"> Seen in NY</a> and also students' reports on their time at the school can be found here: <a href="http://uncommonplaces.com/2014/06/school-poetic-computation/">Ida</a>, <a href="http://www.thehacktory.org/the-school-for-poetic-computation/">Lee</a>.
 
 
 <br/>
