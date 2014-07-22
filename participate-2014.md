@@ -8,7 +8,7 @@ slug: participate
 
 <img src="../img/SPCPicket.jpg" width="640">
 
-## Fall 2014 Session
+# Fall 2014 Session
 
 School for poetic computation(SFPC) will host an intensive ten weeks session in New York City from October 1st - Dec 12. SFPC is an ideal environment for students to develop and further a deep curiosity of what it means to work poetically in computational media.
 
@@ -28,11 +28,11 @@ Feel free to reach out to us if you have questions about the school: info@sfpc.i
 
 <img src="https://farm3.staticflickr.com/2910/14705490563_f740792bbd_z.jpg" width="640" height="132" alt="contact"> 
 
-**Who is going to teach?**
+##Who is going to teach?
 
 <a href="http://thesystemis.com/">Zachary Lieberman</a>, <a href="http://taeyoonchoi.com">Taeyoon Choi</a>, <a href="http://tegabrain.com">Tega Brain</a>, <a href="nas.sr/">Ramsey Nasser</a>, <a href="www.allisonburtch.net/">Allison Burtch</a>, <a href="http://uncommonplaces.com/">Ida Benedetto</a>, <a href="http://www.pitaru.com">Amit Pitaru</a>, as well as a variety of other workshop leaders and visiting artists.  
 
-**What will happen in ten weeks?**
+## What will happen in ten weeks?
 
 * 15 participants in one session. 
 * 24/7 access to work space at Orbital, 155 Rivington Street, in Manhattan's Lower East Side.
@@ -45,20 +45,20 @@ Feel free to reach out to us if you have questions about the school: info@sfpc.i
 * Weekly dinners with special guests. 
 * Peer to peer collaboration is highly encouraged among participants.
 
-**Who are we looking for?**
+## Who are we looking for?
 
 We are looking for participants from diverse backgrounds: artists, programmers, educators, writers and anyone with a passion to explore poetic computation. Our only expectation is that you are eager to experiment, can learn from failure, and come fully dedicated to this ten week experience.
 In the past, we have had students with diverse technical experiences and we were delighted to find out that everyone had something to learn from our classes and each other. A group of faculty leads a selection process that is based on applicant's answers to an application form, work samples, and short interviews. 
 
-**How much is tuition?**
+## How much is tuition?
 
 Ten weeks program will cost $5000 USD. The tuition goes to paying for space, teachers and materials. We think transparency in finance shares the spirit of transparency in education, and have been actively publishing our financial documents.  
 
-**Deadline is August 8th, 2014**
+## Deadline is August 8th, 2014
 
 Please <a href="https://docs.google.com/forms/d/1qKQj3CJ9_TVD7iQjLaRyljEAIMMmI1pdDFfK2Bdtziw/viewform?pli=1&edit_requested=true"> **apply here!**</a> In the past, we received 60+ strong applications and this time will likely be competitive as well. We select participants based on work sample and application form. We expect to notify the applicants by August 15th. Participants are expected to plan their travel and we do our best to help find accomondation.
 
-**What is School for poetic computation?**
+##What is the School for poetic computation?
 
 SFPC is an alternative school for art and technology. We are striving to create a mode of education based on collaboration between faculty and students. By participating you will be actively shaping an emerging culture of open source and transparent education. 
 
