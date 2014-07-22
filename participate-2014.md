@@ -18,7 +18,7 @@ SFPC has held two successful sessions to date, a ten week course in Fall 2013 th
 
 The Fall 2014 and Spring 2015 sessions will, for the first time, focus on two areas of research which we are calling:new audiences and assistive technology.   
  
-With new audiences, we will be trying to answer the question, "how can we spread what we care about far and wide and to diverse new groups?" Students focused on this track will be engaged in teaching and designing tools, systems, and approaches to help bring poetic computation to far flung places. 
+With new audiences, we will be trying to answer the question, "how can we spread what we care about far and wide and to diverse new groups?" Students focused on this track will be engaged in teaching and designing tools, systems, and approaches to help bring poetic computation to far flung places and communities. 
 
 With assistive technology, we will examine how computation and artistic works can be enabling forces, helping people overcome challenges, and offering new means of communication and expression. SFPC will be partnering with several institutions and individuals in the NYC area to explore and refine these approaches. 
 
@@ -36,8 +36,9 @@ Feel free to reach out to us if you have questions about the school: info@sfpc.i
 
 * 15 participants in one session. 
 * 24/7 access to work space at Orbital, 155 Rivington Street, in Manhattan's Lower East Side.
-* Daily classes on programming, electronics, history and theory of computation with teachers. 
-* Teachers supporting participants with technical, conceptual and artistic guidance.
+* Daily classes on programming, electronics, history and theory of computation and related topics.
+* Classes vary in length and they are usually held from Monday ~ Friday between 10AM and 5PM. 
+* Teachers and mentors availiable for technical, conceptual and artistic guidance.
 * Workshops with visiting artists. 
 * Visits to institutions, schools and art spaces.  
 * Reading and discussion group.
@@ -46,21 +47,22 @@ Feel free to reach out to us if you have questions about the school: info@sfpc.i
 
 **Who are we looking for?**
 
-We are looking for participants from diverse backgrounds: artists, programmers, educators, writers and anyone with a passion for poetic computation. Our only expectation is that you are eager to experiment, can learn from failure, and come fully dedicated to this ten week experience. In the past, we have had students with diverse technical experiences and we were delighted to learn that everyone had something to learn from our classes and each other. A group of faculty leads a selection process that is based on applicant's answers to an application form, work samples, and short interviews. 
+We are looking for participants from diverse backgrounds: artists, programmers, educators, writers and anyone with a passion to explore poetic computation. Our only expectation is that you are eager to experiment, can learn from failure, and come fully dedicated to this ten week experience.
+In the past, we have had students with diverse technical experiences and we were delighted to find out that everyone had something to learn from our classes and each other. A group of faculty leads a selection process that is based on applicant's answers to an application form, work samples, and short interviews. 
 
 **How much is tuition?**
 
-Ten weeks program will cost $5000 USD. The tuition goes to paying for space, teachers and materials. We value transparency in finance.
+Ten weeks program will cost $5000 USD. The tuition goes to paying for space, teachers and materials. We think transparency in finance shares the spirit of transparency in education, and have been actively publishing our financial documents.  
 
 **Deadline is August 8th, 2014**
 
-Please <a href="https://docs.google.com/forms/d/1qKQj3CJ9_TVD7iQjLaRyljEAIMMmI1pdDFfK2Bdtziw/viewform?pli=1&edit_requested=true"> **apply here!**</a> In the past, we received 60+ strong applications and this time will likely be competitive as well. We select participants based on work sample and application form. We expect to notify the applicants by August 15th. 
+Please <a href="https://docs.google.com/forms/d/1qKQj3CJ9_TVD7iQjLaRyljEAIMMmI1pdDFfK2Bdtziw/viewform?pli=1&edit_requested=true"> **apply here!**</a> In the past, we received 60+ strong applications and this time will likely be competitive as well. We select participants based on work sample and application form. We expect to notify the applicants by August 15th. Participants are expected to plan their travel and we do our best to help find accomondation.
 
 **What is School for poetic computation?**
 
 SFPC is an alternative school for art and technology. We are striving to create a mode of education based on collaboration between faculty and students. By participating you will be actively shaping an emerging culture of open source and transparent education. 
 
-You can read some articles about the kind of work that's developed at SFPC: <a href="https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html">Yahoo Tech</a>, video sketch of the final day at <a href="https://vialogues.com/vialogues/play/14021"> Seen in NY</a> and also students' reports on their time at the school can be found here: <a href="http://uncommonplaces.com/2014/06/school-poetic-computation/">Ida</a>, <a href="http://www.thehacktory.org/the-school-for-poetic-computation/">Lee</a>
+You can read some articles about the kind of work that's developed at SFPC: <a href="https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html">Yahoo Tech</a>, video sketch of the final day at <a href="https://vialogues.com/vialogues/play/14021"> Seen in NY</a> and also students' reports on their time at the school can be found here: <a href="http://uncommonplaces.com/2014/06/school-poetic-computation/">Ida</a>, <a href="http://www.thehacktory.org/the-school-for-poetic-computation/">Lee</a>. 
 
 
 <br/>
