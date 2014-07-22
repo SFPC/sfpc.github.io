@@ -10,7 +10,7 @@ slug: participate
 
 # Fall 2014 Session
 
-School for poetic computation(SFPC) will host an intensive ten weeks session in New York City from October 1st - Dec 12. SFPC is an ideal environment for students to develop and further a deep curiosity of what it means to work poetically in computational media.
+School for poetic computation (SFPC) will host an intensive ten weeks session in New York City from October 1st - Dec 12. SFPC is an ideal environment for students to develop and further a deep curiosity of what it means to work poetically in computational media.
 
 SFPC is not a technical bootcamp. Rather, it is an opportunity to work intensively with a small group of faculty, visiting artists and peers to explore artistic freedom through computation. Computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation. 
 
