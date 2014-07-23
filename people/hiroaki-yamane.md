@@ -7,8 +7,8 @@ affiliation:
   role: Student
 picture: /img/people/hiroakiyamane.png
 pictureMed: /img/peopleMed/hiroakiyamane.png
-twitter:
-github:
+twitter: mnmly
+github: mnmly
 website: http://mnmly.com
 place: Oregon, USA
 ---
