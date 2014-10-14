@@ -5,14 +5,16 @@ group: people
 affiliation:
 - class: Fall 2014
   role: Teacher
-  class: Spring 2014
+- class: Spring 2014
+  role: Teacher
+- class: Fall 2014
   role: Teacher
 picture: /img/people/zach_lieberman.jpeg
 pictureMed: /img/peopleMed/zach_lieberman.jpeg
-twitter:
-github:
-website:
-place:
+twitter: zachlieberman
+github: ofzach
+website: http://thesystemis.com/
+place: Brooklyn, NY
 ---
 Zach is an artist with a simple goal: he wants you surprised. His work uses technology in a playful way to break down the fragile boundary between the visible and the invisible. He has held residencies at Ars Electronica Futurelab, Eyebeam, Dance Theater Workshop, and the Hangar Center for the Arts in Barcelona, and his work has been exhibited around the world.
 
