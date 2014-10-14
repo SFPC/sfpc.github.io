@@ -5,12 +5,14 @@ group: people
 affiliation:
 - class: Fall 2013
   role: Teacher
+- class: Fall 2014
+  role: Teacher
 picture: /img/people/amit_pitaru.jpg
 pictureMed: /img/peopleMed/amit_pitaru.jpg
-twitter:
-github:
-website:
-place:
+twitter: pitaru
+github: apitaru
+website: http://pitaru.com/
+place: Brooklyn, NY
 ---
 Amit is a coder and designer. Formerly a professional musician, his work to date spans across experimental art, research, education, and entrepreneurial projects. A recurring theme in Amit’s work is the extreme attention to user-experience, specifically how technology can promote (or destroy) curiosity, literacy, and creativity.
 

@@ -5,10 +5,12 @@ group: people
 affiliation:
 - class: Spring 2014
   role: Student
-picture: /img/people/idabenedetto.jpg
-pictureMed: /img/peopleMed/idabenedetto.jpg
-twitter:
-github:
+- class: Fall 2014
+  role: Teacher
+picture: /img/people/ida_benedetto.jpg
+pictureMed: /img/peopleMed/ida_benedetto.jpg
+twitter: idamantium
+github: idamantium
 website: http://uncommonplaces.com
 place: New York, USA
 ---

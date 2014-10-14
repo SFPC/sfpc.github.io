@@ -5,6 +5,10 @@ group: people
 affiliation:
 - class: Fall 2013
   role: Student
+- class: Spring 2014
+  role: Teacher
+- class: Fall 2014
+  role: Teacher
 picture: /img/people/tega_brain.png
 pictureMed: /img/peopleMed/tega_brain.png
 twitter: tegabrain
