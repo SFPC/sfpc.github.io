@@ -1,0 +1,125 @@
+- class: Fall 2014
+  dates: October 1 - December 12
+  location: Orbital, 155 Rivington, Manhattan
+  description: 
+  teachers:
+  - Allison Burtch
+  - Amit Pitaru
+  - Ida Benedetto
+  - Ramsey Nasser
+  - Taeyoon Choi
+  - Tega Brain
+  - Zach Lieberman
+- class: Spring 2014
+  dates: April 20 - May 4
+  location: Orbital, 155 Rivington, Manhattan
+  description: The Spring 2014 session ran for two weeks at the Lower East Side of NYC at Orbital. The two week intensive was led by SFPC co-founders Zach Lieberman and Taeyoon Choi along with SFPC alumni Jonathan Dahan and Tega Brain. Teachers supported participants through individual tutoring and collective brainstorming. Additionally, classes by Gabriella Levine, Kaho Abe, Lauren McCarthy, and Kyle McDonald provided opportunities to dive into specific topic and methods.
+  teachers: 
+  - Gabriella Levine
+  - Jonathan Dahan
+  - Kyle McDonald
+  - Lauren McCarthy
+  - Taeyoon Choi
+  - Tega Brain
+  - Zach Lieberman
+  students: 
+  - Alex Zandi
+  - Alexander Porter
+  - Daniel Wilson
+  - Diana Sanchez
+  - Hiroaki Yamane
+  - Hyojung Seo
+  - Ida Benedetto
+  - Lee Tusman
+  - Nathan Koch
+  - Oscar Schwartz
+  - Ryota Okawa
+  - Scott Leinweber
+  - Shobun Baile
+  - Tharit Firm Tothong
+  - Zak Greene
+  visitors: 
+  - Becky Sterne
+  - Ben Rubin
+  - Jer Thorp
+  - Kaho Abe
+  - Kenneth Goldsmith
+  - Lev Manovich
+  - Masashi Kawamura
+  - Qanta Shimizu
+  - Sean McIntyre
+  courses: 
+  - Biomimetic Design
+  - Circuits and drawings
+  - Input/output
+  - Social Hacking
+  - Speculative History of Computing
+  - Towards Poetic Sensing
+  workshops: 
+  - Command line magic
+  - Drawing
+  - Mesh Network
+  - Python
+- class: Fall 2013
+  dates: Sep 15 - Nov 22
+  location: 33 Flatbush, Brooklyn
+  exbition: [SFPC: The First Class](http://www.eyebeam.org/events/school-for-poetic-computation-the-first-class) at Eyebeam
+  description: The Fall 2013 session ran for ten weeks at the Metropolitan Exchange on 33 Flatbush ave, Brooklyn. The first ever class was lead by four co-founders of SFPC: Zach Lieberman, Jen Lowe, Taeyoon Choi and Amit Pitaru, each teaching few classes. Additionally many inspiring colleagues were generous to come in for special lecture and talks. The ten weeks of exploration and collaboration were presented as a public exhibition with talks at Eyebeam Art and Technology Center in Manhattan.
+  teachers:
+  - Amit Pitaru
+  - Jen Lowe
+  - Taeyoon Choi
+  - Zach Lieberman
+  students: 
+  - Andy Clymer
+  - Claire Lin
+  - Ishac Bertran
+  - Jason Levine
+  - Jessica Wolpert
+  - Jonathan Dahan
+  - Jonathan Wohl
+  - Le Wei
+  - Mini Kim
+  - Moises Sanabria
+  - Motoi Shimizu
+  - Peng Chen
+  - Rachel Uwa
+  - Simona De Rosa
+  - Tega Brain
+  visitors:
+  - Adam Magyar
+  - Bret Victor
+  - Brian Droicour
+  - Brian House
+  - Cedric Kiefer
+  - Christine Sun Kim
+  - Dan Phiffer
+  - Jacob Gaboury
+  - Jacob Tonsky
+  - Jurg Lehni
+  - Kyle McDonald
+  - Paola Antonelli
+  - Ramsey Nasser
+  - Syd Lieberman
+  - Zach Gage
+  courses:
+  - Art of Walking
+  - Computer Vision & Image Processing
+  - Data Visualization
+  - Learning Curves
+  - Learning to Learn
+  - Math for Artists, Art for Mathists
+  - Poetics of Circuitry
+  - Principles of 3D
+  - Principles of Animation
+  workshops:
+  - Git/Github
+  - Interaction of Color
+  - Intro to Node.js
+  - IR Camera with PS3 EYE
+  - ofxAudiUnit
+  - OpenFrameworks Basics
+  - Python 101
+  - Rasberry Pi & Node.js
+  - Wi-fi Everything
+  - Many more.
