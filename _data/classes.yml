@@ -1,125 +1,143 @@
 - class: Fall 2014
   dates: October 1 - December 12
-  location: Orbital, 155 Rivington, Manhattan
+  location: "Orbital, 155 Rivington, Manhattan"
   description: 
   teachers:
-  - Allison Burtch
-  - Amit Pitaru
-  - Ida Benedetto
-  - Ramsey Nasser
-  - Taeyoon Choi
-  - Tega Brain
-  - Zach Lieberman
+    - name: Allison Burtch
+    - name: Amit Pitaru
+    - name: Ida Benedetto
+    - name: Ramsey Nasser
+    - name: Taeyoon Choi
+    - name: Tega Brain
+    - name: Zach Lieberman
+  students: 
+    - name: Andrew Kleindolph
+    - name: Christopher Allegra
+    - name: Defne Onen
+    - name: Franc Camps-Febrer
+    - name: Guglielmo Torelli
+    - name: Jonas Jongejan
+    - name: Lauren Gardner
+    - name: Meghana Khandekar
+    - name: Nathan Rosenberg
+    - name: Paige DeRaedt
+    - name: Rachel Rose Ulgado
+    - name: Sarah Groff-Palermo
+    - name: Todd Anderson
+    - name: Toru Urakawa
+    - name: Yuki Yoshida
+    - name: Zachary Dunham
+    - name: Zan Armstrong
 - class: Spring 2014
   dates: April 20 - May 4
-  location: Orbital, 155 Rivington, Manhattan
-  description: The Spring 2014 session ran for two weeks at the Lower East Side of NYC at Orbital. The two week intensive was led by SFPC co-founders Zach Lieberman and Taeyoon Choi along with SFPC alumni Jonathan Dahan and Tega Brain. Teachers supported participants through individual tutoring and collective brainstorming. Additionally, classes by Gabriella Levine, Kaho Abe, Lauren McCarthy, and Kyle McDonald provided opportunities to dive into specific topic and methods.
+  location: "Orbital, 155 Rivington, Manhattan"
+  description: "The Spring 2014 session ran for two weeks at the Lower East Side of NYC at Orbital. The two week intensive was led by SFPC co-founders Zach Lieberman and Taeyoon Choi along with SFPC alumni Jonathan Dahan and Tega Brain. Teachers supported participants through individual tutoring and collective brainstorming. Additionally, classes by Gabriella Levine, Kaho Abe, Lauren McCarthy, and Kyle McDonald provided opportunities to dive into specific topic and methods."
   teachers: 
-  - Gabriella Levine
-  - Jonathan Dahan
-  - Kyle McDonald
-  - Lauren McCarthy
-  - Taeyoon Choi
-  - Tega Brain
-  - Zach Lieberman
+    - name: Gabriella Levine
+    - name: Jonathan Dahan
+    - name: Kyle McDonald
+    - name: Lauren McCarthy
+    - name: Taeyoon Choi
+    - name: Tega Brain
+    - name: Zach Lieberman
   students: 
-  - Alex Zandi
-  - Alexander Porter
-  - Daniel Wilson
-  - Diana Sanchez
-  - Hiroaki Yamane
-  - Hyojung Seo
-  - Ida Benedetto
-  - Lee Tusman
-  - Nathan Koch
-  - Oscar Schwartz
-  - Ryota Okawa
-  - Scott Leinweber
-  - Shobun Baile
-  - Tharit Firm Tothong
-  - Zak Greene
+    - name: Alex Zandi
+    - name: Alexander Porter
+    - name: Daniel Wilson
+    - name: Diana Sanchez
+    - name: Hiroaki Yamane
+    - name: Hyojung Seo
+    - name: Ida Benedetto
+    - name: Lee Tusman
+    - name: Nathan Koch
+    - name: Oscar Schwartz
+    - name: Ryota Okawa
+    - name: Scott Leinweber
+    - name: Shobun Baile
+    - name: Tharit Firm Tothong
+    - name: Zak Greene
   visitors: 
-  - Becky Sterne
-  - Ben Rubin
-  - Jer Thorp
-  - Kaho Abe
-  - Kenneth Goldsmith
-  - Lev Manovich
-  - Masashi Kawamura
-  - Qanta Shimizu
-  - Sean McIntyre
+    - name: Becky Sterne
+    - name: Ben Rubin
+    - name: Jer Thorp
+    - name: Kaho Abe
+    - name: Kenneth Goldsmith
+    - name: Lev Manovich
+    - name: Masashi Kawamura
+    - name: Qanta Shimizu
+    - name: Sean McIntyre
   courses: 
-  - Biomimetic Design
-  - Circuits and drawings
-  - Input/output
-  - Social Hacking
-  - Speculative History of Computing
-  - Towards Poetic Sensing
+    - name: Biomimetic Design
+    - name: Circuits and drawings
+    - name: Input/output
+    - name: Social Hacking
+    - name: Speculative History of Computing
+    - name: Towards Poetic Sensing
   workshops: 
-  - Command line magic
-  - Drawing
-  - Mesh Network
-  - Python
+    - name: Command line magic
+    - name: Drawing
+    - name: Mesh Network
+    - name: Python
 - class: Fall 2013
   dates: Sep 15 - Nov 22
-  location: 33 Flatbush, Brooklyn
-  exbition: [SFPC: The First Class](http://www.eyebeam.org/events/school-for-poetic-computation-the-first-class) at Eyebeam
-  description: The Fall 2013 session ran for ten weeks at the Metropolitan Exchange on 33 Flatbush ave, Brooklyn. The first ever class was lead by four co-founders of SFPC: Zach Lieberman, Jen Lowe, Taeyoon Choi and Amit Pitaru, each teaching few classes. Additionally many inspiring colleagues were generous to come in for special lecture and talks. The ten weeks of exploration and collaboration were presented as a public exhibition with talks at Eyebeam Art and Technology Center in Manhattan.
+  location: "33 Flatbush, Brooklyn"
+  exhibition: "[SFPC: The First Class](http://www.eyebeam.org/events/school-for-poetic-computation-the-first-class) at Eyebeam"
+  description: "The Fall 2013 session ran for ten weeks at the Metropolitan Exchange on 33 Flatbush ave, Brooklyn. The first ever class was lead by four co-founders of SFPC: Zach Lieberman, Jen Lowe, Taeyoon Choi and Amit Pitaru, each teaching few classes. Additionally many inspiring colleagues were generous to come in for special lecture and talks. The ten weeks of exploration and collaboration were presented as a public exhibition with talks at Eyebeam Art and Technology Center in Manhattan."
   teachers:
-  - Amit Pitaru
-  - Jen Lowe
-  - Taeyoon Choi
-  - Zach Lieberman
+    - name: Amit Pitaru
+    - name: Jen Lowe
+    - name: Taeyoon Choi
+    - name: Zach Lieberman
   students: 
-  - Andy Clymer
-  - Claire Lin
-  - Ishac Bertran
-  - Jason Levine
-  - Jessica Wolpert
-  - Jonathan Dahan
-  - Jonathan Wohl
-  - Le Wei
-  - Mini Kim
-  - Moises Sanabria
-  - Motoi Shimizu
-  - Peng Chen
-  - Rachel Uwa
-  - Simona De Rosa
-  - Tega Brain
+    - name: Andy Clymer
+    - name: Claire Lin
+    - name: Ishac Bertran
+    - name: Jason Levine
+    - name: Jessica Wolpert
+    - name: Jonathan Dahan
+    - name: Jonathan Wohl
+    - name: Le Wei
+    - name: Mini Kim
+    - name: Moises Sanabria
+    - name: Motoi Shimizu
+    - name: Peng Chen
+    - name: Rachel Uwa
+    - name: Simona De Rosa
+    - name: Tega Brain
   visitors:
-  - Adam Magyar
-  - Bret Victor
-  - Brian Droicour
-  - Brian House
-  - Cedric Kiefer
-  - Christine Sun Kim
-  - Dan Phiffer
-  - Jacob Gaboury
-  - Jacob Tonsky
-  - Jurg Lehni
-  - Kyle McDonald
-  - Paola Antonelli
-  - Ramsey Nasser
-  - Syd Lieberman
-  - Zach Gage
+    - name: Adam Magyar
+    - name: Bret Victor
+    - name: Brian Droicour
+    - name: Brian House
+    - name: Cedric Kiefer
+    - name: Christine Sun Kim
+    - name: Dan Phiffer
+    - name: Jacob Gaboury
+    - name: Jacob Tonsky
+    - name: Jurg Lehni
+    - name: Kyle McDonald
+    - name: Paola Antonelli
+    - name: Ramsey Nasser
+    - name: Syd Lieberman
+    - name: Zach Gage
   courses:
-  - Art of Walking
-  - Computer Vision & Image Processing
-  - Data Visualization
-  - Learning Curves
-  - Learning to Learn
-  - Math for Artists, Art for Mathists
-  - Poetics of Circuitry
-  - Principles of 3D
-  - Principles of Animation
+    - name: Art of Walking
+    - name: "Computer Vision & Image Processing"
+    - name: Data Visualization
+    - name: Learning Curves
+    - name: Learning to Learn
+    - name: "Math for Artists, Art for Mathists"
+    - name: Poetics of Circuitry
+    - name: Principles of 3D
+    - name: Principles of Animation
   workshops:
-  - Git/Github
-  - Interaction of Color
-  - Intro to Node.js
-  - IR Camera with PS3 EYE
-  - ofxAudiUnit
-  - OpenFrameworks Basics
-  - Python 101
-  - Rasberry Pi & Node.js
-  - Wi-fi Everything
-  - Many more.
+    - name: Git/Github
+    - name: Interaction of Color
+    - name: Intro to Node.js
+    - name: IR Camera with PS3 EYE
+    - name: ofxAudiUnit
+    - name: OpenFrameworks Basics
+    - name: Python 101
+    - name: "Rasberry Pi & Node.js"
+    - name: Wi-fi Everything
+    - name: Many more.
