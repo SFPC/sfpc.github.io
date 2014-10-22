@@ -1,82 +1,52 @@
 ---
 layout: default
 ---
-<div class="content-wrapper classes">
-	{% for class in site.data.classes %}
-	<article class="content classes">
-		<div class="content classes flex-wrapper">
-			<div class="content-info-wrapper classes">
-				<div class="content-title-info classes">
-					<p class="title"><b>{{ class.class }}</b></p>
-					<p class="date"><b>Session Dates</b> {{ class.dates }}</p>
-					<p class="date"><b>Location</b> {{ class.location }}</p>
-				</div>
-				{% if class.description %}
-				<div class="content-details classes">
-					<p>{{ class.description }}</p>
-				</div>
-				{% endif %}
-			</div>
-			<div class="content-image classes" style="background-image:url('/img/classes/{{ class.class | downcase | replace: ' ', '-' }}.jpg')">
-			</div>
-		</div>
-
-		<div class="content classes flex-wrapper">
-			<div class="content-info-wrapper classes">
-				<div class="content-details flex-wrapper">
-				{% if class.courses %}
-					<div class="content-details classes participating-people courses">
-						<b>Courses</b>
-						<ul>
-							{% for course in class.courses %}
-								<li>{{ course.name }}</li>
-							{% endfor %}
-						</ul>
-					</div>
-				{% endif %}
-				{% if class.workshops %}
-					<div class="content-details classes participating-people workshops">
-						<b>Workshops</b>
-						<ul>
-							{% for workshop in class.workshops %}
-								<li>{{ workshop.name }}</li>
-							{% endfor %}
-						</ul>
-					</div>
-				{% endif %}
-				{% if class.teachers %}
-					<div class="content-details classes participating-people teachers">
-						<b>Teachers</b>
-						<ul>
-							{% for teacher in class.teachers %}
-								<li><span>{{ teacher.name }}</span></li>
-							{% endfor %}
-						</ul>
-					</div>
-				{% endif %}
-				{% if class.students %}
-					<div class="content-details classes participating-people students">
-						<b>Students</b>
-						<ul>
-							{% for student in class.students %}
-								<li><span>{{ student.name }}</span></li>
-							{% endfor %}
-						</ul>
-					</div>
-				{% endif %}
-				</div>
-				{% if class.visitors %}
-					<div class="content-details classes participating-people visitors">
-						<b>Visitors</b>
-						<ul>
-							{% for visitor in class.visitors %}
-								<li><span>{{ visitor.name }}</span></li>
-							{% endfor %}
-						</ul>
-					</div>
-				{% endif %}
-			</div>
-		</div>
-	</article>
-	{% endfor %}
-</div>
+{% for class in site.data.classes %}
+	<img src="/img/classes/{{ class.class | downcase | replace: ' ', '-' }}.jpg">
+	<h2>{{ class.class }}</h2>
+	<p class="date"><strong>Dates:</strong> {{ class.dates }}</p>
+	<p class="date"><strong>Location:</strong> {{ class.location }}</p>
+	{% if class.description %}
+		<p>{{ class.description }}</p>
+	{% endif %}
+	{% if class.courses %}
+		<h3>Courses</h3>
+		<ul>
+			{% for course in class.courses %}
+				<li>{{ course.name }}</li>
+			{% endfor %}
+		</ul>
+	{% endif %}
+	{% if class.workshops %}
+		<h3>Workshops</h3>
+		<ul>
+			{% for workshop in class.workshops %}
+				<li>{{ workshop.name }}</li>
+			{% endfor %}
+		</ul>
+	{% endif %}
+	{% if class.teachers %}
+		<h3>Teachers</h3>
+		<ul>
+			{% for teacher in class.teachers %}
+				<li>{{ teacher.name }}</li>
+			{% endfor %}
+		</ul>
+	{% endif %}
+	{% if class.students %}
+		<h3>Students</h3>
+		<ul>
+			{% for student in class.students %}
+				<li>{{ student.name }}</li>
+			{% endfor %}
+		</ul>
+	{% endif %}
+	{% if class.visitors %}
+		<h3>Visitors</h3>
+		<ul>
+			{% for visitor in class.visitors %}
+				<li>{{ visitor.name }}</li>
+			{% endfor %}
+		</ul>
+	{% endif %}
+{% endfor %}

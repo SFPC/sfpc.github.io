@@ -1,10 +1,8 @@
 ---
 title: Participate 2014
-layout: default-fixed-width
-group: main-nav
+layout: default
 slug: participate
 ---
-<div class="centering-wrapper">
 
 <img src="../img/SPCPicket.jpg" width="640">
 
@@ -28,7 +26,7 @@ Feel free to reach out to us if you have questions about the school: info@sfpc.i
 
 <img src="https://farm3.staticflickr.com/2910/14705490563_f740792bbd_z.jpg" width="640" height="132" alt="contact"> 
 
-##Who is going to teach?
+## Who is going to teach?
 
 <a href="http://thesystemis.com/">Zachary Lieberman</a>, <a href="http://taeyoonchoi.com">Taeyoon Choi</a>, <a href="http://tegabrain.com">Tega Brain</a>, <a href="http://nas.sr/">Ramsey Nasser</a>, <a href="http://www.allisonburtch.net/">Allison Burtch</a>, <a href="http://uncommonplaces.com/">Ida Benedetto</a>, <a href="http://www.pitaru.com">Amit Pitaru</a>, as well as a variety of other workshop leaders and visiting artists.  
 
@@ -56,7 +54,7 @@ Ten weeks program will cost $5000 USD. The tuition goes to paying for space, tea
 
 ## Deadline is August 8th, 2014
 
-Please <a href="https://docs.google.com/forms/d/1qKQj3CJ9_TVD7iQjLaRyljEAIMMmI1pdDFfK2Bdtziw/viewform?pli=1&edit_requested=true"> **apply here!**</a> In the past, we received 60+ strong applications and this time will likely be competitive as well. We select participants based on work sample and application form. We expect to notify the applicants by August 15th. Participants are expected to plan their travel and we do our best to help find accomondation.
+Please <a href="https://docs.google.com/forms/d/1qKQj3CJ9_TVD7iQjLaRyljEAIMMmI1pdDFfK2Bdtziw/viewform?pli=1"> **apply here!**</a> In the past, we received 60+ strong applications and this time will likely be competitive as well. We select participants based on work sample and application form. We expect to notify the applicants by August 15th. Participants are expected to plan their travel and we do our best to help find accomondation.
 
 ##What is the School for poetic computation?
 
@@ -64,114 +62,35 @@ SFPC is an alternative school for art and technology. We are striving to create 
 
 You can read some articles about the kind of work that's developed at SFPC: <a href="https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html">Yahoo Tech</a>, video sketch of the final day at <a href="https://vialogues.com/vialogues/play/14021"> Seen in NY</a> and also students' reports on their time at the school can be found here: <a href="http://uncommonplaces.com/2014/06/school-poetic-computation/">Ida</a>, <a href="http://www.thehacktory.org/the-school-for-poetic-computation/">Lee</a>.
 
-
-<br/>
-<br/>
-
-<ul id="slideshow" style="padding-left: 0px;">					
-<li>
-		<img src="../img/slideshow/10294100174_6e384c2cc9_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10294117814_4afc45eed7_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10294204386_e26bd5b401_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10294593503_95c1e5e35f_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10295143366_55f3c78027_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10296039036_97ffc47f58_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10296239455_0b651224a2_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10933552824_7129c31680_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10933602015_1b03ac3138_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10933605686_99645d9d1c_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10933606935_f1cf1d193d_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10933632023_f87a4fa705_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10933666386_2e0a2acfb6_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/10933876403_cef896810a_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/11107493835_b3308fa736_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/11107607306_625826c86f_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/11107704765_37d6e24b47_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/11107746386_73827ce275_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/11107930636_e9346f283e_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/14025713955_9c0c50a49b_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/14025742715_1a81c342f8_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/14026101524_7bc30a0e6d_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/14026162024_d04a8f0568_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/14045667883_0178339cdf_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/14045672763_58deff7d7b_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/14045721593_5570c7d043_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/14498687340_877735e487_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/14498712358_cb1f048b84_o.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/diana.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/door.jpg" />
-	</li>
-<li>
-		<img src="../img/slideshow/kenneth.jpg" />
-	</li>
-
-<li>
-		<img src="../img/slideshow/packed.jpg" />
-	</li>
-
-</ul>
-
-
-
-
-
-				
-
+<img src="../img/slideshow/10294100174_6e384c2cc9_o.jpg" />
+<img src="../img/slideshow/10294117814_4afc45eed7_o.jpg" />
+<img src="../img/slideshow/10294204386_e26bd5b401_o.jpg" />
+<img src="../img/slideshow/10294593503_95c1e5e35f_o.jpg" />
+<img src="../img/slideshow/10295143366_55f3c78027_o.jpg" />
+<img src="../img/slideshow/10296039036_97ffc47f58_o.jpg" />
+<img src="../img/slideshow/10296239455_0b651224a2_o.jpg" />
+<img src="../img/slideshow/10933552824_7129c31680_o.jpg" />
+<img src="../img/slideshow/10933602015_1b03ac3138_o.jpg" />
+<img src="../img/slideshow/10933605686_99645d9d1c_o.jpg" />
+<img src="../img/slideshow/10933606935_f1cf1d193d_o.jpg" />
+<img src="../img/slideshow/10933632023_f87a4fa705_o.jpg" />
+<img src="../img/slideshow/10933666386_2e0a2acfb6_o.jpg" />
+<img src="../img/slideshow/10933876403_cef896810a_o.jpg" />
+<img src="../img/slideshow/11107493835_b3308fa736_o.jpg" />
+<img src="../img/slideshow/11107607306_625826c86f_o.jpg" />
+<img src="../img/slideshow/11107704765_37d6e24b47_o.jpg" />
+<img src="../img/slideshow/11107746386_73827ce275_o.jpg" />
+<img src="../img/slideshow/11107930636_e9346f283e_o.jpg" />
+<img src="../img/slideshow/14025713955_9c0c50a49b_o.jpg" />
+<img src="../img/slideshow/14025742715_1a81c342f8_o.jpg" />
+<img src="../img/slideshow/14026101524_7bc30a0e6d_o.jpg" />
+<img src="../img/slideshow/14026162024_d04a8f0568_o.jpg" />
+<img src="../img/slideshow/14045667883_0178339cdf_o.jpg" />
+<img src="../img/slideshow/14045672763_58deff7d7b_o.jpg" />
+<img src="../img/slideshow/14045721593_5570c7d043_o.jpg" />
+<img src="../img/slideshow/14498687340_877735e487_o.jpg" />
+<img src="../img/slideshow/14498712358_cb1f048b84_o.jpg" />
+<img src="../img/slideshow/diana.jpg" />
+<img src="../img/slideshow/door.jpg" />
+<img src="../img/slideshow/kenneth.jpg" />
+<img src="../img/slideshow/packed.jpg" />

@@ -1,7 +1,6 @@
 ---
 title: Participate
 layout: default
-group: main-nav
 slug: participate
 ---
 <div class="centering-wrapper">
