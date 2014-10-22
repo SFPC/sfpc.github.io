@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% if page.picture %}
-<img src="{{site.baseurl}}/img/people/{{ page.title | replace: " ", "_" }}.jpg"/>
+<img src="{{site.baseurl}}/img/people/{{ page.title | downcase | replace: " ", "_" }}.jpg"/>
 {% endif %}
 
 <table>
