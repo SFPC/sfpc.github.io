@@ -7,7 +7,7 @@ affiliation:
   role: Visitor
 picture: /img/people/kyle_mcdonald.png
 pictureMed: /img/peopleMed/kyle_mcdonald.png
-twitter:
+twitter: kcimc
 github:
 website:
 place:

@@ -3,3 +3,13 @@ collections:
   people:
     output: true
     permalink: /people/:path/
+  classes:
+    output: true
+    permalink: /classes/:path/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "classes" # a collection in your site, in plural form
+    values:
+      layout: "class"

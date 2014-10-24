@@ -1,52 +1,15 @@
 ---
 layout: default
 ---
-{% for class in site.data.classes %}
-	<img src="/img/classes/{{ class.class | downcase | replace: ' ', '-' }}.jpg">
-	<h2>{{ class.class }}</h2>
-	<p class="date"><strong>Dates:</strong> {{ class.dates }}</p>
-	<p class="date"><strong>Location:</strong> {{ class.location }}</p>
-	{% if class.description %}
-		<p>{{ class.description }}</p>
-	{% endif %}
-	{% if class.courses %}
-		<h3>Courses</h3>
-		<ul>
-			{% for course in class.courses %}
-				<li>{{ course.name }}</li>
-			{% endfor %}
-		</ul>
-	{% endif %}
-	{% if class.workshops %}
-		<h3>Workshops</h3>
-		<ul>
-			{% for workshop in class.workshops %}
-				<li>{{ workshop.name }}</li>
-			{% endfor %}
-		</ul>
-	{% endif %}
-	{% if class.teachers %}
-		<h3>Teachers</h3>
-		<ul>
-			{% for teacher in class.teachers %}
-				<li>{{ teacher.name }}</li>
-			{% endfor %}
-		</ul>
-	{% endif %}
-	{% if class.students %}
-		<h3>Students</h3>
-		<ul>
-			{% for student in class.students %}
-				<li>{{ student.name }}</li>
-			{% endfor %}
-		</ul>
-	{% endif %}
-	{% if class.visitors %}
-		<h3>Visitors</h3>
-		<ul>
-			{% for visitor in class.visitors %}
-				<li>{{ visitor.name }}</li>
-			{% endfor %}
-		</ul>
-	{% endif %}
+{% assign count = site.classes | size %}
+
+{% for i in (1..count) reversed %}
+	{% for class in site.classes %}
+		{% if i == class.order %}
+			<a href="{{class.url}}"><img src="/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg"></a>
+			<h2><a href="{{class.url}}">{{ class.title }}</h2></a>
+			<p class="date"><strong>Dates:</strong> {{ class.dates }}</p>
+			<p class="date"><strong>Location:</strong> {{ class.location }}</p>
+		{% endif %}
+	{% endfor %}
 {% endfor %}

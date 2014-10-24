@@ -5,7 +5,6 @@
 $body: #000000;
 $accent: #1ABC9C;
 $light: #ffffff;
-$padding: .35em;
 
 .wf-loading body {
     visibility: hidden;
@@ -14,12 +13,14 @@ $padding: .35em;
 body {
 	font-family: "Apercu Regular", sans-serif; font-size-adjust:0.508; font-weight:normal; font-style:normal;
 	font-size: 1em;
-	border-top:5px solid $accent;
 }
 
 section.container {
 	max-width:960px;
+	padding: 0 5vw;
 	margin:auto;
+	display:block;
+	position:relative;
 }
 
 i {
@@ -34,17 +35,23 @@ a:link, a:visited {
 img {
 	max-width:100%;
 }
+
+figure {
+	&.pull-right {
+		float:right;
+		max-width: 470px;
+		margin: 0;
+	}
+}
 h1, h2, h3, h4, h5, h6, th, strong {
 	font-family: "Apercu Bold", sans-serif; font-size-adjust:0.508; font-weight:bold; font-style:normal;
 }
 p {
 	padding:0 0 .25em 0;
+	max-width:470px;
 }
 p.source {
 	text-align:right;
-}
-header, article, footer {
-	padding: 0 $padding;
 }
 nav.main {
 	ul {
@@ -52,13 +59,18 @@ nav.main {
 		margin: 0;
 		padding: 0;
 		vertical-align: top;
+		background:#fff;
+	}
+	.group {
+		border-left:1px solid $accent;
+		border-right:1px solid $accent;
 	}
 	a:link, a:visited {
 		text-decoration: none;
 		color: $accent;
 		display: block;
-		padding: $padding 1vw;
-		border-bottom: 1px solid lighten($accent, 25%);
+		padding: .5em;
+		border-bottom: 1px solid $accent;
 		&:hover {
 			background: $accent;
 			color: $light;
@@ -71,19 +83,42 @@ nav.main {
 		transform: rotate(-45deg);
 		-webkit-transition: -webkit-transform .5s;
 		transition: transform .5s;
+		width:1em;
+		height:1em;
+		overflow:hidden;
+		padding:0;
+		margin:0;
+		line-height:1em;
+		text-align:center;
 	}
 	.menu-toggle.active span {
 		-webkit-transform: rotate(0);
 		transform: rotate(0);		
 	}
 }
+body.classes {
+	article ul.grid {
+		margin:0;
+		padding:0;
+		-moz-column-count: 4;
+		-moz-column-gap: 20px;
+		-webkit-column-count: 4;
+		-webkit-column-gap: 20px;
+		li {
+			display:inline-block;
+		}
+	}
+}
 article {
 	margin-top: 1em;
 }
 footer {
+	clear:both;
 	background: $accent;
 	color: $light;
-	padding: $padding;
+	text-align:center;
+	padding:1em 0;
+	margin-top:1em;
 	a:link, a:hover {
 		color: darken($accent, 25%);
 	}
@@ -91,9 +126,39 @@ footer {
 		background: darken($accent, 25%);
 		border:none;
 	}
+	p {
+		margin:auto;
+	}
 }
 #people article ul {
 	-moz-column-count: 3;
 	-webkit-column-count: 3;
 	column-count: 3;
+}
+body.people {
+	section.info {
+		margin-bottom:1em;
+	}
+	table, td {
+		border:1px solid $accent;
+		border-collapse: collapse;
+	}
+	table {
+		width: 100%;
+		margin-top:1em;
+	}
+	td {
+		padding:.5em;
+	}
+	th {
+		background:$accent;
+		color:$light;
+	}
+}
+@media all and (min-width: 480px) {
+	section.info {
+		float:right;
+		margin-left:1em;
+		margin-bottom:1em;
+	}
 }

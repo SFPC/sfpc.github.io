@@ -3,6 +3,10 @@ title: FAQ
 layout: default
 slug: faq
 ---
+<figure class="pull-right">
+	<img src="/img/press/sfpcstyle.jpg">
+</figure>
+
 ## Administration
 
 ### Is the school for poetic computation a real school?
@@ -96,5 +100,3 @@ Teaching inspires learning. We love meeting new people and we often make our bes
 The school was co-founded by Zach Lieberman, Taeyoon Choi, Amit Pitaru and Jen Lowe in 2013. Casey Gollan works on administration for the school. We try to work with new teachers and visitors every session, often times involving our alumni and community.  
 
 If you have questions, please send them to info@sfpc.io
-
-<img src="/img/press/sfpcstyle.jpg">
