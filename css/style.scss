@@ -57,8 +57,24 @@ nav.main {
 		text-decoration: none;
 		color: $accent;
 		display: block;
-		padding: $padding 0;
+		padding: $padding 1vw;
 		border-bottom: 1px solid lighten($accent, 25%);
+		&:hover {
+			background: $accent;
+			color: $light;
+		}
+	}
+	.menu-toggle span {
+		display:inline-block;
+		vertical-align: middle;
+		-webkit-transform: rotate(-45deg);
+		transform: rotate(-45deg);
+		-webkit-transition: -webkit-transform .5s;
+		transition: transform .5s;
+	}
+	.menu-toggle.active span {
+		-webkit-transform: rotate(0);
+		transform: rotate(0);		
 	}
 }
 article {
