@@ -4,8 +4,8 @@ layout: person
 affiliation:
 - class: Spring 2014
   role: Student
-twitter:
-github:
+twitter: alexicon3000
+github: alexicon3000
 website: http://alexanderporter.net
 place: New York, USA
 ---

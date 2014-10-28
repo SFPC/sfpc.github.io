@@ -8,7 +8,7 @@ affiliation:
   role: Teacher
 twitter: pitaru
 github: apitaru
-website: http://pitaru.com/
+website: http://pitaru.com
 place: Brooklyn, NY
 ---
 Amit is a coder and designer. Formerly a professional musician, his work to date spans across experimental art, research, education, and entrepreneurial projects. A recurring theme in Amit’s work is the extreme attention to user-experience, specifically how technology can promote (or destroy) curiosity, literacy, and creativity.

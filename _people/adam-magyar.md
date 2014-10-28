@@ -6,6 +6,6 @@ affiliation:
   role: Visitor
 twitter:
 github:
-website:
+website: http://www.magyaradam.com
 place:
 ---

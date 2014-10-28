@@ -4,8 +4,8 @@ layout: person
 affiliation:
 - class: Fall 2013
   role: Visitor
-twitter:
+twitter: h0use
 github:
-website:
+website: http://brianhouse.net
 place:
 ---

@@ -4,8 +4,8 @@ layout: person
 affiliation:
 - class: Fall 2013
   role: Visitor
-twitter:
+twitter: CedricKiefer
 github:
-website:
-place:
+website: http://www.onformative.com
+place: Berlin, Germany
 ---
