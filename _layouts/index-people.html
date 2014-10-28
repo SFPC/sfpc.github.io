@@ -1,10 +1,58 @@
 ---
-title: SFPC A-Z
+title: People
 layout: default
 ---
 
-<ul>
+<div id="filters">
+	<div class="ui-group">
+			<button class="button is-checked" data-filter="">Everyone</button>
+	</div>
+	<div class="ui-group">
+		<div class="button-group js-radio-button-group">
+			<button class="button" data-filter=".fall-2014">Fall 14</button>
+			<button class="button" data-filter=".spring-2014">Spring 14</button>
+			<button class="button" data-filter=".fall-2013">Fall 13</button>
+		</div>
+	</div>
+	<div class="ui-group">
+		<div class="button-group js-radio-button-group">
+			<button class="button" data-filter=".teacher, .administrator">Teachers &amp; Staff</button>
+			<button class="button" data-filter=".visitor">Visitors</button>
+			<button class="button" data-filter=".student">Students</button>
+		</div>
+	</div>
+</div>
+<ul id="people-grid">
 	{% for person in site.people %}
-		<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %} </li>
+		<li class="{% for affiliation in person.affiliation %}{{ affiliation.class | downcase | replace: " ", "-" }} {{ affiliation.role | downcase | replace: " ", "-" }} {% endfor %}"><img src="{{site.baseurl}}/img/people/{{ person.title | downcase | replace: " ", "_" | replace: "-", "_" }}.jpg"/>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %} </li>
 	{% endfor %}
 </ul>
+
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.0.0/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.0.4/jquery.imagesloaded.min.js"></script>
+<script>
+	var $container = $('ul#people-grid').imagesLoaded( function() {
+		$container.isotope({
+		// options
+			itemSelector: 'li',
+			layoutMode: 'fitRows'
+		});
+	});
+	// store filter for each group
+	var filters = {};
+
+$('#filters').on( 'click', 'button', function() {
+  var filterValue = $(this).attr('data-filter');
+  $container.isotope({ filter: filterValue });
+});
+
+	// change is-checked class on buttons
+	$('#filters').each( function( i, buttonGroup ) {
+		var $buttonGroup = $( buttonGroup );
+		$buttonGroup.on( 'click', 'button', function() {
+			$buttonGroup.find('.is-checked').removeClass('is-checked');
+			$( this ).addClass('is-checked');
+		});
+	});
+</script>
