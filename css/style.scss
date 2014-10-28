@@ -130,11 +130,6 @@ footer {
 		margin:auto;
 	}
 }
-#people article ul {
-	-moz-column-count: 3;
-	-webkit-column-count: 3;
-	column-count: 3;
-}
 body.people {
 	section.info {
 		margin-bottom:1em;
@@ -162,9 +157,9 @@ body.people {
 		margin-bottom:1em;
 	}
 }
-#sfpca-z {
+#people {
 	ul#people-grid {
-		margin:0;
+		margin-top:1em;
 		padding:0;
 		li {
 			display:block;
@@ -174,4 +169,70 @@ body.people {
 			margin-bottom:1em;
 		}
 	}
+}
+/* ---- button ---- */
+
+.button {
+	display: inline-block;
+	padding: 0.5em 1.0em;
+	border: 2px solid $accent;
+	border-radius: 7px;
+	color: $accent;
+	cursor: pointer;
+	background:$light;
+	outline: none;
+}
+
+.button:hover {
+	background-color: $accent;
+	color: $light;
+}
+
+.button:active,
+.button.is-checked {
+	background-color: $accent;
+	color:$light;
+}
+
+.button.is-checked {
+	color: $light;
+}
+
+.button:active {
+	background-color: darken($accent,15%);
+	border-color: darken($accent,15%);
+}
+
+/* ---- button-group ---- */
+
+.button-group:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.button-group .button {
+	float: left;
+	border-radius: 0;
+	margin-left: 0;
+	margin-right: 1px;
+}
+
+.button-group .button:first-child { border-radius: 0.5em 0 0 0.5em; }
+.button-group .button:last-child { border-radius: 0 0.5em 0.5em 0; }
+/* ui group */
+
+.ui-group {
+	display: inline-block;
+	vertical-align: top;	
+	margin-right: 20px;
+}
+
+.ui-group h3 {
+	display: inline-block;
+	margin-right: 0.2em;
+}
+
+.ui-group .button-group {
+	display: inline-block;
 }

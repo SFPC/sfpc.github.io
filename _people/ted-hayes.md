@@ -1,5 +1,5 @@
 ---
-title: Ted Heys
+title: Ted Hayes
 layout: person
 group: people
 affiliation:
