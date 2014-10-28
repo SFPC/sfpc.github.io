@@ -162,3 +162,16 @@ body.people {
 		margin-bottom:1em;
 	}
 }
+#sfpca-z {
+	ul#people-grid {
+		margin:0;
+		padding:0;
+		li {
+			display:block;
+			width:19%;
+			padding-right:1%;
+			list-style-type: none;
+			margin-bottom:1em;
+		}
+	}
+}

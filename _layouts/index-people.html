@@ -3,8 +3,21 @@ title: SFPC A-Z
 layout: default
 ---
 
-<ul>
+<ul id="people-grid">
 	{% for person in site.people %}
-		<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %} </li>
+		<li><img src="{{site.baseurl}}/img/people/{{ person.title | downcase | replace: " ", "_" }}.jpg"/>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %} </li>
 	{% endfor %}
 </ul>
+
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.0.0/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.0.4/jquery.imagesloaded.min.js"></script>
+<script>
+var $container = $('#ul#people-grid').imagesLoaded( function() {
+	$container.isotope({
+	// options
+		itemSelector: 'li',
+		layoutMode: 'fitRows'
+	});
+});
+</script>
