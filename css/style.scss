@@ -31,6 +31,9 @@ i {
 a:link, a:visited {
 	color: $accent;
 }
+a:hover, a:active {
+	color: darken($accent,15%);
+}
 
 img {
 	max-width:100%;

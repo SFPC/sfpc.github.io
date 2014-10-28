@@ -1,12 +1,9 @@
 ---
 title: Jen Lowe
 layout: person
-group: people
 affiliation:
 - class: Fall 2013
   role: Teacher
-picture: /img/people/jen_lowe.jpeg
-pictureMed: /img/peopleMed/jen_lowe.jpeg
 twitter:
 github:
 website:

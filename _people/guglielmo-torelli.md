@@ -1,12 +1,9 @@
 ---
 title: Guglielmo Torelli
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/guglielmo_torelli.jpg
-pictureMed: /img/peopleMed/guglielmo_torelli.jpg
 twitter: gugotorelli
 github: gugo
 website: http://gugo-torelli.tumblr.com

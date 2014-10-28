@@ -1,14 +1,11 @@
 ---
 title: Ida Benedetto
 layout: person
-group: people
 affiliation:
 - class: Spring 2014
   role: Student
 - class: Fall 2014
   role: Teacher
-picture: /img/people/ida_benedetto.jpg
-pictureMed: /img/peopleMed/ida_benedetto.jpg
 twitter: idamantium
 github: idamantium
 website: http://uncommonplaces.com

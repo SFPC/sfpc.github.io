@@ -1,7 +1,6 @@
 ---
 title: Casey Gollan
 layout: person
-group: people
 affiliation:
 - class: Fall 2013
   role: Administrator
@@ -9,8 +8,6 @@ affiliation:
   role: Administrator
 - class: Fall 2014
   role: Administrator
-picture: /img/people/casey_gollan.jpeg
-pictureMed: /img/peopleMed/casey_gollan.jpeg
 twitter: caseyg
 github: caseyg
 website: http://caseyagollan.com

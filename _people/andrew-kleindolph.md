@@ -1,12 +1,9 @@
 ---
 title: Andrew Kleindolph
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/andrew_kleindolph.jpeg
-pictureMed: /img/peopleMed/andrew_kleindolph.jpeg
 twitter: akleindolph
 github: extrasleepy
 website: http://extrasleepy.com

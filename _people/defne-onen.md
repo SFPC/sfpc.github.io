@@ -1,12 +1,9 @@
 ---
 title: Defne Onen
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/defne_onen.jpg
-pictureMed: /img/peopleMed/defne_onen.jpg
 twitter: 
 github: 
 website: http://defneonen.com

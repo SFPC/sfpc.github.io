@@ -1,7 +1,6 @@
 ---
 title: Tega Brain
 layout: person
-group: people
 affiliation:
 - class: Fall 2013
   role: Student
@@ -9,8 +8,6 @@ affiliation:
   role: Teacher
 - class: Fall 2014
   role: Teacher
-picture: /img/people/tega_brain.png
-pictureMed: /img/peopleMed/tega_brain.png
 twitter: tegabrain
 github: tegacodes
 website: http://tegabrain.com

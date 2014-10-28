@@ -1,7 +1,6 @@
 ---
 title: Taeyoon Choi
 layout: person
-group: people
 affiliation:
 - class: Fall 2013
   role: Teacher
@@ -9,8 +8,6 @@ affiliation:
   role: Teacher
 - class: Fall 2014
   role: Teacher
-picture: /img/people/taeyoon_choi.jpeg
-pictureMed: /img/peopleMed/taeyoon_choi.jpeg
 twitter: tchoi8
 github: tchoi8
 website: http://taeyoonchoi.com

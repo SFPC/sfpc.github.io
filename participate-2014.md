@@ -1,7 +1,6 @@
 ---
 title: Participate 2014
 layout: default
-slug: participate
 ---
 
 <img src="../img/SPCPicket.jpg" width="640">

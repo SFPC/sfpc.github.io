@@ -1,12 +1,11 @@
 ---
 title: Jonathan Dahan
 layout: person
-group: people
 affiliation:
 - class: Fall 2013
   role: Student
-picture: /img/people/jonathan_dahan.png
-pictureMed: /img/peopleMed/jonathan_dahan.png
+- class: Spring 2014
+  role: Teacher
 twitter: jedahan
 github: jedahan
 website: http://jedahan.com

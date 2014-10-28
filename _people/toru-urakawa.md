@@ -1,12 +1,9 @@
 ---
 title: Toru Urakawa
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/toru_urakawa.png
-pictureMed: /img/peopleMed/toru_urakawa.png
 twitter: torutoru
 github: toruurakawa
 website: http://toruurakawa.com

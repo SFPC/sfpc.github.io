@@ -1,12 +1,9 @@
 ---
 title: Christo Allegra
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/christo_allegra.jpeg
-pictureMed: /img/peopleMed/christo_allegra.jpeg
 twitter: christoallegra
 github:
 website: http://plastid.com

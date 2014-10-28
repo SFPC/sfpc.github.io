@@ -1,12 +1,9 @@
 ---
 title: Hyojung Seo
 layout: person
-group: people
 affiliation:
 - class: Spring 2014
   role: Student
-picture: /img/people/hyojungseo.jpg
-pictureMed: /img/peopleMed/hyojungseo.jpg
 twitter: seohyo117
 github: seohyo
 website: http://untitled5.com

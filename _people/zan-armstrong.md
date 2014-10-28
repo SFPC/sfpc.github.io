@@ -1,12 +1,9 @@
 ---
 title: Zan Armstrong
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/zan_armstrong.jpg
-pictureMed: /img/peopleMed/zan_armstrong.jpg
 twitter: zanstrong
 github: zanarmstrong
 website: http://sfpc.zanarmstrong.com/about/

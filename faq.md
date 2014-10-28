@@ -1,7 +1,6 @@
 ---
 title: FAQ
 layout: default
-slug: faq
 ---
 <figure class="pull-right">
 	<img src="/img/press/sfpcstyle.jpg">

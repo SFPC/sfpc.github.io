@@ -1,12 +1,9 @@
 ---
 title: Jonas Jongejan
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/jonas_jongejan.jpeg
-pictureMed: /img/peopleMed/jonas_jongejan.jpeg
 twitter: halfdanj
 github: halfdanj
 website: http://halfdanj.dk

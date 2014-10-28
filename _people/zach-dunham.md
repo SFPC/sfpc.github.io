@@ -1,12 +1,9 @@
 ---
 title: Zach Dunham
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/zach_dunham.jpg
-pictureMed: /img/peopleMed/zach_dunham.jpg
 twitter: zachdunham
 github: zachdunham
 website: http://zachdunham.com

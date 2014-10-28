@@ -1,12 +1,9 @@
 ---
 title: Lauren Gardner
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/lauren_gardner.png
-pictureMed: /img/peopleMed/lauren_gardner.png
 twitter: poohlaga
 github: poohlaga
 website: http://poohead.com

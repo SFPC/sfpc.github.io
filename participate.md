@@ -1,7 +1,6 @@
 ---
 title: Participate
 layout: default
-slug: participate
 ---
 <div class="centering-wrapper">
 ## Open Calls

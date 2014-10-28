@@ -1,7 +1,6 @@
 ---
 title: Zach Lieberman
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Teacher
@@ -9,8 +8,6 @@ affiliation:
   role: Teacher
 - class: Fall 2014
   role: Teacher
-picture: /img/people/zach_lieberman.jpeg
-pictureMed: /img/peopleMed/zach_lieberman.jpeg
 twitter: zachlieberman
 github: ofzach
 website: http://thesystemis.com/

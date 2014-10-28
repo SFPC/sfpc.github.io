@@ -1,12 +1,9 @@
 ---
 title: Shobun Baile
 layout: person
-group: people
 affiliation:
 - class: Spring 2014
   role: Student
-picture: /img/people/shobunbaile.jpg
-pictureMed: /img/peopleMed/shobunbaile.jpg
 twitter:
 github:
 website: http://shobunbaile.com/portfolio

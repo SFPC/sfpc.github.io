@@ -1,12 +1,9 @@
 ---
 title: Jesse Wolpert
 layout: person
-group: people
 affiliation:
 - class: Fall 2013
   role: Student
-picture: /img/people/jesse_wolpert.png
-pictureMed: /img/peopleMed/jesse_wolpert.png
 twitter: jessewolpert
 github: jessewolpert
 website: http://www.jessewolpert.com

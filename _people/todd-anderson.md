@@ -1,12 +1,9 @@
 ---
 title: Todd Anderson
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/todd_anderson.jpg
-pictureMed: /img/peopleMed/todd_anderson.jpg
 twitter:
 github:
 website: http://medi.ci/toddanderson

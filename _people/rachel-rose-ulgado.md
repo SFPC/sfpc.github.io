@@ -1,12 +1,9 @@
 ---
 title: Rachel Rose Ulgado
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/rachel_rose_ulgado.jpeg
-pictureMed: /img/peopleMed/rachel_rose_ulgado.jpeg
 twitter: rachelulgado
 github: rroseu
 website: http://rroseu.github.io

@@ -1,12 +1,9 @@
 ---
 title: Meghana Khandekar
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/meghana_khandekar.jpeg
-pictureMed: /img/peopleMed/meghana_khandekar.jpeg
 twitter: mkhandekar
 github: mkhandekar
 website: http://mkhandekar.com

@@ -1,14 +1,11 @@
 ---
 title: Amit Pitaru
 layout: person
-group: people
 affiliation:
 - class: Fall 2013
   role: Teacher
 - class: Fall 2014
   role: Teacher
-picture: /img/people/amit_pitaru.jpg
-pictureMed: /img/peopleMed/amit_pitaru.jpg
 twitter: pitaru
 github: apitaru
 website: http://pitaru.com/

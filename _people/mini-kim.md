@@ -1,12 +1,9 @@
 ---
 title: Mini Kim
 layout: person
-group: people
 affiliation:
 - class: Fall 2013
   role: Student
-picture: /img/people/mini_kim.png
-pictureMed: /img/peopleMed/mini_kim.png
 twitter: minsunmini
 github: minsunmini
 website: http://minsunmini.com

@@ -1,12 +1,9 @@
 ---
 title: Franc Camps-Febrer
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/franc_camps_febrer.png
-pictureMed: /img/peopleMed/franc_camps_febrer.png
 twitter: francamps
 github: francamps
 website: http://franc.ly

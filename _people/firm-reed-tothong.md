@@ -1,12 +1,9 @@
 ---
 title: Firm Reed Tothong
 layout: person
-group: people
 affiliation:
 - class: Spring 2014
   role: Student
-picture: /img/people/firmreedtothong.jpg
-pictureMed: /img/peopleMed/firmreedtothong.jpg
 twitter:
 github:
 website:

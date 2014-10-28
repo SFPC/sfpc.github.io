@@ -1,12 +1,9 @@
 ---
 title: Allison Burtch
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Teacher
-picture: /img/people/allison_burtch.png
-pictureMed: /img/peopleMed/allison_burtch.png
 twitter: irl
 github: allisonburtch
 website: http://allisonburtch.net

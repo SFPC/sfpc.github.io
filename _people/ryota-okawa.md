@@ -1,12 +1,9 @@
 ---
 title: Ryota Okawa
 layout: person
-group: people
 affiliation:
 - class: Spring 2014
   role: Student
-picture: /img/people/default.png
-pictureMed: /img/peopleMed/default.png
 twitter:
 github:
 website: http://bubuportfolio.wix.com/portfolio/

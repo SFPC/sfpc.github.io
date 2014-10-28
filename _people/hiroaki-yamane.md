@@ -1,12 +1,9 @@
 ---
 title: Hiroaki Yamane
 layout: person
-group: people
 affiliation:
 - class: Spring 2014
   role: Student
-picture: /img/people/hiroakiyamane.png
-pictureMed: /img/peopleMed/hiroakiyamane.png
 twitter: mnmly
 github: mnmly
 website: http://mnmly.com

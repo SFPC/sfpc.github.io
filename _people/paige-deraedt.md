@@ -1,12 +1,9 @@
 ---
 title: Paige DeRaedt
 layout: person
-group: people
 affiliation:
 - class: Fall 2014
   role: Student
-picture: /img/people/paige_deraedt.jpeg
-pictureMed: /img/peopleMed/paige_deraedt.jpeg
 twitter:
 github: paigederaedt
 website: http://paigederaedt.weebly.com
