@@ -1,55 +1,93 @@
 ---
 layout: default
 ---
-<section class="info">
-	<img src="{{site.baseurl}}/img/people/{{ page.title | downcase | replace: " ", "_" }}.jpg"/>
 
-	<table>
-	<tr>
-		<th colspan="2">SFPC CV</th>
-	</tr>
-	{% for affiliation in page.affiliation reversed %}
-		<tr>
-			<td><a href="{{site.baseurl}}/classes/{{affiliation.class | downcase | replace: " ", "-"}}">{{affiliation.class}}</a></td>
-			<td>{{affiliation.role}}</td>
-		</tr>
-	{% endfor %}
-	</table>
+<!-- {% if page.website %}<a href="{{page.website}}">Website</a>{% endif %}
 
-	<table>
-	<tr>
-		<th colspan="2">Info</th>
-	</tr>
-	{% if page.website %}
-		<tr>
-			<td><i class="fa fa-globe"></i> Website</td>
-			<td><a href="{{page.website}}">{{page.website}}</a></td>
-		</tr>
-	{% endif %}
+{% if page.twitter %}<a href="http://twitter.com/{{page.twitter}}">@{{page.twitter}}</a>{% endif %} -->
 
-	{% if page.twitter %}
-		<tr>
-			<td><i class="fa fa-twitter"></i> Twitter</td>
-			<td><a href="http://twitter.com/{{page.twitter}}"> @{{page.twitter}}</a></td>
-		</tr>
-	{% endif %}
+<div class="grid-wrapper">
+	<article class="profile">
+		<div class="profile-flex-wrapper">
+			<div class="profile-image">
+				{% if page.picture %}
+					<img src="{{page.picture}}"/>
+				{% else %}
+					<img src="/img/assets/images/people/default.png" />
+				{% endif %}
+			</div>
+			<div class="profile-info-flex-wrapper">
+				<div class="profile-title-info">
+					<p><b>{{page.title}}</b></p>
 
-	{% if page.github %}
-		<tr>
-			<td><i class="fa fa-github"></i> Github</td>
-			<td><a href="http://twitter.com/{{page.github}}">{{page.github}}</a></td>
-		</tr>
-	{% endif %}
+					{% for affiliation in page.affiliation %}
+						<p>Roles <b><span>{{affiliation.role}}</b></p>
+						<p>Class <b><span>{{affiliation.class}}</b></p>
+					{% endfor %}
 
-	{% if page.place %}
-		<tr>
-			<td><i class="fa fa-home"></i> Location</td>
-			<td>{{page.place}}</td>
-		</tr>
-	{% endif %}
-	</table>
-</section>
+					{% if page.website %}
+						<p>Website <a href="{{page.website}}" target="_blank"><span>{{page.website}}</span></a></p>
+					{% endif %}
 
-{% if content %}
-	<p>{{content}}</p>
-{% endif %}
+					{% if page.twitter %}
+						<p> Twitter <a href="http://twitter.com/{{page.twitter}}">@{{page.twitter}}</a></p>
+					{% endif %}
+
+					{% if page.github %}
+						<p>Github <a href="http://twitter.com/{{page.github}}">@{{page.github}}</a></p>
+					{% endif %}
+
+					{% if page.place %}
+						<p>{{page.place}}</p>
+					{% endif %}
+
+					<!-- <p>Social Networks <b><span class="teacher-title">Github, Twitter, Facebook, LinkedIn</span></b></p> -->
+
+
+				</div>
+				<div class="profile-info">
+					{% if content %}
+						<p>{{content}}</p>
+					{% endif %}
+				</div>
+			</div>
+		</div>
+
+		<!--
+			loop through the projects and if the author of the project
+			is the same as the page.title then add the projects in
+		-->
+		<!-- <div class="profile-project-flex-wrapper-full-width">
+			<div class="profile-project-flex-wrapper-responsive"></div>
+			<div class="profile-project-flex-wrapper-responsive">
+				<p class="project-header"><b>Projects</b></p>
+				<div class="profile-projects-grid-wrapper">
+					<article class="project">
+						<div class="project-image">
+							<img src="/img/assets/images/presentation/tasted.jpg"/>
+						</div>
+						<div class="project-title-info">
+							<p><b> TASTED</b></p>
+							<p>By <b><span class="student-title">Simona De Rosa</span></b></p>
+						</div>
+						<div class="project-info">
+							<p>"TASTED is a project that investigates the way we taste food and its flavor.   Nowadays it is possible to identify a product’s flavor profile through gas chromatography."</p>
+						</div>
+					</article>
+
+					<article class="project">
+						<div class="project-image">
+							<img src="/img/assets/images/presentation/haze.png"/>
+						</div>
+						<div class="project-title-info">
+							<p><b> Haze</b>霾</p>
+							<p>By <b><span class="student-title">Peng Chen</span></b></p>	
+						</div>
+						<div class="project-info">
+							<p>"Haze霾 is a wearable air quality detector, which is a strong appeal for people to pay attention to issues of air pollution, a very serious issue facing China today."</p>
+						</div>
+					</article>
+				</div>
+			</div> -->
+		</div>
+	</article>

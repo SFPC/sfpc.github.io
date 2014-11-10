@@ -1,15 +1,210 @@
 ---
 layout: default
 ---
-{% assign count = site.classes | size %}
+<div class="content-wrapper classes">
+	<article class="content classes">
+		<div class="content classes flex-wrapper">
 
-{% for i in (1..count) reversed %}
-	{% for class in site.classes %}
-		{% if i == class.order %}
-			<a href="{{class.url}}"><img src="/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg"></a>
-			<h2><a href="{{class.url}}">{{ class.title }}</h2></a>
-			<p class="date"><strong>Dates:</strong> {{ class.dates }}</p>
-			<p class="date"><strong>Location:</strong> {{ class.location }}</p>
-		{% endif %}
-	{% endfor %}
-{% endfor %}
+			<div class="content-info-wrapper classes">
+				<div class="content-title-info classes">
+					<p class="title"><b>Spring 2014</b></p>
+					<p class="date"><b>Session Dates</b> April 20 - May 4</p>
+					<p class="date"><b>Location</b> 155 Rivington, Manhattan</p>
+					<!-- <p class="date"><b>Exhibition</b> The Second Class</p> -->
+				</div>
+				<div class="content-details classes">
+					<p>The Spring 2014 session ran for two weeks at the Lower East Side of NYC at Orbital. The two week intensive was led by SFPC co-founders Zach Lieberman and Taeyoon Choi along with SFPC alumni Jonathan Dahan and Tega Brain. Teachers supported participants through individual tutoring and collective brainstorming. Additionally, classes by Gabriella Levine, Kaho Abe, Lauren McCarthy, and Kyle McDonald provided opportunities to dive into specific topic and methods.</p>
+				</div>
+			</div>
+			<div class="content-image classes" style="background-image:url('/img/classes/sfpc_spring2014_group.jpg')">
+			</div>
+		</div>
+
+		<div class="content classes flex-wrapper">
+			<div class="content-info-wrapper classes">
+				<div class="content-details flex-wrapper">
+					<div class="content-details classes participating-people courses">
+				 
+						<b>Courses</b>
+						<ul>
+							<li> <a href="https://github.com/SFPC/spring2014">Schedule</a></li>
+							<li>Input/output</li>
+							<li>Circuits and drawings</li>
+							<li>Towards Poetic Sensing</li>
+							<li>Biomimetic Design</li>
+							<li>Social Hacking</li>
+							<li>Speculative history of computing</li>
+						</ul>
+					</div>
+					<div class="content-details classes participating-people workshops">
+						<b>Workshops</b>
+						<ul>
+							<li>Mesh Network</li>
+							<li>Drawing</li>
+							<li>Command line magic</li>
+							<li>Python</li>
+						</ul>
+					</div>
+				</div>
+				<div class="content-details classes participating-people teachers">
+					<b>Teachers</b>
+					<ul>
+						<li><div class="profile-pic"><img src="/img//people/zach_lieberman.jpeg"></div><span>Zach Lieberman</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/taeyoon_choi.jpeg"></div><span>Taeyoon Choi</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/jonathan_dahan.png"></div><span>Jonathan Dahan</span></li>
+						<li><div class="profile-pic"><img src="/img//people/tega_brain.png"></div><span>Tega Brain</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Gabriella Levine</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/lauren_mccarthy.png"></div><span>Lauren McCarthy</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/kyle_mcdonald.png"></div><span>Kyle McDonald</span></li>
+					</ul>
+					<div class="content-details classes participating-people students">
+						<b>Students</b>
+						<ul>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/alexzandi.jpg"></div><span>Alex Zandi</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Alexander Porter</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Daniel Wilson</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Diana Sanchez</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/hiroakiyamane.png"></div><span>Hiroaki Yamane</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/hyojungseo.jpg"></div><span>Hyojung Seo</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/ida_benedetto.png"></div><span>Ida Benedetto</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Lee Tusman</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/nathankoch.jpg"></div><span>Nathan Koch</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Oscar Schwartz</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Ryota Okawa</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Scott Leinweber</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/shobunbaile.jpg"></div><span>Shobun Baile</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/firmreedtothong.jpg"></div><span>Tharit Firm Tothong</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Zak Greene</span></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="content-details classes participating-people visitors">
+					<b>Visitors</b>
+					<ul>
+						<li><div class="profile-pic"><img src="/img//people/default.png"></div><span>Lev Manovich</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Becky Sterne</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Sean McIntyre</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Jer Thorp</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Ben Rubin</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Masashi Kawamura</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Qanta Shimizu</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Kaho Abe</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/default.png"></div><span>Kenneth Goldsmith</span></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</article>
+
+
+
+
+	<article class="content classes">
+		<div class="content classes flex-wrapper">
+
+			<div class="content-info-wrapper classes">
+				<div class="content-title-info classes">
+					<p class="title"><b>Fall 2013</b></p>
+					<p class="date"><b>Session Dates</b> Sep 15 - Nov 22</p>
+					<p class="date"><b>Location</b> 33 Flatbush, Brooklyn</p>
+					<p class="date"><b>Exhibition</b> <a href="http://www.eyebeam.org/events/school-for-poetic-computation-the-first-class">SFPC: The First Class</a> at Eyebeam.</p>
+				</div>
+				<div class="content-details classes">
+					<p>The Fall 2013 session ran for ten weeks at the Metropolitan Exchange on 33 Flatbush ave, Brooklyn. The first ever class was lead by four co-founders of SFPC: Zach Lieberman, Jen Lowe, Taeyoon Choi and Amit Pitaru, each teaching few classes. Additionally many inspiring colleagues were generous to come in for special lecture and talks. The ten weeks of exploration and collaboration were presented as a public exhibition with talks at Eyebeam Art and Technology Center in Manhattan.  
+						
+						
+					</p>
+				</div>
+			</div>
+			<div class="content-image classes" style="background-image:url('/img/classes/sfpc_fall2013_group.jpg')">
+			</div>
+		</div>
+
+		<div class="content classes flex-wrapper">
+			<div class="content-info-wrapper classes">
+				<div class="content-details flex-wrapper">
+					<div class="content-details classes participating-people courses">
+						<b>Courses</b>
+						<ul>
+							<li>Computer Vision & Image Processing</li>
+							<li>Learning to Learn</li>
+							<li>Art for Mathist</li>
+							<li>Poetics of Circuitry</li>
+							<li>Learning Curves</li>
+							<li>Data Visualization</li>
+							<li>Principles of Animation</li>
+							<li>Principles of 3D</li>
+							<li>Art of Walking</li>
+						</ul>
+					</div>
+					<div class="content-details classes participating-people workshops">
+						<b>Workshops</b>
+						<ul>
+							<li>Rasberry Pi & Node.js</li>
+							<li>IR Camera with PS3 EYE</li>
+							<li>ofxAudiUnit</li>
+							<li>Git/Github</li>
+							<li>Wi-fi Everything</li>
+							<li>OpenFrameworks Basics</li>
+							<li>Interaction of Color</li>
+							<li>Python 101</li>
+							<li>Intro to Node.js</li>
+							<li>Many more.</li>
+						</ul>
+					</div>
+				</div>
+				<div class="content-details classes participating-people teachers">
+					<b>Teachers</b>
+					<ul>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/zach_lieberman.jpeg"></div><span>Zach Lieberman</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/jen_lowe.jpeg"></div><span>Jen Lowe</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/taeyoon_choi.jpeg"></div><span>Taeyoon Choi</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/amit_pitaru.jpg"></div><span>Amit Pitaru</span></li>
+					</ul>
+					<div class="content-details classes participating-people students">
+						<b>Students</b>
+						<ul>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/simona_derosa.png"></div><span>Simona De Rosa</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/ishac_bertran.png"></div><span>Ishac Bertran</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/moises_sanabria.png"></div><span>Moises Sanabria</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/claire_lin.png"></div><span>Claire Lin</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/le_wei.png"></div><span>Le Wei</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/jonathan_dahan.png"></div><span>Jonathan Dahan</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/mini_kim.png"></div><span>Mini Kim</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/andy_clymer.png"></div><span>Andy Clymer</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/jonathan_wohl.png"></div><span>Jonathan Wohl</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/rachel_uwa.png"></div><span>Rachel Uwa</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/paul_cheng.png"></div><span>Peng Chen</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/jason_levine.png"></div><span>Jason Levine</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/motoi_shimizu.png"></div><span>Motoi Shimizu</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/jesse_wolpert.png"></div><span>Jessica Wolpert</span></li>
+							<li><div class="profile-pic"><img src="/img/peopleSmall/tega_brain.png"></div><span>Tega Brain</span></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="content-details classes participating-people visitors">
+					<b>Visitors</b>
+					<ul>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/jacob_tonski.png"></div><span>Jacob Tonsky</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/ramsey_nasser.png"></div><span>Ramsey Nasser</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/bret_victor.png"></div><span>Bret Victor</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/adam_magyar.png"></div><span>Adam Magyar</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/dan_phiffer.png"></div><span>Dan Phiffer</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/cedrick_kiefer.png"></div><span>Cedric Kiefer</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/jacob_gaboury.png"></div><span>Jacob Gaboury</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/kyle_mcdonald.png"></div><span>Kyle McDonald</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/brian_droitcour.png"></div><span>Brian Droicour</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/brian_house.png"></div><span>Brian House</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/zach_gage.png"></div><span>Zach Gage</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/jurg_lehni.png"></div><span>Jurg Lehni</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/christine_sun_kim.png"></div><span>Christine Sun Kim</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/paola_antonelli.png"></div><span>Paola Antonelli</span></li>
+						<li><div class="profile-pic"><img src="/img/peopleSmall/syd_lieberman.png"></div><span>Syd Lieberman</span></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</article>
+</div>

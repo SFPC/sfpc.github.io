@@ -1,15 +1,4 @@
 permalink: pretty
-collections:
-  people:
-    output: true
-    permalink: /people/:path/
-  classes:
-    output: true
-    permalink: /classes/:path/
-defaults:
-  -
-    scope:
-      path: ""
-      type: "classes" # a collection in your site, in plural form
-    values:
-      layout: "class"
+markdown: kramdown
+kramdown:
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links

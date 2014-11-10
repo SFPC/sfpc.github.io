@@ -1,6 +1,7 @@
 ---
 title: Donation and Sponsorship
 layout: default
+slug: donate
 ---
 School for Poetic Computation is a cooperative education program initiated by SFPC.LLC.
 
