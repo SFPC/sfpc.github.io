@@ -183,7 +183,7 @@ nav ul li a {
 /* INTRO IMAGE */
 
     body#index {
-      background-image: url("https://dl.dropboxusercontent.com/u/55385731/pushPixel_splash.jpg");
+      background-image: url("/img/PushPixel_splash.jpg");
       background-size: auto 100%, auto;
       background-position:center;
       background-repeat: no-repeat;
