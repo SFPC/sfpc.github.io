@@ -11,8 +11,9 @@ $light: #ffffff;
 }
 
 body {
-	font-family: "Apercu Regular", sans-serif; font-size-adjust:0.508; font-weight:normal; font-style:normal;
-	font-size: 1em;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: .9em;
+	line-height:1.25em;
 	border-top:5px solid $accent;
 }
 
@@ -48,7 +49,7 @@ figure {
 		margin: 0;
 	}
 }
-h1, h2, h3, h4, h5, h6, th, strong {
+nav, h1, h2, h3, h4, h5, h6, th {
 	font-family: "Apercu Bold", sans-serif; font-size-adjust:0.508; font-weight:bold; font-style:normal;
 }
 p {
@@ -101,9 +102,6 @@ article ul.grid {
 	li {
 		display:inline-block;
 	}
-} 
-#sfpc h1 {
-	display:none;
 }
 #press blockquote {
 	margin:0 auto;

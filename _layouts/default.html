@@ -6,13 +6,12 @@
 		<link rel="stylesheet" href="/css/style.css">
 		<title>{% if page.title %}{{page.title}} | {% endif %}School for Poetic Computation</title>
 	</head>
-	<body id="{{ page.title | downcase | replace: " ", "" }}"{% if page.collection %}class="{{page.collection}}"{% endif %}>
+	<body id="{% if page.collection %}{{page.collection}}{% else %}{{ page.title | downcase | replace: " ", "" }}{% endif %}">
 	<section class="container">
 		<header>
 			{% include nav.html %}
 		</header>
 		<article>
-			<h1>{{page.title}}</h1>
 			{{content}}
 		</article>
 		<footer>
