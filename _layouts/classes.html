@@ -5,9 +5,78 @@ layout: default
 {% for i in (1..count) reversed %}
 	{% for class in site.classes %}
 		{% if i == class.order %}
-			<a href="{{class.url}}"><img src="/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg"></a>
-			<h2><a href="{{class.url}}">{{ class.title }}</h2></a>
-			<p class="date"><strong>Dates:</strong> {{ class.dates }}<br><strong>Location:</strong> {{ class.location }}</p>
+			<img src="/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg">
+			<div class="row">
+				<div class="four columns">
+					<h2>{{ class.title }}</h2>
+					<p class="date"><strong>Dates:</strong> {{ class.dates }}<br><strong>Location:</strong> {{ class.location }}</p>
+				</div>
+				{% if class.courses %}
+					<div class="four columns">
+					<h3>Courses</h3>
+					<ul>
+						{% for course in class.courses %}
+							<li>{{ course.name }}</li>
+						{% endfor %}
+					</ul>
+					</div>
+				{% endif %}
+				{% if class.workshops %}
+					<div class="four columns">
+					<h3>Workshops</h3>
+					<ul>
+						{% for workshop in class.workshops %}
+							<li>{{ workshop.name }}</li>
+						{% endfor %}
+					</ul>
+					</div>
+				{% endif %}
+			</div>
+			<div class="row">
+			{% if class.students %}
+				<div class="four columns">
+				<h4>Students</h4>
+				<ul>
+					{% for student in class.students %}
+						{% for person in site.people %}
+							{% if person.title == student.name %}
+								<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</li>
+							{% endif %}
+						{% endfor %}
+					{% endfor %}
+				</ul>
+				</div>
+			{% endif %}
+			{% if class.teachers-staff %}
+				<div class="four columns">
+				<h4>Teachers &amp; Staff</h4>
+				<ul>
+					{% for teacher in class.teachers-staff %}
+						{% for person in site.people %}
+							{% if person.title == teacher.name %}
+								<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</li>
+							{% endif %}
+						{% endfor %}
+					{% endfor %}
+				</ul>
+				</div>
+			{% endif %}
+			{% if class.visitors %}
+				<div class="four columns">
+				<h4>Visitors</h4>
+				<ul>
+					{% for visitor in class.visitors %}
+						{% for person in site.people %}
+							{% if person.title == visitor.name %}
+								<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</li>
+							{% endif %}
+						{% endfor %}
+					{% endfor %}
+				</ul>
+				</div>
+			{% endif %}
+			</div>
+			<hr>
 		{% endif %}
 	{% endfor %}
 {% endfor %}

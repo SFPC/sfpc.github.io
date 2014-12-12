@@ -2,7 +2,7 @@
 title: FAQ
 layout: default
 ---
-<figure class="pull-right">
+<figure class="u-pull-right">
 	<img src="/img/press/sfpcstyle.jpg">
 </figure>
 
