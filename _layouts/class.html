@@ -53,7 +53,7 @@ layout: default
 					<li>
 						<a href="{{person.url}}"><img src="{{site.baseurl}}/img/people/{{person.title | downcase | replace: " ", "_"}}.jpg"></a>
 						<h4>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</h4>
-						{{person.content | truncate: 200, '…'}}
+						{{person.content | strip_html | truncate: 200, '…'}}
 					</li>
 				{% endif %}
 			{% endfor %}

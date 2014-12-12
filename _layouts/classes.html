@@ -2,14 +2,12 @@
 layout: default
 ---
 {% assign count = site.classes | size %}
-
 {% for i in (1..count) reversed %}
 	{% for class in site.classes %}
 		{% if i == class.order %}
 			<a href="{{class.url}}"><img src="/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg"></a>
 			<h2><a href="{{class.url}}">{{ class.title }}</h2></a>
-			<p class="date"><strong>Dates:</strong> {{ class.dates }}</p>
-			<p class="date"><strong>Location:</strong> {{ class.location }}</p>
+			<p class="date"><strong>Dates:</strong> {{ class.dates }}<br><strong>Location:</strong> {{ class.location }}</p>
 		{% endif %}
 	{% endfor %}
 {% endfor %}
