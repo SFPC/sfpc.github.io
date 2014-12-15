@@ -2,9 +2,6 @@
 title: FAQ
 layout: default
 ---
-<figure class="u-pull-right">
-	<img src="/img/press/sfpcstyle.jpg">
-</figure>
 
 ## Administration
 

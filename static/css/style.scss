@@ -8,8 +8,37 @@ $body: #000000;
 $accent: #1ABC9C;
 $light: #ffffff;
 
+@mixin gwf($fonts...) {
+  $url: "http://fonts.googleapis.com/css?family=";
+  $nb: 0;
+  
+  @each $font-name in $fonts {
+    $nb: $nb + 1;
+    $nb-word: 0;
+    
+    @each $word in $font-name {
+      $nb-word: $nb-word + 1;
+      $url: $url + $word;
+      
+      @if $nb-word < length($font-name) {
+        $url: $url + "+"; 
+      } 
+    }
+    
+    @if $nb < length($fonts) {
+       $url: $url + "|"; 
+    }
+  }
+  
+  @import url(#{$url});
+}
+
+@include gwf(Average Sans);
+@include gwf(Karla);
+
 body {
-	border-top:5px solid $accent;
+	//border-top:5px solid $accent;
+	font-family:  Average Sans, Segoe, sans-serif;
 }
 
 i {
@@ -37,6 +66,7 @@ p.source {
 }
 header {
 	background:$light;
+	background-color: rgba(0,0,0,0.03);
 }
 nav.main {
 	padding:1em 0;
@@ -58,7 +88,12 @@ nav.main {
 #sfpc .sfpc, #mission .mission, #press .press, #classes .classes, #people .people, #faq .faq, #participate .participate, #blog .blog {
 	color: $body;
 	font-family: "Apercu Bold", sans-serif;
-	font-weight:bold;
+	//font-weight:bold;
+}
+
+.sfpc{
+	font-family: "Apercu Bold", sans-serif;
+	font-size:24px;
 }
 
 #sfpc {
@@ -89,12 +124,14 @@ article ul.grid {
 	}
 }
 .twocol {
+
 	-moz-column-count: 2;
-	-moz-column-gap: 20px;
+	-moz-column-gap: 60px;
 	-webkit-column-count: 2;
-	-webkit-column-gap: 20px;
+	-webkit-column-gap: 60px;
 	column-count: 2;
-	column-gap: 20px;
+	column-gap: 60px;
+	margin-bottom: 60px;
 }
 .spancolumns {
 	-moz-column-span: all!important;
@@ -103,12 +140,13 @@ article ul.grid {
 }
 #press blockquote {
 	margin:0 auto;
+
 }
 footer {
 	padding:1rem;
 	background: $light;
-	text-align:center;
-	border-top: 1px solid $accent;
+	text-align:left;
+	background-color: rgba(0,0,0,0.03);
 }
 #people {
 	table {

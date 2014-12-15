@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/static/css/style.css">
 		<title>{% if page.title %}{{page.title}} | {% endif %}School for Poetic Computation</title>
 	</head>
 	<body id="{% if page.collection %}{{page.collection}}{% else %}{{ page.title | downcase | replace: " ", "" }}{% endif %}">
@@ -15,8 +15,10 @@
 			{{content}}
 		</article>
 	</section>	
-	<footer>
+	<footer class="u-full-width">
+	<div class="container">
 		{% include footer.html %}
+	</div>
 	</footer>
 	<script type="text/java
 	script">

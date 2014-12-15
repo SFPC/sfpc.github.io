@@ -15,5 +15,3 @@ The goal of the school is to promote completely strange, whimsical, and beautifu
 
 This is not a program to get a degree, there are large programs for that. This is not a program to go for vocational skills, there are programs for that. This is a program for self initiated learners who want to explore new possibilities. This is a program for thinkers in search of a community to realize greater dreams.
 </div>
-
-<img src="../img/learning.png"/>

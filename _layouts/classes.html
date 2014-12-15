@@ -5,7 +5,7 @@ layout: default
 {% for i in (1..count) reversed %}
 	{% for class in site.classes %}
 		{% if i == class.order %}
-			<img src="/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg">
+			<img src="/static/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg">
 			<div class="row">
 				<div class="four columns">
 					<h2>{{ class.title }}</h2>
