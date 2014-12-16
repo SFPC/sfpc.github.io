@@ -4,9 +4,11 @@ layout: default
 hello!
 {% assign count = site.faqs | size %}
 {% for i in (1..count) reversed %}
-		?
+	{% for faq in site.faqs %}
+		{% if i == faq.order %}
 		<div class="class">
 			?	
 		</div>
+		{% endif %}
+	{% endfor %}
 {% endfor %}
-Goodbye!
