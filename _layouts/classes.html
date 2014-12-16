@@ -5,10 +5,11 @@ layout: default
 {% for i in (1..count) reversed %}
 	{% for class in site.classes %}
 		{% if i == class.order %}
+			<div class="class">
+			<h2>{{ class.title }}</h2>
 			<img src="/static/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg">
 			<div class="row">
 				<div class="four columns">
-					<h2>{{ class.title }}</h2>
 					<p class="date"><strong>Dates:</strong> {{ class.dates }}<br><strong>Location:</strong> {{ class.location }}</p>
 				</div>
 				{% if class.courses %}
@@ -40,7 +41,16 @@ layout: default
 					{% for student in class.students %}
 						{% for person in site.people %}
 							{% if person.title == student.name %}
-								<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</li>
+								<li>
+								{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} 
+								<!--
+								{% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} 
+								{% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} 
+								{% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} 
+								{% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}
+								-->
+								</li>
+
 							{% endif %}
 						{% endfor %}
 					{% endfor %}
@@ -54,7 +64,13 @@ layout: default
 					{% for teacher in class.teachers-staff %}
 						{% for person in site.people %}
 							{% if person.title == teacher.name %}
-								<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</li>
+								<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} 
+
+								<!--
+								{% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}
+								-->
+
+								</li>
 							{% endif %}
 						{% endfor %}
 					{% endfor %}
@@ -68,7 +84,12 @@ layout: default
 					{% for visitor in class.visitors %}
 						{% for person in site.people %}
 							{% if person.title == visitor.name %}
-								<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</li>
+								<li>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} 
+
+								<!--{% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}
+								-->
+
+								</li>
 							{% endif %}
 						{% endfor %}
 					{% endfor %}
@@ -77,6 +98,7 @@ layout: default
 			{% endif %}
 			</div>
 			<hr>
+		</div>
 		{% endif %}
 	{% endfor %}
 {% endfor %}

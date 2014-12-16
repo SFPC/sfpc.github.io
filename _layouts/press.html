@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
+<div id="masonry">
 {% for press in site.data.press %}
+	<div class="item">
 	<blockquote>
 		<p>{{ press.quote }}</p>
 		<p class="source">—<a href="{{ press.url }}">{{ press.source }}</a></p>
 	</blockquote>
+	</div>
 {% endfor %}
+</div>
