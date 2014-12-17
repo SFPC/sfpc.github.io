@@ -1,3 +1,7 @@
+---
+title: Administration
+order: 1
+---
 ### Is the school for poetic computation a real school?
 
 It is a school in the sense that there is a lot of learning and teaching happening in a physical space. It is also a residency for creative practitioners in art and technology to develop their ideas into projects and publish them through documentation and exhibition.

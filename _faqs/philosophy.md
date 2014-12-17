@@ -1,3 +1,7 @@
+---
+title: Philosophy
+order: 3
+---
 ### What are the core principles the school stands for?
 
 Hacking, exploration, open source, publish everything and often, tools for building, deep understanding through hands on experience and so on…

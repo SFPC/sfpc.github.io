@@ -1,3 +1,7 @@
+---
+title: Pedagogy
+order: 2
+---
 ### What is the teaching philosophy?
 
 We celebrate failure and collaboration. Our classes are going to be a mix of lecture, demo and lab hours. We respect our students and support them as artists and educators. We hope our students will have the experience to create projects on their own and teach after the program.

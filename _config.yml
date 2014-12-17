@@ -6,3 +6,6 @@ collections:
   classes:
     output: true
     permalink: /classes/:path/
+  faqs:
+    output: true
+    permalink: /faqs/:path/

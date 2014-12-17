@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-hello!
 {% assign count = site.faqs | size %}
 {% for i in (1..count) reversed %}
 	{% for faq in site.faqs %}
 		{% if i == faq.order %}
 		<div class="class">
-			?	
+			<h2>{{ faq.title }}</h2>
+			{{ faq.content }}
 		</div>
 		{% endif %}
 	{% endfor %}
