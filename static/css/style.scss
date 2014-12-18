@@ -124,7 +124,7 @@ nav {
 }
 
 .sfpc{
-	font-family: "Apercu Bold", sans-serif;
+	
 	font-size:20px;
 	 margin: auto;
   //position: absolute;
@@ -133,7 +133,19 @@ nav {
 
 #faq {
  	h1, h2, h3, h4, h5, h6, th {
-		font-size: 18px;
+	}
+
+	h2 {
+		font-family: "Apercu Bold", sans-serif;
+		//font-size: 24px;
+		padding-bottom:1em;
+		padding-top:1em;
+	}
+	h3 {
+		font-family:  Average Sans, Segoe, sans-serif !important;
+		color: #CCC;
+		font-size: 15px !important;
+		letter-spacing: 0;
 	}
 }
 
@@ -222,6 +234,10 @@ article ul.grid {
 		width: 185px;
 		background-color: rgba(255,255,255,0.9);
 	}
+}
+
+#faq.item{
+	width:300px!important;
 }
 
 #press {

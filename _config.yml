@@ -7,5 +7,4 @@ collections:
     output: true
     permalink: /classes/:path/
   faqs:
-    output: true
-    permalink: /faqs/:path/
+    output: false
