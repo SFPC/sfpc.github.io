@@ -26,7 +26,7 @@ students:
 - name: Ryota Okawa
 - name: Scott Leinweber
 - name: Shobun Baile
-- name: Tharit Firm Tothong
+- name: Firm Reed Tothong
 - name: Zak Greene
 visitors: 
 - name: Becky Sterne
