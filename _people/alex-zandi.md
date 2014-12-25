@@ -1,6 +1,5 @@
 ---
 title: Alex Zandi
-layout: person
 affiliation:
 - class: Spring 2014
   role: Student

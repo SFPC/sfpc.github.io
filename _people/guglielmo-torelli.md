@@ -1,6 +1,5 @@
 ---
 title: Guglielmo Torelli
-layout: person
 affiliation:
 - class: Fall 2014
   role: Student

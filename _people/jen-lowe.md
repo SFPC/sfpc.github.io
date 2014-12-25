@@ -1,6 +1,5 @@
 ---
 title: Jen Lowe
-layout: person
 affiliation:
 - class: Fall 2013
   role: Teacher

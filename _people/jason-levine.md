@@ -1,6 +1,5 @@
 ---
 title: Jason Levine
-layout: person
 affiliation:
 - class: Fall 2013
   role: Student

@@ -1,6 +1,5 @@
 ---
 title: Brian Droitcour
-layout: person
 affiliation:
 - class: Fall 2013
   role: Visitor

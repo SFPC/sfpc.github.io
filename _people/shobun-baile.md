@@ -1,6 +1,5 @@
 ---
 title: Shobun Baile
-layout: person
 affiliation:
 - class: Spring 2014
   role: Student

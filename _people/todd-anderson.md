@@ -1,6 +1,5 @@
 ---
 title: Todd Anderson
-layout: person
 affiliation:
 - class: Fall 2014
   role: Student

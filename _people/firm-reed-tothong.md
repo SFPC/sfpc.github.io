@@ -1,6 +1,5 @@
 ---
 title: Firm Reed Tothong
-layout: person
 affiliation:
 - class: Spring 2014
   role: Student

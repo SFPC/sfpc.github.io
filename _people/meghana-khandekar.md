@@ -1,6 +1,5 @@
 ---
 title: Meghana Khandekar
-layout: person
 affiliation:
 - class: Fall 2014
   role: Student

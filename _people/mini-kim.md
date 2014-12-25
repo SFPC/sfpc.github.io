@@ -1,6 +1,5 @@
 ---
 title: Mini Kim
-layout: person
 affiliation:
 - class: Fall 2013
   role: Student

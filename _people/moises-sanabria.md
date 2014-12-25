@@ -1,6 +1,5 @@
 ---
 title: Moises Sanabria
-layout: person
 affiliation:
 - class: Fall 2013
   role: Student

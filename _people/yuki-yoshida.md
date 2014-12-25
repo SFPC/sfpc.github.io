@@ -1,6 +1,5 @@
 ---
 title: Yuki Yoshida
-layout: person
 affiliation:
 - class: Fall 2014
   role: Student

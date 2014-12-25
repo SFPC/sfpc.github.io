@@ -1,6 +1,5 @@
 ---
 title: Ryota Okawa
-layout: person
 affiliation:
 - class: Spring 2014
   role: Student

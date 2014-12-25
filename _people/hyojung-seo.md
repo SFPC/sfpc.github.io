@@ -1,6 +1,5 @@
 ---
 title: Hyojung Seo
-layout: person
 affiliation:
 - class: Spring 2014
   role: Student

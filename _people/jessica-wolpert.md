@@ -1,6 +1,5 @@
 ---
 title: Jesse Wolpert
-layout: person
 affiliation:
 - class: Fall 2013
   role: Student
