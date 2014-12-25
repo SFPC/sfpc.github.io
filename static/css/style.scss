@@ -132,20 +132,33 @@ nav {
 }
 
 #faq {
- 	h1, h2, h3, h4, h5, h6, th {
+	div.content {
+		margin-top:2em
 	}
-
+	section#toc {
+		ul {
+			list-style-position: outside;
+			li {
+				padding:0;
+				margin:0 0 0 1.5em;
+				&.toc-h3 {
+					margin-left:3em;
+				}
+			}
+		}
+	}
 	h2 {
 		font-family: "Apercu Bold", sans-serif;
 		//font-size: 24px;
-		padding-bottom:1em;
-		padding-top:1em;
 	}
 	h3 {
 		font-family:  Average Sans, Segoe, sans-serif !important;
 		color: #CCC;
 		font-size: 15px !important;
 		letter-spacing: 0;
+	}
+	section.faq-section {
+		margin-bottom: 1em;
 	}
 }
 
