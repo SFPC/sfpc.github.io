@@ -94,7 +94,7 @@ article, footer  {
 
 nav {
 	width: 100%;
-	background-color:rgba(0,0,0,0.03);
+	//background-color:rgba(0,0,0,0.03);
 	padding:1em 0;
 	max-width: 960px;
 	color:$accent;
@@ -131,13 +131,25 @@ nav {
   //top: 0; left: 0; bottom: 0; right: 0;
 }
 
+.content {
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
 #faq {
+
+
+	.content {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+
 	div.content {
 		margin-top:2em
 	}
 	section#toc {
 		ul {
-			list-style-position: outside;
+			list-style-type: none;
 			li {
 				padding:0;
 				margin:0 0 0 1.5em;
@@ -271,9 +283,9 @@ article ul.grid {
 
 #footer {
 	text-align:left;
-	background-color: rgba(0,0,0,0.03);
+	//background-color: rgba(0,0,0,0.03);
 	.column {
-		background-color: rgba(255,0,0,0.53);
+	//	background-color: rgba(255,0,0,0.53);
 		padding:10px;
 	}
 }

@@ -2,8 +2,8 @@
 layout: default
 ---
 <div class="row">
-	<section id="toc" class="five columns"></section>
-	<section id="content" class="seven columns">
+	
+	<section id="content" class="six columns">
 		{% assign count = site.faqs | size %}
 		{% for i in (1..count) reversed %}
 			{% for faq in site.faqs %}
@@ -16,6 +16,7 @@ layout: default
 			{% endfor %}
 		{% endfor %}
 	</section>
+	<section id="toc" class="six columns"></section>
 </div>
 <script type="text/javascript" src="/static/js/toc.min.js"></script>
 <script>
