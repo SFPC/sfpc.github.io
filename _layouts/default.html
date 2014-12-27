@@ -8,14 +8,21 @@
 
 	<script type="text/javascript" src="/static/js/resources/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="/static/js/masonry.pkgd.min.js"></script>
+	<script type="text/javascript" src="/static/js/jquery.columnizer.js"></script>
+
 	<script type="text/javascript">
 		$( document ).ready(function() {
 		if( $('#masonry').length ){
 		    $('#masonry').masonry({
 		        itemSelector: '.item',
-		        columnWidth: 5
+		        columnWidth: 240
 		    });
 		}	
+		if ( $('#columnize').length ){
+			$('#columnize').columnize({ width: 450 });
+		}
+
+
 	});
 	</script>
 	

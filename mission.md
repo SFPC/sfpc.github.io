@@ -2,7 +2,7 @@
 title: Mission
 layout: default
 ---
-<div markdown="1" class="twocol">
+<div markdown="1" id="columnize">
 The school for poetic computation is organized around exploring the creative and expressive nature of computational approaches to art and design. The school approaches writing code like creative writing — focusing on the mechanics of programming, the demystification of tools, and hacking the conventions of art-making with computation.
 
 We value the craft necessary to realize an idea, recognizing that every writer needs space and time to hone their trade. Our school aims to provide a safe haven for you to get acquainted with the craft of coding at your own pace, make it your own, and investigate the space between creative process and craft. This takes conversations with colleagues and the right push at the right time.
