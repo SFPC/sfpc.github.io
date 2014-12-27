@@ -6,11 +6,21 @@
 		<link rel="stylesheet" href="/static/css/style.css">
 		<title>{% if page.title %}{{page.title}} | {% endif %}School for Poetic Computation</title>
 
+	<style>
+    /* Prevent the slideshow from flashing on load */
+    #slides {
+      display: none
+    }
+    </style>
+
+
 	<script type="text/javascript" src="/static/js/resources/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="/static/js/masonry.pkgd.min.js"></script>
 	<script type="text/javascript" src="/static/js/jquery.columnizer.js"></script>
+	<script src="/static/js/jquery.slides.min.js"></script>
 
 	<script type="text/javascript">
+
 		$( document ).ready(function() {
 		if( $('#masonry').length ){
 		    $('#masonry').masonry({
@@ -21,10 +31,46 @@
 		if ( $('#columnize').length ){
 			$('#columnize').columnize({ width: 450 });
 		}
+		if ( $('#slides').length ){
+			 $("#slides").slidesjs({
+	       		 width: 940,
+	        	height: 528,
+		        play: {
+		          active: false,
+		          auto: true,
+		          interval: 4000,
+		          swap: true,
+		          effect: "fade"
+		        },
+		        pagination: {
+      active: false
+    },navigation: {
+      active: false
+  },
+effect: {
+     
+      fade: {
+        speed: 2000,
+          // [number] Speed in milliseconds of the fade animation.
+        crossfade: true
+
+    }
+   }
 
 
+
+	     	 });
+		}
+
+		
+		
 	});
 	</script>
+
+	
+
+
+
 	
 	</head>
 	<body id="{% if page.collection %}{{page.collection}}{% else %}{{ page.title | downcase | replace: " ", "" }}{% endif %}">

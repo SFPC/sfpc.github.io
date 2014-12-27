@@ -231,12 +231,17 @@ nav {
 		background:url("/static/img/PushPixel_splash.jpg");
 		background-size:cover;
 		min-height:80vh;
+
+
 	}
-	#intro {
-		display:block;
+	.intro {
+		width:70%;
 		background: #fff;
 		padding:1em;
-		margin:1em 0 0 -1em;
+		margin-top: 5em;
+ 		margin-left: auto;
+    	margin-right: auto;
+
 	}
 }
 article ul.grid {
@@ -300,6 +305,14 @@ article ul.grid {
 		//padding:20px;
 		
 	}
+}
+
+#person {
+
+	.six.columns {
+		padding-right:2em;
+	}
+
 }
 
 #footer {
