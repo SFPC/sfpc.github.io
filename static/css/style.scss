@@ -80,8 +80,6 @@ p.source {
 }
 
 #header {
-	background:$light;
-	//background-color: rgba(0,0,0,0.03);
 	margin:0px!important;
 	padding:0px!important;
 }
@@ -94,7 +92,6 @@ article, footer  {
 
 nav {
 	width: 100%;
-	//background-color:rgba(0,0,0,0.03);
 	padding:1em 0;
 	max-width: 960px;
 	color:$accent;

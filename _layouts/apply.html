@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<form accept-charset="UTF-8" action="https://formkeep.com/f/5d07be37a31e" method="POST">
+	<input type="hidden" name="utf8" value="✓">
+	{% for item in site.data.application %}
+		{% if item.input == 'textarea' %}
+		<h4>{{item.text}}</h4>
+			<textarea name="{{item.name}}"></textarea>
+		{% endif %}
+		{% if item.input == 'text' %}
+		<h4>{{item.text}}</h4>
+			<input type = "{{item.input}}" name = "{{item.name}}"/>
+		{% endif %}
+	{% endfor %}
+	<button class="button" value="submit">Submit Application</button>
+</form>

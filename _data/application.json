@@ -1,0 +1,30 @@
+[
+	{
+		"name": "name",
+		"input": "text",
+		"text": "What is your name?",
+		"required": "yes"
+	},
+	{
+		"name": "email",
+		"input": "text",
+		"text": "What is your email address?",
+		"required": "yes"
+	},
+	{
+		"name": "from",
+		"input": "text",
+		"text": "Where are you from and where are you based now?",
+		"required": "yes"
+	},
+	{
+		"name": "talk",
+		"input": "textarea",
+		"text": "Do you have a website or other places we can see your work? (portfolio/ twitter / github / flickr/ vimeo, etc)"
+	},
+	{
+		"name": "learn",
+		"input": "textarea",
+		"text": "How do you learn best?"
+	}
+]
