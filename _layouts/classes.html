@@ -1,0 +1,93 @@
+---
+layout: default
+---
+{% assign count = site.classes | size %}
+{% for i in (1..count) reversed %}
+	{% for class in site.classes %}
+		{% if i == class.order %}
+			<div class="class">
+			<h2>{{ class.title }}</h2>
+			<img src="/static/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg">
+			<div class="row">
+				<div class="four columns">
+					<p class="date"><strong>Dates:</strong> {{ class.dates }}<br><strong>Location:</strong> {{ class.location }}</p>
+				</div>
+				{% if class.courses %}
+				<div class="four columns">
+					<h3>Courses</h3>
+					<p>
+						{% for course in class.courses %}
+							{% if forloop.last %}
+								 and {{ course.name }}
+							 {% else %}
+								 {{ course.name | append: ", " }}
+						 	{% endif %}
+					 	{% endfor %}
+				 	</p>
+				</div>
+				{% endif %}
+				{% if class.workshops %}
+				<div class="four columns">
+					<h3>Workshops</h3>
+					<p>
+						{% for workshop in class.workshops %}
+							{% if forloop.last %}
+								 and {{ workshop.name }}
+							 {% else %}
+								 {{ workshop.name | append: ", " }}
+						 	{% endif %}
+					 	{% endfor %}
+				 	</p>
+				</div>
+				{% endif %}
+			</div>
+			<div class="row">
+			{% if class.students %}
+			<div class="four columns">
+				<h4>Students</h4>
+				<p>
+					{% for student in class.students %}
+						{% if forloop.last %}
+							 {% for person in site.people %}
+							 {% if person.title == student.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}{% endif %}{% endfor %}
+						 {% else %}
+							 {% for person in site.people %}{% if person.title == student.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}, {% endif %}{% endfor %}
+					 	{% endif %}
+				 	{% endfor %}
+			 	</p>
+			</div>
+			{% endif %}
+			{% if class.teachers-staff %}
+			<div class="four columns">
+				<h4>Teachers &amp; Staff</h4>
+				<p>
+					{% for teacher in class.teachers-staff %}
+						{% if forloop.last %}
+							{% for person in site.people %}{% if person.title == teacher.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}{% endif %}{% endfor %}
+						 {% else %}
+							 {% for person in site.people %}{% if person.title == teacher.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}, {% endif %}{% endfor %}
+					 	{% endif %}
+				 	{% endfor %}
+			 	</p>
+			</div>
+			{% endif %}
+			{% if class.visitors %}
+			<div class="four columns">
+				<h4>Visitors</h4>
+				<p>
+					{% for visitor in class.visitors %}
+						{% if forloop.last %}
+							 {% for person in site.people %}{% if person.title == visitor.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}{% endif %}{% endfor %}
+						 {% else %}
+							 {% for person in site.people %}{% if person.title == visitor.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}, {% endif %}{% endfor %}
+					 	{% endif %}
+				 	{% endfor %}
+			 	</p>
+			</div>
+			{% endif %}
+			</div>
+			<hr>
+		</div>
+		{% endif %}
+	{% endfor %}
+{% endfor %}

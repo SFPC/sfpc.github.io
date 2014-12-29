@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="row">
+	
+	<section id="content" class="eight columns">
+		{% assign count = site.faqs | size %}
+		{% for i in (1..count) reversed %}
+			{% for faq in site.faqs %}
+				{% if i == faq.order %}
+					<section class="faq-section">
+					<h2>{{ faq.title }}</h2>
+					{{ faq.content }}
+					</section>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	</section>
+	<section id="toc" class="four columns"></section>
+</div>
+<script type="text/javascript" src="/static/js/toc.min.js"></script>
+<script>
+	$('#toc').toc();
+</script>
