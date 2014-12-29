@@ -1,50 +1,111 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="/css/style.css">
-	<title>{% if page.title %}{{page.title}} | {% endif %}School for Poetic Computation</title>
-</head>
-<body id="{% if page.slug %}{{ page.slug }}{% endif %}">
-<a id="nav-jump" href="#main-nav">
-	{% if page.slug == "index" %}
-	<span id="abbrev">SFPC</span>
-	<span id="full">School for Poetic Computation</span>
-	{% else %}
-	{{ page.title }}
-	{% endif %}
-	&nbsp;&nbsp;<span class="depravedhamburger">&#9776;</span></a>
-<section class="container {% if page.parent-height %} {{page.parent-height}} {% endif %}">
-	<header class="group">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="/static/css/style.css">
+		<title>{% if page.title %}{{page.title}} | {% endif %}School for Poetic Computation</title>
+
+	<style>
+    /* Prevent the slideshow from flashing on load */
+    #slides {
+      display: none
+    }
+    </style>
+
+
+	<script type="text/javascript" src="/static/js/resources/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="/static/js/masonry.pkgd.min.js"></script>
+	<script type="text/javascript" src="/static/js/jquery.columnizer.js"></script>
+	<script src="/static/js/jquery.slides.min.js"></script>
+
+	<script type="text/javascript">
+
+		$( document ).ready(function() {
+		if( $('#masonry').length ){
+		    $('#masonry').masonry({
+		        itemSelector: '.item',
+		        columnWidth: 240
+		    });
+		}	
+		if ( $('#columnize').length ){
+			$('#columnize').columnize({ width: 450 });
+		}
+		if ( $('#slides').length ){
+			 $("#slides").slidesjs({
+	       		 width: 940,
+	        	height: 528,
+		        play: {
+		          active: false,
+		          auto: true,
+		          interval: 4000,
+		          swap: true,
+		          effect: "fade"
+		        },
+		        pagination: {
+      active: false
+    },navigation: {
+      active: false
+  },
+effect: {
+     
+      fade: {
+        speed: 2000,
+          // [number] Speed in milliseconds of the fade animation.
+        crossfade: true
+
+    }
+   }
+
+
+
+	     	 });
+		}
+
+		
+		
+	});
+	</script>
+
+	
+
+
+
+	
+	</head>
+	<body id="{% if page.collection %}{{page.collection}}{% else %}{{ page.title | downcase | replace: " ", "" }}{% endif %}">
+	<div id="mainContainer">
+	<div id="header" class="u-full-width">
 		{% include nav.html %}
-	</header>
-	<article class="content-wrapper {% if page.slug == "index" %} {{'motto'}} {% endif %}">
-		{{content}}
-	</section>
-	<footer>	
-		<a name="main-nav">
-			{% include nav.html %}
-		</a>
+	</div>
+	<div class="content u-full-width">
+		<div class="container">
+			{{content}}
+		</div>
+	</div>	
+	<div id="footer" class="u-full-width">
+	<div class="container">
 		{% include footer.html %}
-	</footer>
-</article>
+	</div>
+	</div>
+	</div>
 
-<script type="text/javascript">
-WebFontConfig = { fontdeck: { id: '39609' } };
+	<script type="text/javascript">
+	WebFontConfig = { fontdeck: { id: '39609' } };
 
-(function() {
-  var wf = document.createElement('script');
-  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-  wf.type = 'text/javascript';
-  wf.async = 'true';
-  var s = document.getElementsByTagName('script')[0];
-  s.parentNode.insertBefore(wf, s);
-})();
-</script>
+	(function() {
+	  var wf = document.createElement('script');
+	  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+	  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+	  wf.type = 'text/javascript';
+	  wf.async = 'true';
+	  var s = document.getElementsByTagName('script')[0];
+	  s.parentNode.insertBefore(wf, s);
+	})();
 
+	</script>
+
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 </body>
-
 </html>

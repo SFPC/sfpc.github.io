@@ -1,4 +1,17 @@
 permalink: pretty
-markdown: kramdown
-kramdown:
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+collections:
+  people:
+    output: true
+    permalink: /people/:path/
+  classes:
+    output: true
+    permalink: /classes/:path/
+  faqs:
+    output: false
+defaults:
+  -
+    scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "person"
