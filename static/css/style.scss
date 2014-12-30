@@ -52,7 +52,7 @@ p {
 }
 
 #footer{
-	margin-top:5em;
+	margin-top:8em;
 	font-size: 0.9em;
 	color: rgba(0,0,0,0.3);
 }
@@ -92,6 +92,14 @@ p {
 	padding-bottom: 15px;
 }
 
+.solidOverlay {
+	background: rgba(255,255,255,1.0) !important;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	padding:2em;
+
+}
+
 .missonStmnt{
 	padding:2em;
 	margin-top: 2em;
@@ -124,6 +132,7 @@ p {
 		column-break-inside:avoid;
 		font-size:1.0em !important;
 	}
+	padding-top:15px !important;
 }
 
 //
