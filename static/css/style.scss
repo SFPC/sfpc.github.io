@@ -1,5 +1,8 @@
 ---
 ---
+body {
+  position: relative;
+}
 strong { //average sans doesn't have a bold font :(
 	font-family: "Apercu Bold", Helvetica, sans-serif;
 }
@@ -25,6 +28,10 @@ nav {
 	color: #000;
 	font-family: "Apercu Bold", Helvetica, sans-serif;
 	font-weight:bold;
+}
+
+.page-header {
+	border-bottom: 0;
 }
 
 .jumbotron, .comtainer, .container-fluid {
@@ -62,8 +69,19 @@ nav {
 		column-break-inside:avoid;
 	}
 }
-.page-header {
-	border: none;
+
+#toc {
+	li.active a {
+		font-weight:bold;
+		font-family: "Apercu Bold", Helvetica, sans-serif;
+		color:#000;
+	}
+	.toc-h3 a {
+		padding-left:1em;
+	}
+	a {
+		padding:0;
+	}
 }
 
 #filters {

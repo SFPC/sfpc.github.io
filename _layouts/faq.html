@@ -3,14 +3,14 @@ layout: default
 ---
 <div class="container">
 	<div class="row">
-		<section id="toc" class="col-md-6 col-md-push-6"><nav data-spy="affix" data-offset-top="15"></nav></section>
-		<section id="content" class="col-md-6  col-md-pull-6">
+		<section id="toc" class="col-md-6 col-md-push-6 col-sm-6 col-sm-push-6 col-xs-12"><nav data-spy="affix" data-offset-top="150"></nav></section>
+		<section id="content" class="col-md-6  col-md-pull-6 col-sm-6 col-sm-pull-6 col-xs-12">
 			{% assign count = site.faqs | size %}
 			{% for i in (1..count) reversed %}
 				{% for faq in site.faqs %}
 					{% if i == faq.order %}
 						<section class="faq-section">
-						<h2>{{ faq.title }}</h2>
+						<h2 id="{{ faq.title | downcase | replace: " ", "-" }}">{{ faq.title }}</h2>
 						{{ faq.content }}
 						</section>
 					{% endif %}
@@ -21,5 +21,8 @@ layout: default
 </div>
 <script type="text/javascript" src="/static/js/toc.min.js"></script>
 <script>
-	$('#toc nav').toc();
+	$('#toc nav').toc({
+		container: ".content",
+		listType: "<ul class='nav' />"
+	});
 </script>
