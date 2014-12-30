@@ -23,12 +23,11 @@ layout: default
 								<p>
 								{% for student in class.students %}
 									{% if forloop.last %}
-										{% for person in site.people %}
-											{% if person.title == student.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}{% endif %}{% endfor %}
-										{% else %}
-											{% for person in site.people %}{% if person.title == student.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}, {% endif %}{% endfor %}
-										{% endif %}
-									{% endfor %}
+										{% for person in site.people %}{% if person.title == student.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}{% endif %}{% endfor %}
+									{% else %}
+										{% for person in site.people %}{% if person.title == student.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}, {% endif %}{% endfor %}
+									{% endif %}
+								{% endfor %}
 								</p>
 							{% endif %}
 						</div>

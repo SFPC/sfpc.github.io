@@ -18,15 +18,15 @@
 		</style>
 	</head>
 	<body id="{% if page.collection %}{{page.collection}}{% else %}{{ page.title | downcase | replace: " ", "" }}{% endif %}"  {% if page.toc %}data-spy="scroll" data-target="#toc"{% endif %}>
-			<div id="header" class="page-header container">
+			<header id="header" class="page-header container">
 				{% include nav.html %}
-			</div>
-			<div class="content">
+			</header>
+			<section class="content">
 				{{content}}
-			</div>	
-			<div id="footer" class="container">
+			</section>	
+			<footer id="footer" class="container">
 				{% include footer.html %}
-			</div>
+			</footer>
 	<script src="/static/js/jquery.slides.min.js"></script>
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
