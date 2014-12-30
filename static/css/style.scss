@@ -50,7 +50,7 @@ footer {
 
 // full width background images
 
-.jumbotron, .container, .container-fluid {
+.jumbotron, .container-fluid {
 	background-size: cover;
 	min-height:80vh;
 }
@@ -151,14 +151,6 @@ ul#people-grid {
 	}
 }
 
-// media queries
-
-@media (max-width: 768px) {
-    .affix {
-        position: static;
-    }
-}
-
 // bootstrap carousel that fades instead of slides
 
 .carousel-fade {
@@ -191,5 +183,33 @@ ul#people-grid {
 
 	.carousel-control {
 		z-index: 2;
+	}
+}
+
+
+
+// media queries
+
+@media (max-width: 768px) {
+    .affix { // don't pin the FAQ TOC on small screens
+        position: static;
+    }
+    // reduce number of columns at smaller screen sizes
+	.twocol {
+		-moz-column-count: 1;
+		-webkit-column-count: 1;
+		column-count: 1;
+	}
+	.threecol {
+		-moz-column-count: 2;
+		-webkit-column-count: 2;
+		column-count: 2;
+	}
+}
+@media (max-width: 480px) {
+	.threecol {
+		-moz-column-count: 1;
+		-webkit-column-count: 1;
+		column-count: 1;
 	}
 }
