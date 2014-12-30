@@ -7,16 +7,17 @@ layout: default
 		{% if i == class.order %}
 			<div class="class">
 				<div class="row">
+					
+					<div class="col-md-9">
+						<img src="/static/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg">
+					</div>
 					<div class="col-md-3">
 						<h2>{{ class.title }}</h2>
 						<p class="date"><strong>Dates:</strong> {{ class.dates }}<br><strong>Location:</strong> {{ class.location }}</p>
 					</div>
-					<div class="col-md-9">
-						<img src="/static/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg">
-					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-3 col-md-offset-3 col-sm-4 col-xs-6">
+					<div class="col-md-3 col-sm-4 col-xs-6">
 						{% if class.students %}
 							<h3>Students</h3>
 							<p>
@@ -60,7 +61,7 @@ layout: default
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-3 col-md-offset-3 col-sm-4 col-xs-6">
+					<div class="col-md-3 col-sm-4 col-xs-6">
 						{% if class.courses %}
 							<h3>Courses</h3>
 							<p>

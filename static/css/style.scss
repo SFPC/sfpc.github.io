@@ -4,12 +4,18 @@ body {
 	position: relative; // this is needed for the TOC scroll nav
 }
 
-strong { 
-	font-family: "Apercu Bold", Helvetica, sans-serif; //average sans doesn't have a bold font
-}
+// strong { 
+// 	font-family: "Apercu Bold", Helvetica, sans-serif; //average sans doesn't have a bold font
+// }
 
 img {
 	max-width:100%;
+}
+
+#logo{
+	a{
+		text-decoration: none !important;
+	}
 }
 
 // top navigation
@@ -21,11 +27,12 @@ nav {
 		font-family: "Apercu Bold", Helvetica, sans-serif;
 		font-weight: bold;
 		a {
+			text-decoration: none !important;
 			color: #000;
 		}
 	}
 	a {
-		text-decoration:none;
+		text-decoration:none!important;
 		display:block;
 	}
 }
@@ -35,6 +42,21 @@ nav {
 footer {
 	margin-top:45px;
 }
+
+p {
+	font-size:1.2em !important;
+}
+
+#header{
+	margin-bottom:5em;
+}
+
+#footer{
+	margin-top:5em;
+	font-size: 0.9em;
+	color: rgba(0,0,0,0.3);
+}
+
 
 // active states top navigation in pure css
 
@@ -70,6 +92,12 @@ footer {
 	padding-bottom: 15px;
 }
 
+.missonStmnt{
+	padding:2em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+
+}
 // two column css layout for mission page
 
 .twocol {
@@ -83,17 +111,18 @@ footer {
 
 // two column css layout for press page
 
-.threecol {
-	-moz-column-count: 3;
-	-webkit-column-count: 3;
-	column-count: 3;
-	-moz-column-gap: 30px;
-	-webkit-column-gap: 30px;
-	column-gap: 30px;
+.fourcol {
+	-moz-column-count: 4;
+	-webkit-column-count: 4;
+	column-count: 4;
+	-moz-column-gap: 15px;
+	-webkit-column-gap: 15px;
+	column-gap: 15px;
 	blockquote {
 		-webkit-column-break-inside:avoid;
 		-moz-column-break-inside:avoid;
 		column-break-inside:avoid;
+		font-size:1.0em !important;
 	}
 }
 

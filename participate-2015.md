@@ -16,6 +16,10 @@ slides:
   - "/static/img/slideshowTemp/12.jpg"
 ---
 
+<div class="row">
+          <div class="col-md-8">
 <p class="lead" markdown="1">School for Poetic Computation is currently planning two ten week sessions in the Spring and Fall of 2015. **Our call for students is not yet published, but if you sign up to our mailing list (below) you will be the first to hear.**</p>
+        </div>
+</div>
 
 {% include carousel.html %}
