@@ -50,14 +50,15 @@ footer {
 
 // full width background images
 
-.jumbotron, .container-fluid {
+.container .jumbotron {
 	background-size: cover;
 	min-height:80vh;
+	border-radius: 0;
 }
 
-.bigimg {
-	padding-top:45px;
-	padding-bottom:45px;
+
+.bigimg { // press page
+	padding:45px 15px;
 }
 
 // text on white overlaying full width background images
@@ -96,6 +97,21 @@ footer {
 	}
 }
 
+//
+
+#faq {
+	.faq-section {
+		margin-bottom: 45px;
+	}
+	h2 {
+		margin-top: 0;
+	}
+	h3 {
+		font-size:1em;
+		color: lightgray;
+		margin-top:1.5em;
+	}
+}
 // table of contents for faq page
 
 #toc {

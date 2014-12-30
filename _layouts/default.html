@@ -12,15 +12,17 @@
 		<script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
 	</head>
 	<body id="{% if page.collection %}{{page.collection}}{% else %}{{ page.title | downcase | replace: " ", "" }}{% endif %}"  {% if page.toc %}data-spy="scroll" data-target="#toc"{% endif %}>
-			<header id="header" class="page-header container">
+		<div class="container">
+			<header id="header" class="page-header">
 				{% include nav.html %}
 			</header>
 			<section class="content">
 				{{content}}
 			</section>	
-			<footer id="footer" class="container">
+			<footer id="footer">
 				{% include footer.html %}
 			</footer>
+		</div>
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 </body>
 </html>

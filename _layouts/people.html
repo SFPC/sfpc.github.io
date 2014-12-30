@@ -2,31 +2,29 @@
 title: People
 layout: default
 ---
-<div class="container">
-	<div class="row">
-		<div class="col-xs-12" id="filters">
-			<div class="btn-group" role="group">
-				<button class="btn btn-default btn-primary" data-filter="">Everyone!</button>
-			</div>
-			<div class="btn-group" role="group">
-				<button class="btn btn-default" data-filter=".fall-2014">Fall 14</button>
-				<button class="btn btn-default" data-filter=".spring-2014">Spring 14</button>
-				<button class="btn btn-default" data-filter=".fall-2013">Fall 13</button>
-			</div>
-			<div class="btn-group" role="group">
-				<button class="btn btn-default" data-filter=".teacher, .administrator">Teachers &amp; Staff</button>
-				<button class="btn btn-default" data-filter=".student">Students &amp; Alumni</button>
-				<button class="btn btn-default" data-filter=".visitor">Visitors</button>
-			</div>
+<div class="row">
+	<div class="col-xs-12" id="filters">
+		<div class="btn-group" role="group">
+			<button class="btn btn-default btn-primary" data-filter="">Everyone!</button>
+		</div>
+		<div class="btn-group" role="group">
+			<button class="btn btn-default" data-filter=".fall-2014">Fall 14</button>
+			<button class="btn btn-default" data-filter=".spring-2014">Spring 14</button>
+			<button class="btn btn-default" data-filter=".fall-2013">Fall 13</button>
+		</div>
+		<div class="btn-group" role="group">
+			<button class="btn btn-default" data-filter=".teacher, .administrator">Teachers &amp; Staff</button>
+			<button class="btn btn-default" data-filter=".student">Students &amp; Alumni</button>
+			<button class="btn btn-default" data-filter=".visitor">Visitors</button>
 		</div>
 	</div>
-	<div class="row">
-		<ul id="people-grid">
-			{% for person in site.people %}
-				<li class="col-md-2 col-sm-3 col-xs-4 {% for affiliation in person.affiliation %}{{ affiliation.class | downcase | replace: " ", "-" }} {{ affiliation.role | downcase | replace: " ", "-" }} {% endfor %}"><img src="{{site.baseurl}}/static/img/people/{{ person.title | downcase | replace: " ", "_" | replace: "-", "_" }}.jpg" />{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %} </li>
-			{% endfor %}
-		</ul>
-	</div>
+</div>
+<div class="row">
+	<ul id="people-grid">
+		{% for person in site.people %}
+			<li class="col-md-2 col-sm-3 col-xs-4 {% for affiliation in person.affiliation %}{{ affiliation.class | downcase | replace: " ", "-" }} {{ affiliation.role | downcase | replace: " ", "-" }} {% endfor %}"><img src="{{site.baseurl}}/static/img/people/{{ person.title | downcase | replace: " ", "_" | replace: "-", "_" }}.jpg" />{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %} </li>
+		{% endfor %}
+	</ul>
 </div>
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.0.0/isotope.pkgd.min.js"></script>

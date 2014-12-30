@@ -1,6 +1,6 @@
 ---
 title: Participate
-layout: container
+layout: default
 slides:
   - "/static/img/slideshowTemp/1.jpg"
   - "/static/img/slideshowTemp/2.jpg"

@@ -2,11 +2,9 @@
 layout: default
 ---
 <div class="jumbotron" {% if page.background %}style="background-image:url('{{ page.background }}');"{% endif %}>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 overlay">
-				{{content}}
-			</div>
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2 overlay">
+			{{content}}
 		</div>
 	</div>
 </div>
