@@ -1,0 +1,72 @@
+---
+layout: default
+---
+<h1>{{page.title}}</h1>
+
+<img src="/static/img/classes/{{ page.title | downcase | replace: ' ', '-' }}.jpg">
+
+<p class="date"><strong>Dates:</strong> {{ page.dates }}</p>
+<p class="date"><strong>Location:</strong> {{ page.location }}</p>
+{% if page.content %}
+	<p>{{ page.content }}</p>
+{% endif %}
+{% if page.courses.size > 1 or page.workshops.size > 1 %}
+	<h2>Curriculum</h2>
+{% endif %}
+{% if page.courses %}
+	<h3>Courses</h3>
+	<ul>
+		{% for course in page.courses %}
+			<li>{{ course.name }}</li>
+		{% endfor %}
+	</ul>
+{% endif %}
+{% if page.workshops %}
+	<h3>Workshops</h3>
+	<ul>
+		{% for workshop in page.workshops %}
+			<li>{{ workshop.name }}</li>
+		{% endfor %}
+	</ul>
+{% endif %}
+<h2>Participants</h2>
+{% if page.students %}
+	<h3>Students</h3>
+	<ul class="grid">
+		{% for student in page.students %}
+			{% for person in site.people %}
+				{% if person.title == student.name %}
+					<li>
+						<a href="{{person.url}}"><img src="{{site.baseurl}}/img/people/{{person.title | downcase | replace: " ", "_" | replace: '-', '_' }}.jpg"></a>
+						<h4>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</h4>
+						{{person.content | truncate: 200, '…'}}
+					</li>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	</ul>
+{% endif %}
+{% if page.teachers-staff %}
+	<h3>Teachers &amp; Staff</h3>
+	<ul class="grid">
+		{% for teacher in page.teachers-staff %}
+			{% for person in site.people %}
+				{% if person.title == teacher.name %}
+					<li>
+						<a href="{{person.url}}"><img src="{{site.baseurl}}/img/people/{{person.title | downcase | replace: " ", "_"}}.jpg"></a>
+						<h4>{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %} {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</h4>
+						{{person.content | strip_html | truncate: 200, '…'}}
+					</li>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	</ul>
+{% endif %}
+{% if page.visitors %}
+	<h3>Visitors</h3>
+	<ul>
+		{% for visitor in page.visitors %}
+			<li>{{ visitor.name }}</li>
+		{% endfor %}
+	</ul>
+{% endif %}

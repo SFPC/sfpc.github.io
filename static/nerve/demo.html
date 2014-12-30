@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nerve Slider Demo</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1">
+<script src="resources/jquery-1.10.2.min.js"></script>
+<script src="resources/jquery-ui-1.10.2.min.js"></script>
+<script src="jquery.nerveSlider.min.js"></script>
+<link rel="stylesheet" href="nerveSlider.min.css">
+<style>
+html, body {
+	margin:0;
+	padding:0;
+	}
+	
+.section {
+	padding:80px 0;
+	text-align:center;
+	margin:0 auto;
+	max-width:1200px;
+	}
+</style>
+<script>
+$(document).ready(function(){
+	$(".iAmTest").nerveSlider({
+		slideTransitionSpeed: 5000,
+		slideTransitionDelay: 5000,
+		slideTransitionEasing: "easeOutExpo",
+		slideTransition: "fade",
+		showDots: false, 
+		showTimer: false,
+		showCaptions: false,
+		showArrows: false
+		});
+});
+</script>
+</head>
+<body>
+
+<div class="section">
+	<div class="iAmTest">
+		<img src="http://code.builtbyevolve.com/nerveSlider/example-images/canyon.jpg" data-slidecaption="<h1>This is a caption</h1>You can put any text in a slide caption!" alt="">
+		<a href="http://www.builtbyevolve.com/" target="_blank"><img src="http://code.builtbyevolve.com/nerveSlider/example-images/dusk.jpg" data-slidecaption="You can put links on slides, too." alt=""></a>
+		<img src="http://code.builtbyevolve.com/nerveSlider/example-images/winter.jpg" alt="">
+		<img src="http://code.builtbyevolve.com/nerveSlider/example-images/tree.jpg" alt="">
+	</div>
+</div>
+
+</body>
+</html>
