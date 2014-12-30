@@ -71,6 +71,11 @@ nav {
 }
 
 #toc {
+	display:block;
+	position: relative;
+	nav {
+		top:15px;
+	}
 	li.active a {
 		font-weight:bold;
 		font-family: "Apercu Bold", Helvetica, sans-serif;
@@ -110,6 +115,12 @@ ul#people-grid {
 	h2 {
 		margin-top: 0;
 	}
+}
+
+@media (max-width: 768px) {
+    .affix {
+        position: static;
+    }
 }
 
 footer {
