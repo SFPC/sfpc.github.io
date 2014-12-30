@@ -1,14 +1,19 @@
 ---
 ---
 body {
-	position: relative;
+	position: relative; // this is needed for the TOC scroll nav
 }
-strong { //average sans doesn't have a bold font :(
-	font-family: "Apercu Bold", Helvetica, sans-serif;
+
+strong { 
+	font-family: "Apercu Bold", Helvetica, sans-serif; //average sans doesn't have a bold font
 }
+
 img {
 	max-width:100%;
 }
+
+// top navigation
+
 nav {
 	font-family: "Apercu Regular", Helvetica, sans-serif;
 	h2 {
@@ -24,6 +29,15 @@ nav {
 		display:block;
 	}
 }
+
+// footer 
+
+footer {
+	margin-top:45px;
+}
+
+// active states top navigation in pure css
+
 #sfpc .sfpc, #mission .mission, #press .press, #classes .classes, #people .people, #participate .participate, #blog .blog, #faq .faq {
 	color: #000;
 	font-family: "Apercu Bold", Helvetica, sans-serif;
@@ -34,20 +48,29 @@ nav {
 	border-bottom: 0;
 }
 
-.jumbotron, .comtainer, .container-fluid {
+// full width background images
+
+.jumbotron, .container, .container-fluid {
 	background-size: cover;
 	min-height:80vh;
 }
+
+.bigimg {
+	padding-top:45px;
+	padding-bottom:45px;
+}
+
+// text on white overlaying full width background images
+
 .overlay {
 	display:block;
 	background: rgba(255,255,255,.90);
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
-.bigimg {
-	padding-top:45px;
-	padding-bottom:45px;
-}
+
+// two column css layout for mission page
+
 .twocol {
 	-moz-column-count: 2;
 	-webkit-column-count: 2;
@@ -56,6 +79,9 @@ nav {
 	-webkit-column-gap: 30px;
 	column-gap: 30px;
 }
+
+// two column css layout for press page
+
 .threecol {
 	-moz-column-count: 3;
 	-webkit-column-count: 3;
@@ -69,6 +95,8 @@ nav {
 		column-break-inside:avoid;
 	}
 }
+
+// table of contents for faq page
 
 #toc {
 	display:block;
@@ -89,6 +117,8 @@ nav {
 	}
 }
 
+// filter buttons for people page
+
 #filters {
 	text-align:center;
 	margin-bottom: 15px;
@@ -101,6 +131,8 @@ nav {
 
 }
 
+// people page grid styles
+
 ul#people-grid {
 	list-style-type:none;
 	margin:0;
@@ -110,6 +142,8 @@ ul#people-grid {
 	}
 }
 
+// classes page spacing
+
 #classes .class {
 	margin-bottom:45px;
 	h2 {
@@ -117,15 +151,15 @@ ul#people-grid {
 	}
 }
 
+// media queries
+
 @media (max-width: 768px) {
     .affix {
         position: static;
     }
 }
 
-footer {
-	margin-top:45px;
-}
+// bootstrap carousel that fades instead of slides
 
 .carousel-fade {
 	background: #000;
