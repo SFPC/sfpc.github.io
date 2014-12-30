@@ -57,7 +57,7 @@ footer {
 }
 
 
-.bigimg { // press page
+.bigimg { // press and mission page
 	padding:45px 15px;
 }
 
@@ -124,6 +124,10 @@ footer {
 		font-weight:bold;
 		font-family: "Apercu Bold", Helvetica, sans-serif;
 		color:#000;
+	}
+	li a:hover {
+		background:none;
+		text-decoration:underline;
 	}
 	.toc-h3 a {
 		padding-left:1em;
