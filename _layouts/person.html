@@ -1,61 +1,62 @@
 ---
 layout: default
 ---
-<div id="person">
-<div class="row">
-{% if content %}
-	<section class="six columns">
-		<h1>{{page.title}}</h1>
-		{{content}}
-	</section>
-{% endif %}
-	<section class="info six columns">
-		<img src="{{site.baseurl}}/static/img/people/{{ page.title | downcase | replace: " ", "_" }}.jpg"/>
+<div class="container">
+	<div class="row">
+		<section class="info col-md-4 col-md-offset-2 col-sm-6">
+			<img src="{{site.baseurl}}/static/img/people/{{ page.title | downcase | replace: " ", "_" }}.jpg"/>
 
-		<table>
-		<tr>
-			<th colspan="2">SFPC CV</th>
-		</tr>
-		{% for affiliation in page.affiliation reversed %}
+			<table class="table">
 			<tr>
-				<td><a href="{{site.baseurl}}/classes/{{affiliation.class | downcase | replace: " ", "-"}}">{{affiliation.class}}</a></td>
-				<td>{{affiliation.role}}</td>
+				<th colspan="2">SFPC CV</th>
 			</tr>
-		{% endfor %}
-		</table>
+			{% for affiliation in page.affiliation reversed %}
+				<tr>
+					<td><a href="{{site.baseurl}}/classes/{{affiliation.class | downcase | replace: " ", "-"}}">{{affiliation.class}}</a></td>
+					<td>{{affiliation.role}}</td>
+				</tr>
+			{% endfor %}
+			</table>
 
-		<table>
-		<tr>
-			<th colspan="2">Info</th>
-		</tr>
-		{% if page.website %}
+			<table class="table">
 			<tr>
-				<td><i class="fa fa-globe"></i> Website</td>
-				<td><a href="{{page.website}}">{{page.website}}</a></td>
+				<th colspan="2">Info</th>
 			</tr>
-		{% endif %}
+			{% if page.website %}
+				<tr>
+					<td><i class="fa fa-globe"></i> Website</td>
+					<td><a href="{{page.website}}">{{page.website}}</a></td>
+				</tr>
+			{% endif %}
 
-		{% if page.twitter %}
-			<tr>
-				<td><i class="fa fa-twitter"></i> Twitter</td>
-				<td><a href="http://twitter.com/{{page.twitter}}"> @{{page.twitter}}</a></td>
-			</tr>
-		{% endif %}
+			{% if page.twitter %}
+				<tr>
+					<td><i class="fa fa-twitter"></i> Twitter</td>
+					<td><a href="http://twitter.com/{{page.twitter}}"> @{{page.twitter}}</a></td>
+				</tr>
+			{% endif %}
 
-		{% if page.github %}
-			<tr>
-				<td><i class="fa fa-github"></i> Github</td>
-				<td><a href="http://twitter.com/{{page.github}}">{{page.github}}</a></td>
-			</tr>
-		{% endif %}
+			{% if page.github %}
+				<tr>
+					<td><i class="fa fa-github"></i> Github</td>
+					<td><a href="http://twitter.com/{{page.github}}">{{page.github}}</a></td>
+				</tr>
+			{% endif %}
 
-		{% if page.place %}
-			<tr>
-				<td><i class="fa fa-home"></i> Location</td>
-				<td>{{page.place}}</td>
-			</tr>
-		{% endif %}
-		</table>
-	</section>
-</div>
+			{% if page.place %}
+				<tr>
+					<td><i class="fa fa-home"></i> Location</td>
+					<td>{{page.place}}</td>
+				</tr>
+			{% endif %}
+			</table>
+		</section>
+	{% if content %}
+		<section class="col-md-4 col-sm-6">
+			<h1>{{page.title}}</h1>
+			{{content}}
+		</section>
+	{% endif %}
+
+	</div>
 </div>

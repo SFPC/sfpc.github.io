@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
-<div id="masonry">
-{% for press in site.data.press %}
-	<div class="item">
-	<blockquote>
-		<p>{{ press.quote }}</p>
-		<p class="source">—<a href="{{ press.url }}">{{ press.source }}</a></p>
-	</blockquote>
+<div class="container-fluid bigimg" {% if page.background %}style="background-image:url('{{ page.background }}');"{% endif %}>
+	<div class="threecol container">
+		{% for press in site.data.press %}
+			<blockquote class="overlay">
+				<p>{{ press.quote }}</p>
+				<p class="source">—<a href="{{ press.url }}">{{ press.source }}</a></p>
+			</blockquote>
+		{% endfor %}
 	</div>
-{% endfor %}
 </div>
+
+
