@@ -1,7 +1,7 @@
 ---
 ---
 body {
-  position: relative;
+	position: relative;
 }
 strong { //average sans doesn't have a bold font :(
 	font-family: "Apercu Bold", Helvetica, sans-serif;
@@ -114,4 +114,37 @@ ul#people-grid {
 
 footer {
 	margin-top:45px;
+}
+
+.carousel-fade {
+	background: #000;
+	img {
+		margin: auto;
+	}
+	.carousel-inner {
+		.item {
+			opacity: 0;
+			transition-property: opacity;
+		}
+
+		.active {
+			opacity: 1;
+		}
+
+		.active.left,
+		.active.right {
+			left: 0;
+			opacity: 0;
+			z-index: 1;
+		}
+
+		.next.left,
+		.prev.right {
+			opacity: 1;
+		}
+	}
+
+	.carousel-control {
+		z-index: 2;
+	}
 }

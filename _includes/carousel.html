@@ -1,0 +1,19 @@
+<div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+	<ol class="carousel-indicators">
+	{% for slide in page.slides %}
+		<li data-target="#carousel" data-slide-to="{{forloop.index0}}" {% if forloop.first %}class="active"{% endif %}></li>
+	{% endfor %}
+	</ol>
+	<!-- Carousel items -->
+	<div class="carousel-inner">
+	{% for slide in page.slides %}
+		<div class="{% if forloop.first %}active{% endif %} item"><img src="{{ slide }}"></div>
+	{% endfor %}
+	</div>
+	<!-- Carousel nav -->
+	<a class="carousel-control left" href="#carousel" data-slide="prev">&lsaquo;</a>
+	<a class="carousel-control right" href="#carousel" data-slide="next">&rsaquo;</a>
+</div>
+<script>
+	$('.carousel').carousel();
+</script>

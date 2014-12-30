@@ -10,12 +10,6 @@
 		<link rel="stylesheet" href="/static/css/style.css">
 		<script type="text/javascript" src="/static/js/resources/jquery-1.10.2.min.js"></script>
 		<script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
-		<style>
-			/* Prevent the slideshow from flashing on load */
-			#slides {
-				display: none
-			}
-		</style>
 	</head>
 	<body id="{% if page.collection %}{{page.collection}}{% else %}{{ page.title | downcase | replace: " ", "" }}{% endif %}"  {% if page.toc %}data-spy="scroll" data-target="#toc"{% endif %}>
 			<header id="header" class="page-header container">
@@ -27,8 +21,6 @@
 			<footer id="footer" class="container">
 				{% include footer.html %}
 			</footer>
-	<script src="/static/js/jquery.slides.min.js"></script>
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
 </body>
 </html>
