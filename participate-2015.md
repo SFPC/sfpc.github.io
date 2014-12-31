@@ -22,4 +22,4 @@ slides:
         </div>
 </div>
 
-{% include carousel.html %}
+{% include slider.html %}

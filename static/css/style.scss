@@ -211,43 +211,6 @@ ul#people-grid {
 	}
 }
 
-// bootstrap carousel that fades instead of slides
-
-.carousel-fade {
-	background: #000;
-	img {
-		margin: auto;
-	}
-	.carousel-inner {
-		.item {
-			opacity: 0;
-			transition-property: opacity;
-		}
-
-		.active {
-			opacity: 1;
-		}
-
-		.active.left,
-		.active.right {
-			left: 0;
-			opacity: 0;
-			z-index: 1;
-		}
-
-		.next.left,
-		.prev.right {
-			opacity: 1;
-		}
-	}
-
-	.carousel-control {
-		z-index: 2;
-	}
-}
-
-
-
 // media queries
 
 @media (max-width: 768px) {
