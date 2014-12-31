@@ -20,18 +20,19 @@ layout: default
 </div>
 <script type="text/javascript" src="/static/js/toc.min.js"></script>
 <script>
+	// generate TOC based on FAQ content
 	$('#toc nav').toc({
 		container: ".content",
 		listType: "<ul class='nav' />"
 	});
-
+	// hide and show TOC on window resize to fix position glitch
 	$( window ).resize(function() {
   		$('#toc nav').hide().show(0);
 	});
 
-	/* Check if we are in safari */
+	/* Fix Safari bug — Check if we are in safari */
 	if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
-	    var stickywidget = $('#sticky-widget-1');
+	    var stickywidget = $('#toc nav');
 	    var explicitlySetAffixPosition = function() {
 	        stickywidget.css('left',stickywidget.offset().left+'px');
 	    };
@@ -49,5 +50,8 @@ layout: default
 	        }
 	    });
 	}
+<<<<<<< HEAD
 	
+=======
+>>>>>>> ba0bd57b3a1927997aafc20a2456ad26ea3e18e1
 </script>
