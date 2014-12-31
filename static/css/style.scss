@@ -146,7 +146,7 @@ p {
 	}
 	h3 {
 		font-size:1em;
-		color: lightgray;
+		color: Silver  ;
 		margin-top:1.5em;
 	}
 }
@@ -161,18 +161,32 @@ p {
 	margin-bottom: 3em;
 	
 	li.active a {
-		font-weight:bold;
-		font-family: "Apercu Bold", Helvetica, sans-serif;
+		//font-weight:bold;
+		//font-family: "Apercu Bold", Helvetica, sans-serif;
 		color:#000;
 	}
 	li a:hover {
 		background:none;
 		text-decoration:underline;
 	}
+
+	.toc-h2 a {
+		color: black;
+		
+		padding:0;
+	}
+
+	.toc-h3 + .toc-h2  {
+		margin-top:1em;
+	}
+
 	.toc-h3 a {
-		padding-left:1em;
+		color: Silver  ;
+		//padding-left:1em;
+		padding:0;
 	}
 	a {
+		
 		padding:0;
 	}
 }
