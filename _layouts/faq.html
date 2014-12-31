@@ -24,4 +24,8 @@ layout: default
 		container: ".content",
 		listType: "<ul class='nav' />"
 	});
+
+	$( window ).resize(function() {
+  		$('#toc nav').hide().show(0);
+	});
 </script>
