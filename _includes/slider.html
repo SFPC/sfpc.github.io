@@ -1,0 +1,21 @@
+<div class="slider">
+	{% for slide in page.slides %}
+		<img src="{{ slide }}">
+	{% endfor %}
+</div>
+<script src="//code.builtbyevolve.com/nerveSlider/jquery.nerveSlider.min.js"></script>
+<link rel="stylesheet" href="//code.builtbyevolve.com/nerveSlider/nerveSlider.min.css">
+<script>
+$(document).ready(function(){
+	$(".slider").startslider({
+		slideTransition: "fade",
+		sliderHeightAdaptable: true,
+		sliderResizable: true,
+		showTimer: false,
+		showPause: false,
+		showDots: false,
+		showArrows: false,
+		sliderKeepAspectRatio: true
+		});
+});
+</script>
