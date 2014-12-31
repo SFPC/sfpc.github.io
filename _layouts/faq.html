@@ -20,13 +20,18 @@ layout: default
 </div>
 <script type="text/javascript" src="/static/js/toc.min.js"></script>
 <script>
+	// generate TOC based on FAQ content
 	$('#toc nav').toc({
 		container: ".content",
 		listType: "<ul class='nav' />"
 	});
-	/* Check if we are in safari */
+	// hide and show TOC on window resize to fix position glitch
+	$( window ).resize(function() {
+  		$('#toc nav').hide().show(0);
+	});
+	/* Fix Safari bug — Check if we are in safari */
 	if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
-	    var stickywidget = $('#sticky-widget-1');
+	    var stickywidget = $('#toc nav');
 	    var explicitlySetAffixPosition = function() {
 	        stickywidget.css('left',stickywidget.offset().left+'px');
 	    };
