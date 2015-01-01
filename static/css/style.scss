@@ -18,6 +18,10 @@ img {
 	}
 }
 
+blockquote .source {
+	text-align: right;
+}
+
 // top navigation
 
 nav {
@@ -60,7 +64,7 @@ p {
 
 // active states top navigation in pure css
 
-#sfpc .sfpc, #mission .mission, #press .press, #classes .classes, #people .people, #participate .participate, #blog .blog, #faq .faq {
+#sfpc .sfpc, #mission .mission, #press .press, #classes .classes, #people .people, #participate .participate, #blog .blog, #faq .faq, #apply .apply {
 	color: #000;
 	font-family: "Apercu Bold", Helvetica, sans-serif;
 	font-weight:bold;
@@ -247,6 +251,15 @@ ul#people-grid {
 	margin-bottom:45px;
 	h2 {
 		margin-top: 0;
+	}
+}
+
+// apply page
+
+#testimonials {
+	color: gray;
+	blockquote {
+		font-size: 1em;
 	}
 }
 

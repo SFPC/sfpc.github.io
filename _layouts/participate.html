@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="row">
+	<div class="col-md-7">
+		{{content}}
+	</div>
+	<div id="testimonials" class="col-md-4 col-md-offset-1">
+		<h3>Alumni ♡ SFPC</h3>
+		{% for testimonial in site.data.testimonials %}
+		<blockquote>
+			<p>{{testimonial.testimonial}}</p>
+			<p class="source">—{% for person in site.people %}{% if person.title == testimonial.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}{% endif %}{% endfor %}</p>
+		</blockquote>
+		{% endfor %}
+	</div>
+</div>

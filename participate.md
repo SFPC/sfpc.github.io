@@ -1,6 +1,6 @@
 ---
 title: Participate
-layout: default
+layout: participate
 slides:
   - "/static/img/slideshowTemp/1.jpg"
   - "/static/img/slideshowTemp/2.jpg"
@@ -16,10 +16,20 @@ slides:
   - "/static/img/slideshowTemp/12.jpg"
 ---
 
-<div class="row">
-          <div class="col-md-8">
-<p class="lead" markdown="1">School for Poetic Computation is currently planning two ten week sessions in the Spring and Fall of 2015. **Our call for students is not yet published, but if you sign up to our mailing list (below) you will be the first to hear.**</p>
-        </div>
-</div>
+## Open Calls
+
+We are currently accepting applications for our Spring 2015 session, through January 15th.
+
+<a href="/participate/apply/" class="btn btn-primary btn-lg">Apply for Spring 2015</a> <a href="#spring-2015-call-for-students" class="btn btn-default btn-lg">Read More</a>
+
+***
+
+## Scenes from School
 
 {% include slider.html %}
+
+***
+
+## Spring 2015 Call for Students
+
+<script src="https://hackpad.com/hfsQlY0HR5x.js?format=html-notitle"></script><noscript><div>View <a href="https://hackpad.com/hfsQlY0HR5x">Spring 2015 Call</a> on Hackpad.</div></noscript>
