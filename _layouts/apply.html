@@ -13,7 +13,16 @@ layout: default
 				{% if item.input == 'textarea' %}
 				<div class="form-group">
 				    <label for="{{item.name}}">{{item.text}}</label>
-					<p class="help-block">{{item.help}}</p>
+					<div class="help-block">
+						<p>{{item.help}}</p>
+						{% if item.questions %}
+						<ul>
+							{% for question in item.questions %}
+							<li>{{ question }}</li>
+							{% endfor %}
+						</ul>
+						{% endif %}
+					</div>
 					<textarea class="form-control" rows="3" name="{{item.name}}" placeholder="{{item.placeholder}}"></textarea>
 				</div>
 				{% elsif item.input == 'text' or 'email' %}
@@ -31,19 +40,19 @@ layout: default
 		<h2>Timeline</h2>
 		<table class="table table-striped">
 		  <tr>
-		    <th scope="row">Jan 1st</th>
+		    <th scope="row">Jan 7th</th>
 		    <td>Applications open</td>
 		  </tr>
 		  <tr>
-		    <th scope="row">Jan 15th</th>
+		    <th scope="row">Jan 27th</th>
 		    <td>Applications due by 11:59pm</td>
 		  </tr>
 		  <tr>
-		    <th scope="row">Feb 1st</th>
+		    <th scope="row">Feb 15th</th>
 		    <td>Acceptances sent out</td>
 		  </tr>
 		  <tr>
-		    <th scope="row">Mar 1st</th>
+		    <th scope="row">Mar 16th</th>
 		    <td>Spring session begins</td>
 		  </tr>
 		</table>
