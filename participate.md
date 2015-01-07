@@ -85,13 +85,15 @@ We are looking for people from all backgrounds, who are curious, generous and op
 
 ### How much is tuition?
 
-$5000 USD for the 10 week program. You'll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $3,300 - $7,000). We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, we open-source our finances on Github. There, you can read financial reports and download raw statements.
+$5000 USD for the 10 week program. You'll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $3,300 - $7,000). We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, we [open-source our finances on Github](http://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
 
 ### Do you offer scholarships?
 
 We are working on offering work-study scholarships. We're particularly looking out for women, people of color, people under-represented in the field of art + technology, and those with financial need. 
 
 (If you are interested in sponsoring a student, email [info@sfpc.io](mailto:info@sfpc.io))
+
+We have also successfully supported several students in receiving grants and financial support from their jobs, schools, and institutions. We are happy to write a letter of recommendation upon your acceptance, and provide any other materials helpful in obtaining independent funding.
 
 ### What is expected of me?
 
