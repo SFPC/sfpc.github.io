@@ -14,15 +14,10 @@
 		"required": "yes"
 	},
 	{
-		"name": "cv",
-		"input": "text",
-		"text": "Link to CV/LinkedIn/Resume"
-	},
-	{
 		"name": "website",
-		"input": "text",
-		"placeholder": "Portfolio, Twitter, Github, Flickr, Vimeo, etc.",
-		"text": "Link to Portfolio/Website"
+		"input": "textarea",
+		"placeholder": "Portfolio, Twitter, Github, Flickr, Vimeo, Résumé, CV, etc.",
+		"text": "Where can we see your work?"
 	},
 	{
 		"name": "why",
