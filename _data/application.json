@@ -2,39 +2,32 @@
 	{
 		"name": "name",
 		"input": "text",
-		"text": "What is your name?",
+		"text": "Name",
 		"placeholder": "Name",
 		"required": "yes"
 	},
 	{
 		"name": "email",
 		"input": "email",
-		"text": "What is your email address?",
-		"placeholder": "Email",
+		"text": "Email",
+		"placeholder": "email@domain.com",
 		"required": "yes"
 	},
 	{
-		"name": "from",
+		"name": "cv",
 		"input": "text",
-		"text": "Where are you from and where are you based now?",
-		"placeholder": "City, State, Country",
-		"required": "yes"
+		"text": "Link to CV/LinkedIn/Resume"
 	},
 	{
 		"name": "website",
-		"input": "textarea",
+		"input": "text",
 		"placeholder": "Portfolio, Twitter, Github, Flickr, Vimeo, etc.",
-		"text": "Do you have a website or other places we can see your work?"
+		"text": "Link to Portfolio/Website"
 	},
 	{
-		"name": "learn",
+		"name": "why",
 		"input": "textarea",
-		"text": "How do you learn best?"
-	},
-	{
-		"name": "collaborate",
-		"input": "textarea",
-		"text": "If you could collaborate / work with three people, who would they be and why?"
+		"text": "Why do you want to study at SFPC at this point in your life?"
 	},
 	{
 		"name": "want",
@@ -42,13 +35,18 @@
 		"text": "What do you want the School for Poetic Computation to be?"
 	},
 	{
-		"name": "create",
+		"name": "essay",
 		"input": "textarea",
-		"text": "What would you like to learn and create at the school?"
-	},
-	{
-		"name": "hear",
-		"input": "textarea",
-		"text": "How did you hear about SFPC? and what made you want to apply?"
+		"text": "Please tell us a little more about yourself in an essay no larger than 1000 words.",
+		"help": "Feel free to answer any combination of the following questions:",
+		"questions": [
+			"What are questions you wished you asked yourself five years ago?", 
+			"What moves you?", 
+			"Which technology do you wish existed and which technology do you wish did not exist?", 
+			"Where are you from and how did that shape the person you are today?", 
+			"What is your favorite educational or collaborative experience?", 
+			"Zombies are attacking the building, you do what?", 
+			"Who are your heroes and what do you admire about them?"
+		]
 	}
 ]
