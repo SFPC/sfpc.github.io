@@ -6,7 +6,7 @@ permalink: /participate/thanks/
 
 ## Thanks for Applying to SFPC
 
-Your application has been submitted — we're looking forward to reading it! You can expect to hear back from us by February 1st.
+Your application has been submitted — we're looking forward to reading it! You can expect to hear back from us by February 15th.
 
 ---
 
