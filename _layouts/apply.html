@@ -23,7 +23,7 @@ layout: default
 						</ul>
 						{% endif %}
 					</div>
-					<textarea class="form-control" rows="3" name="{{item.name}}" placeholder="{{item.placeholder}}"></textarea>
+					<textarea class="form-control" {% if item.rows %}rows="{{item.rows}}"{% else %}rows="3"{% endif %} name="{{item.name}}" placeholder="{{item.placeholder}}"></textarea>
 				</div>
 				{% elsif item.input == 'text' or 'email' %}
 				<div class="form-group">

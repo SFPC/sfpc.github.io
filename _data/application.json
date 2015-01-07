@@ -37,6 +37,7 @@
 	{
 		"name": "essay",
 		"input": "textarea",
+		"rows": "20",
 		"text": "Please tell us a little more about yourself in an essay no larger than 1000 words.",
 		"help": "Feel free to answer any combination of the following questions:",
 		"questions": [
