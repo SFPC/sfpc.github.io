@@ -18,7 +18,7 @@ slides:
 
 ## Open Calls
 
-We are accepting applications through January 27th for a ten week session to be held in New York City from March 16th - May 22nd.
+We are accepting applications through **January 27th** for a ten week session to be held in New York City from March 16th - May 22nd.
 
 <a href="/participate/apply/" class="btn btn-primary btn-lg">Apply for Spring 2015</a> <a href="#spring-2015-call-for-students" class="btn btn-default btn-lg">Read More</a>
 
@@ -75,8 +75,6 @@ We support self-guided research and inquiry into a number of areas, and have str
 
 The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We see them as platforms to help promote fearless prototyping, asking difficult questions, and creating projects that embody issues that are not yet commonly addressed in the art / tech world.
 
-Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
-
 ### Who is going to teach this term?  
 
 [Allison Burtch](http://www.allisonburtch.net/), [Amit Pitaru](http://www.pitaru.com), [Casey Gollan](http://caseyagollan.com), [Taeyoon Choi](http://taeyoonchoi.com/), [Zachary Lieberman](http://thesystemis.com/) as well as a variety of new teachers, workshop leaders, and visiting artists.
@@ -101,4 +99,8 @@ Acceptance into the session is an invitation to join the SFPC community. Full-ti
 
 ### Deadline is January 27th, 2015  
 
-Please apply here. In the past, we've received 60+ strong applications, and this time will likely be competitive as well. We select participants based on a work sample and application form. We expect to notify the applicants by February 10th. Participants are expected to plan their travel and we do our best to help find accommodation.
+In the past, we've received 60+ strong applications, and this time will likely be competitive as well. We select participants based on a work sample and application form. We expect to notify the applicants by February 10th. Participants are expected to plan their travel and we do our best to help find accommodation.
+
+<a href="/participate/apply/" class="btn btn-primary btn-lg">Apply for Spring 2015</a>
+
+Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
