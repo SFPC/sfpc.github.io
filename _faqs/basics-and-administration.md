@@ -1,5 +1,5 @@
 ---
-title: Basics & Administration
+title: Basics and Administration
 order: 2
 ---
 

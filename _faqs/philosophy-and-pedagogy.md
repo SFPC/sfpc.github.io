@@ -1,5 +1,5 @@
 ---
-title: Philosophy & Pedagogy
+title: Philosophy and Pedagogy
 order: 3
 ---
 
