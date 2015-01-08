@@ -50,6 +50,18 @@ blockquote .source {
 		}
 	}
 }
+
+#participate {
+
+	.content {
+	li {
+		padding-bottom: 1em;
+	}
+	h3 {
+		padding-top: 1em;
+	}
+	}
+}
 // active states top navigation in pure css
 
 // #sfpc .sfpc, #mission .mission, #press .press, #classes .classes, #people .people, #participate .participate, #blog .blog, #faq .faq, #apply .apply {
@@ -265,7 +277,13 @@ ul#people-grid {
 	color: gray;
 	blockquote {
 		font-size: 1em;
+
 	}
+}
+
+blockquote {
+		font-size: 1em;
+		border: none !important;
 }
 
 // media queries

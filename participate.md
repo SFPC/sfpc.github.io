@@ -16,17 +16,9 @@ slides:
   - "/static/img/slideshowTemp/12.jpg"
 ---
 
-## Open Calls
-
-We are accepting applications through **January 27th** for a ten week session to be held in New York City from March 16th - May 22nd.
-
-<a href="/participate/apply/" class="btn btn-primary btn-lg">Apply for Spring 2015</a> <a href="#spring-2015-call-for-students" class="btn btn-default btn-lg">Read More</a>
-
-***
-
-## Scenes from School
-
-{% include slider.html %}
+<div class="alert alert-success" role="alert">
+We are accepting <a href="/participate/apply/">applications</a> through <b>January 27th</b> for a ten week session to be held in New York City from March 16th - May 22nd.
+</div>
 
 ***
 
