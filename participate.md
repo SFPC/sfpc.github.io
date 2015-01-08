@@ -2,18 +2,18 @@
 title: Participate
 layout: participate
 slides:
-  - "/static/img/slideshowTemp/1.jpg"
-  - "/static/img/slideshowTemp/2.jpg"
-  - "/static/img/slideshowTemp/3.jpg"
-  - "/static/img/slideshowTemp/4.jpg"
-  - "/static/img/slideshowTemp/5.jpg"
-  - "/static/img/slideshowTemp/6.jpg"
-  - "/static/img/slideshowTemp/7.jpg"
-  - "/static/img/slideshowTemp/8.jpg"
-  - "/static/img/slideshowTemp/9.jpg"
-  - "/static/img/slideshowTemp/10.jpg"
-  - "/static/img/slideshowTemp/11.jpg"
-  - "/static/img/slideshowTemp/12.jpg"
+  - "/static/img/participate/student-id.jpg"
+  - "/static/img/participate/breadboard.jpg"
+  - "/static/img/participate/circuits.jpg"
+  - "/static/img/participate/goldenhour.jpg"
+  - "/static/img/participate/workshop.jpg"
+  - "/static/img/participate/semaphore.jpg"
+  - "/static/img/participate/boolean.jpg"
+  - "/static/img/participate/notebook.jpg"
+  - "/static/img/participate/softcircuits.jpg"
+  - "/static/img/participate/havefun.jpg"
+  - "/static/img/participate/totallyrad.jpg"
+  - "/static/img/participate/poeticsciencefair.jpg"
 ---
 
 <div class="alert alert-success" role="alert">
