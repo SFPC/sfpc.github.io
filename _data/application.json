@@ -45,8 +45,9 @@
 		"name": "essay",
 		"input": "textarea",
 		"rows": "20",
-		"text": "Please tell us a little more about yourself in an essay of 1000 words.",
-		"help": "Feel free to answer any combination of the following questions:",
+		"text": "Please tell us a little more about yourself"
+		"help": "Feel free to answer any combination of the following questions.  Suggested length: 500-1000 words.  Please write as much or as little as you think will give us a good sense of who you are. 
+",
 		"questions": [
 			"What are questions you wished you asked yourself five years ago?", 
 			"What moves you?", 
