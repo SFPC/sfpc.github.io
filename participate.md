@@ -2,6 +2,7 @@
 title: Participate
 layout: participate
 slides:
+  - "/static/img/participate/door.jpg"
   - "/static/img/participate/student-id.jpg"
   - "/static/img/participate/breadboard.jpg"
   - "/static/img/participate/circuits.jpg"
