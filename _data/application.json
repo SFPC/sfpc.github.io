@@ -21,6 +21,16 @@
 		"text": "Where can we see your work?"
 	},
 	{
+		"name": "whereFrom",
+		"input": "textarea",
+		"text": "Where are you from and where are you based now?"
+	},
+	{
+		"name": "tenWeeks",
+		"input": "textarea",
+		"text": "Are you able to attend full time during the 10 weeks of the school?"
+	},
+	{
 		"name": "why",
 		"input": "textarea",
 		"rows": "15",
