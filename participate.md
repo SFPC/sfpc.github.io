@@ -14,6 +14,9 @@ slides:
   - "/static/img/participate/havefun.jpg"
   - "/static/img/participate/totallyrad.jpg"
   - "/static/img/participate/poeticsciencefair.jpg"
+  - "/static/img/participate/audience.jpg"
+  - "/static/img/participate/bagels.jpg"
+  - "/static/img/participate/dinner.jpg"
 ---
 
 <div class="alert alert-success" role="alert">
