@@ -145,13 +145,15 @@ footer {
 }
 // two column css layout for mission page
 
-.form-group {
-	label {
-		padding-bottom:0em !important;
-		margin-bottom:0em !important;
-		line-height: 1em !important;
+.content {
+	.form-group {
+		label {
+			padding-bottom:0em !important;
+			margin-bottom:0em !important;
+			line-height: 1em !important;
+		}
+		padding-bottom: 2em !important;
 	}
-	padding-bottom: 2em !important;
 }
 
 .twocol {
