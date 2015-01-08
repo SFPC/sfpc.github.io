@@ -13,6 +13,7 @@ layout: default
 				{% if item.input == 'textarea' %}
 				<div class="form-group">
 				    <label for="{{item.name}}">{{item.text}}</label>
+				    {% if item.help %}
 					<div class="help-block">
 						<p>{{item.help}}</p>
 						{% if item.questions %}
@@ -23,12 +24,15 @@ layout: default
 						</ul>
 						{% endif %}
 					</div>
+					{% endif %}
 					<textarea class="form-control" {% if item.rows %}rows="{{item.rows}}"{% else %}rows="3"{% endif %} name="{{item.name}}" placeholder="{{item.placeholder}}"></textarea>
 				</div>
 				{% elsif item.input == 'text' or 'email' %}
 				<div class="form-group">
 				    <label for="{{item.name}}">{{item.text}}</label>
+				    {% if item.help %}
 					<p class="help-block">{{item.help}}</p>
+				    {% endif %}
 					<input type="{{item.input}}" class="form-control" name="{{item.name}}" placeholder="{{item.placeholder}}" />
 				</div>
 				{% endif %}
