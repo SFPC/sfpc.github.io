@@ -22,11 +22,13 @@
 	{
 		"name": "why",
 		"input": "textarea",
+		"rows": "15",
 		"text": "Why do you want to study at SFPC at this point in your life?"
 	},
 	{
 		"name": "want",
 		"input": "textarea",
+		"rows": "15",
 		"text": "What do you want the School for Poetic Computation to be?"
 	},
 	{
