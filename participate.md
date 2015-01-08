@@ -3,10 +3,13 @@ title: Participate
 layout: participate
 slides:
   - "/static/img/participate/door.jpg"
+  - "/static/img/participate/audience.jpg"
+  - "/static/img/participate/bagels.jpg"
+  - "/static/img/participate/poeticsciencefair.jpg"
+  - "/static/img/participate/goldenhour.jpg"
   - "/static/img/participate/student-id.jpg"
   - "/static/img/participate/breadboard.jpg"
   - "/static/img/participate/circuits.jpg"
-  - "/static/img/participate/goldenhour.jpg"
   - "/static/img/participate/workshop.jpg"
   - "/static/img/participate/semaphore.jpg"
   - "/static/img/participate/boolean.jpg"
@@ -14,9 +17,6 @@ slides:
   - "/static/img/participate/softcircuits.jpg"
   - "/static/img/participate/havefun.jpg"
   - "/static/img/participate/totallyrad.jpg"
-  - "/static/img/participate/poeticsciencefair.jpg"
-  - "/static/img/participate/audience.jpg"
-  - "/static/img/participate/bagels.jpg"
   - "/static/img/participate/dinner.jpg"
 ---
 
