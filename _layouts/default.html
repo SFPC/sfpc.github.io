@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{% if page.title %}{{page.title}} | {% endif %}School for Poetic Computation</title>
+		{% if page.background %}<meta property="og:image" content="{{page.background}}" />{% endif %}
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="//f.fontdeck.com/s/css/zH28mslJNSfrEtk/N8vkA5GMvEQ/sfpc.io/39609.css" type="text/css" />
