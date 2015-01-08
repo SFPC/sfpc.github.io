@@ -2,6 +2,17 @@
 ---
 body {
 	position: relative; // this is needed for the TOC scroll nav
+	font-size: 170% !important;
+	line-height: 1.40em;
+}
+
+p {
+	padding-bottom: 0.5em;
+}
+
+
+#header {
+	font-size: 0.9em !important;
 }
 
 img {
@@ -76,9 +87,6 @@ footer {
 	margin-top:45px;
 }
 
-p {
-	font-size:1.2em !important;
-}
 
 #header{
 	margin-bottom:5em;
@@ -96,10 +104,15 @@ p {
 
 // full width background images
 
+.jumbotron p {
+	font-size: 0.9em !important;
+}
+
 .container .jumbotron {
 	background-size: cover;
 	min-height:80vh;
 	border-radius: 0;
+	
 }
 
 
@@ -170,7 +183,7 @@ p {
 	}
 	h3 {
 		font-size:1em;
-		color: Silver  ;
+		//color: Silver  ;
 		margin-top:1.5em;
 	}
 }
@@ -188,15 +201,15 @@ p {
 	}
 	li.active a {
 		font-weight:bold;
-		color:#000;
+		//color:#000;
 	}
 	li a:hover {
 		background:none;
 		text-decoration:underline;
 	}
 	.toc-h2 a {
-		color: black;
-		
+		//color: black;
+		font-weight:bold;
 		padding:0;
 	}
 	.toc-h3 + .toc-h2  {

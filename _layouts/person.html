@@ -2,7 +2,13 @@
 layout: default
 ---
 <div class="row">
-	<section class="info col-md-4 col-md-offset-2 col-sm-6">
+{% if content %}
+	<section class="col-md-6  col-sm-6">
+		<h1>{{page.title}}</h1>
+		{{content}}
+	</section>
+{% endif %}
+	<section class="info col-md-4 col-md-offset-1 col-sm-6">
 		<img src="{{site.baseurl}}/static/img/people/{{ page.title | downcase | replace: " ", "_" }}.jpg"/>
 
 		<table class="table">
@@ -50,11 +56,4 @@ layout: default
 		{% endif %}
 		</table>
 	</section>
-{% if content %}
-	<section class="col-md-4 col-sm-6">
-		<h1>{{page.title}}</h1>
-		{{content}}
-	</section>
-{% endif %}
-
 </div>
