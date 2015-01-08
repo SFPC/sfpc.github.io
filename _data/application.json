@@ -1,0 +1,48 @@
+[
+	{
+		"name": "name",
+		"input": "text",
+		"text": "Name",
+		"placeholder": "Name",
+		"required": "yes"
+	},
+	{
+		"name": "email",
+		"input": "email",
+		"text": "Email",
+		"placeholder": "email@domain.com",
+		"required": "yes"
+	},
+	{
+		"name": "website",
+		"input": "textarea",
+		"placeholder": "Portfolio, Twitter, Github, Flickr, Vimeo, Résumé, CV, etc.",
+		"text": "Where can we see your work?"
+	},
+	{
+		"name": "why",
+		"input": "textarea",
+		"text": "Why do you want to study at SFPC at this point in your life?"
+	},
+	{
+		"name": "want",
+		"input": "textarea",
+		"text": "What do you want the School for Poetic Computation to be?"
+	},
+	{
+		"name": "essay",
+		"input": "textarea",
+		"rows": "20",
+		"text": "Please tell us a little more about yourself in an essay no larger than 1000 words.",
+		"help": "Feel free to answer any combination of the following questions:",
+		"questions": [
+			"What are questions you wished you asked yourself five years ago?", 
+			"What moves you?", 
+			"Which technology do you wish existed and which technology do you wish did not exist?", 
+			"Where are you from and how did that shape the person you are today?", 
+			"What is your favorite educational or collaborative experience?", 
+			"Zombies are attacking the building, you do what?", 
+			"Who are your heroes and what do you admire about them?"
+		]
+	}
+]

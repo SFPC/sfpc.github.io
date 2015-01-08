@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<div class="row">
+	<div class="col-md-7">
+		<h1>Spring 2015 Application</h1>
+
+		{{content}}
+
+		<form accept-charset="UTF-8" action="https://formkeep.com/f/5d07be37a31e" method="POST">
+			<input type="hidden" name="utf8" value="✓">
+			{% for item in site.data.application %}
+				{% if item.input == 'textarea' %}
+				<div class="form-group">
+				    <label for="{{item.name}}">{{item.text}}</label>
+					<div class="help-block">
+						<p>{{item.help}}</p>
+						{% if item.questions %}
+						<ul>
+							{% for question in item.questions %}
+							<li>{{ question }}</li>
+							{% endfor %}
+						</ul>
+						{% endif %}
+					</div>
+					<textarea class="form-control" {% if item.rows %}rows="{{item.rows}}"{% else %}rows="3"{% endif %} name="{{item.name}}" placeholder="{{item.placeholder}}"></textarea>
+				</div>
+				{% elsif item.input == 'text' or 'email' %}
+				<div class="form-group">
+				    <label for="{{item.name}}">{{item.text}}</label>
+					<p class="help-block">{{item.help}}</p>
+					<input type="{{item.input}}" class="form-control" name="{{item.name}}" placeholder="{{item.placeholder}}" />
+				</div>
+				{% endif %}
+			{% endfor %}
+			<button type="submit" class="btn btn-primary btn-lg">Submit Application</button>
+		</form>
+	</div>
+	<div class="col-md-4 col-md-offset-1">
+		<h2>Timeline</h2>
+		<table class="table table-striped">
+		  <tr>
+		    <th scope="row">Jan 7th</th>
+		    <td>Applications open</td>
+		  </tr>
+		  <tr>
+		    <th scope="row">Jan 27th</th>
+		    <td>Applications due by 11:59pm</td>
+		  </tr>
+		  <tr>
+		    <th scope="row">Feb 15th</th>
+		    <td>Acceptances sent out</td>
+		  </tr>
+		  <tr>
+		    <th scope="row">Mar 16th</th>
+		    <td>Spring session begins</td>
+		  </tr>
+		</table>
+		<hr>
+		<h2>Questions?</h2>
+		<p>Check the <a href="/faq/">FAQ</a>, and don't hesitate to tweet at <a href="http://twitter.com/sfpc">@sfpc</a> or email <a href="mailto:info@sfpc.io">info@sfpc.io</a>.</p>
+	</div>
+</div>

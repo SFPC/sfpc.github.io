@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="row" style="padding-bottom:20px;">
+	<div class="col-md-12">
+	{% include slider.html %}
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-8">
+		{{content}}
+	</div>
+	<div id="testimonials" class="col-md-4">
+		{% for testimonial in site.data.testimonials %}
+		<blockquote>
+			<p>{{testimonial.testimonial}}</p>
+			<p class="source">—{% for person in site.people %}{% if person.title == testimonial.name %}{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}{% endif %}{% endfor %}</p>
+		</blockquote>
+		{% endfor %}
+	</div>
+</div>
