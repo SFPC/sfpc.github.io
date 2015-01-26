@@ -85,11 +85,9 @@ $5000 USD for the 10 week program. You'll also need to cover your own cost of li
 
 ### Do you offer scholarships?
 
-We are working on offering work-study scholarships. We're particularly looking out for women, people of color, people under-represented in the field of art + technology, and those with financial need. 
+We are working on offering scholarships and work-study opportunities. While we are completely self-funded, and this dramatically limits our ability to offer scholarships, this term we are planning to offer one or two reduced tuition spots to qualified applicants. We’re particularly looking out for women, people of color, people under-represented in the field of art + technology, and those with financial need. If you consider yourself a candidate in need of financial support, please elaborate on your background and intention for joining the school in the application form.
 
-(If you are interested in sponsoring a student, email [info@sfpc.io](mailto:info@sfpc.io))
-
-We have also successfully supported several students in receiving grants and financial support from their jobs, schools, and institutions. We are happy to write a letter of recommendation upon your acceptance, and provide any other materials helpful in obtaining independent funding.
+We are actively seeking private, corporate and institutional support to open our door to more diverse students. If you are interested in sponsoring a student, email [info@sfpc.io](mailto:info@sfpc.io). We are able to receive tax-deductible donations through our fiscal sponsor.
 
 ### What is expected of me?
 

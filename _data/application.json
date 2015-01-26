@@ -27,7 +27,8 @@
 	{
 		"name": "tenWeeks",
 		"input": "textarea",
-		"text": "Are you able to attend full time during the 10 weeks of the school?"
+		"text": "Are you able to attend full time during the 10 weeks of the school?",
+		"help": "Please note if you require full or partial financial assistance. We are working on offering scholarships and work-study opportunities. We’re particularly looking out for women, people of color, people under-represented in the field of art + technology, and those with financial need."
 	},
 	{
 		"name": "why",
