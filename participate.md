@@ -20,8 +20,7 @@ slides:
   - "/static/img/participate/dinner.jpg"
 ---
 
-<div class="alert alert-success" role="alert"><p><strong>Applications for our Spring 2015 term were due by January 27th and are now being reviewed. We expect to inform applicants by February 15th.</strong></p>
-<p>If you missed the deadline, we will continue <a href="/participate/apply/">accepting applications</a> on a rolling basis until all slots have been filled.</p></div>
+<div class="alert alert-success" role="alert"><p><strong>Applications are currently closed.</strong></p> <p>We will announce when we start accepting applications for our Fall 2015 term on our mailing list, which you can sign up for below.</p></div>
 
 ***
 
