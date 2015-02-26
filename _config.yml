@@ -1,4 +1,6 @@
 permalink: pretty
+gems:
+- jekyll-redirect-from
 collections:
   people:
     output: true
