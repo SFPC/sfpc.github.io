@@ -7,12 +7,11 @@ order: 3
 
 SFPC is an alternative school for art and technology. We are striving to create a model of education based on collaboration between faculty and students. By participating you will be actively shaping an emerging culture of open source and transparent education. 
  
-You can read some articles about the kind of work that’s developed at SFPC: Yahoo Tech, video sketch of the final day at  Seen in NY and also students’ reports on their time at the school can be found here: Ida, Lee.
+You can read some articles about the kind of work that’s developed at SFPC: [Yahoo Tech](https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html), video sketch of the final day at [Seen in NY](https://vialogues.com/vialogues/play/14021) and also students’ reports on their time at the school can be found here: [Ida](http://uncommonplaces.com/2014/06/school-poetic-computation/), [Lee](http://www.thehacktory.org/the-school-for-poetic-computation/).
 
 ### Where did the idea come from?
 
 We have been teaching and organizing workshops at schools and festivals around the world. We want to create a safe haven for others to develop ideas into reality. We want to bring all of our experience and knowledge to make a sustainable system for learning and teaching code, experimenting with pedagogy, electronics, installation, performance, user experience, data visualization and etc.
-Again, don't recommend ending with an etc., can we clarify?
 
 ### What kind of students are you looking for?
 
@@ -28,7 +27,7 @@ We celebrate failure and collaboration. Our classes are going to be a mix of lec
 
 ### What other schools like this exist?
 
-Here’s a list of short, non-degree granting schools: Hacker School, Code Fellows, Starter League. There’s also places like The Brooklyn institute, LA Game Space, Kitchen Table Coders. We are very happy that our alumni are starting their own schools such as School of Ma in Berlin, and OF Course in New York. Teachablefile is a huge list of artist-run schools. The book, Art School: Propositions for the 21st Century, is a good intro to alternative art schools.
+Here’s a list of short, non-degree granting schools: [Hacker School](https://www.hackerschool.com/), [Code Fellows](http://www.codefellows.org/), [Starter League](http://www.starterleague.com/). There’s also places like [The Brooklyn institute](http://thebrooklyninstitute.com/), [LA Game Space](http://lagamespace.org/), [Kitchen Table Coders](http://kitchentablecoders.com/). We are very happy that our alumni are starting their own schools such as [School of Ma in Berlin](http://schoolofma.org/), and [OF Course in New York](http://www.ofcourse.io/). [Teachablefile](http://www.teachablefile.org/) is a huge list of artist-run schools. The book, [Art School: Propositions for the 21st Century](http://www.amazon.com/Art-School-Propositions-21st-Century/dp/0262134934), is a good intro to alternative art schools.
 
 ### Who started the school?
 
