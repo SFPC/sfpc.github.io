@@ -17,7 +17,7 @@ layout: default
 		</tr>
 		{% for affiliation in page.affiliation reversed %}
 			<tr>
-				<td><a href="{{site.baseurl}}/classes/{{affiliation.class | downcase | replace: " ", "-"}}">{{affiliation.class}}</a></td>
+				<td>{{affiliation.class}}</td>
 				<td>{{affiliation.role}}</td>
 			</tr>
 		{% endfor %}
