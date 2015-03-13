@@ -59,9 +59,11 @@ $( function() {
     }
     isIsotopeInit = true;
     // filter isotope
-    $container.isotope({
-      itemSelector: 'li',
-      filter: hashFilter
+    $('#people-grid').imagesLoaded( function() {
+	    $container.isotope({
+	      itemSelector: 'li',
+	      filter: hashFilter
+	    });
     });
     // set selected class on button
     if ( hashFilter ) {
