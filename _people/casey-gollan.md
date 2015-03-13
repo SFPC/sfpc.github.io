@@ -7,6 +7,8 @@ affiliation:
   role: Administrator
 - class: Fall 2014
   role: Administrator
+- class: Spring 2015
+  role: Administrator
 twitter: caseyg
 github: caseyg
 website: http://caseyagollan.com

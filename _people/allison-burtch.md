@@ -3,6 +3,8 @@ title: Allison Burtch
 affiliation:
 - class: Fall 2014
   role: Teacher
+- class: Spring 2015
+  role: Teacher
 twitter: irl
 github: allisonburtch
 website: http://allisonburtch.net

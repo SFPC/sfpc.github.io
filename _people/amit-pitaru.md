@@ -5,6 +5,8 @@ affiliation:
   role: Teacher
 - class: Fall 2014
   role: Teacher
+- class: Spring 2015
+  role: Organizer
 twitter: pitaru
 github: apitaru
 website: http://pitaru.com
