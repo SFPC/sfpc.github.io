@@ -21,7 +21,7 @@ slides:
 ---
 
 <div class="alert alert-success" role="alert">
-We are accepting <a href="/participate/apply/">applications</a> through <b>January 27th</b> for a ten week session to be held in New York City from March 16th - May 22nd.
+We are accepting <a href="/participate/apply/">applications</a> through <b>June 15th, 2015</b> for a ten week session to be held in New York City from September 15th - November 25th.
 </div>
 
 ***
@@ -72,9 +72,7 @@ have structured our classes around the following concepts. Of particular interes
 - **Pedagogy, strategies for learning and teaching** — How do you learn new things? What sorts of environments and communities foster a nurturing space and an ongoing practice of learning? The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We see them as platforms to help promote fearless prototyping, asking difficult questions, and creating projects that embody issues that are not yet commonly addressed in the art / tech world.
 
 ### Who is going to teach this term?
-
-- SFPC co-founders and teachers. 
-- List tbd 
+- Zachary Lieberman, Allison Parrish, Caitlin Morris, Ramsey Nasser and More. Taeyoon Choi and the SFPC steering committee will organize the program. 
 
 ### Who are we looking for?
 
@@ -82,12 +80,15 @@ We are looking for people from all backgrounds, who are curious, generous and op
 
 ### How much is tuition?
 
-$5000 USD for the 10 week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $3,300 - $7,000). We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, we [open-source our finances on Github](http://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
-### Do you offer scholarships?
+$5500 USD for the 10 week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $4000 - $7,000). We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, we [open-source our finances on Github](http://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
 
 ### Do you offer scholarships?
 
-We are completely self-funded, which dramatically limits our ability to offer scholarships. In Fall 2015, we are offering two work-study opportunities to qualified applicants, who would be expected to work 5hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, people under-represented in the field of art + technology and those with financial need. Occasionally, students have received support from cultural foundations or current employers and we are happy to provide materials as proof of acceptance.
+We are completely self-funded, which dramatically limits our ability to offer scholarships. In Fall 2015, we are offering two work-study opportunities to qualified applicants, who would be expected to work 5hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, people under-represented in the field of art + technology and those with financial need. 
+
+Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have very little flexibility regarding scholarships.This is for people who absolutely need assistance to participate in SFPC.
+
+Occasionally, students have received support from cultural foundations or current employers and we are happy to provide materials as proof of acceptance.
 
 ### How can I help SFPC?
 
@@ -97,10 +98,10 @@ We are actively seeking private, corporate and institutional support to open our
 
 Acceptance into the session is an invitation to join the SFPC community. Full-time participation during the ten weeks is mandatory. This means you show up to all of the classes, do the work and engage with the community. It’s also expected that you work openly – sharing what you learn along the way, and that you openly collaborate with your peers. The success of the session for the group is dependent on engaged participation throughout the term.
 
-### Deadline is January 27th, 2015  
+### Deadline is June 25th, 2015  
 
 In the past, we’ve received 40+ strong applications, and this time will likely be competitive as well. We will select participants based on a work sample, application form and a short video introduction. We expect to notify the applicants by June 25th. Participants are expected to plan their travel and we do our best to help find accommodation.
 
-<a href="/participate/apply/" class="btn btn-primary btn-lg">Apply for Spring 2015</a>
+<a href="/participate/apply/" class="btn btn-primary btn-lg">Apply for Fall 2015</a>
 
 Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
