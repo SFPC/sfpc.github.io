@@ -21,7 +21,7 @@ slides:
 ---
 
 <div class="alert alert-success" role="alert">
-We are accepting <a href="/participate/apply/">applications</a> through <b>June 15th, 2015</b> for a ten week session to be held in New York City from September 15th - November 25th.
+We are accepting <a href="/https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_guUBi1OpsX01EU7OLztDRyU/viewform/">applications</a> through <b>June 15th, 2015</b> for a ten week session to be held in New York City from September 15th - November 25th.
 </div>
 
 ***
@@ -102,6 +102,6 @@ Acceptance into the session is an invitation to join the SFPC community. Full-ti
 
 In the past, we’ve received 40+ strong applications, and this time will likely be competitive as well. We will select participants based on a work sample, application form and a short video introduction. We expect to notify the applicants by June 25th. Participants are expected to plan their travel and we do our best to help find accommodation.
 
-<a href="/participate/apply/" class="btn btn-primary btn-lg">Apply for Fall 2015</a>
+<a href="https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_guUBi1OpsX01EU7OLztDRyU/viewform" class="btn btn-primary btn-lg">Apply for Fall 2015</a>
 
 Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
