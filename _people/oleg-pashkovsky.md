@@ -8,4 +8,6 @@ github: pshkvsky
 website: http://pshkvsky.com
 place: New York, NY
 ---
-I’ve built my career from web developer to the Head of Digital in the advertising agency. With a background as a developer, I always try to direct my creativity on innovative use of technology, but nevertheless I like when clean and simple ideas bring a new experience in digital storytelling.
+Oleg is a creative technologist from Ukraine, now based in New York.
+
+He likes mixing technologies to bring new experiences to people and to interrupt their routine with a moment of fun. He has great experience in advertising, having been a Digital Director at the one of the most awarded advertising agencies in Ukraine. Nowadays he works in the field of experimental art. He attended the British Higher School of Art and Design and holds a degree in Information Security Engineering from Kyiv State University of Telecommunications.
