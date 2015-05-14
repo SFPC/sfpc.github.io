@@ -19,9 +19,14 @@ slides:
   - "/static/img/participate/dinner.jpg"
 ---
 
+
 <div class="alert alert-success" role="alert">
-We are accepting <a href="/https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_guUBi1OpsX01EU7OLztDRyU/viewform/">applications</a> through <b>June 15th, 2015</b> for a ten week session to be held in New York City from September 15th - November 25th.
+We are accepting <a href="https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_guUBi1OpsX01EU7OLztDRyU/viewform" class="btn btn-primary btn-lg">Applications</a> through <b>June 15th, 2015</b> for a ten week session to be held in New York City from September 15th - November 25th.
 </div>
+
+<a href="https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_guUBi1OpsX01EU7OLztDRyU/viewform" class="btn btn-primary btn-lg">Applications</a>
+
+ 
 
 ***
 
@@ -29,21 +34,20 @@ We are accepting <a href="/https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_
 
 New York City from September 15th - November 25th, 2015. School for Poetic Computation(SFPC) is a hybrid artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. 
 
-SFPC is not a technical bootcamp. Rather, it is an opportunity to work with a group of faculty, visiting artists, and peers to focus on exploring artistic practice and critical technologies through computation.
+SFPC is not a technical bootcamp. Rather, it is an opportunity to work with a group of faculty, visiting artists, and peers to focus on exploring artistic practice through computation.
 
-Computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation.
+Computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation(theory).
 
-SFPC began as a school run by artists for artists. You can read about our beginning in this [New York Times article](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0). SFPC has held four successful sessions to date: ten weeks in Fall 2013 which culminated in an exhibition at [Eyebeam Art and Technology Center](http://eyebeam.org/), a two week session in Spring 2014, and another ten week session in Fall 2014 and Spring 2015 which culminated in a final showcase at [Babycastles](http://babycastles.com/website/). The Fall 2015 session will be held in a new location in Brooklyn for ten weeks.
+SFPC began as a school run by artists for artists. You can read about our beginning in this [New York Times article](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0). SFPC has held four successful sessions to date: ten weeks in Fall 2013 which culminated in an exhibition at [Eyebeam Art and Technology Center](http://eyebeam.org/), a two week session in Spring 2014, another ten week session in Fall 2014 and Spring 2015 which culminated in a final showcase at [Babycastles](http://babycastles.com/website/). The Fall 2015 session will be held in a new location in Brooklyn for ten weeks starting in September 15.
 
 ### What is the School for Poetic Computation?  
 
-By participating you will be actively shaping an emerging culture of open source and transparent education.
-
-You can read some articles about the kind of work that’s developed at SFPC: [Yahoo Tech](https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html), video sketch of the final day of the Fall 2013 session at [Seen in NY](https://vialogues.com/vialogues/play/14021) and [a day in life of SFPC](http://www.creativeapplications.net/news/school-for-poetic-computation-sfpc-call-for-the-fall-2014-term/), also students’ reports on their time at the school can be found here: [Ida](http://uncommonplaces.com/2014/06/school-poetic-computation/), [Lee](http://www.thehacktory.org/the-school-for-poetic-computation/).
+SFPC is an alternative school for art and technology. [FAQ](http://sfpc.io/faq/)
+You can read some articles about the kind of work that’s developed at SFPC: [Yahoo Tech](https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html), video sketch of the final day of the Fall 2013 session at [Seen in NY](https://vialogues.com/vialogues/play/14021) and [a day in life of SFPC](http://www.creativeapplications.net/news/school-for-poetic-computation-sfpc-call-for-the-fall-2014-term/), also students’ reports on their time at the school can be found here: [Ida](http://uncommonplaces.com/2014/06/school-poetic-computation/), [Lee](http://www.thehacktory.org/the-school-for-poetic-computation/), [Toru](http://sfpctoruurakawa.tumblr.com/), [Todd] (http://www.toddpoet.com/on-leaving-the-school-for-poetic-computation/), [Sarah](http://sarahgp.com/writings/sfpc/other-two-questions.html) and  [Paige](http://paigederaedt.github.io/blog/jekyll/update/2014/12/05/SFPCLearningReport.html).  
 
 ### What will happen in ten weeks?
 
-- 15 participants in one session.
+- 16 participants in one session.
 - Access to studio space.
 - Daily classes on programming language, electronics, history and
     theory of art and technology.
@@ -56,6 +60,7 @@ You can read some articles about the kind of work that’s developed at SFPC: [Y
 - Reading and discussion group.
 - Dinners with special guests.
 - Peer to peer collaboration is highly encouraged among participants.
+- Final showcase.  
 
 ### What formal classes will happen this term?
 
@@ -63,10 +68,12 @@ have structured our classes around the following concepts. Of particular interes
 
 - **Computation and artistic practice** — Algorithmic processes and concepts have been manifest in art and design throughout the twentieth century. How can we explore the influence of algorithms in practice and develop new approaches and techniques for utilizing them? What is the fundamental nature of computation and how can we work with it in a lyrical, expressive manner? How can code make things move in compelling and lifelike ways through animation and interaction?
 - **Language design as creative practice** — Every programming language has specific parameters and demands certain processes in its use, we consider the subtle differences and approaches that have shaped various languages throughout history. This area focuses also on ways to design programming languages from scratch and asks how can language design open up new ways of thinking, making and building software? How can we build better tools and with that, better possibilities for ourselves?
-- **Electronics and physical computing** — What is the fundamental building blocks for electronic computer? How do transistors, resistors and capacitors work? How can we use binary logic gates to create adding and remembering machines? How have micro-controllers made physical computing more accessible?
+- **Electronics and physical computing** — What are the fundamental building blocks for electronic computer? How do transistors, resistors and capacitors work? How can we use binary logic gates to create adding and remembering machines? How does CPUs work? How have micro-controllers made physical computing more accessible?
 - **Theory and philosophy for technology** — With contemporary society and our collective future irrevocably changed by ubiquitous technology, what critical questions can we, the makers, artists and technologists pose to society? What can we learn from the history of technology and how can we draft the future we like to see?
 - **Building the commons** — The degree of access to artistic computational tools is largely a product of race, gender, sexuality, geography, and class. How can we use our skills and resources to bridge these divides? This area focuses on developing teaching tools, systems, and approaches to help bring poetic computation to diverse communities.
-- **Pedagogy, strategies for learning and teaching** — How do you learn new things? What sorts of environments and communities foster a nurturing space and an ongoing practice of learning? The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We see them as platforms to help promote fearless prototyping, asking difficult questions, and creating projects that embody issues that are not yet commonly addressed in the art / tech world.
+- **Pedagogy, strategies for learning and teaching** — How do you learn new things? What sorts of environments and communities foster a nurturing space and an ongoing practice of learning? 
+ 
+The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We see them as platforms to help promote fearless prototyping, asking difficult questions, and creating projects that embody issues that are not yet commonly addressed in the art / tech world.
 
 ### Who is going to teach this term?
 - [Zachary Lieberman](http://thesystemis.com/)  
@@ -78,7 +85,8 @@ have structured our classes around the following concepts. Of particular interes
 
 ### Who are we looking for?
 
-We are looking for autodidacts from all backgrounds, who are curious, generous and open. Anyone with a passion to explore poetic computation is invited, and we are looking for diversity in all its forms. We expect that you are eager to experiment, can learn from failure, and come fully dedicated to this ten week experience. This means you will commit to engage with SFPC full-time. In the past, we have had students with a broad array of technical experiences and we were delighted, though unsurprised, that everyone had something to learn from each other. A group of faculty leads a selection process that is based on applicant’s answers to an application form, work samples, and short interviews. Upon acceptance, a selection of reading and prep work will be assigned to you to complete prior to attending SFPC. 
+We are looking for autodidacts from all backgrounds, who are curious, generous and open. Anyone with a passion to explore poetic computation is invited, and we are looking for diversity in all its forms. We expect that you are eager to experiment, can learn from failure, and come fully dedicated to this ten week experience. This means you will commit to engage with SFPC full-time. In the past, we have had students with a broad array of technical experiences and we were delighted, though unsurprised, that everyone had something to learn from each other. A group of faculty leads a selection process that is based on applicant’s answers to an application form, work samples, and short interviews. Upon acceptance, a selection of reading and prep work will be assigned to you to complete prior to attending SFPC.
+
 
 ### How much is tuition?
 
@@ -98,7 +106,7 @@ We are actively seeking private, corporate and institutional support to open our
 
 ### What is expected of me?
 
-Acceptance into the session is an invitation to join the SFPC community. Full-time participation during the ten weeks is mandatory. This means you show up to all of the classes, do the work and engage with the community. We expect our students to be in the school between 10am~5pm- Monday to Friday. The most amazing things happen spontaneously while students are working on homework together and it often grows into a collaborative project. It’s also expected that you work openly – sharing what you learn along the way, and that you openly collaborate with your peers. The success of the session for the group is dependent on engaged participation throughout the term.
+Acceptance into the session is an invitation to join the SFPC community. Full-time participation during the ten weeks is mandatory. This also means you come prepared to all of the classes, do the homework and engage with the community. We expect our students to be in the school between 10am~5pm- Monday to Friday. The most amazing things happen spontaneously while students are working on homework together and it often grows into a collaborative project. It’s also expected that you work openly – sharing what you learn along the way, and that you openly collaborate with your peers. The success of the session for the group is dependent on engaged participation throughout the term. By participating you will be actively shaping an emerging culture of open source and transparent education. 
 
 ### Deadline is June 15th, 2015  
 
