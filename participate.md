@@ -31,7 +31,9 @@ We are accepting <a href="https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_g
 
 ## Fall 2015 Call for Students
 
-New York City from September 15th - November 25th, 2015. School for Poetic Computation(SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. 
+New York City from September 15th - November 25th, 2015. 
+
+School for Poetic Computation (SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. 
 
 SFPC is not a technical bootcamp. Rather, it is an opportunity to work with a group of faculty, visiting artists, and peers to focus on exploring artistic practice through computation.
 
