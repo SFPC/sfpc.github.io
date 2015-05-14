@@ -24,25 +24,24 @@ slides:
 We are accepting <a href="https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_guUBi1OpsX01EU7OLztDRyU/viewform" class="btn btn-primary btn-lg">Applications</a> through <b>June 15th, 2015</b> for a ten week session to be held in New York City from September 15th - November 25th.
 </div>
 
-<a href="https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_guUBi1OpsX01EU7OLztDRyU/viewform" class="btn btn-primary btn-lg">Applications</a>
-
+ 
  
 
 ***
 
 ## Fall 2015 Call for Students
 
-New York City from September 15th - November 25th, 2015. School for Poetic Computation(SFPC) is a hybrid artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. 
+New York City from September 15th - November 25th, 2015. School for Poetic Computation(SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. 
 
 SFPC is not a technical bootcamp. Rather, it is an opportunity to work with a group of faculty, visiting artists, and peers to focus on exploring artistic practice through computation.
 
 Computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation(theory).
 
-SFPC began as a school run by artists for artists. You can read about our beginning in this [New York Times article](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0). SFPC has held four successful sessions to date: ten weeks in Fall 2013 which culminated in an exhibition at [Eyebeam Art and Technology Center](http://eyebeam.org/), a two week session in Spring 2014, another ten week session in Fall 2014 and Spring 2015 which culminated in a final showcase at [Babycastles](http://babycastles.com/website/). The Fall 2015 session will be held in a new location in Brooklyn for ten weeks starting in September 15.
+SFPC began as a school run by artists for artists. You can read about our beginning in this [New York Times article](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0). SFPC has held four successful sessions to date: ten weeks in Fall 2013 which culminated in an exhibition at [Eyebeam Art and Technology Center](http://eyebeam.org/), a two week session in Spring 2014, another ten week session in Fall 2014 and Spring 2015 which culminated in a final showcase at [Babycastles Gallery](http://babycastles.com/website/). The Fall 2015 session will be held in a new location in Brooklyn for ten weeks starting in September 15.
 
 ### What is the School for Poetic Computation?  
 
-SFPC is an alternative school for art and technology. [FAQ](http://sfpc.io/faq/)
+SFPC is an alternative school for art and technology. Check out our [FAQ](http://sfpc.io/faq/).
 You can read some articles about the kind of work that’s developed at SFPC: [Yahoo Tech](https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html), video sketch of the final day of the Fall 2013 session at [Seen in NY](https://vialogues.com/vialogues/play/14021) and [a day in life of SFPC](http://www.creativeapplications.net/news/school-for-poetic-computation-sfpc-call-for-the-fall-2014-term/), also students’ reports on their time at the school can be found here: [Ida](http://uncommonplaces.com/2014/06/school-poetic-computation/), [Lee](http://www.thehacktory.org/the-school-for-poetic-computation/), [Toru](http://sfpctoruurakawa.tumblr.com/), [Todd] (http://www.toddpoet.com/on-leaving-the-school-for-poetic-computation/), [Sarah](http://sarahgp.com/writings/sfpc/other-two-questions.html) and  [Paige](http://paigederaedt.github.io/blog/jekyll/update/2014/12/05/SFPCLearningReport.html).  
 
 ### What will happen in ten weeks?
