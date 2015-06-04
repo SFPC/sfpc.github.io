@@ -82,7 +82,7 @@ The idea behind these interconnected topics is to build on SFPC’s core curricu
 - [Allison Parrish](http://www.decontextualize.com/) 
 - [Ramsey Nasser](http://nas.sr/) 
 - [Caitlin Morris](http://www.caitlinmorris.net/) 
-- More teahcers and visiting artists will be announced soon. 
+- More teachers and visiting artists will be announced soon. 
 
 ### Who are we looking for?
 
