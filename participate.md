@@ -39,7 +39,7 @@ SFPC is not a technical bootcamp. Rather, it is an opportunity to work with a gr
 
 Computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation (theory).
 
-SFPC began as a school run by artists for artists. You can read about our beginning in this [New York Times article](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0). SFPC has held four successful sessions to date: ten weeks in Fall 2013 which culminated in an exhibition at [Eyebeam Art and Technology Center](http://eyebeam.org/), a two week session in Spring 2014, a ten week session in Fall 2014, and a ten week session in Spring 2015 which will culminate in a [final showcase](http://attending.io/events/sfpc-spring-2015-final-showcase), May 20th at Babycastles Gallery. The Fall 2015 session will be held in a new location in Brooklyn for ten weeks starting in September 15.
+SFPC began as a school run by artists for artists. You can read about our beginning in this [New York Times article](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0). SFPC has held four successful sessions to date: ten weeks in Fall 2013 which culminated in an exhibition at [Eyebeam Art and Technology Center](http://eyebeam.org/), a two week session in Spring 2014, a ten week session in Fall 2014, and a ten week session in Spring 2015 which will culminated in a [final showcase](http://attending.io/events/sfpc-spring-2015-final-showcase), May 20th at Babycastles Gallery. The Fall 2015 session will be held in a new location in Brooklyn for ten weeks starting in September 15.
 
 ### What is the School for Poetic Computation?  
 
@@ -77,12 +77,15 @@ We have structured our classes around the following concepts:
 The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We see them as platforms to help promote fearless prototyping, asking difficult questions, and creating projects that embody issues that are not yet commonly addressed in the art / tech world.
 
 ### Who is going to teach this term?
-- [Zachary Lieberman](http://thesystemis.com/)  
-- [Taeyoon Choi](http://taeyoonchoi.com) 
+
 - [Allison Parrish](http://www.decontextualize.com/) 
-- [Ramsey Nasser](http://nas.sr/) 
 - [Caitlin Morris](http://www.caitlinmorris.net/) 
+- [Ramsey Nasser](http://nas.sr/) 
+- [Taeyoon Choi](http://taeyoonchoi.com) 
 - More teachers and visiting artists will be announced soon. 
+- SFPC Steering Committee [Zachary Lieberman](http://thesystemis.com/), [Amit Pitaru](http://pitaru.com), [Allison Burtch](http://www.allisonburtch.net), [Tega Brain](http://tegabrain.com), [Ida C. Benedetto](http://uncommonplaces.com/) and Taeyoon Choi will support teachers and mentor students.     
+
+
 
 ### Who are we looking for?
 
