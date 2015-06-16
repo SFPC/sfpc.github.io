@@ -9,6 +9,11 @@ slides:
   - "/static/img/participate/dinner.jpg"
 ---
 
+<div class="alert alert-success" role="alert">
+We are accepting <a href="http://goo.gl/forms/D0d2sXVUc3">Applications</a> through <b>July 23rd, 2015</b> on a rolling basis. Apply as soon as you decide to participate! 
+</div>
+
+ 
 ***
 
 ## Summer Session on Code Poetry 
@@ -40,7 +45,7 @@ Monday, July 27th - Sunday, August 9th @ Babycastles gallery
 There, you can read financial reports and download raw statements. 
 
 ##Deadline
-Please apply as soon as possible, we have a limited space to accommodate participants. We will be accepting students on a rolling basis for the Summer session. This means early applicants will be notified sooner. Final deadline is 7.23. 
+Please apply **as soon as possible!** we have a limited space to accommodate participants. We will be accepting students on a rolling basis for the Summer session. This means early applicants will be notified sooner. Final deadline is 7.23, however there is a high chance we will close the call when we have 15 students who confirm acceptance.  
 
 
 ##Who You Will Meet 
