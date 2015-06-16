@@ -10,7 +10,7 @@ slides:
 ---
 
 <div class="alert alert-success" role="alert">
-We are accepting <a href="http://goo.gl/forms/D0d2sXVUc3">Applications</a> through <b>July 23rd, 2015</b> on a rolling basis. Apply as soon as you decide to participate! 
+We are accepting <a href="http://goo.gl/forms/D0d2sXVUc3">Applications</a> through <b>July 23rd, 2015</b> on a rolling basis.
 </div>
 
  
