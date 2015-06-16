@@ -49,13 +49,13 @@ The Teachers
   
 - Todd Anderson: Word hacker, game maker & auto-hotkey interpretive dancer [@toddwords](http://twitter.com/toddwords) 
 - Sarah Groff-Palermo: Language-maker, transpiler, SFPC alumna, & friend to robots everywhere [@superSGP](http://twitter.com/superSGP)
-- Allison Parrish: Digital Creative Writer-in-Residence at [@FordhamEnglish](https://twitter.com/FordhamEnglish). I make computers do weird things with words. [decontextualize.com](decontextualize.com) [@aparrish](http://twitter.com/aparrish)
+- Allison Parrish: Digital Creative Writer-in-Residence at [@FordhamEnglish](https://twitter.com/FordhamEnglish). I make computers do weird things with words. [decontextualize.com](http://decontextualize.com) [@aparrish](http://twitter.com/aparrish)
 - Nick Montfort: Computational poet, collaborator, digital media researcher & teacher, names things [nickm.com](http://nickm.com) [@nickmofo](http://twitter.com/nickmofo)
 
 The Team 
 
-- Taeyoon Choi: Artist and Co-founder of SFPC [@tchoi8](http://twitter.com/tchoi8) 
-- Lauren Gardner: Gamer, community builder, maker and cleaner of messes. [poohead.com](poohead.com) [@poohlaga](http://twitter.com/poohlaga)
+- Taeyoon Choi: Artist and Co-founder of SFPC [Taeyoonchoi.com](http://taeyoonchoi.com)[@tchoi8](http://twitter.com/tchoi8) 
+- Lauren Gardner: Gamer, community builder, maker and cleaner of messes. [http://poohead.com](poohead.com) [@poohlaga](http://twitter.com/poohlaga)
 - Katie Smillie: Student of code, yoga, art and life. SPFC alumna. Recovering tech addict. Occasional poet [@katiesmillie](http://twitter.com/katiesmillie)
 - Achim Koh: Anonymous Kettle, [akkakkak.tumblr.com](http://akkakkak.tumblr.com) [@akkakkak](http://twitter.com/akkakkak)
   
