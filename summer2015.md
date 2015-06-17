@@ -2,7 +2,7 @@
 title: Code Poetry Summer 
 layout: participate
 slides:
-  -"static/imag/participate/notebook.jpg"
+  -"/static/imag/participate/notebook.jpg"
   -"/static/img/participate/goldenhour.jpg"
   - "/static/img/participate/workshop.jpg"
   - "/static/img/participate/flower.jpg"
