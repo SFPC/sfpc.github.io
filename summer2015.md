@@ -18,19 +18,22 @@ We are accepting <a href="http://goo.gl/forms/D0d2sXVUc3">Applications</a> throu
 
 ## Summer Session on Code Poetry 
 
-School for Poetic Computation (SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. SFPC is organzing a summer session on Code Poetry between July 27th - August 9th, 2015. 
 
-Poetic Computation is a practice and a community that sees the computer as a medium for artistic expression and critical thinking. It's less impressed with the final result of the 'thing' and more supportive of the process, learnings and questions around creating the thing.
+We are organizing evening classes for a summer session on Code Poetry between July 27th - August 9th, 2015 
 
-Now that most of our reading is mediated by technology, it makes sense to develop a writing practice that recognizes, even takes advantage of that fact. By using code you control the reader's attention -- where they dwell or skim -- and create an emotional scene on which text resides. Code can also generate the content of text, a practice that has spawned some excellent twitter bots and generated novels. 
+School for Poetic Computation (SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. 
 
-This 2-week program is for artists, writers and poets who want to learn to code or push the boundaries of what's possible with text -- it's also for coders and technologists who want to incorporate narrative and poetry into their work.
+Poetic Computation is a practice and a community that sees the computer as a medium for artistic expression and critical thinking. It’s less impressed with the final result of the ‘thing’ and more supportive of the process, learnings and questions around creating the thing.
 
-Come with a project in mind, a question you want to explore, or just an excitement to learn. We'll work together to build upon ideas over the two weeks and share our projects with each other at the end of the session.
+Now that most of our reading is mediated by technology, it makes sense to develop a writing practice that recognizes, even takes advantage of that fact. By using code you control the reader’s attention – where they dwell or skim – and create an emotional scene on which text resides. Code can also generate the content of text, a practice that has spawned some excellent twitter bots and generated novels.
 
-We will be primarily working with JavaScript and Python. You don't need to know how to code in these languages but getting familiar with them will help you make the most of the program. We're here to help you help yourself and we recommend completing a few online tutorials if you are beginner (resources below).
+This 2-week program is for artists, writers and poets who want to learn to code or push the boundaries of what’s possible with text – it’s also for coders and technologists who want to incorporate narrative and poetry into their work.
 
-Meet others! Building a supportive community is important to SFPC. We'd love for you to join us for these two weeks but also to stay involved when they are done. We will do our best to introduce you to people and places that foster creativity and learning around the city.
+Come with a project in mind, a question you want to explore, or just an excitement to learn. We’ll work together to build upon ideas over the two weeks and share our projects with each other at the end of the session.
+
+We will be primarily working with JavaScript and Python. You don’t need to know how to code in these languages but getting familiar with them will help you make the most of the program. We’re here to help you help yourself and we recommend completing a few online tutorials if you are beginner (resources below).
+
+Meet others! Building a supportive community is important to SFPC. We’d love for you to join us for these two weeks but also to stay involved when they are done. We will do our best to introduce you to people and places that foster creativity and learning around the city.
 
 ##Dates & Logistics
 Monday, July 27th - Sunday, August 9th @ Babycastles gallery
