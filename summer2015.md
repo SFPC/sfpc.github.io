@@ -3,6 +3,7 @@ title: Code Poetry Summer
 layout: participate
 slides:
 
+  - "/static/img/participate/allisonp.jpg"
   - "/static/img/participate/flower.jpg"
   - "/static/img/participate/catarina.jpg"
   - "/static/img/participate/door.jpg"
