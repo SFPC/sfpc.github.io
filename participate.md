@@ -20,7 +20,8 @@ slides:
 ---
 
 
-<div class="alert alert-success" role="alert"> We are accepting <a href="https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_guUBi1OpsX01EU7OLztDRyU/viewform">Applications</a> through <b>June 21st, 2015</b> for a ten week session to be held in New York City from September 15th - November 25th. 
+<div class="alert alert-success" role="alert"> 
+  Unfortunately, we are currently not accepting any new applicants for our Fall 2015 session. Please sign up for our mailing list for updates on new Calls for Students.
 </div>
 
  
