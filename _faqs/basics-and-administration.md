@@ -13,10 +13,10 @@ No. We do not issue formal degrees. By participating you will join a group of al
 
 ### Where is the school located?
 
-For now, we don't have a permanent location year-round. Our upcoming sessions will be run from [Orbital](http://orbitalnyc.com/) in New York City.  Our address is: 
+For now, we don't have a permanent location year-round. Our Fall 2015 session is being held at [Westbeth](http://westbeth.org/) in New York City. Our address is: 
 
-155 Rivington St., Floor 4  
-New York, NY 10002  
+155 Bank Street  
+New York, NY 10014  
 USA
 
 ### How can I support SFPC?
