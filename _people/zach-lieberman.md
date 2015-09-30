@@ -7,6 +7,8 @@ affiliation:
   role: Teacher
 - class: Fall 2014
   role: Teacher
+- class: Fall 2015
+  role: Teacher
 twitter: zachlieberman
 github: ofzach
 website: http://thesystemis.com/

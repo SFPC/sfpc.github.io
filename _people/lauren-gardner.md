@@ -3,6 +3,8 @@ title: Lauren Gardner
 affiliation:
 - class: Fall 2014
   role: Student
+- class: Fall 2015
+  role: Organizer
 twitter: poohlaga
 github: poohlaga
 website: http://poohead.com
