@@ -4,7 +4,7 @@ affiliation:
 - class: Fall 2015
   role: Student
 twitter: andyinabox
-github: poohlaga
+github: andyinabox
 website: http://andydayton.com/
 place: Brooklyn, NY
 ---
