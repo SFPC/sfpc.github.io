@@ -5,6 +5,8 @@ affiliation:
   role: Visitor
 - class: Fall 2014
   role: Teacher
+- class: Fall 2015
+  role: Teacher
 twitter: ra
 github: nasser
 website: http://nas.sr
