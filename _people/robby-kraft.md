@@ -5,6 +5,7 @@ affiliation:
   role: Student
 twitter: RobbyKraft
 website: http://robbykraft.com/
-place: Dallas, TX
+instagram: gridpaper
+place: Portland, OR
 ---
 Robby Kraft is an origami artist and engineer with a background in philosophy, science, and music. He develops scientific, musical, and mathematical tools and simulators and experiments in mixed reality. He studies old technologies and education and his work focuses on complexity, paradoxes, and geometry. He makes freelance iOS apps, origami, plays viola, and cooks gluten-free.

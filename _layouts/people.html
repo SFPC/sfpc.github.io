@@ -24,7 +24,26 @@ layout: default
 <div class="row">
 	<ul id="people-grid">
 		{% for person in site.people %}
-			<li class="col-md-2 col-sm-3 col-xs-4 {% for affiliation in person.affiliation %}{{ affiliation.class | downcase | replace: " ", "-" }} {{ affiliation.role | downcase | replace: " ", "-" }} {% endfor %}"><img src="{{site.baseurl}}/static/img/people/{{ person.title | downcase | replace: " ", "_" | replace: "-", "_" }}.jpg" /><span class="info"><span class="name">{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}{% if person.content.size > 1 %}</a>{% endif %}</span><span class="links">{% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %} {% if person.github %}<a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>{% endif %} {% if person.website %}<a href="{{ person.website }}"><i class="fa fa-globe"></i></a>{% endif %} {% if person.email %}<a href="http://twitter.com/{{ person.email }}"><i class="fa fa-email"></i></a>{% endif %}</span></span></li>
+			<li class="col-md-2 col-sm-3 col-xs-4 {% for affiliation in person.affiliation %}{{ affiliation.class | downcase | replace: " ", "-" }} {{ affiliation.role | downcase | replace: " ", "-" }} {% endfor %}"><img src="{{site.baseurl}}/static/img/people/{{ person.title | downcase | replace: " ", "_" | replace: "-", "_" }}.jpg" />
+        <span class="info"><span class="name">{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}
+          {% if person.content.size > 1 %}</a>{% endif %}
+          </span><span class="links">
+            {% if person.twitter %}
+              <a href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i></a>
+            {% endif %}
+            {% if person.github %}
+              <a href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i></a>
+            {% endif %}
+            {% if person.instagram %}
+              <a href="http://instagram.com/{{ person.instagram }}"><i class="fa fa-instagram"></i></a>
+            {% endif %}
+            {% if person.website %}
+              <a href="{{ person.website }}"><i class="fa fa-globe"></i></a>
+            {% endif %}
+            {% if person.email %}
+              <a href="mailto:{{ person.email }}"><i class="fa fa-email"></i></a>
+            {% endif %}
+          </span></span></li>
 		{% endfor %}
 	</ul>
 </div>

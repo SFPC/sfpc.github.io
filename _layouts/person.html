@@ -48,6 +48,13 @@ layout: default
 			</tr>
 		{% endif %}
 
+		{% if page.instagram %}
+			<tr>
+				<td><i class="fa fa-instagram"></i> Instagram</td>
+				<td><a href="http://instagram.com/{{page.instagram}}">{{page.instagram}}</a></td>
+			</tr>
+		{% endif %}
+
 		{% if page.place %}
 			<tr>
 				<td><i class="fa fa-home"></i> Location</td>
