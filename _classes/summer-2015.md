@@ -22,7 +22,7 @@ students:
 - name: Kelly Donohue
 - name: Michael Simpson
 visitors:
-- name: IRL Place
+- name: Ishac Bertran
 courses:
 - name: Make and Play Your Own Poetry Instrument with Todd Anderson
 - name: Talking to Machines (Those A**Holes) with Sarah Groff-Palermo
