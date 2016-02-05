@@ -3,6 +3,8 @@ title: Sarah Groff-Palermo
 affiliation:
 - class: Fall 2014
   role: Student
+- class: Summer 2015
+  role: Teacher
 twitter: superSGP
 github: sarahgp
 website: http://sarahgp.com

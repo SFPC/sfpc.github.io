@@ -7,7 +7,7 @@ teachers-staff:
 - name: Allison Parrish
 - name: Todd Anderson
 - name: Nick Montfort
-- name: Sarah Groff Palermo
+- name: Sarah Groff-Palermo
 - name: Taeyoon Choi
 - name: Lauren Gardner
 students: 
