@@ -3,6 +3,8 @@ title: Lauren Gardner
 affiliation:
 - class: Fall 2014
   role: Student
+- class: Spring 2015
+  role: Organizer
 - class: Summer 2015
   role: Organizer
 - class: Fall 2015

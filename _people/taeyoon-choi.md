@@ -7,6 +7,10 @@ affiliation:
   role: Teacher
 - class: Fall 2014
   role: Teacher
+- class: Spring 2015
+  role: Teacher
+- class: Summer 2015
+  role: Teacher
 - class: Fall 2015
   role: Teacher
 twitter: tchoi8

@@ -3,6 +3,8 @@ title: Todd Anderson
 affiliation:
 - class: Fall 2014
   role: Student
+- class: Summer 2015
+  role: Teacher
 twitter:
 github:
 website: http://medi.ci/toddanderson

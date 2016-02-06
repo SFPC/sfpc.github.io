@@ -16,16 +16,15 @@ teachers-staff:
 - name: Lauren Gardner
 students: 
 - name: Achim Koh
-- name: Anastasis Germandis
+- name: Anastasis Germanidis
 - name: Andrew Badr
-- name: Caterina Lee
+- name: Catarina Lee
 - name: Eve Weinberg
 - name: Georgia Guthrie
 - name: Haijing Liu
-- name: Javier Rodrigo 
-- name: Palacios Murillo
+- name: Javier Rodrigo Palacios Murillo
 - name: Johan Bichel Lindegaard
-- name: Katie Smilie
+- name: Katie Smillie
 - name: Matt Daniels
 - name: Maria Michails 
 - name: Mercurial Lore 
@@ -55,6 +54,7 @@ visitors:
 - name: Michael P. Allison
 - name: Heather Dewey-Hagborg
 - name: Kyle McDonald
+- name: Jonathan Dahan
 courses:
 - name: Learning to Learn with Amit
 - name: What is Poetic Computation with Zach

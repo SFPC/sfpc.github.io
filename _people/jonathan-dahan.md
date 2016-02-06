@@ -5,6 +5,8 @@ affiliation:
   role: Student
 - class: Spring 2014
   role: Teacher
+- class: Spring 2015
+  role: Teacher
 twitter: jedahan
 github: jedahan
 website: http://jedahan.com

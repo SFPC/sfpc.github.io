@@ -1,11 +1,13 @@
 ---
 title: Zach Lieberman
 affiliation:
-- class: Fall 2014
+- class: Fall 2013
   role: Teacher
 - class: Spring 2014
   role: Teacher
 - class: Fall 2014
+  role: Teacher
+- class: Spring 2014
   role: Teacher
 - class: Fall 2015
   role: Teacher
