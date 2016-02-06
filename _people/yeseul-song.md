@@ -1,6 +1,8 @@
 ---
 title: Yeseul Song
 affiliation:
+- class: Summer 2015
+  role: Student
 - class: Fall 2015
   role: Student
 website: http://yeseul.com/

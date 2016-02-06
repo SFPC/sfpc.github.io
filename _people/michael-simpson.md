@@ -1,6 +1,8 @@
 ---
 title: Michael Simpson
 affiliation:
+- class: Summer 2015
+  role: Student
 - class: Fall 2015
   role: Student
 twitter: ArtfulDeleuzian
