@@ -23,7 +23,7 @@ slides:
 
 
 <div class="alert alert-success" role="alert"> 
- <a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform">   We are now accepting applicants for Summer 2016. </a> 
+ We are now accepting applicants for Summer 2016.
 </div> 
  
  
