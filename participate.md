@@ -102,6 +102,6 @@ Acceptance into the session is an invitation to join the SFPC community. Full-ti
 
 In the past, we’ve received 50+ strong applications, and this time will likely be competitive as well. We will select participants based on a work sample, application form and a short video introduction. We expect to notify the applicants by the end of March. Participants are expected to plan their travel and we do our best to help find accommodation.
 
-<a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform">Apply for Summer 2016</a>
+<a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform" class="btn btn-primary btn-lg">Apply for Summer 2016</a>
 
 Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
