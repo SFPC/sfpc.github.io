@@ -23,7 +23,7 @@ slides:
 
 
 <div class="alert alert-success" role="alert"> 
-  We are not yet accepting applicants for Summer 2016. Please sign up for our mailing list for announcements.
+  We are now accepting applicants for Summer 2016.
 </div>
 
  
