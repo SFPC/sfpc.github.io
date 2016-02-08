@@ -23,9 +23,8 @@ slides:
 
 
 <div class="alert alert-success" role="alert"> 
-  We are not yet accepting applicants for Summer 2016. Please sign up for our mailing list for announcements.
-</div>
-
+ <a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform">   We are now accepting applicants for Summer 2016. </a> 
+</div> 
  
  
 
@@ -99,10 +98,10 @@ We are actively seeking private, corporate and institutional support to open our
 
 Acceptance into the session is an invitation to join the SFPC community. Full-time participation during the ten weeks is mandatory. This also means you come prepared to all of the classes, do the homework, and engage with the community. We expect our students to be in the school between 10am~5pm, Monday to Friday. The most amazing things happen spontaneously while students are working on homework together and it often grows into a collaborative project. It’s also expected that you work openly – sharing what you learn along the way and collaborate with your peers. The success of the session for the group is dependent on engaged participation throughout the term. By participating you will be actively shaping an emerging culture of open source and transparent education. 
 
-### Deadline is March 5th, 2016
+### Deadline is March 15th, 2016
 
 In the past, we’ve received 50+ strong applications, and this time will likely be competitive as well. We will select participants based on a work sample, application form and a short video introduction. We expect to notify the applicants by the end of March. Participants are expected to plan their travel and we do our best to help find accommodation.
 
-<!--a href="https://docs.google.com/forms/d/1jWCoZSoTKwJeMA8yA1m_guUBi1OpsX01EU7OLztDRyU/viewform" class="btn btn-primary btn-lg">Apply for Fall 2015</a-->
+<a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform">Apply for Summer 2016</a>
 
 Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
