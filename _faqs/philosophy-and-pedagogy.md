@@ -35,7 +35,7 @@ The school was co-founded in 2013 by Zach Lieberman, Taeyoon Choi, Amit Pitaru, 
 
 ### Who runs the school?
 
-The current partners are Zach, Taeyoon, and Amit, with Casey working on administration. We try to work with new teachers and visitors every session, often involving our alumni and community.
+The currently Zach, Taeyoon and Lauren Gardner are organizing the sessions. We try to work with new teachers and visitors every session, often involving our alumni and community.
 
 ### Why do you teach?
 
