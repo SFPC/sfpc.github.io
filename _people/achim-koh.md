@@ -3,8 +3,8 @@ title: Achim Koh
 affiliation:
 - class: Spring 2015
   role: Student
-twitter: akkakkak
-github: akkakkak
+twitter: achimkoh
+github: achimkoh
 website: 
 place: Brooklyn, NY
 ---
