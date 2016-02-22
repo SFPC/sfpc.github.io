@@ -3,15 +3,28 @@ title: Participate
 layout: participate
 slides:
   - "/static/img/participate/door.jpg"
+  - "/static/img/participate/audience.jpg"
+  - "/static/img/participate/catarina.jpg"
+  - "/static/img/participate/dayfornight_crowd.jpg"
+  - "/static/img/participate/dinner2.jpg"
+  - "/static/img/participate/summer15_wall.jpg"
+  - "/static/img/participate/bagels.jpg"
+  - "/static/img/participate/poeticsciencefair.jpg"
+  - "/static/img/participate/goldenhour.jpg"
+  - "/static/img/participate/breadboard.jpg"
+  - "/static/img/participate/circuits.jpg"
+  - "/static/img/participate/workshop.jpg"
+  - "/static/img/participate/notebook.jpg"
+  - "/static/img/participate/softcircuits.jpg"
+  - "/static/img/participate/havefun.jpg"
+  - "/static/img/participate/totallyrad.jpg"
+  - "/static/img/participate/dinner.jpg”
 ---
 
 
 <div class="alert alert-success" role="alert"> 
-<a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform">   We are now accepting applicants for Summer 2016. </a> 
+<a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform"> We are now accepting applicants for Summer 2016. </a> 
 </div>
-
- 
- 
 
 ***
 
