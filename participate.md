@@ -63,9 +63,9 @@ The idea behind these interconnected topics is to build on SFPC’s core curricu
 
 ### Who are the teachers?
 
-- Specific teachers for 2016 and visiting artists will be announced soon however, here are a few folks who work with us: [Allison Parrish](http://www.decontextualize.com/), [Caitlin Morris](http://www.caitlinmorris.net/), [Ramsey Nasser](http://nas.sr/), [Taeyoon Choi](http://taeyoonchoi.com) 
+- Specific teachers for 2016 and visiting artists will be announced soon. Here are a few folks who work with us: [Allison Parrish](http://www.decontextualize.com/), [Caitlin Morris](http://www.caitlinmorris.net/) and [Ramsey Nasser](http://nas.sr/). 
 
-- SFPC Steering Committee [Zachary Lieberman](http://thesystemis.com/), [Amit Pitaru](http://pitaru.com), [Allison Burtch](http://www.allisonburtch.net), [Tega Brain](http://tegabrain.com), [Lauren Gardner](http://www.poohead.com) [Ida C. Benedetto](http://uncommonplaces.com/) and Taeyoon Choi will support teachers and mentor students.     
+- [Zachary Lieberman](http://thesystemis.com/), [Taeyoon Choi](http://taeyoonchoi.com) and [Lauren Gardner](http://www.poohead.com) are organizing the session. SFPC Steering Committee including [Amit Pitaru](http://pitaru.com), [Allison Burtch](http://www.allisonburtch.net), [Tega Brain](http://tegabrain.com) and [Ida C. Benedetto](http://uncommonplaces.com/) will support teachers and mentor students.     
 
 
 
@@ -96,9 +96,13 @@ We are actively seeking private, corporate and institutional support to open our
 
 Acceptance into the session is an invitation to join the SFPC community. Full-time participation during the ten weeks is mandatory. This also means you come prepared to all of the classes, do the homework, and engage with the community. We expect our students to be in the school between 10am~5pm, Monday to Friday. The most amazing things happen spontaneously while students are working on homework together and it often grows into a collaborative project. It’s also expected that you work openly – sharing what you learn along the way and collaborate with your peers. The success of the session for the group is dependent on engaged participation throughout the term. By participating you will be actively shaping an emerging culture of open source and transparent education. 
 
+### Where is SFPC?
+
+We are located in 155 Bank street, Westbeth Artists Community, New York City. 
+
 ### Deadline is March 15th, 2016
 
-In the past, we’ve received 50+ strong applications, and this time will likely be competitive as well. We will select participants based on a work sample, application form and a short video introduction. We expect to notify the applicants by the end of March. Participants are expected to plan their travel and we do our best to help find accommodation.
+In the past, we’ve received 50+ strong applications, and this time will likely be competitive as well. We will select participants based on a work sample, application form and a short video introduction. We expect to notify the applicants by the end of March. Participants are expected to plan their travel and we do our best to help find accommodation. We will notify all applicants by April 1st. 
 
 <a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform" class="btn btn-primary btn-lg">Apply for Summer 2016</a>
 
