@@ -19,4 +19,4 @@ place: Brooklyn, NY
 Lauren is a New York City–based product manager, community builder and artist.
 
 She is the co-owner of the art collective and DIY gallery Babycastles which has reinvented the arcade as a social space for independent video game culture. Lauren is also a partner and co-organizer for the School For Poetic Computation. She has also spent 15+ years as a Technical Product Manager building enterprise level software for companies including Turner/Time Warner & Thomson Reuters.
-Building things through colabarative process is the heart of her professional and artistic pursuits.
+Building things through collaborative process is the heart of her professional and artistic pursuits.
