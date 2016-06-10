@@ -6,13 +6,13 @@ slides:
 ---
 
 
-<div class="alert alert-success" role="alert"> 
-<a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform"> We are now accepting applicants for Summer 2016. </a> 
-</div>
+<!--div class="alert alert-success" role="alert"> 
+<a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform"> We are now accepting applicants for the two-week Summer 2016 session. </a> 
+</div-->
 
 ***
 
-## Summer 2016 Call for Students, June 1st - August 10th, 2016. 
+## Will be announcing the short (two week) Summer session from Aug 15 - 26th soon! 
 
 ### What is the School for Poetic Computation?  
 
@@ -84,10 +84,8 @@ Acceptance into the session is an invitation to join the SFPC community. Full-ti
 
 We are located in 155 Bank street, Westbeth Artists Community, New York City. 
 
-### Deadline is March 15th, 2016
+### Deadline to apply
 
-In the past, we’ve received 50+ strong applications, and this time will likely be competitive as well. We will select participants based on a work sample, application form and a short video introduction. We expect to notify the applicants by the end of March. Participants are expected to plan their travel and we do our best to help find accommodation. We will notify all applicants by April 1st. 
-
-<a href="https://docs.google.com/forms/d/164gRpg0uUAbrJ2sPeB_C-EXp0OGrRyT3owhVnzVq15E/viewform" class="btn btn-primary btn-lg">Apply for Summer 2016</a>
+In the past, we’ve received 50+ strong applications, and this time will likely be competitive as well. We will select participants based on a work sample, application form and a short video introduction. We expect to notify the applicants by the end of March. Participants are expected to plan their travel and we do our best to help find accommodation. 
 
 Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
