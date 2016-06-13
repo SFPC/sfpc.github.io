@@ -1,5 +1,5 @@
 ---
-title: Diana Sanchez
+title: Diana Sánchez
 affiliation:
 - class: Spring 2014
   role: Student
