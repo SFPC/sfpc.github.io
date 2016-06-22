@@ -8,4 +8,4 @@ github:
 website: http://shobunbaile.com/portfolio
 place: New York, USA
 ---
-Shobun is a New York-based multidisciplinary artist whose current work deals with the role labor and gender play in new materialisms. He also works collaboratively with artist Brett Renfer. Their work explores interactive ways to make large-scale phenomenon more accessible to human senses. Shobun received his BS in Russian Lit. and Molecular Biology from the Univ. of Michigan. He works in virology research at Columbia University, and is an assistant editor at the film journal ‘Framework.’
+Shobun Baile is a New York City-based artist, working in video, sound, sculpture, and writing. He received a BS in Russian Language & Literature and Cellular & Molecular Biology from the University of Michigan. He is currently an MFA candidate at the Carnegie Mellon University School of Art.
