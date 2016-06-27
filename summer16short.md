@@ -12,7 +12,7 @@ slides:
 ---
 
 <div class="alert alert-success" role="alert">
-We are accepting <a href="http://goo.gl/forms/D0d2sXVUc3">Applications</a> through <b>July 23rd, 2015</b> on a rolling basis.
+We are <a href="https://docs.google.com/forms/d/1LnqBYC6LRODpFmBDm1dsVKHMFMZe11sH1eFiO_dj0y4/viewform">accepting Applications</a> through <b>Aug 15th, 2016</b> on a rolling basis.
 </div>
 
  
@@ -86,7 +86,7 @@ We are committed to being fully transparent about how we make and spend money. I
 - B.Y.O.Laptop (Mac / PC / Linux)
 
 ### How do I apply?
-**[Please fill out this form](http://goo.gl/forms/D0d2sXVUc3)**
+**[Please fill out this form](https://docs.google.com/forms/d/1LnqBYC6LRODpFmBDm1dsVKHMFMZe11sH1eFiO_dj0y4/viewform)**
 
 We will be accepting up to 15 students on a rolling basis. We will give you a response to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
   
