@@ -1,13 +1,7 @@
 ---
 title: Participate
-layout: participate
-slides:
-
-  - "/static/img/participate/sum2016_lunch.jpg"
-  - "/static/img/participate/flower.jpg"
-  - "/static/img/participate/sum2016_group.jpg"
-  - "/static/img/participate/havefun.jpg"
-  - "/static/img/participate/sum2016_notes.jpg"
+layout: participate2
+background: /static/img/participate/sum2016_notes.jpg
 ---
 
 ## Current Open Calls
@@ -25,8 +19,9 @@ We will select up to 12 participants for the session which will be held Oct. 10t
 
 Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participants and at the end of the session we celebrate with a final student showcase where you get to share your projects with the larger SFPC community.
 
-<div class="alert alert-success" role="alert">Learn more about, and apply to the Fall 2016 Session <a href="/fall2016/">here</a>.
+<div class="alert alert-success" role="alert">Learn more about, and apply to the Fall 2016 Session <a href="https://docs.google.com/forms/d/1T-Bzpd0hC71GdDHjMzOifpjeNR_NTKdoweSUUBsLjYk/prefill">here</a>.
 </div>
+
 
 ### What is the School for Poetic Computation?  
 
@@ -51,10 +46,6 @@ It’s also expected that you work openly – sharing what you learn along the w
 ### How can I help SFPC?
 
 We are actively seeking private, corporate and institutional support to open our door to more diverse students. If you are interested in sponsoring a student, email <info@sfpc.io>. We are able to receive tax-deductible donations through our fiscal sponsor. 
-
-### Where is SFPC?
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
-<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3023.157285117621!2d-74.0114827845943!3d40.73656447932915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d40.736779899999995!2d-74.00924049999999!4m5!1s0x89c259eb003122d1%3A0xede8af6a55291528!2s155+Bank+St%2C+New+York%2C+NY+10014!3m2!1d40.7365645!2d-74.00929409999999!5e0!3m2!1sen!2sus!4v1466975848424" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
