@@ -4,28 +4,27 @@ layout: participate
 slides:
 
   - "/static/img/participate/sum2016_lunch.jpg"
-  - "/static/img/participate/flower.jpg"
   - "/static/img/participate/sum2016_group.jpg"
-  - "/static/img/participate/havefun.jpg"
+  - "/static/img/participate/flower.jpg"
   - "/static/img/participate/sum2016_notes.jpg"
 ---
 
 ## Current Open Calls
 
-### Code Subversions ~ Evenings-Only Workshop ~ Aug. 15th - Aug. 27th
-Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, the underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert these computational systems we use every day.
+### Summer 2015 Intensive: Aug. 15th - Aug. 27th
+Code Subversion is a Two-Weeks Evening-Only session. Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, the underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert these computational systems we use every day.
 
-<div class="alert alert-success" role="alert">Learn more about, and apply to Code Subversions <a href="/summer16short/">here</a>.
+<div class="alert alert-success" role="alert">Learn more about, and apply to <a href="/summer16short/"> Summer 2016 Code Subversions here</a>.
 </div>
 
-### Fall 2016 Immersive ~ Ten-Week Session ~ Oct. 10th - Dec. 16th
+### Fall 2016 Immersive: Oct. 10th - Dec. 16th
 Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
 We will select up to 12 participants for the session which will be held Oct. 10th - Dec. 16th. Classes vary in length and are usually held Monday-Friday between 10am and 5pm. 
 
 Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participants and at the end of the session we celebrate with a final student showcase where you get to share your projects with the larger SFPC community.
 
-<div class="alert alert-success" role="alert">Learn more about, and apply to the Fall 2016 Session <a href="/fall2016/">here</a>.
+<div class="alert alert-success" role="alert">Learn more about, and apply to the <a href="/fall2016/">Fall 2016 Session here</a>.
 </div>
 
 ### What is the School for Poetic Computation?  
@@ -54,6 +53,7 @@ We are actively seeking private, corporate and institutional support to open our
 
 ### Where is SFPC?
 We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3023.157285117621!2d-74.0114827845943!3d40.73656447932915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d40.736779899999995!2d-74.00924049999999!4m5!1s0x89c259eb003122d1%3A0xede8af6a55291528!2s155+Bank+St%2C+New+York%2C+NY+10014!3m2!1d40.7365645!2d-74.00929409999999!5e0!3m2!1sen!2sus!4v1466975848424" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 

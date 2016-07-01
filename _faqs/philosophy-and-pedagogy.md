@@ -7,7 +7,7 @@ order: 3
 
 SFPC is an alternative school for art and technology. We are striving to create a model of education based on collaboration between faculty and students. By participating you will be actively shaping an emerging culture of open source and transparent education. 
  
-You can read some articles about the kind of work that’s developed at SFPC: [Yahoo Tech](https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html), video sketch of the final day at [Seen in NY](https://vialogues.com/vialogues/play/14021) and also students’ reports on their time at the school can be found here: [Ida](http://uncommonplaces.com/2014/06/school-poetic-computation/), [Lee](http://www.thehacktory.org/the-school-for-poetic-computation/).
+You can read some articles about the kind of work that’s developed at SFPC: [New York Times](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0), [Yahoo Tech](https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html), video sketch of the final day at [Seen in NY](https://vialogues.com/vialogues/play/14021) and also students’ reports on their time at the school can be found here: [Ida](http://uncommonplaces.com/2014/06/school-poetic-computation/) and [Lee](http://www.thehacktory.org/the-school-for-poetic-computation/).
 
 ### Where did the idea come from?
 
@@ -27,7 +27,7 @@ We celebrate failure and collaboration. Our classes are going to be a mix of lec
 
 ### What other schools like this exist?
 
-Here’s a list of short, non-degree granting schools: [Hacker School](https://www.hackerschool.com/), [Code Fellows](http://www.codefellows.org/), [Starter League](http://www.starterleague.com/). There’s also places like [The Brooklyn institute](http://thebrooklyninstitute.com/), [LA Game Space](http://lagamespace.org/), [Kitchen Table Coders](http://kitchentablecoders.com/). We are very happy that our alumni are starting their own schools such as [School of Ma in Berlin](http://schoolofma.org/), and [OF Course in New York](http://www.ofcourse.io/). [Teachablefile](http://www.teachablefile.org/) is a huge list of artist-run schools. The book, [Art School: Propositions for the 21st Century](http://www.amazon.com/Art-School-Propositions-21st-Century/dp/0262134934), is a good intro to alternative art schools.
+Here’s a list of short, non-degree granting programs to learn coding: [The Recurse Center](https://www.recurse.com/), [ScriptEd](https://www.scripted.org/), [Women Who Code](https://www.womenwhocode.com). There’s also places like [The Brooklyn institute](http://thebrooklyninstitute.com/), [LA Game Space](http://lagamespace.org/), [Kitchen Table Coders](http://kitchentablecoders.com/). We are very happy that our alumni are starting their own schools such as [School of Ma in Berlin](http://schoolofma.org/), and [OF Course in Shanghai](http://www.ofcourse.io/). [Teachablefile](http://www.teachablefile.org/) is a huge list of artist-run schools. The book, [Art School: Propositions for the 21st Century](http://www.amazon.com/Art-School-Propositions-21st-Century/dp/0262134934), is a good intro to alternative art schools.
 
 ### Who started the school?
 
@@ -35,7 +35,7 @@ The school was co-founded in 2013 by Zach Lieberman, Taeyoon Choi, Amit Pitaru, 
 
 ### Who runs the school?
 
-The currently Zach, Taeyoon and Lauren Gardner are organizing the sessions. We try to work with new teachers and visitors every session, often involving our alumni and community.
+The SFPC Team: Zachary Lieberman, Taeyoon Choi and Lauren Gardner organize the sessions. The SFPC Steering Committee: Ida Benedetto, Amit Pitaru, Tega Brain provide additional support. We try to work with new teachers and visitors every session, often involving our alumni and community. 
 
 ### Why do you teach?
 

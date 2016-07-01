@@ -4,6 +4,7 @@ layout: participate
 slides:
 
   - "/static/img/participate/SFPC2-weekSummer.jpg"
+  - "/static/img/participate/wallbw.jpg"
   - "/static/img/participate/flower.jpg"
   - "/static/img/participate/door.jpg"
   - "/static/img/participate/havefun.jpg"
@@ -19,20 +20,18 @@ We are accepting Applications through <b>Aug 15th, 2016</b> on a rolling basis. 
 
 ## Call for Students: Code Subversions
 - 2-week Session, Monday Aug. 15th - Saturday Aug. 27th 
-- @ SFPC in the West Village, NYC
-- 7pm - 9pm, Evening Classes!
+- @ SFPC, 155 Bank street, West Village, NYC
+- 7pm - 9pm, Evening Classes 
 
 Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert the computational systems we use every day.
 
 ### Who are the teachers?
 - [Ramsey Nasser](http://nas.sr/) - radical computer scientist, game-designer and educator
 - [Tega Brain](http://tegabrain.com/) - artist, environmental engineer, Processing Foundation fellow
-- [Sam Lavigne](http://lav.io) - data collagist, ITP fellow, [Stupid Hackathon](http://www.stupidhackathon.com/) founder
+- [Sam Lavigne](http://lav.io) - data collagist, ITP fellow, Stupid Hackathon founder
 - [Ida C. Benedetto](http://uncommonplaces.com/) - transgressive place maker, experience designer, game maker
 - [Ingrid Burrington](http://lifewinning.com/) - writer, map maker, infrastructure demystifier
-- [Todd Anderson](http://hotwriting.net/) and [Lauren Gardner](http://laurengardner.com) are organizing the session. 
-
-Additional support will be provided by the SFPC Steering Committee: [Zachary Lieberman](http://thesystemis.com/), [Taeyoon Choi](http://taeyoonchoi.com/), [Amit Pitaru](http://pitaru.com/), [Allison Burtch](http://www.allisonburtch.net/), [Ida Benedetto](http://uncommonplaces.com/) and [Tega Brain]().
+- [Todd Anderson](http://hotwriting.net/) and [Lauren Gardner](http://laurengardner.com) are organizing the session. SFPC Team including [Zachary Lieberman](http://thesystemis.com/) and  [Taeyoon Choi](http://taeyoonchoi.com/) will provide additional support.  
 
 ### Classes
 
@@ -58,7 +57,7 @@ How do the physical conditions of the network influence our ideas about its hist
 ### What will happen in these two weeks?
 Classes are held in the evenings Monday-Friday from 7-10pm. There will be a workshop during the first week on Saturday and the session will culminate in a party where students can invite their friends and share what they made and learned.
 
-Students will have full access to the space for the two weeks of the session to work on projects between classes and mentors wil be readily available for technical, conceptual, and artistic guidance. 
+Students will have full access to the space for the two weeks of the session to work on projects between classes and mentors wil be readily available for technical, conceptual, and artistic guidance. Read our <a href="/participate/"> Participate </a> page for more information.
 
 ### How much is tuition?
 $1,500 USD for the 2-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). 
@@ -70,6 +69,14 @@ We are committed to being fully transparent about how we make and spend money. I
 - We are looking for autodidacts from all backgrounds who are curious, generous and open. 
 - We welcome students with a broad array of technical experiences--no coding experience is required, but a basic comfort level with technology is preferred. 
 - B.Y.O.Laptop (Mac / PC / Linux)
+
+
+### Where is SFPC?
+We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3023.157285117621!2d-74.0114827845943!3d40.73656447932915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d40.736779899999995!2d-74.00924049999999!4m5!1s0x89c259eb003122d1%3A0xede8af6a55291528!2s155+Bank+St%2C+New+York%2C+NY+10014!3m2!1d40.7365645!2d-74.00929409999999!5e0!3m2!1sen!2sus!4v1466975848424" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 
 ### How do I apply?
 **[Please fill out this form](https://docs.google.com/forms/d/1LnqBYC6LRODpFmBDm1dsVKHMFMZe11sH1eFiO_dj0y4/viewform)**
