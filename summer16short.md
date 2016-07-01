@@ -19,7 +19,7 @@ We are accepting Applications through <b>Aug 15th, 2016</b> on a rolling basis. 
 ***
 
 ## Call for Students: Code Subversions
-- 2-week Session, Monday Aug. 15th - Saturday Aug. 27th 
+- Two-Weeks Session, Monday Aug. 15th - Saturday Aug. 27th 
 - @ SFPC, 155 Bank street, West Village, NYC
 - 7pm - 9pm, Evening Classes 
 
