@@ -60,9 +60,15 @@ Classes are held in the evenings Monday-Friday from 7-10pm. There will be a work
 Students will have full access to the space for the two weeks of the session to work on projects between classes and mentors wil be readily available for technical, conceptual, and artistic guidance. Read our <a href="/participate/"> Participate </a> page for more information.
 
 ### How much is tuition?
-$1,500 USD for the 2-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). 
+$1,500 USD for the 2-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). Upon payment, your space in the class will be reserved.
 
 We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
+
+### What if I can't go, can I get a refund?
+- Yes, we can give you 100% refund up to 5 days before class starts
+- 50% refund after 5 days, until the first day of class 
+- No refunds can be given after the first day of class
+
 
 ### What is expected of me?
 - Come to all classes and thoughtfully engage with your classmates and teachers.
