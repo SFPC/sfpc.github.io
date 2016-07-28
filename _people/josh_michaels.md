@@ -3,8 +3,6 @@ title: Josh Michaels
 affiliation:
 - class: Summer 2015
   role: Student
-- class: Summer 2016
-  role: Student
 twitter: 
 github: 
 website: http://jetsoncreative.com
