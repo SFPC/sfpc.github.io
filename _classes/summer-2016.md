@@ -32,9 +32,8 @@ visitors:
 - name: Saron Yitbarek
 - name: Rami Ismail
 - name: Daniel Shiffman
-- name: Casey Gollan
 - name: Rune Madsen
-- name: Amit Pitaru 
+
 courses:
 - name: Code and Platform 
 - name: Physcial Computation 
