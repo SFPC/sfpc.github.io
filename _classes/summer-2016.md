@@ -33,7 +33,8 @@ visitors:
 - name: Rami Ismail
 - name: Daniel Shiffman
 - name: Rune Madsen
-
+- name: Amit Pitaru 
+- name: Casey Gollan
 courses:
 - name: Code and Platform 
 - name: Physcial Computation 
