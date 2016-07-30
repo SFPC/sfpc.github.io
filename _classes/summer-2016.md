@@ -24,7 +24,6 @@ students:
 - name: Nahee Kim
 - name: Oren Shoham
 visitors:
-- name: Casey Gollan
 - name: Eke Ijeoma
 - name: Kelli Anderson
 - name: Sougwen Chung
@@ -33,6 +32,7 @@ visitors:
 - name: Saron Yitbarek
 - name: Rami Ismail
 - name: Daniel Shiffman
+- name: Casey Gollan
 - name: Rune Madsen
 - name: Amit Pitaru 
 courses:
@@ -42,6 +42,8 @@ courses:
 - name: Concepts and Theory w Taeyoon Choi
 - name: Recreating the Past w Zach Lieberman
 workshops:
+- name: Make a Portfolio Site
+- name: Run openFrameworks on a Raspberry Pi
 - name: Open Source Publishing
 ---
 description: 
