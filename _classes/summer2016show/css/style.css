@@ -187,6 +187,13 @@ iframe {
 .button-return a {
   color: white;
 }
+.button-sfpc {
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
+  color: black;
+  text-indent: -1rem;
+}
 .button-on-off {
   position: fixed;
   right: 1rem;
@@ -216,12 +223,6 @@ iframe {
   }
 .description p:last-of-type {
   margin-bottom: 0;
-}
-.button-sfpc {
-  position: fixed;
-  bottom: 1rem;
-  left: 1rem;
-  color: black;
 }
 /* Key Frames */
 @keyframes shake-little {
