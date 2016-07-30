@@ -16,6 +16,11 @@
   box-sizing: border-box;
   vertical-align: baseline;
 }
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
 html {
   font-family: "Times New Roman", serif;
   font-style: normal;
@@ -27,34 +32,45 @@ body {
   padding: 1rem;
   color: black;
 }
-html,
-body {
-  width: 100%;
-  height: 100%;
-}
-img {
-  max-width: 100%;
-  height: auto;
-}
 a {
   color: inherit;
   text-decoration: none;
   outline: none;
 }
-ul, ol {
+ul,
+ol {
   list-style-type: none;
 }
 li {
   padding-left: 1rem;
   text-indent: -1rem;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  border: 0;
+}
 iframe {
   width: 100%;
   height: 100%;
   border: 0;
 }
+.cf:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.no-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
 .header {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
@@ -67,14 +83,6 @@ iframe {
 }
 .site-title {
   display: none;
-  position: absolute;
-  right: 0;
-  bottom: 1rem;
-  left: 0;
-  font-size: 1rem;
-  font-weight: normal;
-  text-align: center;
-  color: black;
 }
 .navigation {
   margin-right: -1rem;
@@ -84,11 +92,6 @@ iframe {
   width: calc(100% / 3);
   padding-right: 1rem;
 
-}
-.cf:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 .popup {
   display: none;
@@ -134,16 +137,7 @@ iframe {
 .logo {
   max-width: 90vw !important;
   width: 90vw !important;
-  animation: pulse 3.5s; 
-  -webkit-animation: pulse 3.5s;
-  animation-iteration-count: infinite;
   background-color: white;
-}
-.pulse {
-  animation: pulse 3s; 
-  -webkit-animation: pulse 3s;
-  animation-delay: 3s;
-  animation-iteration-count: infinite;
 }
 .power {
   display: inline-block;
@@ -151,19 +145,7 @@ iframe {
   animation: shake-hard 100ms ease-in-out infinite;
 }
 .power:hover {
-  /*animation-play-state: paused;*/
   animation: shake-little 100ms ease-in-out infinite;
- /* animation: shake-little 1ms ease-in-out;*/
-}
-/*No Selection*/
-.no-select {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  cursor: default;
 }
 .full {
   width: 100%;
@@ -180,8 +162,15 @@ iframe {
   -ms-flex-align: center;
 }
 .full img, .full iframe, .full .description {
-  max-width: 70%;
-  max-height: 70%;
+  max-width: 50%;
+  max-height: 50%;
+}
+.button-information {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  width: 1rem;
+  height: 1rem;
 }
 .button-return {
   display: none;
@@ -199,21 +188,17 @@ iframe {
   color: white;
 }
 .button-on-off {
-  display: none;
-  color: black;
   position: fixed;
   right: 1rem;
   bottom: 1rem;
   width: 1rem;
   height: 1rem;
-  background-color: black;
-  border: .2rem outset black;
+  background-color: white;
   border-radius: 50%;
 }
 .button-on-off:active {
-  border: .2rem inset black;
+  background-color: black;
 }
-
 .paused {
   /*animation-play-state: paused;*/
   animation: shake-little 100ms ease-in-out infinite !important;
@@ -223,62 +208,16 @@ iframe {
   animation: shake-hard 100ms ease-in-out infinite !important;
   -webkit-animation: shake-hard 100ms ease-in-out infinite !important;
 }
-
-.fadein img {
-  -webkit-animation-name: fade;
-  -webkit-animation-iteration-count: infinite;
-  -webkit-animation-duration: 5s;
-  animation-name: fade;
-  animation-iteration-count: infinite;
-  animation-duration: 5s;
-}
-
-.information {
-  position: fixed;
-  right: 1rem;
-  bottom: 1rem;
-  width: 1rem;
-  height: 1rem;
-}
 .description {
-/*  -webkit-columns: 2;
-     -moz-columns: 2;
-          columns: 2;
-  -webkit-column-gap: 1rem;
-     -moz-column-gap: 1rem;
-          column-gap: 1rem;
-          -moz-column-fill: auto;
-       column-fill: auto;*/
+  overflow-y: auto;
 }
 .description p {
-  font-size: 2vw;
-  margin-bottom: 2vw;
+  margin-bottom: 1rem;
+  }
+.description p:last-of-type {
+  margin-bottom: 0;
 }
-
-
-@-webkit-keyframes fade {
-    0% {opacity: 0;}
-    25% {opacity: 1;}
-    50% {opacity: 1;}
-    53% {opacity: 0;}
-    100% {opacity: 0;}
-}
-@keyframes fade {
-    0% {opacity: 0;}
-    20% {opacity: 1;}
-    33% {opacity: 1;}
-    53% {opacity: 0;}
-    100% {opacity: 0;}
-}
-
 /* Key Frames */
-@-webkit-keyframes pulse {
-  0% { opacity: 1; }
-  25% { opacity: .5; }
-  50% { opacity: 0; }
-  75% { opacity: .5; }
-  100% { opacity: 1; }
-}
 @keyframes shake-little {
   2% {
     transform: translate(1px, 1px) rotate(0.5deg); }
@@ -482,7 +421,6 @@ iframe {
     transform: translate(6px, -5px) rotate(3.5deg); }
   0%, 100% {
     transform: translate(0, 0) rotate(0); } }
-
 @keyframes shake {
   2% {
     transform: translate(1.5px, 2.5px) rotate(-0.5deg); }
@@ -584,7 +522,6 @@ iframe {
     transform: translate(-0.5px, -1.5px) rotate(1.5deg); }
   0%, 100% {
     transform: translate(0, 0) rotate(0); } }
-
 @media (min-width: 481px) and (max-width: 640px) {
   html {
     font-size: 5vw;
@@ -601,12 +538,17 @@ iframe {
   .d-day {
     font-size: 8rem;
   }
-  .description {
-    font-size: 3vw;
-    margin-bottom: 3vw;
+  .full img, .full iframe {
+    max-width: 100%;
+    max-height: 50%;
+  }
+  .full .description {
+    max-width: 100%;
+    max-height: 50%;
+    padding-right: 1rem;
+    padding-left: 1rem;
   }
 }
-
 @media screen and (max-width: 480px) {
   html {
     font-size: 5vw;
@@ -631,14 +573,12 @@ iframe {
   }
   .full img, .full iframe {
     max-width: 100%;
-    max-height: 70%;
+    max-height: 50%;
   }
   .full .description {
-    max-width: 90%;
-    max-width: 70%;
-  }
-  .description p {
-    font-size: 4vw;
-    margin-bottom: 4vw;
+    max-width: 100%;
+    max-height: 50%;
+    padding-right: 1rem;
+    padding-left: 1rem;
   }
 }
