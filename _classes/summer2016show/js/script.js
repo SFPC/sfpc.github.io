@@ -2,9 +2,9 @@ $(document).ready(function() {
   var images = new Array ('images/sfpc1.svg', 'images/sfpc2.svg');
   var index = 1;
   function rotateImage() {
-    $('.logo').fadeOut('fast', function() {
+    $('.logo').fadeOut('slow', function() {
       $(this).attr('src', images[index]);
-      $(this).fadeIn('fast', function() {
+      $(this).fadeIn('slow', function() {
         if (index == images.length-1) {
           index = 0;
         } else {
@@ -14,33 +14,19 @@ $(document).ready(function() {
     });
   } 
   setInterval(rotateImage, 3000);
-
   $('.header').click(function() {
     $(this).fadeOut('fast');
     $('.audio-player').fadeIn('fast');
   })
   $('.power').each(function() {
-    $(this).css({'animationDelay': Math.random() * .1 + 's'});
+    $(this).css({'animationDelay': Math.random() * .15 + 's'});
   })
-  $('.popup').keyup(function(k) {
-    if (k.which == 27) {
-      $(this).fadeOut('fast');
-      $('.button-return').hide();
-      $('iframe').each(function() {
-        $(this).attr('src', $(this).attr('src'));
-      });
-    }
-  });
   $('#sfpc').click(function() {
     $('#popup-sfpc').fadeIn('fast');
     $('.button-return').fadeIn('fast');
   })
   $('#summer').click(function() {
     $('#popup-summer').fadeIn('fast');
-    $('.button-return').fadeIn('fast');
-  })
-  $('#showcase').click(function() {
-    $('#popup-showcase').fadeIn('fast');
     $('.button-return').fadeIn('fast');
   })
   $('#location').click(function() {
@@ -51,7 +37,6 @@ $(document).ready(function() {
     $('#popup-date').fadeIn('fast');
     $('.button-return').fadeIn('fast');
   })
-  /*Artists*/
   $('#brandon').click(function() {
     $('#popup-brandon').fadeIn('fast');
     $('.button-return').fadeIn('fast');
@@ -104,7 +89,6 @@ $(document).ready(function() {
     $('#popup-oren').fadeIn('fast');
     $('.button-return').fadeIn('fast');
   })
-  /*button-return*/
   $('.popup').click(function() {
       $(this).fadeOut('fast');
       $('.button-return').fadeOut('fast');
