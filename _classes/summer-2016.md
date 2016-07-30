@@ -36,11 +36,11 @@ visitors:
 - name: Rune Madsen
 - name: Amit Pitaru 
 courses:
-- name: Code and Platform w Nick Montfort
-- name: Physcial Computation w Luisa Pereira
-- name: Personal Product Management w Lauren Gardner
-- name: Concepts and Theory w Taeyoon Choi
-- name: Recreating the Past w Zach Lieberman
+- name: Code and Platform 
+- name: Physcial Computation 
+- name: Personal Product Management 
+- name: Concepts and Theory 
+- name: Recreating the Past 
 workshops:
 - name: Make a Portfolio Site
 - name: Run openFrameworks on a Raspberry Pi
