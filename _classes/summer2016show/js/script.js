@@ -114,7 +114,7 @@ $(document).ready(function() {
   });
   /*D-DAY*/
   var now = new Date();
-  var then = new Date('Aug 5, 2016');
+  var then = new Date('Aug 6, 2016');
   var gap = now.getTime() - then.getTime();
   gap = Math.floor(gap / (1000 * 60 * 60 * 24)) * -1;
   $('.d-day').text(gap);
