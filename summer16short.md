@@ -13,8 +13,7 @@ slides:
 ---
 
 <div class="alert alert-success" role="alert">
-We are accepting Applications through <b>Aug 15th, 2016</b> on a rolling basis. <a href="https://docs.google.com/forms/d/1LnqBYC6LRODpFmBDm1dsVKHMFMZe11sH1eFiO_dj0y4/viewform"><b>Apply here</b></a>.
-</div>
+Sorry, applications for the Summer Code Subversions session are now closed.</div>
 
 ***
 
@@ -84,9 +83,9 @@ We are located in 155 Bank street, in the courtyard of the Westbeth Artists Comm
 
 
 
-### How do I apply?
-**[Please fill out this form](https://docs.google.com/forms/d/1LnqBYC6LRODpFmBDm1dsVKHMFMZe11sH1eFiO_dj0y4/viewform)**
+### ~~How do I apply?~~
+**Sorry, applications are now closed**
 
-We will be accepting up to 15 students on a rolling basis. We will give you a response to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+We accept up to 15 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
   
 Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)

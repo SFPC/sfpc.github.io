@@ -11,12 +11,6 @@ slides:
 
 ## Current Open Calls
 
-### Summer 2015 Intensive: Aug. 15th - Aug. 27th
-Code Subversion is a Two-Weeks Evening-Only session. Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, the underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert these computational systems we use every day.
-
-<div class="alert alert-success" role="alert">Learn more about, and apply to <a href="/summer16short/"> Summer 2016 Code Subversions here</a>.
-</div>
-
 ### Fall 2016 Immersive: Oct. 10th - Dec. 16th
 Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
@@ -25,6 +19,12 @@ We will select up to 12 participants for the session which will be held Oct. 10t
 Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participants and at the end of the session we celebrate with a final student showcase where you get to share your projects with the larger SFPC community.
 
 <div class="alert alert-success" role="alert">Learn more about, and apply to the <a href="/fall2016/">Fall 2016 Session here</a>.
+</div>
+
+### ~~Summer 2015 Intensive: Aug. 15th - Aug. 27th~~
+Code Subversion is a Two-Weeks Evening-Only session. Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, the underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert these computational systems we use every day.
+
+<div class="alert alert-success" role="alert">Applications for the <a href="/summer16short/"> Summer 2016 Code Subversions</a> are now closed.
 </div>
 
 ### What is the School for Poetic Computation?  
