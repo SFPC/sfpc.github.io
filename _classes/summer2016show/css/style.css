@@ -124,6 +124,10 @@ iframe {
   color: white;
   line-height: 1;
 }
+.time {
+  text-align: center;
+  color: white;
+}
 .article-title {
   position: absolute;
   right: 0;
