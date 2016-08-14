@@ -24,7 +24,7 @@ Students have full access to the space to work on projects between classes with 
 ### ~~Summer 2015 Intensive: Aug. 15th - Aug. 27th~~
 Code Subversion is a Two-Weeks Evening-Only session. Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, the underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert these computational systems we use every day.
 
-<div class="alert alert-success" role="alert">Applications for the <a href="/summer16short/"> Summer 2016 Code Subversions</a> are now closed.
+<div class="alert alert-success" role="alert">Applications for<a href="/summer16short/"> Summer 2016 Code Subversions</a> are now closed.
 </div>
 
 ### What is the School for Poetic Computation?  
