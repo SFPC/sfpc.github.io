@@ -1,5 +1,5 @@
 ---
-title: Summer 2016 (10 week)
+title: Summer 2016 Intensive
 order: 7
 dates: June 1st - August 10th
 location: "155 Bank St., Manhattan"

@@ -1,7 +1,7 @@
 ---
 title: Brandon Liu
 affiliation:
-- class: Summer 2016 (10 week)
+- class: Summer 2016 10wk
   role: Student
 twitter: bdon
 github: bdon
