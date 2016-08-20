@@ -13,7 +13,7 @@ affiliation:
   role: Teacher
 - class: Fall 2015
   role: Teacher
-- class: Summer 2016 (10 week)
+- class: Summer 2016
   role: Teacher
 twitter: tchoi8
 github: tchoi8

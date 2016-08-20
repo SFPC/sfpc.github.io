@@ -1,7 +1,7 @@
 ---
 title: Luisa Pereira
 affiliation:
-- class: Summer 2016 (10 week)
+- class: Summer 2016
   role: Teacher
 twitter: luisa_ph
 github: luisaph

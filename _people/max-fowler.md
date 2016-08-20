@@ -1,7 +1,7 @@
 ---
 title: Max Fowler
 affiliation:
-- class: Summer 2016 (10 week)
+- class: Summer 2016
   role: Student
 twitter: notplants
 github: mhfowler

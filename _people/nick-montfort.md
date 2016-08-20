@@ -3,7 +3,7 @@ title: Nick Montfort
 affiliation:
 - class: Summer 2015
   role: Teacher
-- class: Summer 2016 (10 week)
+- class: Summer 2016
   role: Teacher
 twitter: nickmofo
 github: nickmontfort

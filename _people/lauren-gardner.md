@@ -9,9 +9,9 @@ affiliation:
   role: Organizer
 - class: Fall 2015
   role: Organizer
-- class: Summer 2016 (10 week)
+- class: Summer 2016
   role: Organizer
-- class: Summer 2016 (2 week)
+- class: Aug 2016
   role: Organizer
 twitter: poohlaga
 github: poohlaga

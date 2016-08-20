@@ -1,7 +1,7 @@
 ---
 title: Meina Kalayeh
 affiliation:
-- class: Summer 2016 (10 week)
+- class: Summer 2016
   role: Student
 twitter: meinsta
 github: meinsta

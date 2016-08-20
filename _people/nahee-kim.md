@@ -1,7 +1,7 @@
 ---
 title: Nahee Kim
 affiliation:
-- class: Summer 2016 (10 week)
+- class: Summer 2016
   role: Student
 twitter: naeejouy
 github: nahbee10

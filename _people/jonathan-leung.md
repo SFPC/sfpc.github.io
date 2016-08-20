@@ -1,7 +1,7 @@
 ---
 title: Jonathan Leung
 affiliation:
-- class: Summer 2016 (10 week)
+- class: Summer 2016
   role: Student
 twitter: 
 github: jonleung
