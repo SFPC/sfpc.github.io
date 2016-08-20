@@ -11,7 +11,7 @@ affiliation:
   role: Teacher
 - class: Fall 2015
   role: Teacher
-- class: Summer 2016
+- class: Summer 2016 (10 week)
   role: Teacher
 twitter: zachlieberman
 github: ofzach

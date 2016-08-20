@@ -1,7 +1,7 @@
 ---
 title: Oren Shoham
 affiliation:
-- class: Summer 2016
+- class: Summer 2016 (10 week)
   role: Student
 twitter: 
 github: oshoham

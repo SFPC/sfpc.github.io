@@ -1,5 +1,5 @@
 ---
-title: Summer 2016
+title: Summer 2016 (10 week)
 order: 7
 dates: June 1st - August 10th
 location: "155 Bank St., Manhattan"
