@@ -1,7 +1,7 @@
 ---
 title: Divya Gaitonde
 affiliation:
-- class: Aug 2016
+- class: August 2016
   role: Student
 twitter: divgai
 github: 

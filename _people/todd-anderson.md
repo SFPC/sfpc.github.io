@@ -5,6 +5,8 @@ affiliation:
   role: Student
 - class: Summer 2015
   role: Teacher
+- class: August 2016
+  role: Organizer
 twitter:
 github:
 website: http://medi.ci/toddanderson

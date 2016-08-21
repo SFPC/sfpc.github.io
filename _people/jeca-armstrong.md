@@ -1,7 +1,7 @@
 ---
 title: Jeca Armstrong
 affiliation:
-- class: Aug 2016
+- class: August 2016
   role: Student
 twitter: j_armstrng
 github: 

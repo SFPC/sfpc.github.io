@@ -9,6 +9,8 @@ affiliation:
   role: Teacher
 - class: Spring 2015
   role: Organizer
+- class: August 2016
+  role: Teacher
 twitter: tegabrain
 github: tegacodes
 website: http://tegabrain.com

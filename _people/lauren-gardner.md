@@ -11,7 +11,7 @@ affiliation:
   role: Organizer
 - class: Summer 2016
   role: Organizer
-- class: Aug 2016
+- class: August 2016
   role: Organizer
 twitter: poohlaga
 github: poohlaga

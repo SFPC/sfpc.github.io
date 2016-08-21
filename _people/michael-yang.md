@@ -1,7 +1,7 @@
 ---
 title: Michael Yang
 affiliation:
-- class: Aug 2016
+- class: August 2016
   role: Student
 twitter: MW_Yang
 github: 

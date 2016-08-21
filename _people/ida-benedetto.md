@@ -7,6 +7,8 @@ affiliation:
   role: Teacher
 - class: Spring 2015
   role: Organizer
+- class: August 2016
+  role: Teacher
 twitter: idamantium
 github: idamantium
 website: http://uncommonplaces.com
