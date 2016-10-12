@@ -4,7 +4,7 @@ affiliation:
 - class: Fall 2015
   role: Student
 - class: Fall 2016
-  role: Staff
+  role: Organizer
 twitter: RobbyKraft
 website: http://robbykraft.com/
 instagram: gridpaper

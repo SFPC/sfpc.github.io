@@ -13,6 +13,8 @@ affiliation:
   role: Organizer
 - class: August 2016
   role: Organizer
+- class: Fall 2016
+  role: Organizer
 twitter: poohlaga
 github: poohlaga
 website: http://poohead.com

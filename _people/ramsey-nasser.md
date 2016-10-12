@@ -7,7 +7,9 @@ affiliation:
   role: Teacher
 - class: Fall 2015
   role: Teacher
-- class: Sugust 2016
+- class: August 2016
+  role: Teacher
+- class: Fall 2016
   role: Teacher
 twitter: ra
 github: nasser

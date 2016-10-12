@@ -5,6 +5,8 @@ affiliation:
   role: Visitor
 - class: Fall 2015
   role: Teacher
+- class: Fall 2016
+  role: Teacher
 twitter:
 github:
 website:
