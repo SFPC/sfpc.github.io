@@ -4,7 +4,7 @@ affiliation:
 - class: Fall 2016
   role: Student
 website: https://vimeo.com/pleek
-place: 
+place: Buenos Aires, Argentina
 ---
 Agustín is an Electronic Artist and creative coder that enjoys exploring the fields of New Media, artistic abstraction and visual composition.
 
