@@ -11,21 +11,7 @@ slides:
 
 ## There are no open calls at the moment
 
-### ~~Fall 2016 Immersive: Oct. 10th - Dec. 16th~~
-Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
-
-We will select up to 12 participants for the session which will be held Oct. 10th - Dec. 16th. Classes vary in length and are usually held Monday-Friday between 10am and 5pm. 
-
-Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participants and at the end of the session we celebrate with a final student showcase where you get to share your projects with the larger SFPC community.
-
-<div class="alert alert-success" role="alert">Applications for <a href="/fall2016/">Fall 2016 Session</a> are now closed.
-</div>
-
-### ~~Summer 2015 Intensive: Aug. 15th - Aug. 27th~~
-Code Subversion is a Two-Weeks Evening-Only session. Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, the underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert these computational systems we use every day.
-
-<div class="alert alert-success" role="alert">Applications for<a href="/summer16short/"> Summer 2016 Code Subversions</a> are now closed.
-</div>
+Subscribe to our mailing list at the bottom of this page for enrollment announcements
 
 ### What is the School for Poetic Computation?  
 
@@ -46,6 +32,24 @@ In the past, we have had students with a broad array of technical experiences an
 Acceptance into the session is an invitation to join the SFPC community. Full-time participation during the ten weeks is mandatory. This also means you come prepared to all of the classes, do the homework, and engage with the community. We expect our students to be in the school between 10am~5pm, Monday to Friday.
 
 It’s also expected that you work openly – sharing what you learn along the way and collaborate with your peers. The success of the session for the group is dependent on engaged participation throughout the term. By participating you will be actively shaping an emerging culture of open source and transparent education. 
+
+### What are classes like?
+
+SFPC’s main program takes place over ten weeks in New York City with daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests. 
+
+We select up to 12 participants a session. Classes vary in length and are usually held Monday-Friday between 10am and 5pm. Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participant. We celebrate with a final student showcase where students get to share their projects with the larger SFPC community.
+
+Classes are typically structured around the following concepts:
+
+* __Computation and artistic practice__ — Algorithmic processes and concepts have been manifest in art and design throughout the twentieth century. How can we explore the influence of algorithms in practice and develop new approaches and techniques for utilizing them? What is the fundamental nature of computation and how can we work with it in a lyrical, expressive manner? How can code make things move in compelling and lifelike ways through animation and interaction?
+* __Pedagogy, strategies for learning and teaching__ — How do you learn new things? What sorts of environments and communities foster a nurturing space and an ongoing practice of learning?
+* __Language design as creative practice__ — Every programming language has specific parameters and demands certain processes in its use, we consider the subtle differences and approaches that have shaped various languages throughout history. This area focuses also on ways to design programming languages from scratch and asks how can language design open up new ways of thinking, making and building software? How can we build better tools and with that, better possibilities for ourselves?
+* __Electronics and physical computing__ — What are the fundamental building blocks for electronic computer? How do transistors, resistors and capacitors work? How can we use binary logic gates to create adding and remembering machines? How does CPU work? How have micro-controllers made physical computing more accessible?
+* __Theory and philosophy for technology__ — With contemporary society and our collective future irrevocably changed by ubiquitous technology, what critical questions can we, the makers, artists and technologists pose to society? What can we learn from the history of technology and how can we draft the future we like to see?
+* __Urban space and architecture__ - We will explore playful intervention in the public space. What are interesting ways of connecting spaces? skateboarding?
+* __Building the commons__ — The degree of access to artistic computational tools is largely a product of race, gender, sexuality, geography, and class. How can we use our skills and resources to bridge these divides? This area focuses on developing teaching tools, systems, and approaches to help bring poetic computation to diverse communities.
+
+The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We see them as platforms to help promote fearless prototyping, asking difficult questions, and creating projects that embody issues that are not yet commonly addressed in the art / tech world.
 
 ### How can I help SFPC?
 
