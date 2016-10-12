@@ -9,16 +9,16 @@ slides:
   - "/static/img/participate/sum2016_notes.jpg"
 ---
 
-## Current Open Calls
+## There are no open calls at the moment
 
-### Fall 2016 Immersive: Oct. 10th - Dec. 16th
+### ~~Fall 2016 Immersive: Oct. 10th - Dec. 16th~~
 Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
 We will select up to 12 participants for the session which will be held Oct. 10th - Dec. 16th. Classes vary in length and are usually held Monday-Friday between 10am and 5pm. 
 
 Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participants and at the end of the session we celebrate with a final student showcase where you get to share your projects with the larger SFPC community.
 
-<div class="alert alert-success" role="alert">Learn more about, and apply to the <a href="/fall2016/">Fall 2016 Session here</a>.
+<div class="alert alert-success" role="alert">Applications for <a href="/fall2016/">Fall 2016 Session</a> are now closed.
 </div>
 
 ### ~~Summer 2015 Intensive: Aug. 15th - Aug. 27th~~
