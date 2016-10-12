@@ -15,7 +15,7 @@ Subscribe to our mailing list at the bottom of this page for enrollment announce
 
 ### What is the School for Poetic Computation?  
 
-School for Poetic Computation (SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. SFPC [began]((http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0)) as a school run by artists for artists. In the past we have held a combinations of two-week and ten-week intensive sessions.
+School for Poetic Computation (SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. SFPC [began](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0) as a school run by artists for artists. In the past we have held a combinations of two-week and ten-week intensive sessions.
 
 SFPC is not a technical bootcamp, it is an opportunity to work with a group of faculty, visiting artists, and peers to focus on exploring artistic practice through computation. Computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation (theory). 
 
