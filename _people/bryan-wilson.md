@@ -4,6 +4,8 @@ affiliation:
 - class: Fall 2016
   role: Student
 website: http://woollyandwise.com
+github: bryanlandia
+instagram: woollywilson
 place: Seattle, USA
 ---
 Bryan Wilson is a coder, designer, exhibit developer and art-maker living in Seattle.  Bryan has worked as a developer of exhibits, websites, and ecotourism offerings.  To his work he brings an interest in how code, digital and hand-made media, tangible objects, and public spaces can combine to bring people together and create something surprising and beautiful.
