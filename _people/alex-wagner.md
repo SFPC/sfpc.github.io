@@ -3,7 +3,7 @@ title: Alex Wagner
 affiliation:
 - class: Fall 2016
   role: Student
-website: www.rtbsfilms.com
+website: http://www.rtbsfilms.com
 twitter: alexdw5
 instagram: dogepope
 github: alexdwagner
