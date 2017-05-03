@@ -30,7 +30,7 @@ We will select up to 15 participants for the session. Classes are usually held M
 
 Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participant. We celebrate with a final student showcase where students get to share their projects with the larger SFPC community.
 
-<div class="alert alert-success" role="alert">Apply to the Fall 2017 Session <a href="http://goo.gl/forms/oY2Loh3PCfEA754K2">here.</a> Deadline for submissions, June 30th. 
+<div class="alert alert-success" role="alert">Apply to the Fall 2017 Session <a href="https://docs.google.com/forms/d/e/1FAIpQLScLz8Vsrl7Xq5qUF9nDDNC1CP4DISY3Rxbq2SH0b_EoluL7_A/viewform">here.</a> Deadline for submissions, June 30th. 
 </div>
 
 ### What classes will happen during the session?
@@ -61,7 +61,7 @@ In the past, we’ve received 50+ strong applications, and this time will likely
 
 ### How much is tuition?
 
-$5,500 USD for the 10 week program. Once accepted, you will be asked to make $1500 deposit by August 1st and the remaining $40000 by September 1st. 
+$5,500 USD for the 10 week program. Once accepted, you will be asked to make $1500 deposit by August 1st and the remaining $4000 by September 1st. We accept tuituion by check or wire transfer. 
 
 You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $5,000 - $7,000). 
 
