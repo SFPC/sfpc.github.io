@@ -35,7 +35,7 @@ The school was co-founded in 2013 by Zach Lieberman, Taeyoon Choi, Amit Pitaru, 
 
 ### Who runs the school?
 
-The SFPC Team: Zachary Lieberman, Taeyoon Choi and Lauren Gardner organize the sessions. The SFPC Steering Committee: Ida Benedetto, Amit Pitaru, Tega Brain provide additional support. We try to work with new teachers and visitors every session, often involving our alumni and community. 
+The SFPC Team: Zachary Lieberman, Taeyoon Choi and Lauren Gardner organize the sessions. The SFPC Steering Committee: Ida Benedetto, Amit Pitaru, Tega Brain, Todd Anderson, Robby Kraft, Brian Solon provide additional support. We try to work with new teachers and visitors every session, often involving our alumni and community. 
 
 ### Why do you teach?
 
