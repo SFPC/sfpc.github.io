@@ -21,7 +21,9 @@ Check [this page](http://sfpc.io/fall2017) for more details
 Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
 
-Subscribe to our mailing list at the bottom of this page for enrollment announcements
+Subscribe to our mailing list at the bottom of this page for enrollment announcements.
+
+We are also offering a variety of workshops and conferences in Spring/Summer 2017. Please check [our blog](http://blog.sfpc.io) for the latest information. 
 
 ### What is the School for Poetic Computation?  
 
