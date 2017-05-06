@@ -1,5 +1,5 @@
 ---
-title: Agustín Ramos Anzorena
+title: Agustin Ramos Anzorena
 affiliation:
 - class: Fall 2016
   role: Student
