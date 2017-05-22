@@ -1,0 +1,89 @@
+/*Fonts*/
+
+@font-face {
+  font-family: 'ApercuPro';
+  src: url('/fonts/ApercuPro/ApercuPro.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ApercuPro';
+  src:  url('/fonts/ApercuPro/ApercuPro.otf')  format('opentype'),
+	    format('woff'), url('/fonts/ApercuPro/ApercuPro.ttf')  format('truetype'), url('/fonts/ApercuPro/ApercuPro.svg#ApercuPro') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ApercuPro-Bold';
+  src: url('/fonts/ApercuPro-Bold/ApercuPro-Bold.eot') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+#myMenu{
+
+	background-color: #00ffcc;
+	color: #00CCFF;
+	padding: 3%;
+	text-align: right;
+}
+
+#myIntro{
+
+	padding: 3%;
+	color: white;
+}
+
+#presenters, #workshops, #tickets, #schedule {
+  padding-top:14%;
+}
+
+.myImg {
+
+	display: block;
+	margin-bottom: 2%;
+	background-color: #00ffcc;
+	padding-bottom: 0%;
+}
+
+#coverPicture {
+	padding-top: 2%;
+
+}
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+   color: #00ccff; 
+
+}
+a:hover {
+  background-color: #1EAEDB;
+
+}
+
+a:link {
+    text-decoration: none;
+    background-color: white;
+}
+
+/* font style*/
+
+h2{
+	color:white;
+	background-color: #00CCFF;
+	display: inline-block;
+}
+
+
+h4, h5 {
+	color: #00ccff;
+  padding-top:2%;
+}
+
+#workshops h4 {
+	text-decoration: underline;
+}
