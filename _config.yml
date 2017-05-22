@@ -7,7 +7,7 @@ collections:
     permalink: /people/:path/
   classes:
     output: true
-    permalink: /classes/:path/
+    permalink: /classes/:path/ 
   faqs:
     output: false
 defaults:
