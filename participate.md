@@ -25,6 +25,12 @@ Subscribe to our mailing list at the bottom of this page for enrollment announce
 
 We are also offering a variety of workshops and conferences in Spring/Summer 2017. Please check [our blog](http://blog.sfpc.io) for the latest information. 
 
+
+## Summer 2017 Code Narrative 
+
+Check [this page](http://sfpc.io/codenarrative) for more details
+
+
 ### What is the School for Poetic Computation?  
 
 School for Poetic Computation (SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. SFPC [began](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0) as a school run by artists for artists. In the past we have held a combinations of two-week and ten-week intensive sessions.
