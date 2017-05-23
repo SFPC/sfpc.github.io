@@ -15,7 +15,7 @@ slides:
 - Two-Week Session, Monday July 10th - Saturday July 22nd
 - @ SFPC, 155 Bank street, West Village, NYC
 - 7pm - 9:30pm, Evening Classes
-- Apply [**here.**](https://goo.gl/forms/dqGHGq6mijVgLzis2)
+- Apply [**here!**](https://goo.gl/forms/dqGHGq6mijVgLzis2)
 
 
 SFPC's Summer Intensive: Code Narratives will explore the practice of generative writing using [Python](https://www.python.org/). We will start by collecting source texts as the fuel for our generators, and learn how to parse them for the parts we want most using language processing techniques. Once we have have our source material, we will experiment with our writing machines in a variety of narrative forms like screenplays, twitter bots, and multimedia works. Students will create several small generative text projects over the course of the session and finish with a prototype of something larger, with opportunities to show work to the larger SFPC community toward the end. No coding experience required, all levels welcome.
@@ -62,3 +62,4 @@ We are located in 155 Bank street, in the courtyard of the Westbeth Artists Comm
 
 Feel free to contact lead organizer Todd Anderson ([toddwords@gmail.com](mailto:toddwords@gmail.com)) with any questions about the Code Narratives session, or [info@sfpc.io](mailto:info@sfpc.io) for any general questions about the school.
 
+Image credits: Allison Parrish, Ross Goodwin, Todd Anderson 
