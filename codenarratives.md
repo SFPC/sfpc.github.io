@@ -57,5 +57,7 @@ You can apply to this session [here.](https://goo.gl/forms/dqGHGq6mijVgLzis2)
 
 We accept up to 15 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
-Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
+###Contact Us
+
+Feel free to contact lead organizer Todd Anderson ([toddwords@gmail.com](mailto:toddwords@gmail.com)) with any questions about the Code Narratives session, or [info@sfpc.io](mailto:info@sfpc.io) for any general questions about the school.
 
