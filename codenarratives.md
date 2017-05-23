@@ -14,7 +14,9 @@ slides:
 ## Call for Students: Code Narratives
 - Two-Week Session, Monday July 10th - Saturday July 22nd
 - @ SFPC, 155 Bank street, West Village, NYC
-- 7pm - 9pm, Evening Classes
+- 7pm - 9:30pm, Evening Classes
+- Apply [**here.**](https://goo.gl/forms/dqGHGq6mijVgLzis2)
+
 
 SFPC's Summer Intensive: Code Narratives will explore the practice of generative writing using [Python](https://www.python.org/). We will start by collecting source texts as the fuel for our generators, and learn how to parse them for the parts we want most using language processing techniques. Once we have have our source material, we will experiment with our writing machines in a variety of narrative forms like screenplays, twitter bots, and multimedia works. Students will create several small generative text projects over the course of the session and finish with a prototype of something larger, with opportunities to show work to the larger SFPC community toward the end. No coding experience required, all levels welcome.
 
@@ -25,17 +27,21 @@ SFPC's Summer Intensive: Code Narratives will explore the practice of generative
 - [Hannah Davis](http://www.hannahishere.com/) (*1 Class*) - programmer/data scientist/musician, creator of [Transprose](http://www.musicfromtext.com/), a literature-to-music translation project
 - [Zach Lieberman](http://thesystemis.com/) (*Lecture*) - SFPC co-founder, [OpenFrameworks](http://openframeworks.cc/) co-creator
 - [Taeyoon Choi](http://taeyoonchoi.com/) (*1 Class*) - SFPC co-founder, artist
-
+- More teachers and speakers to be announced! 
 
 
 ### What will happen in these two weeks?
-Classes are held in the evenings Monday-Friday from 7-9:30pm and the session will culminate in a party on the afternoon of Saturday July 22nd,  where students can invite their friends and read from their favorite generative projects.
+Classes are held in the evenings Monday-Friday from 7-9:30pm and the session will culminate in a party on the afternoon of Saturday July 22nd,  where students can invite their friends and present their favorite generative projects.
 
 Students will have full access to the space for the two weeks of the session to work on projects between classes and mentors wil be readily available for technical, conceptual, and artistic guidance. Read our [Participate page](http://sfpc.io/participate/) for more information.
 
+### How do I apply?
+You can apply to this session [**here.**](https://goo.gl/forms/dqGHGq6mijVgLzis2)
+
+We accept up to 15 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+
 ### How much is tuition?
 $1,500 USD for the 2-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). Upon payment, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible. Unfortunately, due to small size of the overall budget, we can't provide scholarship for intensive program. In the past, students were able to get help from their employer or school to cover the cost. Upon acceptance, SFPC can provide an invitation letter for you. 
-
 
 
 ### What if I can’t go, can I get a refund?
@@ -52,12 +58,7 @@ $1,500 USD for the 2-week program. You’ll also need to cover your own cost of 
 ### Where is SFPC?
 We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
 
-### How do I apply?
-You can apply to this session [here.](https://goo.gl/forms/dqGHGq6mijVgLzis2)
-
-We accept up to 15 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
-
-###Contact Us
+### Contact Us
 
 Feel free to contact lead organizer Todd Anderson ([toddwords@gmail.com](mailto:toddwords@gmail.com)) with any questions about the Code Narratives session, or [info@sfpc.io](mailto:info@sfpc.io) for any general questions about the school.
 
