@@ -1,5 +1,5 @@
 ---
-title: Code Narrative 2017
+title: Code Narratives 2017
 layout: participate
 slides:
 
