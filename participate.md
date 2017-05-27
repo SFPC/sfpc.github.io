@@ -26,9 +26,9 @@ Subscribe to our mailing list at the bottom of this page for enrollment announce
 We are also offering a variety of workshops and conferences in Spring/Summer 2017. Please check [our blog](http://blog.sfpc.io) for the latest information. 
 
 
-## Summer 2017 Code Narrative 
+## Summer 2017 Code Narratives 
 
-Check [this page](http://sfpc.io/codenarrative) for more details
+Check [this page](http://sfpc.io/codenarratives) for more details
 
 
 ### What is the School for Poetic Computation?  
