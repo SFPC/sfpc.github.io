@@ -1,0 +1,132 @@
+.title {
+  margin-top: 200px;
+  width: 100%;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.4);
+
+}
+
+body {
+  background: #191919;
+  color: #ddd;
+
+  font-family: 'Inconsolata', monospace;
+}
+
+section {
+  padding: 25px 0 35px;
+  background: #191919;
+  color: #fff;
+}
+
+h1 {
+  color: #fff;
+  font-family: 'Cutive Mono', monospace;
+  font-size: 40pt;
+  text-shadow: 2px 2px #000;
+  letter-spacing: -3px;
+}
+
+h1 small, h1 a, h1 a:hover { 
+  font-size: 30pt;
+  color: #fff ;
+}
+
+a {
+  color: #aaa;
+}
+
+a:hover {
+  color: #ccc;
+}
+
+.btn {
+  background: #333;
+  border: #ddd;
+  color: #ddd;
+  margin: 3px 0px;
+}
+
+.parallax-container {
+  height: 500px;
+  width: 100%;
+}
+
+pre, code {
+  overflow: auto;
+  background: #222;
+  color: #eee;
+  border: 1px solid #666;
+}
+
+pre code {
+  word-wrap: normal;
+  white-space: pre;
+  border: none;
+}
+
+footer {
+  background: #191919;
+  padding: 30px 0 30px;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+
+section {
+  padding: 100px 0px 120px;
+}
+
+#links a {
+  margin:2px 0px;
+}
+
+#contributors, #contributors a {
+  color: #ddd;
+}
+#contributors a:hover, #contributors h2{
+  color: #fff;
+}
+
+#about h3 {
+  margin-top: 0;
+}
+
+h3.quote {
+  margin: 0px 20px;
+  font-size: 1.4em;
+}
+
+#video {
+  height: 300px;
+  width: 400px;
+}
+
+@media (min-width: 992px) {
+  #video {
+    height: 400px;
+    width: 700px;
+  }
+  .title {
+    width: 50%;
+  }
+}
+
+/* overriding bootstraps max width */
+@media (min-width: 1200px) {
+  .container {
+    width: 1100px;
+  }
+  #video {
+    height: 500px;
+    width: 1000px;
+  }
+}
