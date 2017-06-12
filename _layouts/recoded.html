@@ -1,0 +1,185 @@
+---
+title: Re-Coded
+---
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Re-Coded</title>
+	<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <link href="/static/css/recoded_style.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script>
+      $(function(){
+        if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
+          $('#ios-notice').removeClass('hidden');
+          $('.parallax-container').height( $(window).height() * 0.5 | 0 );
+        } else {
+          $(window).resize(function(){
+            var parallaxHeight = Math.max($(window).height() * 0.8, 200) | 0;
+            $('.parallax-container').height(parallaxHeight);
+          }).trigger('resize');
+        }
+      });
+    </script>
+    <script src="/static/js/parallax.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Inconsolata" rel="stylesheet">
+  </head>
+  <body>
+
+    <div class="parallax-container" data-parallax="scroll" data-bleed="10" data-image-src="/static/img/recoded/img8.jpg" data-natural-width="2800" data-natural-height="2100" style="height: 788px;">
+      <div class="container">
+        <div class="title">
+          <h1>Re-Coded <small>is an open-source, collaborative, educational installation.</small></h1>
+        </div>
+      </div>
+    </div>
+
+
+    <section id="about">
+      <div class="container">
+        <h2>About Re-Coded</h2>
+        <div class="col-md-6">
+          <p>
+            Produced by students, alumni, and friends of the <a href="http://sfpc.io/" target="_blank">School for Poetic Computation (SFPC)</a>, Re-coded is an homage to innovators such as Vera Molnar and Muriel Cooper whose work exists in the space between art &amp; technology. Celebrating these pioneers, we present reinterpreted works alongside the code that drives them.
+
+
+			<div class="links"><br><br>
+			  <a target="_blank" href="https://github.com/SFPC/recoded" class="btn btn-default">Re-Coded on Github</a>
+			  <br><br>
+			</div>
+          </p>
+        </div>
+
+        <div class="col-md-6">
+          <p>We were inspired by <a target="_blank" href="http://recodeproject.com">the ReCode Project</a>, a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on.</p>
+
+          <p>The project’s main goals are:</p>
+          <ol>
+            <li>Bring pioneering works of computational art back into circulation.</li>
+            <li>Offer a learning resource to contemporary practitioners and educators.</li>
+            <li>Create an active community.</li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+
+    <div class="parallax-container" data-parallax="scroll" data-bleed="10" data-image-src="/static/img/recoded/img1.jpg" data-natural-width="3264" data-natural-height="2176" style="height: 588px;"></div>
+
+    <section>
+      <div class="container" style="text-align:center">
+        <iframe id="video" src="https://player.vimeo.com/video/159313947?title=0&byline=0&portrait=0" width="1000" height="563" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+    </section>
+
+    <div class="parallax-container" data-parallax="scroll" data-bleed="10" data-image-src="/static/img/recoded/img6.jpg" data-natural-width="1800" data-natural-height="1066" style="height: 1088px;">
+    </div>
+
+    <section id="sfpc">
+      <div class="container">
+
+        <div class="col-md-4 clearfix">
+
+
+        <a target="_blank" href="http://sfpc.io"><img src="/static/img/recoded/sfpc-logo-black.png" style="float:left"></a>
+        </div>
+
+
+        <div class="col-md-8"><br><br><br>
+        <h2>The School for Poetic Computation</h2>
+        <p>The <a href="http://sfpc.io" target="_blank">School for Poetic Computation (SFPC)</a> is an artist-run school in New York that was founded in 2013. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory — focusing especially on artistic intervention. 
+        </p>
+          <p>SFPC is a hybrid of a school, residency and research group. Our motto is:</p>
+          <h3 class="quote">&raquo; more poetry, less demo &laquo;</h2>
+          <br><br>
+          <a target="_blank" href="http://sfpc.io" class="btn btn-default">http://sfpc.io</a>
+          <a target="_blank" href="http://twitter.com/sfpc" class="btn btn-default">SFPC on Twitter</a>
+          <a target="_blank" href="http://instagram.com/sfpc_nyc" class="btn btn-default">SFPC on Instagram</a>
+        </div>
+      </div>
+    </section>
+
+
+
+    <div class="parallax-container" data-parallax="scroll" data-bleed="10" data-image-src="/static/img/recoded/img3.jpg" data-natural-width="3264" data-natural-height="2176" style="height: 588px;"></div>
+
+
+    <section id="links">
+      <div class="container">
+        <div class="col-md-4"> 
+          <h3>Re-Coded at Sonar+D <br><small>June 2017 in Barcelona, Spain</small></h3>
+          <a target="_blank" href="https://sonarplusd.com/en/programs/barcelona-2017/areas/marketlab/sfpc-re-coded-by-absolut" class="btn btn-default">SFPC "Re-coded" by Absolut at Sonar+D</a>
+        </div>
+
+        <div class="col-md-4">
+          <h3>Re-Coded at Google I/O <br><small>May 2016 in Mountain View, CA</small></h3>
+          <a target="_blank" href="https://www.flickr.com/photos/137961649@N04/sets/72157666767936213/" class="btn btn-default">Photos on Flickr</a>
+        </div>
+
+        <div class="col-md-4">
+          <h3>Re-Coded at Day for Night <br><small>Dec 2015 in Houston, TX</small></h3>
+          <a target="_blank" href="http://www.creativeapplications.net/events/50-animations-by-sfpcs-re-coded-at-day-for-night/" class="btn btn-default">Creative Applications article</a>
+          <a target="_blank" href="http://blog.sfpc.io/post/139732989766/sfpc-re-coded-an-installation-at-day-for-night" class="btn btn-default">SFPC Blog Post</a>
+        </div>
+
+        </div>
+      </div>
+    </section>
+
+    <div class="parallax-container" data-parallax="scroll" data-bleed="10" data-image-src="/static/img/recoded/img5.jpg" data-natural-width="1600" data-natural-height="1064" style="height: 588px;"></div>
+
+
+    <section id="contributors">
+      <div class="container">
+        <h2>Contributors</h2>
+
+        <div class="col-md-4">
+          <a target="_blank" href="http://agermanidis.com/">Anastasis Germanidis</a> | <a target="_blank" href="http://streiten.org/">Alex Tolar</a> | <a target="_blank" href="http://www.andrewbadr.com/">Andrew Badr</a> | <a target="_blank" href="http://andydayton.com/">Andy Dayton</a> | <a target="_blank" href="http://beccadmoore.com/">Becca Moore</a> | <a target="_blank" href="http://briansolon.net/1">Brian Solon</a> | Calvin Hu | <a target="_blank" href="http://cargocollective.com/catarinalee">Caterina Lee</a> | <a target="_blank" href="http://plastid.com/">Christo Allegra</a> | <a target="_blank" href="http://heyanderson.com/">Chris Anderson</a> | <a target="_blank" href="http://genekogan.com/">Gene Kogan</a> | <a target="_blank" href="https://www.instagram.com/p__o__d/">Homa Rahmat</a> | <a target="_blank" href="http://vormplus.be/">Jan Vantomme</a>
+        </div>
+
+        <div class="col-md-4">
+          <a target="_blank" href="http://joanperals.com">Joan Perals Tresserra</a> | João Freire | Josh Giesbrecht | <a target="_blank" href="http://laurengardner.com/">Lauren Gardner</a> | <a target="_blank" href="http://armdz.com/">Marcelo Armendáriz</a> | <a target="_blank" href="http://mgs.nyc/">Michael Simpson</a> | <a target="_blank" href="http://www.michaelwalczyk.com/">Michael Walczyk</a> | <a target="_blank" href="http://nuafk.jp/">Motoi Shimizu</a> | <a target="_blank" href="http://www.pshkvsky.com/">Oleg Pashkovsky</a> | <a target="_blank" href="http://instagram.com/quinkennedy">Quin Kennedy</a> | <a target="_blank" href="http://rroseu.github.io/">Rachel Rose Ulgado</a>
+        </div>
+
+        <div class="col-md-4">
+          <a target="_blank" href="http://t.co/I1cVGjOEJd">Reed Tothong</a> | <a target="_blank" href="http://robbykraft.com/">Robby Kraft</a> | <a target="_blank" href="http://www.visiophone-lab.com/">Rodrigo Carvalho</a> | <a target="_blank" href="http://roymacdonald.github.io/">Roy Macdonald</a> | <a target="_blank" href="http://www.sarahhoworka.at">Sarah Howorka</a> | <a target="_blank" href="http://www.sarahgp.com/">Sarah Groff Palermo</a> | <a target="_blank" href="http://taeyoonchoi.com/">Taeyoon Choi</a> | <a target="_blank" href="http://www.art2pano.de/">Thomas Neveling</a> | Tom Stephenson | <a target="_blank" href="http://yeseul.com/">Yeseul Song</a> | <a target="_blank" href="http://yosuke-sakai.com/">Yosuke Sakai</a> | <a target="_blank" href="http://thesystemis.com/">Zach Lieberman</a></p>
+        </div>
+
+        </div>
+      </div>
+    </section>
+
+    <div class="parallax-container" data-parallax="scroll" data-bleed="10" data-image-src="/static/img/recoded/img7.jpg" data-natural-width="1600" data-natural-height="1200" style="height: 588px;"></div>
+
+    <div class="parallax-container" data-parallax="scroll" data-bleed="10" data-image-src="/static/img/recoded/img4.jpg" data-natural-width="1600" data-natural-height="1064" style="height: 588px;"></div>
+
+    <div class="parallax-container" data-parallax="scroll" data-bleed="10" data-image-src="/static/img/recoded/img2.jpg" data-natural-width="2800" data-natural-height="1867" style="height: 588px;"></div>
+
+    <footer>
+      <div class="container">
+
+        <div>
+          <br> <br>
+          <a target="_blank" href="https://github.com/SFPC/recoded" class="btn btn-default">View Re-Coded on Github</a>
+          <br> <br>
+
+          <a target="_blank" href="http://sfpc.io" class="btn btn-default">School for Poetic Computation</a>
+          <a target="_blank" href="http://twitter.com/sfpc" class="btn btn-default">SFPC on Twitter</a>
+          <a target="_blank" href="http://instagram.com/sfpc_nyc" class="btn btn-default">SFPC on Instagram</a>
+          <a target="_blank" href="http://mailto:info@sfpc.io" class="btn btn-default">info@sfpc.io</a>
+
+          <br> <br>
+        </div>
+
+
+      </div>
+    </footer>
+</body></html>
