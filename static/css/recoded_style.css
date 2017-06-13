@@ -109,30 +109,18 @@ h3.quote {
   .container {
     width: 1100px;
   }
-  #video {
-    height: 500px;
-    width: 1000px;
-  }
 }
 
 /* medium width screens */
 @media (max-width: 1100px) {
-  #video {
-    height: 400px;
-    width: 700px;
-  }
 }
 
 /* mobile */
 @media (max-width: 800px) {
-  #video {
-    height: 250px;
-    width: 300px;
-  }
   .title {
     width: 100%;
     padding: 12px;
-    margin-top: 50px;
+    margin-top: 10%;
   }
   .title h1 { font-size: 24pt; margin:0px; }
   .title h1 small {font-size: 20pt;}
@@ -144,11 +132,5 @@ h3.quote {
   }
   h2 {
     font-size: 23pt;
-  }
-}
-@media only screen and (min-device-width : 320px) and (max-device-width : 667px) { 
-  #video {
-    height: 300px;
-    width: 400px;
   }
 }
