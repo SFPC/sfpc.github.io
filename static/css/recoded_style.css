@@ -1,9 +1,8 @@
 .title {
   margin-top: 200px;
-  width: 100%;
+  width: 50%;
   color: #fff;
   background-color: rgba(0, 0, 0, 0.4);
-
 }
 
 body {
@@ -105,28 +104,41 @@ h3.quote {
   font-size: 1.4em;
 }
 
-#video {
-  height: 300px;
-  width: 400px;
-}
-
-@media (min-width: 992px) {
-  #video {
-    height: 400px;
-    width: 700px;
-  }
-  .title {
-    width: 50%;
-  }
-}
-
-/* overriding bootstraps max width */
-@media (min-width: 1200px) {
+/* wide screens: laptops etc */
+@media (min-width: 1100px) {
   .container {
     width: 1100px;
   }
   #video {
     height: 500px;
     width: 1000px;
+  }
+}
+
+/* medium width screens */
+@media (max-width: 1100px) {
+  #video {
+    height: 400px;
+    width: 700px;
+  }
+}
+
+/* mobile */
+@media (max-width: 800px) {
+  #video {
+    height: 300px;
+    width: 400px;
+  }
+  .title {
+    width: 100%;
+    padding: 12px;
+  }
+  .title h1 { font-size: 24pt; margin:0px; }
+  .title h1 small {font-size: 20pt;}
+  #links h3 {
+    margin-top: 50px;
+  }
+  #sfpc, #sfpc .col-md-4, #links, #contributors {
+    text-align: center;
   }
 }
