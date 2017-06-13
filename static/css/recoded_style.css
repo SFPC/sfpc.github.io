@@ -126,12 +126,13 @@ h3.quote {
 /* mobile */
 @media (max-width: 800px) {
   #video {
-    height: 300px;
-    width: 400px;
+    height: 250px;
+    width: 300px;
   }
   .title {
     width: 100%;
     padding: 12px;
+    margin-top: 50px;
   }
   .title h1 { font-size: 24pt; margin:0px; }
   .title h1 small {font-size: 20pt;}
@@ -140,5 +141,14 @@ h3.quote {
   }
   #sfpc, #sfpc .col-md-4, #links, #contributors {
     text-align: center;
+  }
+  h2 {
+    font-size: 23pt;
+  }
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 667px) { 
+  #video {
+    height: 300px;
+    width: 400px;
   }
 }
