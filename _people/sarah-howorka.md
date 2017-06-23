@@ -5,7 +5,7 @@ affiliation:
   role: Student
 twitter: sarahhoworka
 github: sh0w
-website: http://sarahhoworka.com
+website: http://sarahhoworka.at
 place: Vienna, Austria
 ---
 Sarah Howorka is a software engineer and media artist from Vienna, Austria. 
