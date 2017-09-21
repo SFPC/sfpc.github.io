@@ -3,6 +3,8 @@ title: Sam Lavigne
 affiliation:
 - class: August 2016
   role: Teacher
+- class: Fall 2017
+  role: Teacher
 twitter: sam_lavigne
 github: antiboredom
 website: http://lav.io

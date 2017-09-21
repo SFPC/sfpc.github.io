@@ -11,6 +11,8 @@ affiliation:
   role: Teacher
 - class: Fall 2016
   role: Teacher
+- class: Fall 2017
+  role: Teacher
 twitter: ra
 github: nasser
 website: http://nas.sr

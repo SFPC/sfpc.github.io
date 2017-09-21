@@ -3,6 +3,8 @@ title: Melanie Hoff
 affiliation:
 - class: Summer 2016
   role: Student
+- class: Fall 2017
+  role: TA
 twitter: melanie_hoff
 github: melaniehoff
 website: http://Melanie-Hoff.com

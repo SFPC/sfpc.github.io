@@ -17,6 +17,8 @@ affiliation:
   role: Teacher
 - class: Fall 2016
   role: Teacher
+- class: Fall 2017
+  role: Teacher
 twitter: tchoi8
 github: tchoi8
 website: http://taeyoonchoi.com

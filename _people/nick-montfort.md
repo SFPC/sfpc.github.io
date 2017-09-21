@@ -5,6 +5,8 @@ affiliation:
   role: Teacher
 - class: Summer 2016
   role: Teacher
+- class: Fall 2017
+  role: Teacher
 twitter: nickmofo
 github: nickmontfort
 website: http://nickm.com/

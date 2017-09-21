@@ -3,6 +3,8 @@ title: Max Fowler
 affiliation:
 - class: Summer 2016
   role: Student
+- class: Fall 2017
+  role: TA
 twitter: notplants
 github: mhfowler
 website: http://maxhfowler.net/portfolio/

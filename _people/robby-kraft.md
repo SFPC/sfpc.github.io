@@ -5,6 +5,8 @@ affiliation:
   role: Student
 - class: Fall 2016
   role: Organizer
+- class: Fall 2017
+  role: TA
 twitter: RobbyKraft
 website: http://robbykraft.com/
 instagram: gridpaper
