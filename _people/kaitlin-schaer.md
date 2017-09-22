@@ -1,5 +1,5 @@
 ---
-title: Kaitlin E Schaer
+title: Kaitlin Schaer
 affiliation:
 - class: Fall 2017
   role: Student

@@ -5,7 +5,7 @@ affiliation:
   role: Student
 twitter: runchal
 github: runchal
-website: eh
+website: 
 place: Los Angeles, CA
 ---
 Los Angeles dude, likes product and technology and TCP/IP and that Robert Irwin book.
