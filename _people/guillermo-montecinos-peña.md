@@ -1,5 +1,5 @@
 ---
-title: Guillermo Montecinos-Peña
+title: Guillermo Montecinos Peña
 affiliation:
 - class: Fall 2017
   role: Student
