@@ -5,7 +5,7 @@ affiliation:
   role: Student
 twitter: 
 github: imuy
-website: http://heandhu.com
+website: https://vimeo.com/umischief
 place: Japan
 ---
 Yumi is a motion designer and 3D modeler who has made animations for interactive installations, simulations of robotic works, and 3D modelings for webGL.
