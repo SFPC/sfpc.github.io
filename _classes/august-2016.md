@@ -28,10 +28,12 @@ students:
 - name: Rebecca Aston
 - name: Sixing Xu
 - name: Tim Clem
-visitors:
+ 
 courses:
-- name: Radical Computer Science with Ramsey Nasser
-workshops:
-- name: Word-Bothering Made Easy with Ranjit Bhatnagar
+- name: Radical Computer Science Minus Computers with Ramsey Nasser
+- name: Experiencing Transgression with Ida Benedetto
+- name: Automating Video with Sam Lavigne
+- name: Architectural History of Computation with Ingrid Burrington
+
 ---
 description: Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, the underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert these computational systems we use every day.

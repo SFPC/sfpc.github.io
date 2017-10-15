@@ -31,5 +31,7 @@ courses:
 - name: Artist Toolkit with Taeyoon Choi
 workshops:
 - name: Word-Bothering Made Easy with Ranjit Bhatnagar
+- name: Showcase
+
 ---
 description: 

@@ -10,12 +10,12 @@ slides:
   - "/static/img/participate/sum2016_notes.jpg"
 ---
 
-## Fall 2017 Call is Open Now!
+## Spring 2018 Call is Open Now!
 
-Check [this page](http://sfpc.io/fall2017) for more details
+Check [this page](http://sfpc.io/spring2018) for more details
 
 
-- Ten-Weeks Session: September. 10th - November. 17th, 2017
+- Ten-Weeks Session: February. 20th – May. 4th, 2018
 - Location: SFPC, 155 Bank street, West Village, NYC
 
 Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
@@ -23,12 +23,7 @@ Join SFPC's main program for ten weeks in New York City. Daily classes that rang
 
 Subscribe to our mailing list at the bottom of this page for enrollment announcements.
 
-We are also offering a variety of workshops and conferences in Spring/Summer 2017. Please check [our blog](http://blog.sfpc.io) for the latest information. 
-
-
-## Summer 2017 Code Narratives 
-
-Check [this page](http://sfpc.io/codenarratives) for more details
+We are also offering a variety of workshops and conferences in Spring/Summer 2018. Please check [our blog](http://blog.sfpc.io) for the latest information. 
 
 
 ### What is the School for Poetic Computation?  

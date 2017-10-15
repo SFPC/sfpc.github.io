@@ -24,7 +24,7 @@ students:
 - name: Nahee Kim
 - name: Oren Shoham
 visitors:
-- name: Eke Ijeoma
+- name: Ekene Ijeoma
 - name: Kelli Anderson
 - name: Sougwen Chung
 - name: Neil Freeman
