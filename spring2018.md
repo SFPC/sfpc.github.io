@@ -26,14 +26,14 @@ slides:
 - Ten-Weeks Session: February. 20th – May. 4th, 2018
 - Location: SFPC, 155 Bank street, West Village, NYC
 
-Join SFPC's main program for ten weeks in New York City. Daily classes range from programming, electronics, and the history and theory of art and technology. Students have full access to the space to work on projects. Teachers and mentors are readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among students.
+Join SFPC's main program for ten weeks in New York City. Daily classes range from programming, electronics, and the history and theory of art and technology. Students have full access to the space to work on projects. Teachers and mentors are readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among students. Check out <a href="https://medium.com/@sfpc"> weekly reports </a> by a current student.  
 
 We will select up to 15 students for the session. Classes are usually held Monday-Thursday between 10am and 1pm. Students are expected to participate full-time.   There are student-led skill sharing sessions, lectures and workshops with visiting artists, field trips to institutions, schools, art spaces and dinners with special guests.
 This year we are adding an optional Onboarding week at the beginning of the session for students who are new to code or feel like they need additional time to focus on coding before the full session starts.
 
-We kick off the program with SFPC Salon, an evening of talks and performances by leading practitioners in the field. We finish the program by celebrating with a final showcase where students get to share their projects with the larger SFPC community. Final showcase is typically scheulded on the last weekend of the program, which will be November 11 –12. this year. Most importantly, SFPC is a safe space for students to grow. Consider joining the community of curious and generous peers through SFPC's main program.  
+We kick off the program with SFPC Salon, an evening of talks and performances by leading practitioners in the field. We finish the program by celebrating with a final showcase where students get to share their projects with the larger SFPC community. Final showcase is typically scheulded on the last weekend of the program. Most importantly, SFPC is a safe space for students to grow. Consider joining the community of curious and generous peers through SFPC's main program.  
 
-<div class="alert alert-success" role="alert"> <a href="https://docs.google.com/forms/d/e/1FAIpQLScLz8Vsrl7Xq5qUF9nDDNC1CP4DISY3Rxbq2SH0b_EoluL7_A/viewform">Apply to the Spring 2018 Session here.</a> Deadline for submissions, November 30, 2017
+<div class="alert alert-success" role="alert"> <a href="https://airtable.com/shrEm7HeqnrMYCMhc">Apply to the Spring 2018 Session here.</a> Deadline for submissions, November 30, 2017
 </div>
 
 ### What classes will happen during the session?
@@ -53,22 +53,20 @@ The idea behind these interconnected topics is to build on SFPC’s core curricu
 ### Who are the teachers?
 
 Classes will be lead by SFPC Co-founders including [Zachary Lieberman](http://thesystemis.com/), [Taeyoon Choi](http://taeyoonchoi.com/), [Morehshin Allahyari](http://www.morehshin.com/) along with a new group of teachers. Here are some teachers who work with us: [Allison Parrish](http://www.decontextualize.com/), [Nick Montfort](http://nickm.com), [Caitlin Morris](http://www.caitlinmorris.net/), [Ramsey Nasser](http://nas.sr/), [Ingrid Burrington](http://lifewinning.com/), [Luisa Pereira](http://www.luisaph.com/), [Caitlin Morris](http://www.caitlinmorris.net/) and more.
-
-[Golan Levin](http://www.flong.com) will be a Researcher-in-Residence for two weeks in October and advise students. 
  
-Spring 2017 will be organized by SFPC Team including [Lauren Gardner](http://laurengardner.com/), [Todd Anderson](http://toddwords.com/), Taeyoon Choi and Zachary Lieberman. Additional support will be provided by the SFPC Steering Committee, Teaching Assistants and Residents.
+ 
+Spring 2017 will be organized by SFPC Team including [Lauren Gardner](http://laurengardner.com/),Taeyoon Choi and Zachary Lieberman. Additional support will be provided by the SFPC Steering Committee, Teaching Fellows and Artist in Residence.
 
 ### Onboarding Week 
 
-We are offering an optional 1-week intensive for students who are new to coding. From September 4th, Monday to 8th, Friday, students will work with the core faculty to learn about the fundamental concepts and terms of computation, tools and environment for development. We recommend the Onboarding Week to beginners as well as students who are returning to coding after a long break. Tuition for Onboarding Week will be $500 for five days of classes, from 11am to 5pm.    
-
+We are offering an 1-week intensive for students who are new to coding. From February 12th, Monday to Friday 16th, students will work with the core faculty to learn about the fundamental concepts and terms of computation, tools and environment for development. We recommend the Onboarding Week to beginners as well as students who are returning to coding after a long break. Tuition for Onboarding Week will be $500 for five days of classes, from 11am to 5pm.    
 
 
 ### Deadline to apply
 
-The deadline for the Spring 2018 is November 30th, 2017. We typically inform the applicants within 3 weeks of application. Please apply as soon as possible.  
+The deadline for the Spring 2018 is November 30th, 2017. We typically inform the applicants within 3 weeks of application. Early applicants will be considered before the deadline. Please apply as soon as possible. 
 
-In the past, we’ve received 50+ strong applications, and this time will likely be competitive as well. We will select students based on a work sample, application form and a short video introduction. We sometimes reach out to the applicant's reference for a letter of recommendation. 
+In the past, we’ve received 60+ strong applications from around the world, and this time will likely be competitive as well. We will select students based on a work sample, application form and a short video introduction. We sometimes reach out to the applicant's reference for a letter of recommendation. 
 
 ### How much is tuition?
 
@@ -82,9 +80,9 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### Do you offer scholarships?
 
-We are completely self-funded, which dramatically limits our ability to offer scholarships. In Fall 2017, we are offering two work-study opportunity to a qualified applicant who would be expected to work 5 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, disabled person, people under-represented in the field of art + technology, and those with financial need. 
+We are completely self-funded, which dramatically limits our ability to offer scholarships. In Spring 2018, we are offering two work-study opportunity to a qualified applicant who would be expected to work 5 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, disabled person, people under-represented in the field of art + technology, and those with financial need. 
 
-Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.
+Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance. We can not offer visa for international students. However, most international students attend the program with visitor visas, since the program is 10 weeks.  
 
 ### What is expected of me?
 
@@ -97,7 +95,10 @@ It’s also expected that you work openly – sharing what you learn along the w
 
 We are planning Fall 2018 session starting in September. We are also working on short Two-Weeks Intensive in Summer 2018 and Winter 2018. We also offer a variety of workshops and lectures. Please check our [blog](http://blog.sfpc.io) for the latest information.
 
+<div class="alert alert-success" role="alert"> <a href="https://airtable.com/shrEm7HeqnrMYCMhc">Apply to the Spring 2018 Session here.</a> Deadline for submissions, November 30, 2017
+</div>
   
+
 ### Where is SFPC?
 We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
 
