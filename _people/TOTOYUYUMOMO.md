@@ -1,5 +1,5 @@
 ---
-title: Totoyuyumomo
+title: totoyuyumomo
 affiliation:
 - class: Fall 2017
   role: Visitor
