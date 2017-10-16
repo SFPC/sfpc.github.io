@@ -25,6 +25,16 @@ Subscribe to our mailing list at the bottom of this page for enrollment announce
 
 We are also offering a variety of workshops and conferences in Spring/Summer 2018. Please check [our blog](http://blog.sfpc.io) for the latest information. 
 
+## Learning to Teach Conference 2018 
+
+
+[Learning to Teach](https://medium.com/@sfpc/learning-to-teach-2018-4dca068b0fb8) is a day-long conference for educators teaching computation in creative fields like art, design or digital humanities departments. Led by Taeyoon Choi (SFPC) and Tega Brain (NYU), the conference will feature keynotes by leading educators including Daniel Shiffman, Naomi Clark, Brad Garton. The keynote speakers will share their experiences teaching computer programming and related topics, their strategies for blending critical thinking, engineering, and inspiring creativity in a teaching environment. This year’s program will include a participatory session for attendees to observe the pedagogical strategies of their peers and develop teaching approaches of their own. Join us to explore the intersection of pedagogy and creative practice, and get ready for the year ahead.
+
+- Date: January 20th, 2018 (10am ~ 5pm)
+- Venue: Integrated Digital Media, NYU, 8th floor of 2 Metrotech Center. Brooklyn.
+- [Tickets](https://www.eventbrite.com/e/learning-to-teach-2018-tickets-38639365382)
+
+
 
 ### What is the School for Poetic Computation?  
 
@@ -50,19 +60,10 @@ It’s also expected that you work openly – sharing what you learn along the w
 
 SFPC’s main program takes place over ten weeks in New York City with daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests. 
 
-We select up to 12 participants a session. Classes vary in length and are usually held Monday-Friday between 10am and 5pm. Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participant. We celebrate with a final student showcase where students get to share their projects with the larger SFPC community.
+We select up to 18 participants a session. Classes vary in length and are usually held Monday-Friday between 10am and 5pm. Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participant. We celebrate with a final student showcase where students get to share their projects with the larger SFPC community.
+ 
 
-Classes are typically structured around the following concepts:
-
-* __Computation and artistic practice__ — Algorithmic processes and concepts have been manifest in art and design throughout the twentieth century. How can we explore the influence of algorithms in practice and develop new approaches and techniques for utilizing them? What is the fundamental nature of computation and how can we work with it in a lyrical, expressive manner? How can code make things move in compelling and lifelike ways through animation and interaction?
-* __Pedagogy, strategies for learning and teaching__ — How do you learn new things? What sorts of environments and communities foster a nurturing space and an ongoing practice of learning?
-* __Language design as creative practice__ — Every programming language has specific parameters and demands certain processes in its use, we consider the subtle differences and approaches that have shaped various languages throughout history. This area focuses also on ways to design programming languages from scratch and asks how can language design open up new ways of thinking, making and building software? How can we build better tools and with that, better possibilities for ourselves?
-* __Electronics and physical computing__ — What are the fundamental building blocks for electronic computer? How do transistors, resistors and capacitors work? How can we use binary logic gates to create adding and remembering machines? How does CPU work? How have micro-controllers made physical computing more accessible?
-* __Theory and philosophy for technology__ — With contemporary society and our collective future irrevocably changed by ubiquitous technology, what critical questions can we, the makers, artists and technologists pose to society? What can we learn from the history of technology and how can we draft the future we like to see?
-* __Urban space and architecture__ - We will explore playful intervention in the public space. What are interesting ways of connecting spaces? skateboarding?
-* __Building the commons__ — The degree of access to artistic computational tools is largely a product of race, gender, sexuality, geography, and class. How can we use our skills and resources to bridge these divides? This area focuses on developing teaching tools, systems, and approaches to help bring poetic computation to diverse communities.
-
-The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We see them as platforms to help promote fearless prototyping, asking difficult questions, and creating projects that embody issues that are not yet commonly addressed in the art / tech world.
+SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. Check out [Call for Spring 2018](https://sfpc.io/spring2018) for a full listing of classes.  
 
 ### How can I help SFPC?
 
