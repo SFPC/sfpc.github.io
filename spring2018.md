@@ -56,7 +56,7 @@ The idea behind these interconnected topics is to build on SFPC’s core curricu
 Classes will be lead by SFPC Co-founders including [Zachary Lieberman](http://thesystemis.com/), [Taeyoon Choi](http://taeyoonchoi.com/), [Morehshin Allahyari](http://www.morehshin.com/) along with a new group of teachers. Here are some teachers who work with us: [Allison Parrish](http://www.decontextualize.com/), [Nick Montfort](http://nickm.com), [Caitlin Morris](http://www.caitlinmorris.net/), [Ramsey Nasser](http://nas.sr/), [Ingrid Burrington](http://lifewinning.com/), [Luisa Pereira](http://www.luisaph.com/), [Caitlin Morris](http://www.caitlinmorris.net/) and more.
  
  
-Spring 2017 will be organized by SFPC Team including [Lauren Gardner](http://laurengardner.com/), Taeyoon Choi and Zachary Lieberman. Additional support will be provided by the SFPC Steering Committee, Teaching Fellows and Artist in Residence.
+Spring 2018 will be organized by SFPC Team including [Lauren Gardner](http://laurengardner.com/), Taeyoon Choi and Zachary Lieberman. Additional support will be provided by the SFPC Steering Committee, Teaching Fellows and Artist in Residence.
 
 ### Onboarding Week 
 
