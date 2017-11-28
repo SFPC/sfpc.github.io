@@ -67,8 +67,8 @@ We are offering an 1-week intensive for students who are new to coding. From Feb
 <iframe src="https://player.vimeo.com/video/86799888?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 Video from the first class in 2013. 
 
-<iframe src="https://player.vimeo.com/video/238336345?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Video from the current class in 2017 (no sound).
+<iframe src="https://player.vimeo.com/video/244867403" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+Video by Fall 2017 student, Yumi Nishida.
 
 ### Deadline to apply
 
