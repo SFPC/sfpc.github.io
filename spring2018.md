@@ -33,7 +33,7 @@ This year we are adding an optional Onboarding week at the beginning of the sess
 
 We kick off the program with SFPC Salon, an evening of talks and performances by leading practitioners in the field. We finish the program by celebrating with a final showcase where students get to share their projects with the larger SFPC community. Final showcase is typically scheulded on the last weekend of the program. Most importantly, SFPC is a safe space for students to grow. Consider joining the community of curious and generous peers through SFPC's main program.  
 
-<div class="alert alert-success" role="alert"> <a href="https://airtable.com/shrEm7HeqnrMYCMhc">Apply to the Spring 2018 Session here.</a> Deadline for submissions, November 30, 2017
+<div class="alert alert-success" role="alert"> <a href="https://airtable.com/shrEm7HeqnrMYCMhc">Apply to the Spring 2018 Session here.</a> Deadline for submissions, extended to December 15, 2017
 </div>
 
 ### What classes will happen during the session?
@@ -72,7 +72,7 @@ Video by Fall 2017 student, Yumi Nishida.
 
 ### Deadline to apply
 
-The deadline for the Spring 2018 is November 30th, 2017. We typically inform the applicants within 3 weeks of application. Early applicants will be considered before the deadline. Please apply as soon as possible. 
+The deadline for the Spring 2018 is extended December 15, 2017. Please apply as soon as possible. 
 
 In the past, we’ve received 60+ strong applications from around the world, and this time will likely be competitive as well. We will select students based on a work sample, application form and a short video introduction. We sometimes reach out to the applicant's reference for a letter of recommendation. 
 
@@ -103,7 +103,7 @@ It’s also expected that you work openly – sharing what you learn along the w
 
 We are planning Fall 2018 session starting in September. We are also working on short Two-Weeks Intensive in Summer 2018 and Winter 2018. We also offer a variety of workshops and lectures. Please check our [blog](http://blog.sfpc.io) for the latest information.
 
-<div class="alert alert-success" role="alert"> <a href="https://airtable.com/shrEm7HeqnrMYCMhc">Apply to the Spring 2018 Session here.</a> Deadline for submissions, November 30, 2017
+<div class="alert alert-success" role="alert"> <a href="https://airtable.com/shrEm7HeqnrMYCMhc">Apply to the Spring 2018 Session here.</a> Deadline for submissions, extended to December 15, 2017
 </div>
   
 
