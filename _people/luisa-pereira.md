@@ -5,7 +5,7 @@ affiliation:
   role: Teacher
 twitter: luisa_ph
 github: luisaph
-website: http://www.luisaph.com/
+website: http://www.luisapereira.net/
 place: NYC, NY
 ---
 Luisa Pereira is an artist, programmer, and musician based in New York City. Her work often explores music through coding and design, taking the form of interactive installations, generative devices, sculptures and prints.
