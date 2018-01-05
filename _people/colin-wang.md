@@ -2,11 +2,10 @@
 title: Colin Wang
 affiliation:
 - class: Fall 2017
-  role: Student
-twitter: 
+  role: Student 
 github: colinwangdesign
+instagram: terrainfirma
 website: http://www.colinwangdesign.com
-place: 
+place: San Francisco, CA
 ---
-Colin is a mechanical engineer and designer. He seeks to explore the connections between designers, products, and users.
-He views the work he does as more than just the tangible end result. The most important things created are the relationships formed both by and through the process of his work.
+Colin Wang is an artist from San Francisco, constantly seeking shifts in perception and perspective through interactive experiences. His work is informed by a background in mechanical engineering and manifests in physical spaces and objects, while also engaging other disciplines and mediums, specifically computation and digital media. Throughout all this, he maintains a focus on teaching and education, as an instructor in formal settings, and through the affordances in his work. As the founder and director of the Aver Collective he pushes for collaboration in process, exhibition, and reflection.
