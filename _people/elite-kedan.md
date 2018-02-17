@@ -5,9 +5,9 @@ affiliation:
   role: Student
 - class: Machine Learning Literacy
   role: Student
-twitter: 
-github: 
-website: https://www.instagram.com/ekedan/
+twitter: ekedan
+github: ekedan
+website: http://info.elitekedan.com/
 place: FL, USA
 ---
-Elite Kedan is an artist and registered architect based in Miami, Florida. Her interests include cities, space, structures, statecraft, materiality, beauty and comedy. She hopes to indulge at least most of them this summer.
+Elite Kedan is an artist and architect based in Miami, Florida. Her hybrid practice explores the intersections of technologies and process, with human behavior, public space, historical context and meaning. 
