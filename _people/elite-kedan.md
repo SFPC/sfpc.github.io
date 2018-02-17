@@ -3,6 +3,8 @@ title: Elite Kedan
 affiliation:
 - class: Summer 2016
   role: Student
+- class: Machine Learning Literacy
+  role: Student
 twitter: 
 github: 
 website: https://www.instagram.com/ekedan/

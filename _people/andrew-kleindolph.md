@@ -3,6 +3,8 @@ title: Andrew Kleindolph
 affiliation:
 - class: Fall 2014
   role: Student
+- class: Machine Learning Literacy
+  role: Student
 twitter: akleindolph
 github: extrasleepy
 website: http://extrasleepy.com

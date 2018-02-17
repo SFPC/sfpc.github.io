@@ -7,6 +7,8 @@ affiliation:
   role: Teacher
 - class: Fall 2015
   role: Teacher
+- class: Machine Learning Literacy
+  role: Teacher
 twitter: aparrish
 github: aparrish
 website: http://www.decontextualize.com

@@ -3,6 +3,8 @@ title: Surya Mattu
 affiliation:
 - class: Spring 2015
   role: Teacher
+- class: Machine Learning Literacy
+  role: Visitor
 twitter: suryamattu
 github: samatt
 website: http://www.suryamattu.com

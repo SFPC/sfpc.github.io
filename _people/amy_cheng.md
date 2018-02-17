@@ -3,6 +3,8 @@ title: Amy Cheng
 affiliation:
 - class: Summer 2015
   role: Student
+- class: Machine Learning Literacy
+  role: Student
 twitter: am3thyst
 github: amycheng
 website: http://www.amycheng.info/ 
