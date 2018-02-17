@@ -3,6 +3,8 @@ title: Gene Kogan
 affiliation:
 - class: Fall 2015
   role: Visitor
+- class: Machine Learning Literacy
+  role: Organizer
 twitter: genekogan
 github: genekogan
 website: http://genekogan.com
