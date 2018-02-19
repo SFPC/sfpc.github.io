@@ -17,6 +17,8 @@ affiliation:
   role: Organizer
 - class: Fall 2017
   role: Organizer
+- class: Machine Learning Literacy
+  role: Organizer
 twitter: poohlaga
 github: poohlaga
 website: http://poohead.com

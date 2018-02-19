@@ -1,6 +1,8 @@
 ---
 title: Dan Shiffman
 affiliation:
+- class: Machine Learning Literacy
+  role: TA
 - class: Summer 2016
   role: Visitor
 - class: Fall 2016
