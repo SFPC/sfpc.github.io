@@ -1,5 +1,5 @@
 permalink: pretty
-gems:
+plugins:
 - jekyll-redirect-from
 collections:
   people:
