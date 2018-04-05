@@ -6,10 +6,10 @@
 		{% if page.background %}<meta property="og:image" content="{{page.background}}" />{% endif %}
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="//f.fontdeck.com/s/css/zH28mslJNSfrEtk/N8vkA5GMvEQ/sfpc.io/39609.css" type="text/css" />
 		<link rel="stylesheet" href="/static/css/bootstrap.min.css">
 		<link rel="stylesheet" href="/static/css/style.css">
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
 	</head>
 	<body id="{% if page.collection %}{{page.collection}}{% else %}{{ page.title | downcase | replace: " ", "" }}{% endif %}"  {% if page.toc %}data-spy="scroll" data-target="#toc"{% endif %}>
@@ -19,7 +19,7 @@
 			</header>
 			<section class="content">
 				{{content}}
-			</section>	
+			</section>
 			<footer id="footer">
 				{% include footer.html %}
 			</footer>
