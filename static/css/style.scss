@@ -3,36 +3,6 @@
 
 /*Fonts*/
 
-@font-face {
-	font-family: 'ApercuPro';
-	src: url('/static/fonts/ApercuPro/ApercuPro.woff') format('woff'),
-	url('/static/fonts/ApercuPro/ApercuPro.svg#ApercuPro') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'ApercuPro-Bold';
-	src: url('/static/fonts/ApercuPro-Bold/ApercuPro-Bold.woff') format('woff'),
-	url('/static/fonts/ApercuPro-Bold/ApercuPro-Bold.svg#ApercuPro') format('svg');
-	font-weight: bold;
-	font-style: normal;
-}
-
-@font-face {
-  font-family: 'Lato-Black';
-  src: url('/static/fonts/Lato-Black/Lato-Black.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Lato-Thin';
-  src: url('/static/fonts/Lato-Thin/Lato-Thin.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
 body {
 	position: relative; // this is needed for the TOC scroll nav
 	font-size: 170% !important;
@@ -53,11 +23,11 @@ img {
 }
 
 #logo{
+  padding-bottom: 1em;
 	a{
 		text-decoration: none !important;
 	}
 }
-
 
 body,.tooltip,.popover{
 	font-family: 'Source Sans Pro', sans-serif;
@@ -78,10 +48,10 @@ blockquote .source {
 
 #header {
 	nav {
-		font-family: "Lato-Thin", Helvetica, sans-serif;
+		font-family: Helvetica, sans-serif;
 		h2 {
 			margin-top: 0;
-			font-family: "Lato-Black", Helvetica, sans-serif;
+			font-family: Helvetica, sans-serif;
 			font-weight: bold;
 			a {
 				text-decoration: none !important;
@@ -110,7 +80,7 @@ blockquote .source {
 
 #sfpc .sfpc, #mission .mission, #press .press, #classes .classes, #people .people, #participate .participate, #blog .blog, #faq .faq, #apply .apply {
 	color: #000;
-	font-family: "Lato-Black", Helvetica, sans-serif;
+	font-family: Helvetica, sans-serif;
 	//font-weight:bold;
 }
 
@@ -145,7 +115,7 @@ footer {
 	background-size: cover;
 	min-height:80vh;
 	border-radius: 0;
-	
+
 }
 
 
