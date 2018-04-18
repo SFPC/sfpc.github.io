@@ -20,7 +20,7 @@ slides:
 - 6:30pm - 9:30pm, Evening Classes
 
 <a href="/codesocieties/">Code Societies</a> will examine the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
-How do different platforms and processes — including algorithms, data collection, social media, networks, simulation, and ritual — yield distinct modes of seeing, thinking, and feeling, structure social organization, and reinforce existing systems of power? Through a balanced study of critical theory and hands-on making workshops, students will create several small projects that explore and question these ideas. No coding experience necessary; an enthusiastic willingness to reconsider how code shapes and is shaped by society required!
+How do different platforms and processes — including algorithms, data collection, social media, networks, simulation, and ritual — yield distinct modes of seeing, thinking, and feeling, structure social organization, and reinforce existing systems of power? Through a balanced study of critical theory and hands-on making workshops, students will create several small projects that explore and question these ideas. Students will be introduced to Python and discover poetic, playful, and powerful ways to use computation. All levels of programming ability welcome and an enthusiastic willingness to reconsider how code shapes and is shaped by society required!
 
 
 
