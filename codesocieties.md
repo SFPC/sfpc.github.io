@@ -30,7 +30,7 @@ How do different platforms and processes — including algorithms, data collecti
 - [**American Artist**](https://americanartist.us/) (*1 Class*) - American is an interdisciplinary artist whose work extends dialectics formalized in Black radicalism and organized labor into a context of networked virtual life. Their practice makes use of video, installation, new media, and writing to reveal historical dynamics embedded within contemporary culture and technology.
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*1 Class*) - SFPC co-founder, artist.
 - [**Danah Boyd**](http://www.danah.org/) (*1 Class*) -  Founder of Data & Society and Principal Researcher at Microsoft Research. She is a Visiting Professor at New York University's Interactive Telecommunications Program, an academic, and a scholar whose research examines the intersection between technology and society.
-- [**Dan Taeyoung**](http://www.dantaeyoung.com/) (*1 Class*) - Dan works at the intersection of architecture, politics, technology, and community. He teaches at the Graduate School of Architecture Planning and Preservation at Columbia University.
+- [**Dan Taeyoung**](http://www.dantaeyoung.com/) (*1 Class*) - Dan dreams of, and creates, cybernetic architectures, infrastructures for care, ethical pedagogy, and warm cooperatives. He teaches at the Graduate School of Architecture Planning and Preservation at Columbia University.
 - More teachers and speakers to be announced!
 
 ### What will happen in these two weeks?
