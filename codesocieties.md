@@ -62,7 +62,7 @@ We accept up to 18 students on a rolling basis. We will respond to your applicat
 SFPC admissions is highly competitive. Every session, we receive up to 80 applicants and select 18. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.  
 
 ### How much is tuition?
-$2,500 USD for the 3-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). Upon acceptance, payment, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible.
+$2,500 USD for the 3-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). Upon acceptance, payment of full tuition, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible.
 
 ### Do you offer scholarship?
 
@@ -70,11 +70,13 @@ We are completely self-funded, which dramatically limits our ability to offer sc
 
 Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.  
 
-### What if I can’t go, can I get a refund?
+### Cancellation and refund policy
 
-- Yes, if you are accepted between April and May, we can give you 100% refund up to June 15th, 2018.
-- 50% refund between June 15th – June July 2nd, 2018
-- No refunds can be given after the first day of class.
+- If you are accepted between April and May, but if you need to cancel, we can give you 100% refund up to June 15th, 2018.
+- 50% refund between June 15th – July 27th, 2018.
+- 25% refund between June 28th – July 1st, 2018.
+- No refunds can be given after the first day of class. 
+- Participation is not transferrable to another person. 
 
 
 ### What is expected of me?
