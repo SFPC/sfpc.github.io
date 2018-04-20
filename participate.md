@@ -24,12 +24,11 @@ How do different platforms and processes — including algorithms, data collecti
 
 
 
-## Spring 2018 Call is Open Now!
+## Fall 2018 Call is Open Now!
 
-Check [this page](http://sfpc.io/spring2018) for more details
+Check [this page](http://sfpc.io/fall2018) for more details
 
-
-- Ten-Weeks Session: February. 20th – May. 4th, 2018
+- Ten-Weeks Session: September. 10th – Nov. 16th, 2018
 - Location: SFPC, 155 Bank street, West Village, NYC
 
 Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
@@ -37,17 +36,8 @@ Join SFPC's main program for ten weeks in New York City. Daily classes that rang
 
 Subscribe to our mailing list at the bottom of this page for enrollment announcements.
 
-We are also offering a variety of workshops and conferences in Spring/Summer 2018. Please check [our blog](http://blog.sfpc.io) for the latest information.
-
-## Learning to Teach Conference 2018
-
-
-[Learning to Teach](https://medium.com/@sfpc/learning-to-teach-2018-4dca068b0fb8) is a day-long conference for educators teaching computation in creative fields like art, design or digital humanities departments. Led by Taeyoon Choi (SFPC) and Tega Brain (NYU), the conference will feature keynotes by leading educators including Daniel Shiffman, Naomi Clark, Brad Garton. The keynote speakers will share their experiences teaching computer programming and related topics, their strategies for blending critical thinking, engineering, and inspiring creativity in a teaching environment. This year’s program will include a participatory session for attendees to observe the pedagogical strategies of their peers and develop teaching approaches of their own. Join us to explore the intersection of pedagogy and creative practice, and get ready for the year ahead.
-
-- Date: January 20th, 2018 (10am ~ 5pm)
-- Venue: Integrated Digital Media, NYU, 8th floor of 2 Metrotech Center. Brooklyn.
-- [Tickets](https://www.eventbrite.com/e/learning-to-teach-2018-tickets-38639365382)
-
+We are also offering a variety of workshops and conferences in Spring/Summer 2018. Please check [our blog](http://medium.com/sfpc) for the latest information.
+ 
 
 
 ### What is the School for Poetic Computation?  
