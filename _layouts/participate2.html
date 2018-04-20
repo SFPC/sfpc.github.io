@@ -2,21 +2,11 @@
 layout: default
 ---
 <div class="row">
-	<div class="col-md-8">
+	<div class="col-md-10">
 		{{content}}
 	</div>
-	<div class="col-md-4">
-		...
-	</div>
-</div>
-<div class="fourcol bigimg" {% if page.background %}style="background-image:url('{{ page.background }}');"{% endif %}>
-	{% for testimonials in site.data.testimonials %}
-		<blockquote class="overlay">
-			<p>{{ testimonials.name }}</p>
-			<p class="source">—<a href="{{ participate2.url }}">{{ testimonials.testimonial }}</a></p>
-		</blockquote>
-	{% endfor %}
-</div>
+ 
+</div> 
 
 <div class="row" style="padding-bottom:20px;">
 	<div class="col-md-12">
