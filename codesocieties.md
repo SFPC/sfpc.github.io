@@ -2,8 +2,12 @@
 title: Code Societies 2018
 layout: participate
 slides:
-
-  - "/static/img/codesocieties/poster_w.jpg"
+ - "/static/img/participate/codesocieties_poster_wide.jpg"
+ - "/static/img/participate/sum2016_outside.jpg"
+ - "/static/img/participate/allisonp.jpg"
+ - "/static/img/participate/sum2016_lunch.jpg"
+ 
+ 
 ---
 
 ***
@@ -12,6 +16,9 @@ slides:
 - "/static/img/participate/notebook.jpg"
 - "/static/img/participate/softcircuits.jpg"
 - "/static/img/participate/totallyrad.jpg" -->
+
+ 
+
 ## Call for Students: Code Societies
 - Three-Week Session, Monday July 2th - Saturday July 21st
 - @ SFPC, 155 Bank street, West Village, NYC
@@ -32,10 +39,13 @@ How do different platforms and processes — including algorithms, data collecti
 - [**Melanie Hoff**](http://melanie-hoff.com/) (*1 Class - Lead Organizer, On-Site Support*) - Artist, researcher, and educator examining technology's influence on social conventions, political rhetoric, and the ways in which economies of behavior reveal distributions of power. She is the co-organizer of [Cybernetics Conference](https://cybernetics.social/) and teaches at Mason Gross School of the Arts at Rutgers University.
 - [**American Artist**](https://americanartist.us/) (*1 Class*) - American is an interdisciplinary artist whose work extends dialectics formalized in Black radicalism and organized labor into a context of networked virtual life. Their practice makes use of video, installation, new media, and writing to reveal historical dynamics embedded within contemporary culture and technology.
 - [**Dan Taeyoung**](http://www.dantaeyoung.com/) (*1 Class*) - Dan dreams of, and creates, cybernetic architectures, infrastructures for care, ethical pedagogy, and warm cooperatives. He teaches at the Graduate School of Architecture Planning and Preservation at Columbia University.
-- [**Sarah Aoun**](sarahaoun.com) Sarah is a data activist, operational security trainer, and Ford-Mozilla Open Web Fellow working on data privacy and security. She worked with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on social justice, digital security, ethical data & privacy, and data-driven storytelling.
+- [**Sarah Aoun**](sarahaoun.com) (*1 Class*) Sarah is a data activist, operational security trainer, and Ford-Mozilla Open Web Fellow working on data privacy and security. She worked with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on social justice, digital security, ethical data & privacy, and data-driven storytelling.
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*1 Class, Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, a fellow at Data and Society and an adjunct professor at NYU ITP. In 2018, Taeyoon is working on [Distributed Web of Care](http://taeyoonchoi.com/soft-care/distributed-web-of-care/) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 
 - 15 sessions in total with a final presentations. More teachers and speakers to be announced!
+
+
+![](/static/img/participate/codesocieties_poster_s.jpg)
 
 ### What will happen in these three weeks?
 Classes are held in the evenings Monday-Friday from 6:30-9:30pm with a day off on July 4th. SFPC space will be open for students on weekdays between 1pm-6pm. The session will culminate in a party on the afternoon of Saturday July 21st, where students can invite their friends and present their favorite projects.
@@ -83,4 +93,4 @@ We are located in 155 Bank street, in the courtyard of the Westbeth Artists Comm
 
 Feel free to contact Code Societies lead organizer Melanie Hoff ([hoffmelanie@gmail.com](mailto:hoffmelanie@gmail.com)) with any questions about the Code Societies session, or [info@sfpc.io](mailto:info@sfpc.io) for any general questions about the school.
 
-Image credits: SFPC
+Image credits: Taeyoon Choi, Melanie Hoff, SFPC
