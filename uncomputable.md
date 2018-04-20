@@ -30,19 +30,17 @@ Uncomputable consists of a lecture by Alexander R. Galloway on June 21st and Jun
 ### Taeyoon Choi
 
 
-Taeyoon Choi is an artist, a co-founder of School for Poetic Computation. In 2018, Taeyoon is working on [Distributed Web of Care](https://dwc-tchoi8.hashbase.io) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood. His art practice involves social practice, software, electronics, paintings, and installations. He was an artist in residence at the Lower Manhattan Cultural Council’s Workspace, The Frank-Ratchye Studio for Creative Inquiry, and Eyebeam Art and Technology Center. His projects were presented at the Whitney Museum of American Art and Los Angeles County Museum of Art. As a fellow at [Data and Society](http://datasociety.org), he’s focusing on disability and normalcy, and enhancing inclusion within art and technology. He's an adjunct professor at [NYU ITP](https://tisch.nyu.edu/itp), where he teaches '[Teaching as Art](https://tchoi8.github.io/teachingasart/).' 
+[Taeyoon Choi](http://taeyoonchoi.com) is an artist, a co-founder of School for Poetic Computation. In 2018, Taeyoon is working on [Distributed Web of Care](https://dwc-tchoi8.hashbase.io) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood. His art practice involves social practice, software, electronics, paintings, and installations. He was an artist in residence at the Lower Manhattan Cultural Council’s Workspace, The Frank-Ratchye Studio for Creative Inquiry, and Eyebeam Art and Technology Center. His projects were presented at the Whitney Museum of American Art and Los Angeles County Museum of Art. As a fellow at [Data and Society](http://datasociety.org), he’s focusing on disability and normalcy, and enhancing inclusion within art and technology. He's an adjunct professor at [NYU ITP](https://tisch.nyu.edu/itp), where he teaches '[Teaching as Art](https://tchoi8.github.io/teachingasart/).' 
 
 
 
 ### How can I participate? 
-You can [**Apply**](https://airtable.com/shrbFALyK5MRnXpP1) to this session.  
-
-We will accept up to 50 participants on a rolling basis. We will respond to your application within 3 weeks of submission. Please understand we may not be able to accomodate all applicants.  
+You can [Apply](https://airtable.com/shreKLUM5BDyu2zMi) to RSVP. We will accept up to 50 participants on a rolling basis. We will respond to your application within 3 weeks of submission. Please understand we may not be able to accomodate all applicants.
 
 
 ### How much is tuition?
 
-Uncomputable is a free event, thanks to The Department of Media, Culture, and Communication at New York University and the School for Poetic Computation. We welcome your donation.    
+Uncomputable is a free event, thanks to The Department of Media, Culture, and Communication at New York University and the School for Poetic Computation. If you'd like to make donation to this event, please contact us. 
 
 ### What is expected of me?
 
