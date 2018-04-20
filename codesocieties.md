@@ -3,17 +3,15 @@ title: Code Societies 2018
 layout: participate
 slides:
 
-  - "/static/img/participate/goldenhour.jpg"
-  - "/static/img/participate/breadboard.jpg"
-  - "/static/img/participate/circuits.jpg"
-  - "/static/img/participate/workshop.jpg"
-  - "/static/img/participate/notebook.jpg"
-  - "/static/img/participate/softcircuits.jpg"
-  - "/static/img/participate/totallyrad.jpg"
+  - "/static/img/codesocieties/poster_w.jpg"
 ---
 
 ***
-
+<!-- - "/static/img/participate/goldenhour.jpg"
+- "/static/img/participate/workshop.jpg"
+- "/static/img/participate/notebook.jpg"
+- "/static/img/participate/softcircuits.jpg"
+- "/static/img/participate/totallyrad.jpg" -->
 ## Call for Students: Code Societies
 - Three-Week Session, Monday July 2th - Saturday July 21st
 - @ SFPC, 155 Bank street, West Village, NYC
@@ -28,7 +26,7 @@ How do different platforms and processes — including algorithms, data collecti
 
 ### Who are the teachers?
 - [**Allison Parrish**](http://www.decontextualize.com/) (*3 Classes*) - Allison is a computer programmer, poet, educator and game designer whose teaching and practice address the unusual phenomena that blossom when language and computers meet. She teaches at NYU's Interactive Telecommunications Program.
-- [**Shannon Mattern**](http://www.wordsinspace.net/) (*2 Classes*) -  Shannon is an Associate Professor in the School of Media Studies at The New School in New York. Her writing and teaching focus on archives, libraries, and other media spaces; media infrastructures; spatial epistemologies; and mediated sensation and exhibition. She is the author of Code and Clay, Dirt and Data: 5000 Years of Urban Media, among many other publications.
+- [**Shannon Mattern**](http://www.wordsinspace.net/) (*2 Classes*) -  Shannon is an Associate Professor of Media Studies at The New School. Her writing and teaching focus on archives, libraries, and other media spaces; media infrastructures; spatial epistemologies; and mediated sensation and exhibition. She is the author of The New Downtown Library: Designing with Communities, Deep Mapping the Media City, and Code and Clay, Data and Dirt: Five Thousand Years of Urban Media.
 - [**Lauren McCarthy**](http://lauren-mccarthy.com) (*2 Classes*) - Lauren is an artist whose work examines how surveillance, automation, and network culture affect our social relationships. She is also the creator of p5.js and teaches at UCLA Design Media Arts.
 - [**danah boyd**](http://www.danah.org/) (*1 Class*) -  Founder of [Data & Society](http://datasociety.org) and Principal Researcher at Microsoft Research. She is a Visiting Professor at New York University's Interactive Telecommunications Program, an academic, and a scholar whose research examines the intersection between technology and society.
 - [**Melanie Hoff**](http://melanie-hoff.com/) (*1 Class - Lead Organizer, On-Site Support*) - Artist, researcher, and educator examining technology's influence on social conventions, political rhetoric, and the ways in which economies of behavior reveal distributions of power. She is the co-organizer of [Cybernetics Conference](https://cybernetics.social/) and teaches at Mason Gross School of the Arts at Rutgers University.
