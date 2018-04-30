@@ -8,8 +8,8 @@ layout: participate2
 
 - Alexander R. Galloway and Taeyoon Choi 
 - School for Poetic Computation, 155 Bank street, NYC 
-- Lectures: June 21st and June 28th, 2018, 6~9pm
-- Exhibition: June 21st to June 28th, 2018, 1~6pm
+- Lectures: June 20th and June 28th, 2018, 6~9pm
+- Exhibition: June 20th to June 28th, 2018, 1~6pm
 - [Apply to RSVP](https://airtable.com/shreKLUM5BDyu2zMi)
 
 
@@ -45,8 +45,8 @@ Uncomputable is a free event, thanks to The Department of Media, Culture, and Co
 ### What is expected of me?
 
 - Read the suggested articles in advance.
-- Participate in both lectures on June 21st and June 28th, 6~9pm.
-- Adhere to the SFPC Code of Conduct.
+- Participate in both lectures on June 20th and June 28th, 6~9pm.
+- Adhere to the SFPC Code of Conduct, provided upon acceptance. 
 
 
 ### Where is SFPC?
