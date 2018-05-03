@@ -10,7 +10,7 @@ layout: participate2
 - School for Poetic Computation, 155 Bank street, NYC 
 - Lectures: June 20th and June 28th, 2018, 6~9pm
 - Exhibition: June 20th to June 28th, 2018, 1~6pm
-- [Apply to RSVP](https://airtable.com/shreKLUM5BDyu2zMi)
+- Free. [Apply to RSVP](https://airtable.com/shreKLUM5BDyu2zMi)
 
 
 ## Uncomputable
