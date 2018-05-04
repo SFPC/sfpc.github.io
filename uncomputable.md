@@ -6,11 +6,11 @@ layout: participate2
 
 ![](/static/img/participate/uncomputable2.jpg )
 
-- Alexander R. Galloway and Taeyoon Choi 
-- School for Poetic Computation, 155 Bank street, NYC 
-- Lectures: June 20th and June 28th, 2018, 6~9pm
-- Exhibition: June 20th to June 28th, 2018, 1~6pm
-- Free. [Apply to RSVP](https://airtable.com/shreKLUM5BDyu2zMi)
+- Alexander R. Galloway and Taeyoon Choi.
+- School for Poetic Computation (SFPC), 155 Bank street, NYC. 
+- Lectures: June 20th and June 28th, 2018, 6~9pm.
+- Exhibition: June 20th to June 28th, 2018, 1~6pm.
+- Free: [Apply to RSVP](https://airtable.com/shreKLUM5BDyu2zMi), Limited seating. 
 
 
 ## Uncomputable
@@ -18,8 +18,7 @@ layout: participate2
 
 According to digital philosophers, the world is a computer and everything inside it is computable. But is this entirely true? What about things that fall outside the bounds of the computable? Alan Turing demonstrated that there are kinds of problems that are computable and kinds of problems that are not, providing a theoretical answer to the question of the uncomputable. But there is also a practical answer: how many computer cycles do you have at your disposal? If you want to crack high-grade encryption, can you afford to crunch the numbers until the sun burns out? In this project we will explore the realm of the uncomputable. In the digital realm the uncomputable appears in logical paradoxes and rational incompleteness. In the analog realm the uncomputable consists of all those things that remain ungovernable, unspeakable, or unseeable. Come explore with us the binary present, and the non-binary future. Come explore the uncomputable.
 
-Uncomputable consists of a lecture by Alexander R. Galloway on June 21st and June 28th, 6~9pm and an exhibition by Taeyoon Choi that will be open to the public between June 21st and 28th. Uncomputable is free, please [apply](https://airtable.com/shreKLUM5BDyu2zMi) for the lecture as seating is limited. Uncomputable is made possible with the support of The Department of Media, Culture, and Communication at New York University and the School for Poetic Computation. 
-
+Uncomputable consists of lectures by Alexander R. Galloway on June 21st and June 28th, 6~9pm and an exhibition by Taeyoon Choi that will be open to the public between June 21st and 28th. Uncomputable is free, please [apply](https://airtable.com/shreKLUM5BDyu2zMi) for the lectures as seating is limited. Uncomputable is made possible with the support of The Department of Media, Culture, and Communication at New York University and the School for Poetic Computation. 
 
 
 ### Alexander R. Galloway 
@@ -31,7 +30,6 @@ Uncomputable consists of a lecture by Alexander R. Galloway on June 21st and Jun
 
 
 [Taeyoon Choi](http://taeyoonchoi.com) is an artist, a co-founder of School for Poetic Computation. In 2018, Taeyoon is working on [Distributed Web of Care](https://dwc-tchoi8.hashbase.io) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood. His art practice involves social practice, software, electronics, paintings, and installations. He was an artist in residence at the Lower Manhattan Cultural Council’s Workspace, The Frank-Ratchye Studio for Creative Inquiry, and Eyebeam Art and Technology Center. His projects were presented at the Whitney Museum of American Art and Los Angeles County Museum of Art. As a fellow at [Data and Society](http://datasociety.org), he’s focusing on disability and normalcy, and enhancing inclusion within art and technology. He's an adjunct professor at [NYU ITP](https://tisch.nyu.edu/itp), where he teaches '[Teaching as Art](https://tchoi8.github.io/teachingasart/).' 
-
 
 
 ### How can I participate? 
