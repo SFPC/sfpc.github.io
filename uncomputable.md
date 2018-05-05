@@ -10,6 +10,7 @@ layout: participate2
 - School for Poetic Computation (SFPC), 155 Bank street, NYC. 
 - Lectures: June 20th and June 28th, 2018, 6~9pm.
 - Exhibition: June 20th to June 28th, 2018, 1~6pm.
+- Featuring Cybernetics Library and Cori Kresge. 
 - Free: [Apply to RSVP](https://airtable.com/shreKLUM5BDyu2zMi), Limited seating. 
 
 
@@ -31,6 +32,13 @@ Uncomputable consists of lectures by Alexander R. Galloway on June 21st and June
 
 [Taeyoon Choi](http://taeyoonchoi.com) is an artist, a co-founder of School for Poetic Computation. In 2018, Taeyoon is working on [Distributed Web of Care](https://dwc-tchoi8.hashbase.io) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood. His art practice involves social practice, software, electronics, paintings, and installations. He was an artist in residence at the Lower Manhattan Cultural Council’s Workspace, The Frank-Ratchye Studio for Creative Inquiry, and Eyebeam Art and Technology Center. His projects were presented at the Whitney Museum of American Art and Los Angeles County Museum of Art. As a fellow at [Data and Society](http://datasociety.org), he’s focusing on disability and normalcy, and enhancing inclusion within art and technology. He's an adjunct professor at [NYU ITP](https://tisch.nyu.edu/itp), where he teaches '[Teaching as Art](https://tchoi8.github.io/teachingasart/).' 
 
+### Cybernetics Library 
+
+The [Cybernetics Library](https://cybernetics.social/library/) is: Sarah Hamerman, David Isaac Hecht, Dan Taeyoung, Charles Eppley, Sam Hart, Melanie Hoff. 
+
+### Cori Kresge
+ 
+Cori Kresge is a NYC based dancer and teacher. She has a BFA in dance from SUNY Purchase and the Dean’s Award for “breaking the mold.” In 2005 Kresge received a Darmasiswa International Scholarship, studying Balinese dance in Indonesia. She has been a member of the Merce Cunningham Repertory Understudy Group, José Navas/Compagnie Flak, and Stephen Petronio Company. She currently freelances and collaborates with various artists including Esme Boyce, Bill Young, Sarah Skaggs, Ellen Cornfield, Rashaun Mitchell+Silas Riener, Rebecca Lazier, Wendy Osserman, Glitter Kitty Productions, multi-media artist Liz Magic Laser, and film maker Zuzka Kurtz.
 
 ### How can I participate? 
 You can [Apply](https://airtable.com/shreKLUM5BDyu2zMi) to RSVP. We will accept up to 50 participants on a rolling basis. We will respond to your application within 3 weeks of submission. Please understand we may not be able to accomodate all applicants.
