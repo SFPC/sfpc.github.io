@@ -6,8 +6,8 @@ slides:
  - "/static/img/participate/sum2016_outside.jpg"
  - "/static/img/participate/allisonp.jpg"
  - "/static/img/participate/sum2016_lunch.jpg"
- 
- 
+
+
 ---
 
 ***
@@ -17,13 +17,13 @@ slides:
 - "/static/img/participate/softcircuits.jpg"
 - "/static/img/participate/totallyrad.jpg" -->
 
- 
+
 
 ## Call for Students: Code Societies
 - Three-Week Session, Monday July 2th - Saturday July 21st
 - @ SFPC, 155 Bank street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
-- Competitive rolling admissions, [**Apply**](https://airtable.com/shrbFALyK5MRnXpP1) soon!  
+- Applications have closed
 
 
 SFPC's Summer Intensive, Code Societies will examine the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
@@ -53,7 +53,7 @@ Classes are held in the evenings Monday-Friday from 6:30-9:30pm with a day off o
 Students will have full access to the space for the two weeks of the session to work on projects between classes and mentors will be readily available for technical, conceptual, and artistic guidance.
 
 ### How do I apply?
-You can apply to this session. [**Apply**](https://airtable.com/shrbFALyK5MRnXpP1)
+Applications have closed.
 
 We accept up to 18 students on a rolling basis. We will respond to your application within 2 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
@@ -75,8 +75,8 @@ Please note that if you apply for work study, we will consider your application 
 - If you are accepted between April and May, but if you need to cancel, we can give you 100% refund up to June 15th, 2018.
 - 50% refund between June 15th – July 27th, 2018.
 - 25% refund between June 28th – July 1st, 2018.
-- No refunds can be given after the first day of class. 
-- Participation is not transferrable to another person. 
+- No refunds can be given after the first day of class.
+- Participation is not transferrable to another person.
 
 
 ### What is expected of me?
