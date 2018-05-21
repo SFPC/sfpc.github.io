@@ -48,6 +48,9 @@ The main outcome will be experience with literary arts, with other ways that lan
 
 - <a href="http://www.stephaniestrickland.com/">Stephanie Strickland.</a> (1 Class + critique) - Stephanie is a poet who works in and across print and electronic literature, frequently in collaboration. Her publications include eight print books of poetry, some of them directly connected to digital projects.
 
+
+- <a href="http://everest-pipkin.com/">Everest Pipkin</a> (1 Class) - Everest is a drawing, language and software artist whose work follows landscape as complicated by the advent of digital space. They produce intimate work with large data sets.
+
 - <a href="http://hotwriting.com/">Todd Anderson.</a> (TA) Todd undertakes type of performance writing he has developed and named “hotwriting.” An alumnus of Brown’s literary arts MFA program as well as SFPC, Todd organizes the reading series WordHack at Babycastles and teaches at the New School.
 
 ![](/static/img/participate/code_words_banner.png)
