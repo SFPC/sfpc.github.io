@@ -11,7 +11,7 @@ layout: participate2
 - Lectures: June 20th and June 28th, 2018, 6~9pm.
 - Exhibition: June 20th to June 28th, 2018, 1~6pm.
 - Featuring Cybernetics Library and Cori Kresge. 
-- Free: [Apply to RSVP](https://airtable.com/shreKLUM5BDyu2zMi), Limited seating. 
+- The event is full. [Apply to be waitlistd](https://airtable.com/shreKLUM5BDyu2zMi), Limited seating. 
 
 
 ## Uncomputable
@@ -41,7 +41,7 @@ The [Cybernetics Library](https://cybernetics.social/library/) is: Sarah Hamerma
 Cori Kresge is a NYC based dancer and teacher. She has a BFA in dance from SUNY Purchase and the Dean’s Award for “breaking the mold.” In 2005 Kresge received a Darmasiswa International Scholarship, studying Balinese dance in Indonesia. She has been a member of the Merce Cunningham Repertory Understudy Group, José Navas/Compagnie Flak, and Stephen Petronio Company. She currently freelances and collaborates with various artists including Esme Boyce, Bill Young, Sarah Skaggs, Ellen Cornfield, Rashaun Mitchell+Silas Riener, Rebecca Lazier, Wendy Osserman, Glitter Kitty Productions, multi-media artist Liz Magic Laser, and film maker Zuzka Kurtz.
 
 ### How can I participate? 
-You can [Apply](https://airtable.com/shreKLUM5BDyu2zMi) to RSVP. We will accept up to 50 participants on a rolling basis. We will respond to your application within 3 weeks of submission. Please understand we may not be able to accomodate all applicants.
+The event is full. You can [Apply](https://airtable.com/shreKLUM5BDyu2zMi) to be waitlisted. We will accept up to 50 participants on a rolling basis. We will respond to your application within 3 weeks of submission. Please understand we may not be able to accomodate all applicants.
 
 
 ### How much is tuition?

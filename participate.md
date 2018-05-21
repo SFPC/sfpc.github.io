@@ -10,23 +10,11 @@ slides:
   - "/static/img/participate/sum2016_notes.jpg"
 ---
 
-## Summer 2018 Call is Open Now!
-### Code Societies
-#### Three Weeks - Evening Classes
-<div class="alert alert-success" role="alert">Learn more about, and apply to Code Societies <a href="/codesocieties/">here</a>.
+
+## Fall 2018 Call is due on June 6!
+
+<div class="alert alert-success" role="alert">Learn more about Fall 2018 <a href="/fall2018/">here</a>.
 </div>
-- Monday July 2nd - Saturday July 21st
-- @ SFPC, 155 Bank street, West Village, NYC
-- 6:30pm - 9:30pm, Evening Classes
-
-<a href="/codesocieties/">Code Societies</a> will examine the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
-How do different platforms and processes — including algorithms, data collection, social media, networks, simulation, and ritual — yield distinct modes of seeing, thinking, and feeling, structure social organization, and reinforce existing systems of power? Through a balanced study of critical theory and hands-on making workshops, students will create several small projects that explore and question these ideas. Students will be introduced to Python and discover poetic, playful, and powerful ways to use computation. All levels of programming ability welcome and an enthusiastic willingness to reconsider how code shapes and is shaped by society required!
-
-
-
-## Fall 2018 Call is Open Now!
-
-Check [this page](http://sfpc.io/fall2018) for more details
 
 - Ten-Weeks Session: September. 10th – Nov. 16th, 2018
 - Location: SFPC, 155 Bank street, West Village, NYC
@@ -36,14 +24,37 @@ Join SFPC's main program for ten weeks in New York City. Daily classes that rang
 
 Subscribe to our mailing list at the bottom of this page for enrollment announcements.
 
-We are also offering a variety of workshops and conferences in Spring/Summer 2018. Please check [our blog](http://medium.com/sfpc) for the latest information.
- 
+## Summer 2018 programs 
+
+### Code Words
+#### One Week - Evening Classes
+<div class="alert alert-success" role="alert">Learn more about Code Words <a href="/codewords/">here</a>.
+</div>
+
+- July 29, Brunch and kick off, 1~5pm 
+- July 30 - August 3, 6:30pm - 9:30pm, Evening Classes
+- **[Application is now open](https://airtable.com/shrjeEgeujSjbEUV0)**. Rolling admission.  
+
+SFPC's Summer Intensive, Code Words is a one-week session in which we explore how computation relates to language and art, focusing on literary art and poetry. Although “words” is in the title of session, we also embrace work that is made of glyphs that don’t form words.
+
+We’ll spend the week making short computational pieces and sharing them (however is appropriate for each particular project) day by day. A subset of students will present work each day, based on who signs up, with priority given to those who have not yet presented; everyone will present on the last day.
 
 
-## Uncomputable 
+
+### Code Societies
+#### Three Weeks - Evening Classes
+- Monday July 2nd - Saturday July 21st
+- 6:30pm - 9:30pm, Evening Classes
+- Code Societies is now full. 
+
+<a href="/codesocieties/">Code Societies</a> will examine the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
+How do different platforms and processes — including algorithms, data collection, social media, networks, simulation, and ritual — yield distinct modes of seeing, thinking, and feeling, structure social organization, and reinforce existing systems of power? Through a balanced study of critical theory and hands-on making workshops, students will create several small projects that explore and question these ideas. Students will be introduced to Python and discover poetic, playful, and powerful ways to use computation. All levels of programming ability welcome and an enthusiastic willingness to reconsider how code shapes and is shaped by society required!
+
+### Uncomputable
 Alexander R. Galloway and Taeyoon Choi
 - Lectures: June 20th and June 28th, 2018, 6~9pm
 - Exhibition: June 20th to June 28th, 2018, 1~6pm
+- Uncomputable is now full. Please apply to be waitlisted. 
 
 [Uncomputable](http://sfpc.io/uncomputable/): lectures and exhibition by Alexander R. Galloway and Taeyoon Choi. According to digital philosophers, the world is a computer and everything inside it is computable. But is this entirely true? What about things that fall outside the bounds of the computable? Alan Turing demonstrated that there are kinds of problems that are computable and kinds of problems that are not, providing a theoretical answer to the question of the uncomputable. But there is also a practical answer: how many computer cycles do you have at your disposal? If you want to crack high-grade encryption, can you afford to crunch the numbers until the sun burns out? In this project we will explore the realm of the uncomputable. In the digital realm the uncomputable appears in logical paradoxes and rational incompleteness. In the analog realm the uncomputable consists of all those things that remain ungovernable, unspeakable, or unseeable. Come explore with us the binary present, and the non-binary future. Come explore the uncomputable.
  

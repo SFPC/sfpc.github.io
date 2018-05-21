@@ -37,8 +37,6 @@ Students are not required to have any particular programming background. Everyon
 
 The main outcome will be experience with literary arts, with other ways that language connects to art, and with computing. Beyond that, students should expect to develop several short draft or sketch pieces (perhaps ones that can be screened, exhibited on screens, experienced online, or read aloud) that could serve as the basis for future artistic practice using language.
 
-Code Words is organized by Nick Montfort, a poet whose projects include several computer-generated books, pieces for gallery exhibition, work for the Web, and stand-alone computer programs. 
-
 
 ### Who are the teachers?
  
@@ -54,7 +52,7 @@ Code Words is organized by Nick Montfort, a poet whose projects include several 
 
 ![](/static/img/participate/code_words_banner.png)
 
-### What will happen in one weeks?
+### What will happen in one week?
 The session will kick off with a group brunch on Sunday 1-5pm. Classes are held in the evenings Monday-Friday from 6:30-9:30pm. SFPC space will be open for students on weekdays between 1pm-6pm.
 
 Students will have full access to the space for the week of the session to work on projects between classes and mentors will be readily available for technical, conceptual, and artistic guidance.
@@ -63,16 +61,16 @@ Students will have full access to the space for the week of the session to work 
 **[Application is now open](https://airtable.com/shrjeEgeujSjbEUV0)**.
 We accept up to 15 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
-### How competitive is the admissions?
+### How competitive is the admissions process?
 
-SFPC admissions is highly competitive. Every session, we receive up to 80 applicants and select 18. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.  
+SFPC admissions is highly competitive. We expect to receive as many as 80 applicants for 15 slots. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.  
 
 ### How much is tuition?
 $1000 USD for the One-Week program. You’ll also need to cover your own cost of living, including housing and meals. Upon acceptance, payment of full tuition, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible.
 
-### Do you offer scholarship?
+### Do you offer scholarships?
 
-We are completely self-funded, which dramatically limits our ability to offer scholarships. In Code Words, we are offering one work-study opportunity to a qualified applicant who would be expected to work 5 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, disabled person, people under-represented in the field of art + technology, and those with financial need.
+We are completely self-funded, which dramatically limits our ability to offer scholarships. In Code Words, we are offering one work-study opportunity to a qualified applicant who would be expected to work 5 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, people with disabilities, people under-represented in the field of art + technology, and those with financial need.
 
 Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.  
 
