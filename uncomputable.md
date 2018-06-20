@@ -12,6 +12,7 @@ layout: participate2
 - Exhibition: June 20th to June 28th, 2018, 1~6pm.
 - Featuring Cybernetics Library and Cori Kresge. 
 - The event is full. [Apply to be waitlistd](https://airtable.com/shreKLUM5BDyu2zMi), Limited seating. 
+- The talks and performances will be documented with video. The video will be available by August, 2018 via SFPC's social media channels. 
 
 
 ## Uncomputable
@@ -34,7 +35,8 @@ Uncomputable consists of lectures by Alexander R. Galloway on June 20th and June
 
 ### Cybernetics Library 
 
-The [Cybernetics Library](https://cybernetics.social/library/) is: Sarah Hamerman, David Isaac Hecht, Dan Taeyoung, Charles Eppley, Sam Hart, Melanie Hoff. 
+The [Cybernetics Library](https://cybernetics.social/library/) is: Sarah Hamerman, David Isaac Hecht, Dan Taeyoung, Charles Eppley, Sam Hart, Melanie Hoff. The Cybernetics Library is an interdisciplinary browsing library that re-contextualizes the expansive history of cybernetic thought and practice. Unexpected connections between art, technology, and society are facilitated from a contemporary vantage. The Cybernetics Library collects and re-codes texts and ideas across various fields of inquiry in order to reposition cybernetics as a generative approach to understanding how we are embedded in pervasive technological systems. Furthermore, the library considers issues of ethics and bias within technological systems, asking how we might create possibilities to critique and affect those systems. The Cybernetics Library is structured as a collective organization that builds upon it’s members’ wide-ranging research interests. Through its continually evolving collection and technological components, the library aims to generate feedback between publications, digital information, physical installations, and the readers themselves. The Cybernetics Library is presening a [special collection](https://www.librarything.com/catalog/CyberneticsCon/uncomputable) for Uncomputable. 
+
 
 ### Cori Kresge
  
