@@ -11,10 +11,19 @@ slides:
 ---
 
 
-## Fall 2018 Call is due on June 6!
+## NY Tech Zine Fair
 
-<div class="alert alert-success" role="alert">Learn more about Fall 2018 <a href="/fall2018/">here</a>.
-</div>
+- December 1, 2018 1pm-7pm
+- Organized by [Mimi Onuoha](http://mimionuoha.com/) and [Taeyoon Choi](http://taeyoonchoi.com/)
+
+
+[The NY Tech Zine Fair](http://sfpc.io/nytechzinefair/) is an event for the tech zine publishing community, providing an accessible platform for artists, designers, engineers and DIY publishers to connect with audiences and circulate their work in a supportive community.
+
+
+## Fall 2018 Call is now closed
+
+
+**Next call for Spring 2019 will open in July, 2018)**
 
 - Ten-Weeks Session: September. 10th – Nov. 16th, 2018
 - Location: SFPC, 155 Bank street, West Village, NYC

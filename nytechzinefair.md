@@ -9,11 +9,12 @@ slides:
 
 ---
  
-# Announcing THE NY TECH ZINE FAIR 2018
+# Announcing THE NY TECH ZINE FAIR
 
-- December 1, 2018 1pm-7pm. 
-- Preview, November 30, 2018 6-9pm. 
-School for Poetic Computation (SFPC), New York City, Free Entrance
+- December 1, 2018 1pm-7pm
+- Preview, November 30, 2018 6-9pm
+- School for Poetic Computation (SFPC), New York City
+- Free Entrance
 
 The first NY Tech Zine Fair (NYTZF), organized by [Mimi Onuoha](http://mimionuoha.com/) and [Taeyoon Choi](http://taeyoonchoi.com/), will take place December 1st at SFPC, and is free and open to the public.
 
@@ -34,6 +35,12 @@ Saturday, December 1, 1-7pm
 ## CONTACT
 
 For media and sponsorship inquiries: nytechzinefair@gmail.com.   
+
+## Related programs 
+
+- [Computing and Stories Summit](http://sfpc.io/classes/computingandstories/), 2017
+- [Uncomputable](http://sfpc.io/uncomputable), 2018
+
 
 ## LOCATION
 
