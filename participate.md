@@ -42,7 +42,7 @@ Subscribe to our mailing list at the bottom of this page for enrollment announce
 
 - July 29, Brunch and kick off, 1~5pm 
 - July 30 - August 3, 6:30pm - 9:30pm, Evening Classes
-- **[Application is now open](https://airtable.com/shrjeEgeujSjbEUV0)**. Rolling admission.  
+- **Applications have closed **
 
 SFPC's Summer Intensive, Code Words is a one-week session in which we explore how computation relates to language and art, focusing on literary art and poetry. Although “words” is in the title of session, we also embrace work that is made of glyphs that don’t form words.
 
@@ -54,7 +54,7 @@ We’ll spend the week making short computational pieces and sharing them (howev
 #### Three Weeks - Evening Classes
 - Monday July 2nd - Saturday July 21st
 - 6:30pm - 9:30pm, Evening Classes
-- Code Societies is now full. 
+- Code Societies applications have closed. 
 
 <a href="/codesocieties/">Code Societies</a> will examine the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
 How do different platforms and processes — including algorithms, data collection, social media, networks, simulation, and ritual — yield distinct modes of seeing, thinking, and feeling, structure social organization, and reinforce existing systems of power? Through a balanced study of critical theory and hands-on making workshops, students will create several small projects that explore and question these ideas. Students will be introduced to Python and discover poetic, playful, and powerful ways to use computation. All levels of programming ability welcome and an enthusiastic willingness to reconsider how code shapes and is shaped by society required!

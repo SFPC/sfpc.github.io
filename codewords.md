@@ -24,7 +24,8 @@ slides:
 - @ SFPC, 155 Bank street, West Village, NYC
 - July 29, Brunch and kick off, 1~5pm 
 - July 30 - August 3, 6:30pm - 9:30pm, Evening Classes
-- **[Application is now open](https://airtable.com/shrjeEgeujSjbEUV0)**. Rolling admission. 
+
+**Applications have closed**
 
 
 SFPC's Summer Intensive, Code Words is a one-week session in which we explore how computation relates to language and art, focusing on literary art and poetry. Although “words” is in the title of session, we also embrace work that is made of glyphs that don’t form words.
@@ -61,7 +62,7 @@ The session will kick off with a group brunch on Sunday 1-5pm. Classes are held 
 Students will have full access to the space for the week of the session to work on projects between classes and mentors will be readily available for technical, conceptual, and artistic guidance.
 
 ### How do I apply? 
-**[Application is now open](https://airtable.com/shrjeEgeujSjbEUV0)**.
+**Applications have closed**.
 We accept up to 15 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 ### How competitive is the admissions process?
