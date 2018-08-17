@@ -7,6 +7,8 @@ affiliation:
   role: Organizer
 - class: Fall 2017
   role: TA
+- class: Spring 2018
+  role: Teacher
 twitter: RobbyKraft
 website: http://robbykraft.com/
 instagram: gridpaper

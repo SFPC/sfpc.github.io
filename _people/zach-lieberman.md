@@ -19,6 +19,8 @@ affiliation:
   role: Teacher
 - class: Machine Learning Literacy
   role: Organizer
+- class: Spring 2018
+  role: Teacher
 twitter: zachlieberman
 github: ofzach
 website: http://thesystemis.com/
