@@ -8,4 +8,4 @@ github:
 website: https://itsthisnow.com
 place: NYC
 ---
-Syd is a recovering ex-barista and radical trans layabout enamored with the ocean. Coming from a background in linguistics, their interests include localized discourses of power and identity, literature’s role in political history, and writing systems and their digital input interfaces. Mostly making illustrations and looping gifs, they hope their work is equal parts unsettling, informative, indulgent and playful.
+Syd is a barista and radical trans layabout generally interested in all things sociolinguistics. Their research is particularly focused on text--writing systems and their digital inputs, multilingual landscapes, literature and politics, gender and sexting--but are ironically not great at writing about it (yet). Mostly making illustrations and looping gifs, they hope their work is equal parts unsettling, informative, indulgent and playful.
