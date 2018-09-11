@@ -12,13 +12,12 @@ slides:
 
 
 
-## Fall 2018 Call is now closed
+## Spring 2019 Call is now open
 
-
-**Next call for Spring 2019 will open in July, 2018)**
-
-- Ten-Weeks Session: September. 10th – Nov. 16th, 2018
-- Location: SFPC, 155 Bank street, West Village, NYC
+<div class="alert alert-success" role="alert">Apply <a href="/spring2019/"> by November 4th, 2018</a>.
+</div>
+- Ten-Weeks Session: March 11th – May. 17th, 2019
+- Location: SFPC, 155 Bank street, West Village, NYCWest Village, NYC
 
 Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
