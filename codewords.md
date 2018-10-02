@@ -38,6 +38,14 @@ Students are not required to have any particular programming background. Everyon
 
 The main outcome will be experience with literary arts, with other ways that language connects to art, and with computing. Beyond that, students should expect to develop several short draft or sketch pieces (perhaps ones that can be screened, exhibited on screens, experienced online, or read aloud) that could serve as the basis for future artistic practice using language.
 
+### Code Words Blog
+- [Meet the Students](https://medium.com/sfpc/code-words-meet-the-students-2bff8336d343)
+- [Day 1 w/ Nick Montfort](https://medium.com/sfpc/code-words-day-1-with-nick-montfort-1c78bba862b)
+- [Day 2 w/ Stephanie Strickland and Ian Hatcher](https://medium.com/sfpc/code-words-day-2-with-stephanie-strickland-and-ian-hatcher-da445956508f)
+- [Day 3 w/ Milton Läufer](https://medium.com/sfpc/code-words-day-3-with-milton-la%C3%BCfer-689dc308483f)
+- [Day 4 w/ Lillian-Yvonne Bertram](https://medium.com/sfpc/code-words-day-4-with-lillian-yvonne-bertram-83592e791c33)
+- [Day 5 w/ Everest Pipkin](https://medium.com/sfpc/code-words-day-5-with-everest-pipkin-267e77463e18)
+- [Final Presentation Video](https://medium.com/sfpc/sfpc-code-words-final-presentations-8-3-18-1d3be87c5858)
 
 ### Who are the teachers?
  
