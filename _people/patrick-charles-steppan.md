@@ -3,8 +3,8 @@ title: Patrick Charles Steppan
 affiliation:
 - class: Fall 2018
   role: Student
-twitter: https://twitter.com/psteppan
-github: https://github.com/pcsteppan/
+twitter: psteppan
+github: pcsteppan
 website: https://pcsteppan.github.io/work/
 instagram:
 place: Chicago, IL

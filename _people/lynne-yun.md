@@ -3,8 +3,8 @@ title: Lynne Yun
 affiliation:
 - class: Fall 2018
   role: Student
-twitter: https://twitter.com/lynneyun
-github: https://github.com/lynneyun
+twitter: lynneyun
+github: lynneyun
 website: http://www.lynneyun.com/
 instagram:
 place: NYC

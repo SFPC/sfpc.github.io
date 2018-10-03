@@ -3,8 +3,8 @@ title: Tomoya Matsuura
 affiliation:
 - class: Fall 2018
   role: Student
-twitter: https://twitter.com/tomoya_nonymous
-github: https://github.com/tomoyanonymous
+twitter: tomoya_nonymous
+github: tomoyanonymous
 website: https://matsuuratomoya.com/en
 instagram:
 place: Fukuoka, Japan
