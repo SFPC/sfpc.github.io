@@ -21,6 +21,8 @@ affiliation:
   role: Organizer
 - class: Spring 2018
   role: Teacher
+- class: Fall 2018
+  role: Teacher
 twitter: poohlaga
 github: poohlaga
 website: http://poohead.com

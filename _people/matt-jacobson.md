@@ -5,6 +5,8 @@ affiliation:
   role: Student
 - class: Spring 2018
   role: TA
+- class: Fall 2018
+  role: TA
 twitter: iammattjacobson
 github: matthewjacobson
 website: http://www.iammattjacobson.com

@@ -21,6 +21,8 @@ affiliation:
   role: Teacher / Organizer
 - class: Spring 2018
   role: Teacher
+- class: Fall 2018
+  role: Teacher
 twitter: tchoi8
 github: tchoi8
 website: http://taeyoonchoi.com

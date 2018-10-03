@@ -5,6 +5,8 @@ affiliation:
   role: Student
 - class: Fall 2017
   role: TA
+- class: Fall 2018
+  role: Visitor
 twitter: melanie_hoff
 github: melaniehoff
 website: http://Melanie-Hoff.com

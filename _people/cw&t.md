@@ -3,8 +3,10 @@ title: CW&T
 affiliation:
 - class: Fall 2017
   role: Visitor
+- class: Fall 2018
+  role: Teacher
 twitter: cwandt
- 
+
 website: https://cwandt.com/
 place: Brooklyn, NY
 ---

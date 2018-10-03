@@ -3,6 +3,8 @@ title: Nabil Hassein
 affiliation:
 - class: Spring 2018
   role: Student
+- class: Fall 2018
+  role: TA
 twitter:
 github:
 website: https://nabilhassein.github.io

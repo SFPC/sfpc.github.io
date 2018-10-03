@@ -3,6 +3,8 @@ title: Fernando Ramallo
 affiliation:
 - class: Fall 2017
   role: Student
+- class: Fall 2018
+  role: TA
 twitter: compositeredfox
 github: fernandoramallo
 website: http://www.byfernando.com

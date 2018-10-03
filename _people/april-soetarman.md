@@ -3,8 +3,10 @@ title: April Soetarman
 affiliation:
 - class: Fall 2017
   role: Student
+- class: Fall 2018
+  role: TA
 twitter: AprilSoetarman
-github: 
+github:
 website: AprilSoetarman.com
 place: Los Angeles, CA
 ---
