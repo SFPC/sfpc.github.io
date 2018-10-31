@@ -3,12 +3,7 @@ title: Code Societies Winter 2019
 layout: participate
 slides:
  - "/static/img/participate/codesocieties_poster_wide.jpg"
- - "/static/img/participate/sum2016_outside.jpg"
- - "/static/img/participate/allisonp.jpg"
- - "/static/img/participate/sum2016_lunch.jpg"
- - "/static/img/codesocieties/a.jpg"
  - "/static/img/codesocieties/b.jpg"
- - "/static/img/codesocieties/c.jpg"
  - "/static/img/codesocieties/d.jpg"
  - "/static/img/codesocieties/e.jpg"
  - "/static/img/codesocieties/g.jpg"
@@ -22,9 +17,9 @@ slides:
 
 ## Call for Students: Code Societies
 - Three-Week Session, Monday January 7th - Saturday January 26th
-- @ SFPC, 155 Bank street, West Village, NYC
+- SFPC, 155 Bank street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
-- [Apply now!](https://airtable.com/shrbFALyK5MRnXpP1)
+- [**Apply now!**](https://airtable.com/shrbFALyK5MRnXpP1), competitive rolling admissions. 
 
 
 SFPC’s winter intensive will examine the ideological and corporeal attributes of computation, concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory, and hands-on coding workshops, students will create small projects that explore and question these ideas.
@@ -59,8 +54,21 @@ Classes are held in the evenings Monday-Friday from 6:30-9:30pm with a day off o
 
 Students will have full access to the space during open hours for the three weeks of the session to work on projects between classes and mentors will be readily available for technical, conceptual, and artistic guidance.
 
+Read blog postings from Code Societies 2018 
+
+- [Introduction](https://medium.com/sfpc/code-societies-an-introduction-57de026c7c3b)
+- [Allison Parrish](https://medium.com/sfpc/authoring-text-under-control-from-automatic-writing-to-autocomplete-673df0593bfa)
+- [danah boyd](https://medium.com/sfpc/code-societies-2018-day-3-danah-boyd-f928ef747087)
+- [Shannon Mattern](https://medium.com/sfpc/sorting-things-out-b06d39cfa37e)
+- [Lauren McCarthy](https://medium.com/sfpc/smarter-home-baeed9dbd512)
+- [American Artist](https://medium.com/sfpc/software-as-ideology-6ad1091ef929)
+- [Taeyoon Choi](https://medium.com/sfpc/distributed-web-of-care-8847a144487b)
+- [Sarah Aoun](https://medium.com/sfpc/diversity-inclusion-in-surveillance-ai-12d6be789f5f)
+- [Melanie Hoff & Dan Taeyoung](https://medium.com/sfpc/social-network-paintings-210816b51cde)
+- [Final showcase](https://medium.com/sfpc/code-societies-2018-student-showcase-df35e9c95b71)
+
 ### How do I apply?
-[Apply now!](https://airtable.com/shrbFALyK5MRnXpP1)
+[**Apply now!**](https://airtable.com/shrbFALyK5MRnXpP1)
 
 We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
