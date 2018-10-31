@@ -2,7 +2,6 @@
 title: Code Societies Winter 2019
 layout: participate
 slides:
- - "/static/img/participate/codesocieties_poster_wide.jpg"
  - "/static/img/codesocieties/b.jpg"
  - "/static/img/codesocieties/d.jpg"
  - "/static/img/codesocieties/e.jpg"
@@ -70,7 +69,7 @@ Read blog postings from Code Societies 2018
 ### How do I apply?
 [**Apply now!**](https://airtable.com/shrbFALyK5MRnXpP1)
 
-We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early! You are likely to 
 
 ### How competitive is the admissions?
 
