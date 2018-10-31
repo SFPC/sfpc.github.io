@@ -1,5 +1,5 @@
 ---
-title: Code Societies 2018
+title: Code Societies Winter 2019
 layout: participate
 slides:
  - "/static/img/participate/codesocieties_poster_wide.jpg"
@@ -11,7 +11,6 @@ slides:
  - "/static/img/codesocieties/c.jpg"
  - "/static/img/codesocieties/d.jpg"
  - "/static/img/codesocieties/e.jpg"
- - "/static/img/codesocieties/f.jpg"
  - "/static/img/codesocieties/g.jpg"
  - "/static/img/codesocieties/h.jpg"
  - "/static/img/codesocieties/i.jpg"
@@ -19,12 +18,13 @@ slides:
  - "/static/img/codesocieties/k.jpg"
  - "/static/img/codesocieties/l.jpg"
 
+---
 
 ## Call for Students: Code Societies
 - Three-Week Session, Monday January 7th - Saturday January 26th
 - @ SFPC, 155 Bank street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
-- Apply now! LINK HERE
+- [Apply now!](https://airtable.com/shrbFALyK5MRnXpP1)
 
 
 SFPC’s winter intensive will examine the ideological and corporeal attributes of computation, concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory, and hands-on coding workshops, students will create small projects that explore and question these ideas.
@@ -41,7 +41,7 @@ Student’s should expect to develop several small scores or sketch pieces that 
 ### Who are the teachers?
 - [**Melanie Hoff**](http://melanie-hoff.com/) (*2 Classes - Lead Organizer, On-Site Support*) - Artist, researcher, and educator examining technology's influence on social conventions, political rhetoric, and the ways in which economies of behavior reveal distributions of power. They teach at Mason Gross School of the Arts at Rutgers University and is a member of the [Cybernetics Library](https://cybernetics.social/) collective.
 - [**Allison Parrish**](http://www.decontextualize.com/) (*2 Classes*) - Allison is a computer programmer, poet, educator and game designer whose teaching and practice address the unusual phenomena that blossom when language and computers meet. She teaches at NYU's Interactive Telecommunications Program.
-- [**Ingrid Burrington**](lifewinning.com) (*2 Classes*) - Ingrid Burrington writes, makes maps, and tells jokes about places, politics, and the feelings people have about both. She’s the author of Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure. Her work has been supported by Eyebeam, Data & Society, and the Center for Land Use Interpretation.
+- [**Ingrid Burrington**](lifewinning.com) (*2 Classes*) - Ingrid Burrington writes, makes maps, and tells jokes about places, politics, and the feelings people have about both. She’s the author of Networks of New York An Illustrated Field Guide to Urban Internet Infrastructure. Her work has been supported by Eyebeam, Data & Society, and the Center for Land Use Interpretation.
 - [**American Artist**](https://americanartist.us/) (*1 Class*) - American is an interdisciplinary artist whose work extends dialectics formalized in Black radicalism and organized labor into a context of networked virtual life. Their practice makes use of video, installation, new media, and writing to reveal historical dynamics embedded within contemporary culture and technology.
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*1 Class, Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, a former fellow at Data and Society and an adjunct professor at NYU ITP. In 2018, Taeyoon is working on [Distributed Web of Care](http://taeyoonchoi.com/soft-care/distributed-web-of-care/) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 - [**Everest Pipkin**](http://www.decontextualize.com/) (*1 Class*) - Everest is a drawing, language and software artist whose work follows landscape as complicated by the advent of digital space. They produce intimate work with large data sets.
@@ -53,13 +53,14 @@ Student’s should expect to develop several small scores or sketch pieces that 
 
 ![](/static/img/participate/codesocieties_poster_s.jpg)
 
+
 ### What will happen in these three weeks?
 Classes are held in the evenings Monday-Friday from 6:30-9:30pm with a day off on Martin Luther King Day January 21st. SFPC space will be open for students on weekdays between 4pm-6pm. The session will culminate in a party on the evening of Saturday January 26th, where students can invite their friends and present their favorite projects.
 
 Students will have full access to the space during open hours for the three weeks of the session to work on projects between classes and mentors will be readily available for technical, conceptual, and artistic guidance.
 
 ### How do I apply?
-LINK HERE
+[Apply now!](https://airtable.com/shrbFALyK5MRnXpP1)
 
 We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
@@ -101,4 +102,4 @@ We are located in 155 Bank street, in the courtyard of the Westbeth Artists Comm
 
 Feel free to contact Code Societies lead organizer Melanie Hoff ([hoffmelanie@gmail.com](mailto:hoffmelanie@gmail.com)) with any questions about the Code Societies session, or [info@sfpc.io](mailto:info@sfpc.io) for any general questions about finances or the school.
 
-Image credits: Taeyoon Choi, Melanie Hoff, April Soeterman SFPC
+Image credits: Taeyoon Choi, Melanie Hoff, April Soeterman
