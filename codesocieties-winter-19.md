@@ -19,6 +19,7 @@ slides:
  - "/static/img/codesocieties/k.jpg"
  - "/static/img/codesocieties/l.jpg"
 
+---
 
 ## Call for Students: Code Societies
 - Three-Week Session, Monday January 7th - Saturday January 26th
