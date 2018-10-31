@@ -2,7 +2,8 @@
 title: Code Societies Winter 2019
 layout: participate
 slides:
- - "/static/img/participate/codesocieties_poster_wide.jpg"
+ - "/static/img/codesocieties/wb.jpg"
+ - "/static/img/codesocieties/bw.jpg"
  - "/static/img/participate/sum2016_outside.jpg"
  - "/static/img/participate/allisonp.jpg"
  - "/static/img/participate/sum2016_lunch.jpg"
@@ -50,8 +51,23 @@ Student’s should expect to develop several small scores or sketch pieces that 
 
 - 15 class days in total with a final presentation. More teachers and speakers to be announced!
 
+### Code Societies Summer 2018 Syllabi
+- [https://github.com/SFPC/codesocieties/blob/master/README.md](https://github.com/SFPC/codesocieties/blob/master/README.md)
 
-![](/static/img/participate/codesocieties_poster_s.jpg)
+### Code Societies Summer 2018 Blog Posts
+- [Code Societies: An Introduction with Melanie Hoff & Taeyoon Choi](https://medium.com/sfpc/code-societies-an-introduction-57de026c7c3b)
+- [Authoring Text Under Control with Allison Parrish](https://medium.com/sfpc/authoring-text-under-control-from-automatic-writing-to-autocomplete-673df0593bfa)
+- [Smarter Home with Lauren McCarthy](https://medium.com/sfpc/smarter-home-baeed9dbd512)
+- [Hacking the Attention Economy with dana boyd](https://medium.com/sfpc/code-societies-2018-day-3-danah-boyd-f928ef747087)
+- [Software as Ideology with American Artist](https://medium.com/sfpc/software-as-ideology-6ad1091ef929)
+- [Sorting Things Out with Shannon Mattern](https://medium.com/sfpc/sorting-things-out-b06d39cfa37e)
+- [Diversity & Inclusion in Surveillance AI with Sara Aoun](https://medium.com/sfpc/diversity-inclusion-in-surveillance-ai-12d6be789f5f)
+- [Social Network Paintings with Melanie Hoff & Dan Taeyoung](https://medium.com/sfpc/social-network-paintings-210816b51cde)
+- [Distributed Web of Care with Taeyoon Choi](https://medium.com/sfpc/distributed-web-of-care-8847a144487b)
+- [Code Societies Summer 2018: Student Showcase](https://medium.com/sfpc/code-societies-2018-student-showcase-df35e9c95b71)
+
+
+![](/static/img/codesocieties/bw.jpg)
 
 
 ### What will happen in these three weeks?
