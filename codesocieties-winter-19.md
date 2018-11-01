@@ -3,7 +3,7 @@ title: Code Societies Winter 2019
 layout: participate
 slides:
  - "/static/img/codesocieties/h.2.jpg"
- - "/static/img/codesocieties/1.2.jpg"
+ - "/static/img/codesocieties/banner.jpg"
  - "/static/img/codesocieties/b.2.jpg"
  - "/static/img/codesocieties/g.2.jpg"
  - "/static/img/codesocieties/j.2.jpg"
