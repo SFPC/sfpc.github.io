@@ -2,14 +2,14 @@
 title: Code Societies Winter 2019
 layout: participate
 slides:
- - "/static/img/codesocieties/1.jpg"
- - "/static/img/codesocieties/h.jpg"
- - "/static/img/codesocieties/b.jpg"
- - "/static/img/codesocieties/g.jpg"
- - "/static/img/codesocieties/j.jpg"
- - "/static/img/codesocieties/k.jpg"
+ - "/static/img/codesocieties/h.2.jpg"
+ - "/static/img/codesocieties/1.2.jpg"
+ - "/static/img/codesocieties/b.2.jpg"
+ - "/static/img/codesocieties/g.2.jpg"
+ - "/static/img/codesocieties/j.2.jpg"
+ - "/static/img/codesocieties/k.2.jpg"
  - "/static/img/participate/allisonp.jpg"
- - "/static/img/codesocieties/l.jpg"
+ - "/static/img/codesocieties/l.2.jpg"
  - "/static/img/participate/sum2016_outside.jpg"
 
 ---
@@ -45,7 +45,7 @@ Student’s should expect to develop several small scores or sketch pieces that 
 - 15 class days in total with a final presentation. More teachers and speakers to be announced!
 
 
-![](/static/img/codesocieties/bw.jpg)
+![](/static/img/codesocieties/bw.2.jpg)
 
 
 
