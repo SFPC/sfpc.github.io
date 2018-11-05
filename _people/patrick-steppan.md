@@ -1,5 +1,5 @@
 ---
-title: Patrick Charles Steppan
+title: Patrick Steppan
 affiliation:
 - class: Fall 2018
   role: Student
