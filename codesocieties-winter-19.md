@@ -24,7 +24,7 @@ slides:
 
 SFPC’s Code Societies, our winter intensive session, will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.
 
-No coding experience necessary; only enthusiasm and willingness to reconsider how code shapes and is shaped by society.The session will begin with a brief introduction to programming with Python and navigating the command line.
+No coding experience necessary; only enthusiasm and willingness to reconsider how code shapes and is shaped by society. The session will begin with a brief introduction to programming with Python and navigating the command line.
 
 Central to Code Societies is understanding technology as culture and culture as social technology. Students are encouraged to engage with code and the ways code acts on our bodies and networks equally as subject and as medium. Code Societies is both this session’s subject and it’s prompt; an invitation to consider coding and choreographing new ways of being in relation with each other.
 Student’s should expect to develop several small scores or sketch pieces that may exist online, on screens, be performed, or installed.
