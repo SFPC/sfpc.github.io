@@ -4,6 +4,7 @@ layout: participate
 slides:
  - "/static/img/codesocieties/h.2.jpg"
  - "/static/img/codesocieties/banner.jpg"
+ - "/static/img/codesocieties/quote.jpg"
  - "/static/img/codesocieties/b.2.jpg"
  - "/static/img/codesocieties/g.2.jpg"
  - "/static/img/codesocieties/j.2.jpg"
@@ -21,15 +22,12 @@ slides:
 - [**Apply now!**](https://airtable.com/shrbFALyK5MRnXpP1), competitive rolling admissions.
 
 
-SFPC’s winter intensive will examine the ideological and corporeal attributes of computation, concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory, and hands-on coding workshops, students will create small projects that explore and question these ideas.
+SFPC’s Code Societies, our winter intensive session, will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.
 
-The session will begin with a brief introduction to programming with Python and navigating the command line. No coding experience necessary; an enthusiastic willingness to reconsider how code shapes and is shaped by society required!
+No coding experience necessary; only enthusiasm and willingness to reconsider how code shapes and is shaped by society.The session will begin with a brief introduction to programming with Python and navigating the command line.
 
-Central to Code Societies is understanding technology as culture and culture as social technology. Students are encouraged to engage with code and the ways code acts on our bodies and networks equally as subject and as medium. Similarly, Code Societies is both this session’s subject and it’s prompt; an invitation to consider coding and choreographing new ways of being in relation with each other.
-
-Student’s should expect to develop several small scores or sketch pieces that may exist online, on screens, performed, or installed.
-
-*“Technology is not neutral. We're inside of what we make, and it's inside of us. We're living in a world of connections — and it matters which ones get made and unmade.”* - Donna Haraway
+Central to Code Societies is understanding technology as culture and culture as social technology. Students are encouraged to engage with code and the ways code acts on our bodies and networks equally as subject and as medium. Code Societies is both this session’s subject and it’s prompt; an invitation to consider coding and choreographing new ways of being in relation with each other.
+Student’s should expect to develop several small scores or sketch pieces that may exist online, on screens, be performed, or installed.
 
 
 ### Who are the teachers?
