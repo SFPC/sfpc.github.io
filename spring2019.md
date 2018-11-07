@@ -25,7 +25,7 @@ slides:
 ### Spring 2019 Immersive
 - Ten-Weeks Session: March 11th – May. 17th, 2019
 - Location: SFPC, 155 Bank street, West Village, NYC
-- **[Application](https://airtable.com/shrYjOwmaeCY5PZTC)** open until November 4th, 2018
+- **[Application](https://airtable.com/shrYjOwmaeCY5PZTC)** deadline extended until November 17th, 2018
 
 Join SFPC's ten week intensive program in New York City. Daily classes range from programming, electronics, poetry and the history and theory of art and technology. Students have full access to the space to work on projects. Teachers and mentors are readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among students. Check out <a href="https://medium.com/sfpc"> weekly reports </a> by current students.  
 
@@ -35,7 +35,7 @@ We offer an optional onboarding week for students who are new to code or feel li
 
 We kick off the program with SFPC Salon, an evening of talks and performances by leading practitioners in the field. We finish the program by celebrating with a final showcase where students get to share their projects with the larger SFPC community. Final showcase is typically scheduled during the last weekend of the program. Most importantly, SFPC is a safe space for students to grow. Consider joining the community of curious and generous peers through SFPC's main program.  
 
-**Application to the Spring 2019 is open until November 4th 2018**
+**Application to the Spring 2019 deadline extended until November 17th, 2018**
 
 ### What classes will happen during the session?
 
@@ -54,8 +54,7 @@ The idea behind these interconnected topics is to build on SFPC’s core curricu
 
 ### Who are the teachers?
 
-We will announce the list of teachers near the program. Here are some teachers who work with us: [Zachary Lieberman](http://thesystemis.com/), [Taeyoon Choi](http://taeyoonchoi.com/), [Lauren Gardner](http://laurengardner.com) [Kelli Anderson](kellianderson.com), [Robby Kraft](http://robbykraft.com/), [American Artist](http://americanartist.us/), [CW&T](https://cwandt.com/),[Allison Parrish](http://www.decontextualize.com/), [Nick Montfort](http://nickm.com), [Caitlin Morris](http://www.caitlinmorris.net/), [Ramsey Nasser](http://nas.sr/), [Ingrid Burrington](http://lifewinning.com/), [Pam Liou](http://pamelaliou.com/index.html.) and more.
-
+We are excited to announce the list of teachers for Spring 2019: [Zachary Lieberman](http://thesystemis.com/), [Taeyoon Choi](http://taeyoonchoi.com/), [Lauren Gardner](http://laurengardner.com), [CW&T](https://cwandt.com/), [American Artist](https://americanartist.us/), [Sam Lavigne](https://lav.io/). Here are some teachers we often work with. [Kelli Anderson](kellianderson.com), [Robby Kraft](http://robbykraft.com/), [Allison Parrish](http://www.decontextualize.com/), [Nick Montfort](http://nickm.com), [Caitlin Morris](http://www.caitlinmorris.net/), [Ramsey Nasser](http://nas.sr/), [Ingrid Burrington](http://lifewinning.com/), [Pam Liou](http://pamelaliou.com/index.html.) and more.
 
 SFPC Spring 2019 will be organized by SFPC Team including Lauren Gardner, Taeyoon Choi and Zachary Lieberman. Additional support will be provided by the SFPC Steering Committee, Teaching Assistants and Artist in Residence.
 

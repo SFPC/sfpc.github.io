@@ -14,17 +14,30 @@ slides:
 
 ## Spring 2019 Call is now open
 
-<div class="alert alert-success" role="alert">Apply <a href="/spring2019/"> by November 4th, 2018</a>.
+<div class="alert alert-success" role="alert">Apply <a href="/spring2019/"> by November 17th, 2018</a>.
 </div>
 - Ten-Weeks Session: March 11th – May. 17th, 2019
 - Location: SFPC, 155 Bank street, West Village, NYCWest Village, NYC
 
 Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
+ 
+
+## Code Societies Winter 2019 is now open 
+
+<div class="alert alert-success" role="alert">Apply Now <a href="/codesocieties-winter-19/"> competitive rolling admissions.</a>
+</div> 
+
+-  Three-Week Session, Monday January 7th - Saturday January 26th
+- Location: SFPC, 155 Bank street, West Village, NYC
+- Time: 6:30pm - 9:30pm, Evening Classes
+ 
+SFPC’s Code Societies, our winter intensive session, will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.
 
 Subscribe to our mailing list at the bottom of this page for enrollment announcements.
 
-## Summer 2018 programs 
+
+# Past Programs 
 
 ### Code Words
 #### One Week - Evening Classes
