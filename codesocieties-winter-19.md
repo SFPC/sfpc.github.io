@@ -31,7 +31,7 @@ Student’s should expect to develop several small scores or sketch pieces that 
 
 
 ### Who are the teachers?
-- [**Melanie Hoff**](http://melanie-hoff.com/) (*2 Classes - Lead Organizer, On-Site Support*) - Artist, researcher, and educator examining technology's influence on social conventions, political rhetoric, and the ways in which economies of behavior reveal distributions of power. They teach at Mason Gross School of the Arts at Rutgers University and is a member of the Cybernetics Library.
+- [**Melanie Hoff**](http://melanie-hoff.com/) (*2 Classes - Lead Organizer, On-Site Support*) - Artist and educator examining the role technology plays in social organization and reinforcing hegemonic structures. They write software, create experimental workshops, and teach at Rutgers University, the School for Poetic Computation, and are a founding member of the Cybernetics Library.
 - [**Allison Parrish**](http://www.decontextualize.com/) (*2 Classes*) - Allison is a computer programmer, poet, educator and game designer whose teaching and practice address the unusual phenomena that blossom when language and computers meet. She teaches at NYU's Interactive Telecommunications Program.
 - [**Ingrid Burrington**](lifewinning.com) (*2 Classes*) - Ingrid Burrington writes, makes maps, and tells jokes about places, politics, and the feelings people have about both. She’s the author of Networks of New York An Illustrated Field Guide to Urban Internet Infrastructure. Her work has been supported by Eyebeam, Data & Society, and the Center for Land Use Interpretation.
 - [**American Artist**](https://americanartist.us/) (*1 Class*) - American is an interdisciplinary artist whose work extends dialectics formalized in Black radicalism and organized labor into a context of networked virtual life. Their practice makes use of video, installation, new media, and writing to reveal historical dynamics embedded within contemporary culture and technology.
@@ -68,7 +68,7 @@ Read blog postings from [Code Societies 2018](https://github.com/SFPC/codesociet
 ### How do I apply?
 [**Apply now!**](https://airtable.com/shrbFALyK5MRnXpP1)
 
-We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early! You are likely to
+We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early! 
 
 ### How competitive is the admissions?
 
