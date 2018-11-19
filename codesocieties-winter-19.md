@@ -38,7 +38,8 @@ Student’s should expect to develop several small scores or sketch pieces that 
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*1 Class, Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, a former fellow at Data and Society and an adjunct professor at NYU ITP. In 2018, Taeyoon is working on [Distributed Web of Care](http://taeyoonchoi.com/soft-care/distributed-web-of-care/) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 - [**Everest Pipkin**](http://www.decontextualize.com/) (*1 Class*) - Everest is a drawing, language and software artist whose work follows landscape as complicated by the advent of digital space. They produce intimate work with large data sets.
 - [**Dan Taeyoung**](http://www.dantaeyoung.com/) (*1 Class*) - Dan is a designer, researcher, and a teacher. He is interested in how cooperative practices and spatial environments change the way we think, collaborate, and learn with each other. He teaches at the Graduate School of Architecture, Planning, and Preservation at Columbia University.
-- [**Nora Khan**](http://www.noranahidkhan.com/) (*1 Class*) 
+- [**Nora Khan**](http://www.noranahidkhan.com/) (*1 Class*)
+- **FlucT** (*1 Class*) - www.sigridlauren.com/fluct/ & www.monicamirabile.com/fluct-1/
 
 
 
