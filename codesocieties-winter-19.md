@@ -38,6 +38,11 @@ Student’s should expect to develop several small scores or sketch pieces that 
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*1 Class, Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, a former fellow at Data and Society and an adjunct professor at NYU ITP. In 2018, Taeyoon is working on [Distributed Web of Care](http://taeyoonchoi.com/soft-care/distributed-web-of-care/) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 - [**Everest Pipkin**](http://www.decontextualize.com/) (*1 Class*) - Everest is a drawing, language and software artist whose work follows landscape as complicated by the advent of digital space. They produce intimate work with large data sets.
 - [**Dan Taeyoung**](http://www.dantaeyoung.com/) (*1 Class*) - Dan is a designer, researcher, and a teacher. He is interested in how cooperative practices and spatial environments change the way we think, collaborate, and learn with each other. He teaches at the Graduate School of Architecture, Planning, and Preservation at Columbia University.
+- [**Nora Khan**](http://www.noranahidkhan.com/) (*1 Class*) 
+
+
+
+I am a writer and critic. I write fiction and criticism on emerging issues within digital visual culture, research-based experimental art and music practices, and the philosophy of emerging technology.  I’m currently Special Projects Editor at Rhizome, after a year as Acting Editor, and several years as contributing editor. I was an Eyebeam research resident into 2017. All my writing is on this site, but for ease, my CV of publications and editing is here.
 
 
 - 15 class days in total with a final presentation. More teachers and speakers to be announced!
@@ -68,7 +73,7 @@ Read blog postings from [Code Societies 2018](https://github.com/SFPC/codesociet
 ### How do I apply?
 [**Apply now!**](https://airtable.com/shrbFALyK5MRnXpP1)
 
-We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early! 
+We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 ### How competitive is the admissions?
 
