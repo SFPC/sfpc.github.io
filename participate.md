@@ -10,16 +10,12 @@ slides:
   - "/static/img/participate/sum2016_notes.jpg"
 ---
 
+## Public events in December
 
+- [New York Tech Zine Fair](http://techzinefair.org) on December 1
+- [You Do (it) You(rself), Personal and Social Narratives of System Design in Electronic Arts](https://www.eventbrite.com/e/you-do-it-yourself-tickets-51939426222) on December 8 
+- [Code Ecologies](http://sfpc.io/codeecologies) on December 15 
 
-## Spring 2019 Call is now open
-
-<div class="alert alert-success" role="alert">Apply <a href="/spring2019/"> by November 17th, 2018</a>.
-</div>
-- Ten-Weeks Session: March 11th – May. 17th, 2019
-- Location: SFPC, 155 Bank street, West Village, NYCWest Village, NYC
-
-Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
  
 
@@ -35,6 +31,15 @@ Join SFPC's main program for ten weeks in New York City. Daily classes that rang
 SFPC’s Code Societies, our winter intensive session, will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.
 
 Subscribe to our mailing list at the bottom of this page for enrollment announcements.
+
+## Spring 2019 Call is now closed
+
+- Ten-Weeks Session: March 11th – May. 17th, 2019
+- Location: SFPC, 155 Bank street, West Village, NYCWest Village, NYC
+
+Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
+
+Fall 2019 Call will open in January 2019 
 
 
 # Past Programs 

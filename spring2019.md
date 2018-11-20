@@ -25,7 +25,7 @@ slides:
 ### Spring 2019 Immersive
 - Ten-Weeks Session: March 11th – May. 17th, 2019
 - Location: SFPC, 155 Bank street, West Village, NYC
-- **[Application](https://airtable.com/shrYjOwmaeCY5PZTC)** deadline extended until November 17th, 2018
+- **[Application](https://airtable.com/shrYjOwmaeCY5PZTC)** is now closed. 
 
 Join SFPC's ten week intensive program in New York City. Daily classes range from programming, electronics, poetry and the history and theory of art and technology. Students have full access to the space to work on projects. Teachers and mentors are readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among students. Check out <a href="https://medium.com/sfpc"> weekly reports </a> by current students.  
 
@@ -76,11 +76,13 @@ Video by Spring 2017 student, Nitcha Fame Tothong.
 
 ### Deadline to apply
 
-<div class="alert alert-success" role="alert">We are accepting <a href="https://airtable.com/shrYjOwmaeCY5PZTC"> <b>Application </b></a> until November 4th, 2018.
-</div>
+Application is now closed. 
 
 
 In the past, we’ve received 60+ strong applications from around the world, and this time will likely be competitive as well. We will select students based on a work sample, application form and a short video introduction. We sometimes reach out to the applicant's reference for a letter of recommendation.
+
+We will be in touch with applicants by the end of November. 
+
 
 ### How much is tuition?
 
