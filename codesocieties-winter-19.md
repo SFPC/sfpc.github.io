@@ -43,9 +43,6 @@ Student’s should expect to develop several small scores or sketch pieces that 
 
 
 
-I am a writer and critic. I write fiction and criticism on emerging issues within digital visual culture, research-based experimental art and music practices, and the philosophy of emerging technology.  I’m currently Special Projects Editor at Rhizome, after a year as Acting Editor, and several years as contributing editor. I was an Eyebeam research resident into 2017. All my writing is on this site, but for ease, my CV of publications and editing is here.
-
-
 - 15 class days in total with a final presentation. More teachers and speakers to be announced!
 
 
