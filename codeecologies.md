@@ -23,9 +23,20 @@ Co-organized by [Taeyoon Choi](http://taeyoonchoi.com), [Nabil Hassein](https://
 
 Image by Sonia Boller. 
 
-Featured speakers and schedule will be announced on December 3. 
+### Speakers and facilitators 
+
+[Ingrid Burrington](http://lifewinning.com/) writes, makes maps, and tells jokes about places, politics, and the feelings people have about both. She’s the author of Networks of New York An Illustrated Field Guide to Urban Internet Infrastructure. Her work has been supported by Eyebeam, Data & Society, and the Center for Land Use Interpretation.
+
+[Jamie Tyberg](https://twitter.com/jtbrg) is a Brooklyn-based movement fundraiser and climate activist. Born in South Korea, Jamie immigrated to the United States in 2002 and currently serves as the Development Director for New York Communities for Change, a grassroots organization of low-income members fighting against racial oppression and economic injustice. Jamie also helped found the National Ecosocialist Working Group of the Democratic Socialists of America, building a robust network of climate activists and organizers across the nation to combat the climate crisis.
+
+[Elizabeth Guffey](https://www.purchase.edu/live/profiles/498-elizabeth-guffey) teaches and writes on art and design history, theory and criticism. She is the Juanita and Joseph Leff Distinguished Professor at Purchase College, State University of New York. Founding Editor of Design and Culture, she is also the author of Retro: The Culture of Revival. Currently, she is also completing the book Poster: Paper in the Post-Digital Age. 
+
+Ian Fried has been in the field of science and sustainability education for the last 5 years. He currently works at BioBus, a non-profit that promotes science education in New York City through their two mobile laboratories. He taught in public, charter and private schools in NYC and North India. After being back in the US, he decided he was going to try to send Zero Waste to landfills in his everyday life.  
+
+[Ed Bear](http://www.exitrip.org/Main.html) is a performing artist and engineer. His work with robotics, sound, video, transmission and collective improvisation investigates the questionable calibration of perception. As an educator and designer committed to an open source world, he researches and practices material reuse and as a civil responsibility.
 
 
+More speakers and facilitators to be announced. 
 
 ### How can I participate? 
  
