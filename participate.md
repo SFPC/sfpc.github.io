@@ -17,8 +17,6 @@ slides:
 - [Code Ecologies](http://sfpc.io/codeecologies) on December 15 
 
 
- 
-
 ## Code Societies Winter 2019 is now open 
 
 <div class="alert alert-success" role="alert">Apply Now <a href="/codesocieties-winter-19/"> competitive rolling admissions.</a>
@@ -31,6 +29,21 @@ slides:
 SFPC’s Code Societies, our winter intensive session, will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.
 
 Subscribe to our mailing list at the bottom of this page for enrollment announcements.
+
+
+
+## Call for Students: Code Paper Scissors
+
+<div class="alert alert-success" role="alert">Apply Now <a href="/codepaper/"> competitive rolling admissions.</a>
+</div> 
+
+- Two-Week Session, Monday February 4th - Sunday February 17th, 2019
+- SFPC, 155 Bank street, West Village, NYC
+- 6:30pm - 9:30pm, Evening Classes
+
+How can we reimagine technology through paper? Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft, SFPC's two-week session will explore the wide variety of ways that a piece of paper can produce function.
+
+
 
 ## Spring 2019 Call is now closed
 
