@@ -27,7 +27,7 @@ Kelli Anderson - This Book is a Camera
 - Experience using paper to tap into physical forces in the world in order to produce function
 - A thorough discussion of what paper-based disciplines can bring to 21st century tech problems 
 - An introduction to prototyping methods, equipment, code-based modeling and testing strategies
-- Ab untroduction to silkscreened electronics 
+- An introduction to silkscreened electronics 
 - As a class, creating a physical and virtual toolkit of paper simple machines
 
 Students will have access to resources and mentorship by leading practitioners in the field to create ambitious paper projects. We want to encourage students to invent new folding-as-tech projects that no one has seen before or reinvent ancient techniques anew with software and hardware. No prior coding or craft experience is necessary. Admissions is based on essay and previous work samples. Our work will be showcased on the final class on 2.17.
