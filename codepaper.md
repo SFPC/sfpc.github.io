@@ -2,7 +2,6 @@
 title: Code Paper Scissors
 layout: participate
 slides:
- - "/static/img/codepaper/camera.jpg"
  - "/static/img/codepaper/miura.jpg"
  - "/static/img/codepaper/robbyorigami.jpg"
  - "/static/img/codepaper/origamizer.jpg"
@@ -10,14 +9,17 @@ slides:
 
 ## Call for Students: Code Paper Scissors
 
-- Two-Week Session, Monday February 4th - Sunday February 17th
+- Two-Week Session, Monday February 4th - Sunday February 17th, 2019
 - SFPC, 155 Bank street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
 - [**Apply now!**](https://airtable.com/shrQBGNmSqYLK6q1p) competitive rolling admissions
 
-How much of the world's tech can be reimagined in paper? Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft, SFPC's two-week session will explore the wide variety of ways that a piece of paper can produce function.
+How can we reimagine technology through paper? Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft, SFPC's two-week session will explore the wide variety of ways that a piece of paper can produce function.
 
 When we fold, we imbue an inert material with pattern, structure, animation, function, and interface. Folded structures give us a means to touch and manipulate difficult problems—offering an inroad for applying physical intuition to abstractions. Folded systems scale: They may be shrunken-down for nanotech applications or up to scale of spacecraft. Physical prototyping offers a nimble back-and-forth between digital and physical realms, allowing ideas to be quickly tested against physical forces. 
+
+![](/static/img/codepaper/camera.jpg)
+Kelli Anderson - This Book is a Camera 
 
 ### Course objectives include:
 
@@ -25,10 +27,12 @@ When we fold, we imbue an inert material with pattern, structure, animation, fun
 - Experience using paper to tap into physical forces in the world in order to produce function
 - A thorough discussion of what paper-based disciplines can bring to 21st century tech problems 
 - An introduction to prototyping methods, equipment, code-based modeling and testing strategies
-- And introduction to silkscreened electronics 
+- Ab untroduction to silkscreened electronics 
 - As a class, creating a physical and virtual toolkit of paper simple machines
 
-Students will have the time, resources and mentorship by leading practitioners in the field to create ambitious paper projects. We want to encourage students to invent new folding-as-tech projects that no one has seen before (or reinvent ancient techniques anew with software and hardware.) No prior coding or craft experience is necessary. Admissions is based on essay and previous work samples. Our work will be showcased on the final class on 2.17.
+Students will have access to resources and mentorship by leading practitioners in the field to create ambitious paper projects. We want to encourage students to invent new folding-as-tech projects that no one has seen before or reinvent ancient techniques anew with software and hardware. No prior coding or craft experience is necessary. Admissions is based on essay and previous work samples. Our work will be showcased on the final class on 2.17.
+
+*“The distant universe and our immediate world can both be found in paper.” – Kenya Hara*
 
 
 ### Who are the teachers?
@@ -37,15 +41,23 @@ Students will have the time, resources and mentorship by leading practitioners i
 - [**Simon Azripe**](https://www.pratt.edu/faculty_and_staff/bio/?id=sarizpe) (*1 Classe*) - Simon is a paper engineer and illustrator. His pop-up book work has received the Award of Excellence from the Society of Illustrators and the Museum of Comic Book Art and Cartooning. The Smithsonian's Cooper-Hewitt Design Museum Library and the Columbia University Library have acquired his work for their rare book collections.
 - [**Pam Liou**](http://pamelaliou.com/) (*1 Class*) - Pam is a computational designer and writer living in Brooklyn, NY. Her work examines tensions between craftsmanship, technology and commerce, revealing the hidden sociopolitical infrastructures undergirding human industry. Her research centers around recoupling the consumer with the producer through design literacy and mass customization, fostering intimacy and efficacy through a dialectical creation process.
 - [**Coralie Gourguechon**](https://www.coraliegourguechon.fr/) (*1 Class*) - Coralie Gourguechon is a designer and a paper electronics maker. Her projects aim to to demystify electronics by simplifying the execution of simple circuits in a graphical way and using paper.
-- [**Taeyoon Choi**](http://taeyoonchoi.com/) (*Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, a former fellow at Data and Society and an adjunct professor at NYU ITP. In 2018, Taeyoon is working on Distributed Web of Care and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
+- [**Taeyoon Choi**](http://taeyoonchoi.com/) (*Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, an adjunct professor at NYU ITP and a former fellow at Data and Society. In 2018, Taeyoon is working on Distributed Web of Care and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 
 - 10 class days in total with a final presentation. More teachers and speakers to be announced!
 
-![](/static/img/codepaper/popup.gif)
+## Sample works by the teachers: 
 
+![](/static/img/codepaper/coralie.jpg)
+Coralie Gourguechon - Paper electronic modules
+
+![](/static/img/codepaper/popup.gif)
+Kelli Anderson - Pop up prototype
+
+![](/static/img/codepaper/origami-live-fold.gif)
+Robby Kraft - Origamic creative coding library
 
 ### What will happen in these two weeks?
-Classes are held in the evenings Monday-Friday from 6:30-9:30pm. SFPC space will be open for students on weekdays between 4pm-6pm. The session will culminate in a party on the evening of Sunday February 27th, where students can invite their friends and present their favorite projects.
+Classes are held in the evenings Monday-Friday from 6:30-9:30pm, 2019. SFPC space will be open for students on weekdays between 4pm-6pm. The session will culminate in a party on the evening of Sunday February 27th, where students can invite their friends and present their favorite projects.
 
 Students will have full access to the space during open hours for the three weeks of the session to work on projects between classes and mentors will be readily available for technical, conceptual, and artistic guidance.
 
