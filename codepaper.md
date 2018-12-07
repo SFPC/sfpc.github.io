@@ -23,12 +23,11 @@ Kelli Anderson - This Book is a Camera
 
 ### Course objectives include:
 
-- Using paper to give physical form to abstract concepts and make invisible forces in the world tangible
-- Experience using paper to tap into physical forces in the world in order to produce function
-- A thorough discussion of what paper-based disciplines can bring to 21st century tech problems 
+- Using paper to give physical form to abstract concepts and make invisible forces in the world tangible and produce function
+- A deep dive into origami design, including classical and modern computational design
+- Learn how folding can be used to augment or replace traditional engineering methods
 - An introduction to prototyping methods, equipment, code-based modeling and testing strategies
-- An introduction to silkscreened electronics 
-- As a class, creating a physical and virtual toolkit of paper simple machines
+- An introduction to silkscreened electronics
 
 Students will have access to resources and mentorship by leading practitioners in the field to create ambitious paper projects. We want to encourage students to invent new folding-as-tech projects that no one has seen before or reinvent ancient techniques anew with software and hardware. No prior coding or craft experience is necessary. Admissions is based on essay and previous work samples. Our work will be showcased on the final class on 2.17.
 
@@ -36,11 +35,11 @@ Students will have access to resources and mentorship by leading practitioners i
 
 
 ### Who are the teachers?
-- [**Kelli Anderson**](http://kellianderson.com/) (*3 Classes - Co-Organizer*) - Kelli Anderson is a designer/paper engineer who draws, photographs, cuts, prints, codes, and creates stop-motion videos. She is also known for her work for NPR, The New Yorker, Wired, and MoMA—as well as branding/space redesigns for Russ & Daughters and momofuku. Her books, This Book Is a Planetarium and This Book is a Camera, are collections of functional pop-up contraptions that elucidate scientific principles in tactile terms.
-- [**Robby Kraft**](https://www.robbykraft.com/) (*3 Classes - Co-Organizer, On-Site Support*) - Robby is an origami artist, creative engineer, instructor, and toolmaker. He's the creator of Rabbit Ear, the origami software design tool, and is proficient in all disciplines of origami including design, mathematics and software simulation, and rigid folding and thick materials. 
-- [**Simon Azripe**](https://www.pratt.edu/faculty_and_staff/bio/?id=sarizpe) (*1 Classe*) - Simon is a paper engineer and illustrator. His pop-up book work has received the Award of Excellence from the Society of Illustrators and the Museum of Comic Book Art and Cartooning. The Smithsonian's Cooper-Hewitt Design Museum Library and the Columbia University Library have acquired his work for their rare book collections.
-- [**Pam Liou**](http://pamelaliou.com/) (*1 Class*) - Pam is a computational designer and writer living in Brooklyn, NY. Her work examines tensions between craftsmanship, technology and commerce, revealing the hidden sociopolitical infrastructures undergirding human industry. Her research centers around recoupling the consumer with the producer through design literacy and mass customization, fostering intimacy and efficacy through a dialectical creation process.
-- [**Coralie Gourguechon**](https://www.coraliegourguechon.fr/) (*1 Class*) - Coralie Gourguechon is a designer and a paper electronics maker. Her projects aim to to demystify electronics by simplifying the execution of simple circuits in a graphical way and using paper.
+- [**Kelli Anderson**](http://kellianderson.com/) (*Co-Organizer*) - Kelli Anderson is a designer/paper engineer who draws, photographs, cuts, prints, codes, and creates stop-motion videos. She is also known for her work for NPR, The New Yorker, Wired, and MoMA—as well as branding/space redesigns for Russ & Daughters and momofuku. Her books, This Book Is a Planetarium and This Book is a Camera, are collections of functional pop-up contraptions that elucidate scientific principles in tactile terms.
+- [**Robby Kraft**](https://www.robbykraft.com/) (*Co-Organizer, On-Site Support*) - Robby is an origami artist, creative engineer, instructor, and toolmaker. He's the creator of Rabbit Ear, the origami software design tool, and is proficient in all disciplines of origami including design, mathematics and software simulation, and rigid folding and thick materials. 
+- [**Simon Azripe**](https://www.pratt.edu/faculty_and_staff/bio/?id=sarizpe) - Simon is a paper engineer and illustrator. His pop-up book work has received the Award of Excellence from the Society of Illustrators and the Museum of Comic Book Art and Cartooning. The Smithsonian's Cooper-Hewitt Design Museum Library and the Columbia University Library have acquired his work for their rare book collections.
+- [**Pam Liou**](http://pamelaliou.com/) - Pam is a computational designer and writer living in Brooklyn, NY. Her work examines tensions between craftsmanship, technology and commerce, revealing the hidden sociopolitical infrastructures undergirding human industry. Her research centers around recoupling the consumer with the producer through design literacy and mass customization, fostering intimacy and efficacy through a dialectical creation process.
+- [**Coralie Gourguechon**](https://www.coraliegourguechon.fr/) - Coralie Gourguechon is a designer and a paper electronics maker. Her projects aim to to demystify electronics by simplifying the execution of simple circuits in a graphical way and using paper.
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, an adjunct professor at NYU ITP and a former fellow at Data and Society. In 2018, Taeyoon is working on Distributed Web of Care and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 
 - 10 class days in total with a final presentation. More teachers and speakers to be announced!
