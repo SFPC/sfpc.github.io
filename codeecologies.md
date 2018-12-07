@@ -50,6 +50,19 @@ Event is free and open to all. [Registration](https://www.eventbrite.com/e/code-
 
 We will provide ASL interpretation, Real Time Captioning and support participants disability and access needs. If you have any access needs, please describe on the registration form. If you have specific questions, please contact Taeyoon Choi at (taeyoon@sfpc.io)
 
+### Suggested readings 
+
+- 	[Computing, Climate Change, and All Our Relationships](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships) by Nabil Hassein  
+- [Your Data Is Dirty: The Carbon Price of Cloud Computing](http://time.com/46777/your-data-is-dirty-the-carbon-price-of-cloud-computing/) - Bryan Walsh 
+- [Tossed aside in the 'White Gold' rush](https://www.washingtonpost.com/graphics/business/batteries/tossed-aside-in-the-lithium-rush/?noredirect=on) -  Todd C. Frankel and Peter Whoriskey
+- [On the Rare Earth Frontier](http://digitalassets.lib.berkeley.edu/etd/ucb/text/Klinger_berkeley_0028E_15409.pdf) - Julie Michelle Klinger
+- [Neodymium. Magnets: How Do They Work?](https://popula.com/2018/07/30/neodymium/) - Ingrid Burrington 
+- [Terraforms or how to talk about the weather](http://dingdingding.org/issue-2/terraforms-or-how-to-talk-about-the-weather/) - Ingrid Burrington 
+- [Handmade Computer and The Toaster Project](http://taeyoonchoi.com/poetic-computation/thomas-thwaites-and-taeyoon-choi/) - Thomas Thwaites and Taeyoon Choi
+- [The Year in Weather](https://www.artforum.com/print/201710/the-year-in-weather-72467) - Keller Easterling  
+- [Are Disability Rights and Animal Rights Connected?](https://www.newyorker.com/culture/persons-of-interest/are-disability-rights-and-animal-rights-connected) - Joshua Rothman
+- [Park MacArthur](https://bombmagazine.org/articles/park-mcarthur/) - Jennifer Burris 
+
 ### What is expected of me?
 
 - Read the suggested articles in advance, provided upon registration
