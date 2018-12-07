@@ -48,13 +48,16 @@ Students will have access to resources and mentorship by leading practitioners i
 ## Sample works by the teachers: 
 
 ![](/static/img/codepaper/coralie.jpg)
+
 Coralie Gourguechon - Paper electronic modules
 
 ![](/static/img/codepaper/popup.gif)
+
 Kelli Anderson - Pop up prototype
 
 ![](/static/img/codepaper/kraft-space-filling-origami.gif)
-Robby Kraft - 3D-space filling origami
+
+Robby Kraft - 3D-space filling origami in [origami simulator](http://apps.amandaghassaei.com/OrigamiSimulator/)
 
 ### What will happen in these two weeks?
 Classes are held in the evenings Monday-Friday from 6:30-9:30pm, 2019. SFPC space will be open for students on weekdays between 4pm-6pm. The session will culminate in a party on the evening of Sunday February 27th, where students can invite their friends and present their favorite projects.
