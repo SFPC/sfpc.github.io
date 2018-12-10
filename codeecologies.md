@@ -70,6 +70,7 @@ If you want to participate remotely via shared documents, chat channel and video
 - [Are Disability Rights and Animal Rights Connected?](https://www.newyorker.com/culture/persons-of-interest/are-disability-rights-and-animal-rights-connected) - Joshua Rothman
 - [Park MacArthur](https://bombmagazine.org/articles/park-mcarthur/) - Jennifer Burris 
 - [Ethics and Archiving the Web](http://distributedweb.care/posts/eaw/) - Distributed Web of Care 
+- [The Environment is Not a System](http://www.aprja.net/the-environment-is-not-a-system/) - Tega Brain
 
 ### What is expected of me?
 
