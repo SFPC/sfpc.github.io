@@ -1,5 +1,5 @@
 ---
-title: codeecologies
+title: Code Ecologies
 layout: participate2
 
 ---
@@ -10,18 +10,23 @@ layout: participate2
 - School for Poetic Computation, 155 Bank St, NYC
 - [Free Registration](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164), Limited seating
 - ASL interpretation, Real Time Captioning, disability and access needs will be supported
-- A portion of the event will be live-streamed  
-
+- A portion of the event will be live-streamed and open for remote participation  
  
 Code Ecologies is an open forum to explore the environmental impact of computation. This public event is organized by a group of faculty and alumni from the School for Poetic Computation who are passionate about environmental justice. Through presentations and discussions, we will explore the negative influence of computational technologies and network infrastructure on the natural environment, and the precarious conditions they create for the habitat we share among various species.
 
 “Digital” is falsely seen as virtual or non physical, when in fact “cloud computing” doesn't happen in the clouds -- there are massive data centers, cooling facilities, fiber optic cables, mineral extraction, electronic waste, and other physical infrastructures. On the other side of the arms race for smarter and faster AI, there's a lack of understanding and accountability -- individual or organizational -- for how our use of machine learning, blockchain or 'whatever new' impacts the Earth. Tech companies offer forgiveness and even encouragement for misusing and abusing electronic devices, for example on Black Friday. Online services and apps create an illusion of seamless interaction between computational devices and data which evaporate into thin air after their life cycles. None of this make-believe is true. We need to challenge the disparity between the conveniences of smart devices, and our complicity with destructive technology, as users and creators.  
 
 At the School for Poetic Computation, we approach code from artistic, poetic, critical and philosophical perspectives. Considering how poetry explores the transformative qualities of the language and computation enables transfer of information at scale, we hope to bring together activists, poets, scientists, artists and community members to discuss "What should we do about it?" 
-
-Co-organized by [Taeyoon Choi](http://taeyoonchoi.com), [Nabil Hassein](https://nabilhassein.github.io/) and [Sonia Boller](https://soniaboller.herokuapp.com/). 
-
+ 
 Image by Sonia Boller. 
+
+### Co-organizers 
+
+[Taeyoon Choi](http://taeyoonchoi.com) is an artist, a co-founder of School for Poetic Computation, 2017-2018 fellow at Data and Society. Taeyoon is researching distributed network with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood. 
+
+[Nabil Hassein](https://nabilhassein.github.io/) has worked professionally as a software developer and a public school teacher, and has also done grassroots political organizing in New York City, primarily for police and prison abolition.
+
+[Sonia Boller](https://soniaboller.herokuapp.com/) is passionate about creating immersive, interactive experiences. She worked with non-profit organizations to help them manage and visualize their data, and loves the idea of making complex data simpler through visualizations.
 
 ### Speakers and facilitators 
 
@@ -35,7 +40,7 @@ University of New York, Purchase College.
 
 [Odile Joannette](http://www.wapikoni.ca/home) is the executive director of Wapikoni Mobile. She has been an advocate for Indigenous rights for close to 20 years, striving to improve the quality of life of Aboriginal people. She serves on the Order of Montreal's Board and has been handpicked to be one of 15 members of Montreal's Table on Diversity, Inclusion and the Fight Against Discrimination. She is a founding member and administrator of both DestiNATIONS: Carrefour International of Indigenous Arts and Cultures, and the Montreal Urban Aboriginal Community Strategy NETWORK. 
 
-Ian Fried has been in the field of science and sustainability education for the last 5 years. He currently works at BioBus, a non-profit that promotes science education in New York City through their two mobile laboratories. He taught in public, charter and private schools in NYC and North India. After being back in the US, he decided he was going to try to send Zero Waste to landfills in his everyday life.  
+Ian Fried has been in the field of science and sustainability education for the last 5 years. He currently works at [BioBus](http://www.biobus.org/), a non-profit that promotes science education in New York City through their two mobile laboratories. He taught in public, charter and private schools in NYC and North India. After being back in the US, he decided he was going to try to send Zero Waste to landfills in his everyday life.  
 
 [Ed Bear](http://www.exitrip.org/Main.html) is a performing artist and engineer. His work with robotics, sound, video, transmission and collective improvisation investigates the questionable calibration of perception. As an educator and designer committed to an open source world, he researches and practices material reuse and as a civil responsibility.
 
@@ -44,11 +49,13 @@ More speakers and facilitators to be announced.
 
 ### How can I participate? 
  
-Event is free and open to all. [Registration](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164) is open. 
+Event is free and open to all. [RSVP](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164)
 
 ### Is the event accessible?
 
-We will provide ASL interpretation, Real Time Captioning and support participants disability and access needs. If you have any access needs, please describe on the registration form. If you have specific questions, please contact Taeyoon Choi at (taeyoon@sfpc.io)
+We will provide ASL interpretation, Real Time Captioning and support participants disability and access based on needs. If you have any access needs, please describe on the registration form. 
+
+If you want to participate remotely via shared documents, chat channel and video, please contact the organizers via Taeyoon Choi at (taeyoon@sfpc.io)
 
 ### Suggested readings 
 
@@ -62,6 +69,7 @@ We will provide ASL interpretation, Real Time Captioning and support participant
 - [The Year in Weather](https://www.artforum.com/print/201710/the-year-in-weather-72467) - Keller Easterling  
 - [Are Disability Rights and Animal Rights Connected?](https://www.newyorker.com/culture/persons-of-interest/are-disability-rights-and-animal-rights-connected) - Joshua Rothman
 - [Park MacArthur](https://bombmagazine.org/articles/park-mcarthur/) - Jennifer Burris 
+- [Ethics and Archiving the Web](http://distributedweb.care/posts/eaw/) - Distributed Web of Care 
 
 ### What is expected of me?
 
@@ -71,7 +79,7 @@ We will provide ASL interpretation, Real Time Captioning and support participant
 
 ### Will there be live-streaming?
 
-A portion of the presentations will be live-streamed and recorded. Please follow [SFPC YouTube channel](https://www.youtube.com/channel/UCJRxMPL2ZgzjLEemfFwmbPg).
+A portion of the presentations will be live-streamed and recorded. Please follow [SFPC YouTube channel](https://www.youtube.com/watch?v=BsN_2oYnbLo).
 
 ### Where is SFPC?
 
@@ -79,7 +87,7 @@ We are located in 155 Bank street, in the courtyard of the Westbeth Artists Comm
 
 ### Contact Us
 
-Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions.
+Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions, press inquiries and sponsorship opportunities. 
 
 ### Special thanks 
 
