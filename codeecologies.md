@@ -9,7 +9,7 @@ layout: participate2
 - December 15, 2018. 1~6pm 
 - School for Poetic Computation, 155 Bank St, NYC
 - [Free Registration](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164), Limited seating
-- ASL interpretation, Real Time Captioning, disability and access needs will be supported
+- Real Time Captioning, disability and access needs will be supported
 - A portion of the event will be live-streamed and open for remote participation  
  
 Code Ecologies is an open forum to explore the environmental impact of computation. This public event is organized by a group of faculty and alumni from the School for Poetic Computation who are passionate about environmental justice. Through presentations and discussions, we will explore the negative influence of computational technologies and network infrastructure on the natural environment, and the precarious conditions they create for the habitat we share among various species.
@@ -44,6 +44,8 @@ Ian Fried has been in the field of science and sustainability education for the 
 
 [Ed Bear](http://www.exitrip.org/Main.html) is a performing artist and engineer. His work with robotics, sound, video, transmission and collective improvisation investigates the questionable calibration of perception. As an educator and designer committed to an open source world, he researches and practices material reuse and as a civil responsibility.
 
+[Anne Pasek](https://twitter.com/aepasek) is a doctoral student of media studies. Her research tracks changing relations to carbon across media, historical periods, and contemporary scales & sites across the globe. Her wider interests include social reproduction feminism, STS, and both old & new materialisms.  
+
 
 More speakers and facilitators to be announced. 
 
@@ -51,11 +53,13 @@ More speakers and facilitators to be announced.
  
 Event is free and open to all. [RSVP](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164)
 
+If you'd like to volunteer on 12/14 or 12/15, we are looking for help with note-taking, installation and facilitation. Please contact Sonia Boller at (soniaboller@gmail.com)
+
 ### Is the event accessible?
 
-We will provide ASL interpretation, Real Time Captioning and support participants disability and access based on needs. If you have any access needs, please describe on the registration form. 
+We will provide Real Time Captioning and support participants disability and access based on needs. If you have any access needs, please describe on the registration form. 
 
-If you want to participate remotely via shared documents, chat channel and video, please contact the organizers via Taeyoon Choi at (taeyoon@sfpc.io)
+If you want to participate remotely via shared documents, chat channel and video, please contact the organizers via Nabil Hassein at (nabil.hassein@gmail.com)
 
 ### Suggested readings 
 
@@ -74,25 +78,29 @@ If you want to participate remotely via shared documents, chat channel and video
 
 ### What is expected of me?
 
-- Read the suggested articles in advance, provided upon registration
-- Adhere to the SFPC Code of Conduct, provided upon registration
+- Read the suggested articles in advance, provided upon registration.
+- Adhere to the SFPC Code of Conduct, provided upon registration.
+- Actively participate in group discussion during break out sessions.
 
 
 ### Will there be live-streaming?
 
 A portion of the presentations will be live-streamed and recorded. Please follow [SFPC YouTube channel](https://www.youtube.com/watch?v=BsN_2oYnbLo).
 
+Video, photo and text documentation will be published after the event. 
+
 ### Where is SFPC?
 
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City. The event is happening at SFPC and Michelson Studio on the top floor of SFPC. Detailed instruction will be provided upon registration. 
 
 ### Contact Us
 
-Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions, press inquiries and sponsorship opportunities. 
+Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions, press inquiries and sponsorship opportunities –  
+[Press release](https://github.com/SFPC/sfpc.github.io/blob/master/static/img/press/codeecologies.pdf).
 
 ### Special thanks 
 
-This event is made possible through the generous support from the [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/) Flash Grant and Astra Taylor. 
+This event is made possible through the generous support from the [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/) Flash Grant, Astra Taylor, friends and volunteers of SFPC community.  
 
 
 ![](/static/img/participate/shuttleworth.jpg )
