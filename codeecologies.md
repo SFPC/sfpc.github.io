@@ -1,6 +1,6 @@
 ---
 title: Code Ecologies
-layout: participate2
+layout: codeecologies
 
 ---
 
