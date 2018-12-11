@@ -93,9 +93,14 @@ Video, photo and text documentation will be published after the event.
 
 We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City. The event is happening at SFPC and Michelson Studio on the top floor of SFPC. Detailed instruction will be provided upon registration. 
 
+
+### Social media
+
+Please use #codeecologies hashtag. 
+
 ### Contact Us
 
-Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions, interview inquiries,[press release](https://github.com/SFPC/sfpc.github.io/blob/master/static/img/press/codeecologies.pdf) and sponsorship opportunities. 
+Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions, interview inquiries, [press release](https://github.com/SFPC/sfpc.github.io/blob/master/static/img/press/codeecologies.pdf) and sponsorship opportunities. 
 
 
 ### Special thanks 
