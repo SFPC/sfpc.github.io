@@ -95,8 +95,8 @@ We are located in 155 Bank street, in the courtyard of the Westbeth Artists Comm
 
 ### Contact Us
 
-Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions, press inquiries and sponsorship opportunities –  
-[Press release](https://github.com/SFPC/sfpc.github.io/blob/master/static/img/press/codeecologies.pdf).
+Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions, interview inquiries,[press release](https://github.com/SFPC/sfpc.github.io/blob/master/static/img/press/codeecologies.pdf) and sponsorship opportunities. 
+
 
 ### Special thanks 
 
