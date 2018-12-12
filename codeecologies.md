@@ -46,9 +46,11 @@ Ian Fried has been in the field of science and sustainability education for the 
 
 [Anne Pasek](https://twitter.com/aepasek) is a doctoral student of media studies. Her research tracks changing relations to carbon across media, historical periods, and contemporary scales & sites across the globe. Her wider interests include social reproduction feminism, STS, and both old & new materialisms.  
 
+[Ritwick Ghosh](https://ritwickghosh.com/) is a post-doctoral fellow in the Department of Environmental Studies in New York University (NYU). Ritwick studies how public and private institutions harness the power of information to both advance, resist, and perform economically rational environmental policy strategies. 
 
-More speakers and facilitators to be announced. 
-
+[Cori Kresge](http://www.cornfielddance.org/about/collaborators/view/Cori-Kresge/) is a NYC based dancer and teacher. She has a BFA in dance from SUNY Purchase and the Dean’s Award for “breaking the mold.” In 2005 Kresge received a Darmasiswa International Scholarship, studying Balinese dance in Indonesia. She has been a member of the Merce Cunningham Repertory Understudy Group, José Navas/Compagnie Flak, and Stephen Petronio Company. 
+ 
+ 
 ### How can I participate? 
  
 Event is free and open to all. [RSVP](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164)
