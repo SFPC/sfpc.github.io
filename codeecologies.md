@@ -35,8 +35,7 @@ Image by Sonia Boller.
 [Jamie Tyberg](https://twitter.com/jtbrg) is a Brooklyn-based movement fundraiser and climate activist. Born in South Korea, Jamie immigrated to the United States in 2002 and currently serves as the Development Director for New York Communities for Change, a grassroots organization of low-income members fighting against racial oppression and economic injustice. Jamie also helped found the National Ecosocialist Working Group of the Democratic Socialists of America, building a robust network of climate activists and organizers across the nation to combat the climate crisis.
 
 [Elizabeth Guffey](https://www.purchase.edu/live/profiles/498-elizabeth-guffey) works at the intersection of art, design and disability studies. Her book Designing Disability: Symbols, Space and Society (Bloomsbury) that designs like the
-International Symbol of Access or “wheelchair symbol” can alter the environment, making people more disabled or less, depending on the design’s planning and use. She is also Founding Editor of the academic journal Design and Culture. Guffey currently heads the MA in Modern and Contemporary Art, Criticism and Theory at the State
-University of New York, Purchase College.
+International Symbol of Access or “wheelchair symbol” can alter the environment, making people more disabled or less, depending on the design’s planning and use. She is also Founding Editor of the academic journal Design and Culture. Guffey currently heads the MA in Modern and Contemporary Art, Criticism and Theory at the State University of New York, Purchase College.
 
 [Odile Joannette](http://www.wapikoni.ca/home) is the executive director of Wapikoni Mobile. She has been an advocate for Indigenous rights for close to 20 years, striving to improve the quality of life of Aboriginal people. She serves on the Order of Montreal's Board and has been handpicked to be one of 15 members of Montreal's Table on Diversity, Inclusion and the Fight Against Discrimination. She is a founding member and administrator of both DestiNATIONS: Carrefour International of Indigenous Arts and Cultures, and the Montreal Urban Aboriginal Community Strategy NETWORK. 
 
@@ -49,8 +48,10 @@ Ian Fried has been in the field of science and sustainability education for the 
 [Ritwick Ghosh](https://ritwickghosh.com/) is a post-doctoral fellow in the Department of Environmental Studies in New York University (NYU). Ritwick studies how public and private institutions harness the power of information to both advance, resist, and perform economically rational environmental policy strategies. 
 
 [Cori Kresge](http://www.cornfielddance.org/about/collaborators/view/Cori-Kresge/) is a NYC based dancer and teacher. She has a BFA in dance from SUNY Purchase and the Dean’s Award for “breaking the mold.” In 2005 Kresge received a Darmasiswa International Scholarship, studying Balinese dance in Indonesia. She has been a member of the Merce Cunningham Repertory Understudy Group, José Navas/Compagnie Flak, and Stephen Petronio Company. 
+
+[Brian House](http://brianhouse.net) is an artist who investigates more-than-human temporalities. He recently completed a PhD in Computer Music and Multimedia at Brown University and is currently a Mellon Associate Research Scholar at Columbia University's Center for Spatial Research.
  
- 
+
 ### How can I participate? 
  
 Event is free and open to all. [RSVP](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164)
@@ -77,6 +78,7 @@ If you want to participate remotely via shared documents, chat channel and video
 - [Park MacArthur](https://bombmagazine.org/articles/park-mcarthur/) - Jennifer Burris 
 - [Ethics and Archiving the Web](http://distributedweb.care/posts/eaw/) - Distributed Web of Care 
 - [The Environment is Not a System](http://www.aprja.net/the-environment-is-not-a-system/) - Tega Brain
+- [Survival of the Richest](https://medium.com/s/futurehuman/survival-of-the-richest-9ef6cddd0cc1) – Douglas Rushkoff
 
 ### What is expected of me?
 
