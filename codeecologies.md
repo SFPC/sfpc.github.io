@@ -51,6 +51,8 @@ Ian Fried has been in the field of science and sustainability education for the 
 
 [Brian House](http://brianhouse.net) is an artist who investigates more-than-human temporalities. He recently completed a PhD in Computer Music and Multimedia at Brown University and is currently a Mellon Associate Research Scholar at Columbia University's Center for Spatial Research.
  
+[Evan Tachovsky](https://etachov.io/) is a data scientist and program officer at the Rockefeller Foundation. Evan builds and adapts computational, organizational, and financial machines to reduce inequity.
+
 
 ### How can I participate? 
  
