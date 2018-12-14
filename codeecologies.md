@@ -81,6 +81,15 @@ If you want to participate remotely via shared documents, chat channel and video
 - [The Environment is Not a System](http://www.aprja.net/the-environment-is-not-a-system/) - Tega Brain
 - [Survival of the Richest](https://medium.com/s/futurehuman/survival-of-the-richest-9ef6cddd0cc1) – Douglas Rushkoff
 
+Special selection of films from [Wapikoni](http://www.wapikoni.ca)
+
+- [FINDING THE LIGHT (TROUVER LA LUMIÈRE)](http://www.wapikoni.ca/films/finding-the-light) 
+- [NUHE NENË BOGHÍLNÍH (PROTECTING OUR HOMELAND)](http://www.wapikoni.ca/movies/nuhe-nene-boghilnih-protecting-our-homeland)
+- [AIRSTRIP - UPROOTING A NATION](http://www.wapikoni.ca/movies/airstrip)
+- [ONICKAKW - WAKE UP!](http://www.wapikoni.ca/movies/onickakw)
+- [ONACTASOWIN](http://www.wapikoni.ca/movies/onactasowin)
+- [OUR LAND](http://www.wapikoni.ca/movies/our-land)
+
 ### What is expected of me?
 
 - Read the suggested articles in advance, provided upon registration.
