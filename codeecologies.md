@@ -7,8 +7,8 @@ layout: codeecologies
 ![](/static/img/participate/codeecologies.jpg )
 
 - December 15, 2018. 1~6pm 
-- School for Poetic Computation, 155 Bank St, NYC
-- [Free Registration](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164), Limited seating
+- School for Poetic Computation and the Michelson Studio, 155 Bank St, NYC
+- Free event. Registration is full with a [waitlist](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164), Limited seating
 - Real Time Captioning, disability and access needs will be supported
 - A portion of the event will be live-streamed and open for remote participation  
  
@@ -47,16 +47,15 @@ Ian Fried has been in the field of science and sustainability education for the 
 
 [Ritwick Ghosh](https://ritwickghosh.com/) is a post-doctoral fellow in the Department of Environmental Studies in New York University (NYU). Ritwick studies how public and private institutions harness the power of information to both advance, resist, and perform economically rational environmental policy strategies. 
 
-[Cori Kresge](http://www.cornfielddance.org/about/collaborators/view/Cori-Kresge/) is a NYC based dancer and teacher. She has a BFA in dance from SUNY Purchase and the Dean’s Award for “breaking the mold.” In 2005 Kresge received a Darmasiswa International Scholarship, studying Balinese dance in Indonesia. She has been a member of the Merce Cunningham Repertory Understudy Group, José Navas/Compagnie Flak, and Stephen Petronio Company. 
-
 [Brian House](http://brianhouse.net) is an artist who investigates more-than-human temporalities. He recently completed a PhD in Computer Music and Multimedia at Brown University and is currently a Mellon Associate Research Scholar at Columbia University's Center for Spatial Research.
  
 [Evan Tachovsky](https://etachov.io/) is a data scientist and program officer at the Rockefeller Foundation. Evan builds and adapts computational, organizational, and financial machines to reduce inequity.
 
+[Cori Kresge](http://www.cornfielddance.org/about/collaborators/view/Cori-Kresge/) is a NYC based dancer, collaborator, writer, and teacher. Kresge graduated from SUNY Purchase with a BFA in dance and the Dean's Award. In 2016 Kresge staged Cunningham's Field Dances, an improvisational score, on students of CNDC, Angers, France. She has also been a member of José Navas/Compagnie Flak, and Stephen Petronio Company. Kresge currently collaborates and performs with various artists including Rashaun Mitchell+Silas Riener, Liz Magic Laser, Rebecca Lazier and more. 
 
 ### How can I participate? 
  
-Event is free and open to all. [RSVP](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164)
+Free event. Registration is full with a [waitlist](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164), Limited seating
 
 If you'd like to volunteer on 12/14 or 12/15, we are looking for help with note-taking, installation and facilitation. Please contact Sonia Boller at (soniaboller@gmail.com)
 
@@ -108,6 +107,9 @@ Please use #codeecologies hashtag.
 
 Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions, interview inquiries, [press release](https://github.com/SFPC/sfpc.github.io/blob/master/static/img/press/codeecologies.pdf) and sponsorship opportunities. 
 
+### Donation
+
+Please support this event by making a donation. [Paypal](https://www.paypal.com/donate/?token=ihPzc3jTMzWmjszitiF6nVxDftt35fW_fXVjvwKLUL134hgHOJfcP9V1iaZrOooH-J3Cl0&country.x=US&locale.x=US) and cash donation will be accepted at the registration.
 
 ### Special thanks 
 
