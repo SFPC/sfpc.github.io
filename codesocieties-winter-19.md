@@ -69,7 +69,7 @@ Read blog postings from [Code Societies 2018](https://github.com/SFPC/codesociet
 - [Code Societies Summer 2018: Student Showcase](https://medium.com/sfpc/code-societies-2018-student-showcase-df35e9c95b71)
 
 ### How do I apply?
-**Applications are now closed**
+Applications are now closed
 
 We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
