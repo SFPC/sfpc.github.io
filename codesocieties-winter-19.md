@@ -19,7 +19,7 @@ slides:
 - Three-Week Session, Monday January 7th - Saturday January 26th
 - SFPC, 155 Bank street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
-- [**Apply now!**](https://airtable.com/shrbFALyK5MRnXpP1), competitive rolling admissions.
+- **Applications are now closed**
 
 
 SFPC’s Code Societies, our winter intensive session, will examine the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.
@@ -33,7 +33,7 @@ Student’s should expect to develop several small scores or sketch pieces that 
 ### Who are the teachers?
 - [**Melanie Hoff**](http://melanie-hoff.com/) (*2 Classes - Lead Organizer, On-Site Support*) - Artist and educator examining the role technology plays in social organization and reinforcing hegemonic structures. They write software, create experimental workshops, and teach at Rutgers University, the School for Poetic Computation, and are a founding member of the Cybernetics Library.
 - [**Allison Parrish**](http://www.decontextualize.com/) (*2 Classes*) - Allison is a computer programmer, poet, educator and game designer whose teaching and practice address the unusual phenomena that blossom when language and computers meet. She teaches at NYU's Interactive Telecommunications Program.
-- [**Ingrid Burrington**](http://lifewinning.com) (*2 Classes*) - Ingrid Burrington writes, makes maps, and tells jokes about places, politics, and the feelings people have about both. She’s the author of Networks of New York An Illustrated Field Guide to Urban Internet Infrastructure. Her work has been supported by Eyebeam, Data & Society, and the Center for Land Use Interpretation.
+- [**Ingrid Burrington**](lifewinning.com) (*2 Classes*) - Ingrid Burrington writes, makes maps, and tells jokes about places, politics, and the feelings people have about both. She’s the author of Networks of New York An Illustrated Field Guide to Urban Internet Infrastructure. Her work has been supported by Eyebeam, Data & Society, and the Center for Land Use Interpretation.
 - [**American Artist**](https://americanartist.us/) (*1 Class*) - American is an interdisciplinary artist whose work extends dialectics formalized in Black radicalism and organized labor into a context of networked virtual life. Their practice makes use of video, installation, new media, and writing to reveal historical dynamics embedded within contemporary culture and technology.
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*1 Class, Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, a former fellow at Data and Society and an adjunct professor at NYU ITP. In 2018, Taeyoon is working on [Distributed Web of Care](http://taeyoonchoi.com/soft-care/distributed-web-of-care/) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 - [**Everest Pipkin**](http://www.decontextualize.com/) (*1 Class*) - Everest is a drawing, language and software artist whose work follows landscape as complicated by the advent of digital space. They produce intimate work with large data sets.
