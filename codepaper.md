@@ -78,7 +78,7 @@ $2,000 USD for the 2-week program. You’ll also need to cover your own cost of 
 
 ### Do you offer scholarship?
 
-We are completely self-funded, which dramatically limits our ability to offer scholarships. In Code Societies, we are offering two work-study opportunity to a qualified applicant who would be expected to work 10 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, disabled person, people under-represented in the field of art + technology, and those with financial need.
+We are completely self-funded, which dramatically limits our ability to offer scholarships. In Code Paper Scissors, we are offering two work-study opportunity to a qualified applicant who would be expected to work 10 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, disabled person, people under-represented in the field of art + technology, and those with financial need.
 
 Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.  
 
