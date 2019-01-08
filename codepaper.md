@@ -3,7 +3,7 @@ title: Code Paper Scissors
 layout: participate
 slides:
  - "/static/img/codepaper/robbyorigami.jpg"
- - "/static/img/codepaper/miura-ori.jpg"
+ - "/static/img/codepaper/miura.jpg"
  - "/static/img/codepaper/voronoi-crease-pattern.png"
 ---
 
@@ -37,7 +37,7 @@ Students will have access to resources and mentorship by leading practitioners i
 
 *“The distant universe and our immediate world can both be found in paper.” – Kenya Hara*
 
-![](/static/img/codepaper/popup.gif)
+![](/static/img/codepaper/auxetic.gif)
 
 ### Who are the teachers?
 
@@ -47,6 +47,18 @@ Students will have access to resources and mentorship by leading practitioners i
 - [**Pam Liou**](http://pamelaliou.com/) - Pam is a computational designer and writer living in Brooklyn, NY. Her work examines tensions between craftsmanship, technology and commerce, revealing the hidden sociopolitical infrastructures undergirding human industry. Her research centers around recoupling the consumer with the producer through design literacy and mass customization, fostering intimacy and efficacy through a dialectical creation process.
 - [**Coralie Gourguechon**](https://www.coraliegourguechon.fr/) - Coralie Gourguechon is a designer and a paper electronics maker. Her projects aim to to demystify electronics by simplifying the execution of simple circuits in a graphical way and using paper.
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, an adjunct professor at NYU ITP and a former fellow at Data and Society. In 2018, Taeyoon is working on Distributed Web of Care and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
+
+![](/static/img/codepaper/planetarium.gif)
+
+Kelli Anderson - This Book is a Planetarium
+
+![](/static/img/codepaper/coralie.jpg)
+
+Coralie Gourguechon - Paper electronic modules
+
+![](/static/img/codepaper/voronoi-origami-slideshow.gif)
+
+Robby Kraft - orthogonal Voronoi molecules
 
 ### What will happen in these two weeks?
 
@@ -62,17 +74,9 @@ Students will have full access to the space during open hours for the two weeks 
 - A laptop computer will be useful for some sessions.
 - All other materials and supplies will be provided by SFPC.
 
-![](/static/img/codepaper/coralie.jpg)
+![](/static/img/codepaper/rabbit-ear.gif)
 
-Coralie Gourguechon - Paper electronic modules
-
-![](/static/img/codepaper/planetarium.gif)
-
-Kelli Anderson - This Book is a Planetarium
-
-![](/static/img/codepaper/voronoi-origami-slideshow.gif)
-
-Robby Kraft - orthogonal Voronoi molecules
+[Rabbit Ear](https://rabbitear.org), creative coding origami library
 
 ### How do I apply?
 
@@ -94,10 +98,6 @@ We are completely self-funded, which dramatically limits our ability to offer sc
 
 Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.
 
-![](/static/img/codepaper/kraft-space-filling-origami.gif)
-
-space filling origami by Robby, rendered in [Origami Simulator](http://apps.amandaghassaei.com/OrigamiSimulator/)
-
 ### Cancellation and refund policy
 
 - If you are accepted and need to cancel, we can give you 100% refund up to January 15th, 2019.
@@ -106,9 +106,9 @@ space filling origami by Robby, rendered in [Origami Simulator](http://apps.aman
 - No refunds can be given after the first day of class.
 - Participation is not transferrable to another person.
 
-![](/static/img/codepaper/rabbit-ear.gif)
+![](/static/img/codepaper/kraft-space-filling-origami.gif)
 
-[Rabbit Ear](https://rabbitear.org), creative coding origami library
+space filling origami by Robby, rendered in [Origami Simulator](http://apps.amandaghassaei.com/OrigamiSimulator/)
 
 ### Where is SFPC?
 
