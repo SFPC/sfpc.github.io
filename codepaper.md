@@ -12,9 +12,9 @@ slides:
 - Two-Week Session, Monday February 4th - Sunday February 17th, 2019
 - SFPC, 155 Bank street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
-- [**Apply now!**](https://airtable.com/shrQBGNmSqYLK6q1p) competitive rolling admissions
+- [**Apply now!**](https://airtable.com/shrQBGNmSqYLK6q1p) –  deadline is January 21st, 2019
 
-*How does our understanding of technology change when abstractions become tangible? **In this course, paper acts as a bridge between code, mathematics, and our human sensory experience of the world.***
+**How does our understanding of technology change when abstractions become tangible? In this course, paper acts as a bridge between code, mathematics, and our human sensory experience of the world.**
 
 When we fold, we imbue an inert material with pattern, structure, animation, function, and interface; a crease in paper is a re-programming of the material's memory. Folded structures give us a means to touch and manipulate difficult problems and unlike simple machines (limited by static friction), folding systems can be applied at any scale, from nanometer to spacecraft scale. With an increased knowledge of folding mechanisms can we build more sustainable, ecologically-aware technology?
 
@@ -80,9 +80,9 @@ Students will have full access to the space during open hours for the two weeks 
 
 ### How do I apply?
 
-[**Apply online here**](https://airtable.com/shrQBGNmSqYLK6q1p)
+[**Apply here**](https://airtable.com/shrQBGNmSqYLK6q1p) by January 21st, 2019.
 
-We accept up to 18 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+We accept up to 18 students. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 ### How competitive is the admissions?
 
