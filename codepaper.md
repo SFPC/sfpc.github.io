@@ -108,7 +108,7 @@ Please note that if you apply for work study, we will consider your application 
 
 ![](/static/img/codepaper/kraft-space-filling-origami.gif)
 
-space filling origami by Robby, rendered in [Origami Simulator](http://apps.amandaghassaei.com/OrigamiSimulator/)
+space filling origami by Robby, rendered in [Origami Simulator](http://apps.amandaghassaei.com/OrigamiSimulator/) by Amanda Ghassaei.
 
 ### Where is SFPC?
 
