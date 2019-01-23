@@ -5,8 +5,8 @@ affiliation:
   role: Student
 - class: Spring 2018
   role: TA
-instagram: https://www.instagram.com/ann_tbd 
-github: https://www.github.com/a-tbd
+instagram: ann_tbd
+github: a-tbd
 website: https://www.a-tbd.com
 place: NYC
 ---

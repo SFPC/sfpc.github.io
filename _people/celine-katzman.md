@@ -5,7 +5,7 @@ affiliation:
   role: TA
 - class: Fall 2018
   role: TA
-twitter: https://twitter.com/celinejade
+twitter: celinejade
 github:
 website: http://rhizome.org/profile/celinejade
 place: NYC
