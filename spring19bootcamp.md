@@ -9,15 +9,13 @@ slides:
   - "/static/img/participate/bootcamp4.jpg"
   - "/static/img/participate/bootcamp5.jpg"
 ---
-
-Applications for the Spring '19 New Coders Bootcamp - please [CLICK HERE.](https://airtable.com/shr4DF0I48cpZB9Le)
-
 ***
 
 ## Call for Students: Spring '19 New Coders Bootcamp
 - One Week, Monday March 4th - Friday March 8th
 - @ SFPC, 155 Bank street, West Village, NYC
 - 10am - 1pm, Morning Classes with optional afternoon working sessions
+- [Apply Now!](https://airtable.com/shr4DF0I48cpZB9Le) - deadline is February 16th, 2019
 
 School for Poetic Computation’s Bootcamp introduces the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 day session will be open both to incoming SFPC students and anyone who wants to learn to code. The bootcamp will be taught by Matt Jacobson and Robby Kraft.
 
@@ -97,7 +95,7 @@ We are located in 155 Bank street, in the courtyard of the Westbeth Artists Comm
 
 ### How do I apply?
 
-Applications for the Spring '19 New Coders Bootcamp - please [CLICK HERE.](https://airtable.com/shr4DF0I48cpZB9Le)
+Applications for the Spring '19 New Coders Bootcamp - please [CLICK HERE](https://airtable.com/shr4DF0I48cpZB9Le) to submit your application. Deadline to apply, February, 16th 2019.
 
 We accept up to 17 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
