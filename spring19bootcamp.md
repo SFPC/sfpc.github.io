@@ -3,31 +3,29 @@ title: SFPC Bootcamp for New Coders - Spring '19
 layout: participate
 slides:
 
-  - "/static/img/participate/SFPC2-weekSummer.jpg"
-  - "/static/img/participate/wallbw.jpg"
-  - "/static/img/participate/flower.jpg"
-  - "/static/img/participate/door.jpg"
-  - "/static/img/participate/havefun.jpg"
-  - "/static/img/participate/poeticsciencefair.jpg"
-  - "/static/img/participate/notebook.jpg"
+  - "/static/img/participate/bootcamp1.jpg"
+  - "/static/img/participate/bootcamp2.jpg"
+  - "/static/img/participate/bootcamp3.jpg"
+  - "/static/img/participate/bootcamp4.jpg"
+  - "/static/img/participate/bootcamp5.jpg"
 ---
 
-<div class="alert alert-success" role="alert">
-Applications for the Spring '19 New Coders Bootcamp - please click here.</div>
+Applications for the Spring '19 New Coders Bootcamp - please [CLICK HERE.](https://airtable.com/shr4DF0I48cpZB9Le)
 
 ***
 
 ## Call for Students: Spring '19 New Coders Bootcamp
-- One Week, Monday March 5th - Friday March 9th
+- One Week, Monday March 4th - Friday March 8th
 - @ SFPC, 155 Bank street, West Village, NYC
 - 10am - 1pm, Morning Classes with optional afternoon working sessions
 
 School for Poetic Computation’s Bootcamp introduces the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 day session will be open both to incoming SFPC students and anyone who wants to learn to code. The bootcamp will be taught by Matt Jacobson and Robby Kraft.
 
 During this week students will be coding in C++, learning concepts like variables, memory, and scope; branching, looping, boolean evaluations, and logic; functions, recursion, and events; object-oriented design; and working with media like video, sound, and responding to keyboard, and mouse inputs. Students will become competent in Xcode/Visual Studio, GitHub, and openFrameworks.
+
 ### Who are the teachers?
-- [Matt Jacobson](http://iammattjacobson.com/) - statistician and recreational mathematician based in New York City.
-- [Robby Kraft](http://robbykraft.com/) - Robby Kraft is an artist and engineer based in New York who works with sculptural and digital media.
+- [Matt Jacobson](http://iammattjacobson.com/) - is a statistician and recreational mathematician based in New York City.
+- [Robby Kraft](http://robbykraft.com/) - is an artist and engineer based in New York who works with sculptural and digital media.
 
 ### Schedule
 
@@ -68,7 +66,7 @@ During this week students will be coding in C++, learning concepts like variable
 
 
 ### What will happen during this one-week bootcamp?
-Classes are held in the morning Monday-Friday from 10am-1pm. After class, teachers will be around to help with any of the assignments and questions you may have.
+Classes are held in the morning Monday-Friday from 10am-1pm. After class, the space will be open and teachers will be around to help with any of the assignments and questions you may have.
 
 SFPC fosters a collaborative and relaxed learning environment. We value your questions and want to make sure all students feel comfortable engaging with the teachers and material fully.  Read our <a href="/participate/"> Participate </a> page for more information on what our classes feel like.
 
@@ -97,8 +95,10 @@ We are located in 155 Bank street, in the courtyard of the Westbeth Artists Comm
 
 
 
-### ~~How do I apply?~~
+### How do I apply?
 
-We accept up to 15 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+Applications for the Spring '19 New Coders Bootcamp - please [CLICK HERE.](https://airtable.com/shr4DF0I48cpZB9Le)
+
+We accept up to 17 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
