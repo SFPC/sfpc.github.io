@@ -3,11 +3,11 @@ title: SFPC Bootcamp for New Coders - Spring '19
 layout: participate
 slides:
 
-  - "/static/img/participate/bootcamp1.jpg"
-  - "/static/img/participate/bootcamp2.jpg"
-  - "/static/img/participate/bootcamp3.jpg"
-  - "/static/img/participate/bootcamp4.jpg"
-  - "/static/img/participate/bootcamp5.jpg"
+  - "/static/img/bootcamp/bootcamp1.jpg"
+  - "/static/img/bootcamp/bootcamp2.jpg"
+  - "/static/img/bootcamp/bootcamp3.jpg"
+  - "/static/img/bootcamp/bootcamp4.jpg"
+  - "/static/img/bootcamp/bootcamp5.jpg"
 ---
 ***
 
