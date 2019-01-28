@@ -19,11 +19,11 @@ slides:
 
 School for Poetic Computation’s Bootcamp introduces the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 day session will be open both to incoming SFPC students and anyone who wants to learn to code. The bootcamp will be taught by Matt Jacobson and Robby Kraft.
 
-During this week students will be coding in C++, learning concepts like variables, memory, and scope; branching, looping, boolean evaluations, and logic; functions, recursion, and events; object-oriented design; and working with media like video, sound, and responding to keyboard, and mouse inputs. Students will become competent in Xcode/Visual Studio, GitHub, and openFrameworks.
+During this week students will be coding in C++, learning concepts like variables, memory, and scope; branching, looping, boolean evaluations, and logic; functions, recursion, and events; object-oriented design; and working with media like video, sound, and responding to keyboard and mouse inputs. Students will become competent in Xcode/Visual Studio, GitHub, and openFrameworks.
 
 ### Who are the teachers?
 - [Matt Jacobson](http://iammattjacobson.com/) - is a statistician and recreational mathematician based in New York City.
-- [Robby Kraft](http://robbykraft.com/) - is an artist and engineer based in New York who works with sculptural and digital media.
+- [Robby Kraft](http://robbykraft.com/) - Robby Kraft is an origami artist, educator, and software engineer based in New York City.
 
 ### Schedule
 
@@ -33,12 +33,12 @@ During this week students will be coding in C++, learning concepts like variable
 - C++ code syntax, OpenGL coordinate system
 - Processing, openFrameworks, Arduino design paradigm: `setup()` and `draw()`
 - simple graphics drawing primitives
-- introduction to functions, variables, computer memory, types, scope.
+- introduction to variables, computer memory, types, scope, and functions.
 
 #### Day 2
-- returning functions
-- openFrameworks utility methods, random numbers, time, math
-- principles of animation
+- functions that return values
+- openFrameworks utility methods, random numbers, time, using sine curves
+- animation and changing states
 - control structures: branching and looping
 - event handlers: mouse and keyboard
 
@@ -46,7 +46,7 @@ During this week students will be coding in C++, learning concepts like variable
 - container data structures
 - object-oriented design
 - classes, methods, properties, and states
-- ofPoint and other openFrameworks primitive objects
+- ofPoint and other openFrameworks primitives
 
 #### Day 4
 - more openFrameworks object types: polylines, vectors, cameras
