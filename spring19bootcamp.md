@@ -23,7 +23,7 @@ During this week students will be coding in C++, learning concepts like variable
 
 ### Who are the teachers?
 - [Matt Jacobson](http://iammattjacobson.com/) - is a statistician and recreational mathematician based in New York City.
-- [Robby Kraft](http://robbykraft.com/) - Robby Kraft is an origami artist, educator, and software engineer based in New York City.
+- [Robby Kraft](http://robbykraft.com/) - is an origami artist, educator, and software engineer based in New York City.
 
 ### Schedule
 
