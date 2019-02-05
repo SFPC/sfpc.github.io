@@ -15,10 +15,21 @@ slides:
 Subscribe to our mailing list, at the bottom of the page to be the first to hear about our upcoming programs. We will open the enrollment for the 10-week Fall 2019 program in January and announce a more workshops for February.
 
 
-## Call for Students: Code Paper Scissors
+## Movement, Memory, and the Unconscious Resource: Workshop by Cori Kresge 
 
-<div class="alert alert-success" role="alert">Apply Now <a href="/codepaper/"> competitive rolling admissions.</a>
-</div>
+- February 10, 17, 27, 10am-1pm
+- SFPC, 155 Bank street, West Village, NYC
+- <a href="/classes/movement"> Participate </a> 
+
+
+## PUT INTO WORDS: A writing class for artists and technologists by Joanne McNeil
+
+- March 22 (Friday) 6-10 pm, March 23 (Saturday) 1-5 pm  March 24 (Sunday) 1-5 pm
+- SFPC, 155 Bank street, West Village, NYC
+- <a href="https://www.eventbrite.com/e/put-into-words-a-writing-class-for-artists-and-technologists-by-joanne-mcneil-at-sfpc-tickets-55171615788"> Participate </a>
+
+## Code Paper Scissors application is now closed 
+
 
 - Two-Week Session, Monday February 4th - Sunday February 17th, 2019
 - SFPC, 155 Bank street, West Village, NYC
