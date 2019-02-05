@@ -267,7 +267,7 @@ h4{
 	transition: transform .75s;
 }
 
-.card-1:HOVER{
+.card-1:hover{
 		transform:rotate(-3deg);
 	}
 
@@ -525,6 +525,14 @@ footer .block-2 .right{
 footer .block-3{
 	padding-top:3%;
 	margin-top: 2%;
+}
+
+.card-1:hover{
+	transform:none;
+
+}
+.card-2:hover{
+		  transform: rotate(7deg);
 }
 
 /* move all images to back */
