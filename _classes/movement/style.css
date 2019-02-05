@@ -1,0 +1,540 @@
+@font-face {
+  font-family: 'Champion';
+  src: url('Champion-HTF-Featherweight.otf') format('opentype'); /* IE6-IE8 */
+}
+
+@font-face {
+  font-family: 'Akzidenz';
+  src: url('Akzidenz-Grotesk BQ Regular.ttf') format('truetype'); /* IE6-IE8 */
+}
+
+html{
+	margin:0;
+}
+body{
+	background-color: #4062a6;
+	color: #e6d7d0;
+	font-weight: normal;
+	position:relative;
+	min-width: 100%;
+	margin: 0 auto;
+	font-size: 24px;
+}
+
+.downBG{
+  background-color: #3f6125/*#c04f32*/;
+  transition: 3s ease;
+}
+
+
+
+.wrapper{
+	margin:2% 5%;
+}
+
+.bar{
+	border-bottom: 3px solid #e6d7d0;
+}
+
+.logo{
+	margin: 1% 5%;
+	width: 5%;
+}
+
+/* typeface styles */
+
+.serif{
+	font-family:serif;
+}
+
+.serif-med{
+		font-size: 1em;
+}
+
+.names .serif{
+	font-size: 1em;
+	line-height: 1.2em;
+}
+
+.serif-header-main{
+	width:100%;
+	font-size: 1.2em;
+	margin-bottom: 2%;
+	text-align: center;
+	font-style: italic;
+}
+
+h4 .sans{
+	font-family:Akzidenz, sans-serif;
+	font-size: .9em;
+}
+
+.card-1 .sans{
+		font-family:Akzidenz, sans-serif;
+	font-size: .9em;
+	line-height: 1.3em;
+}
+
+.serif-bold-italic{
+	font-style:italic;
+	font-weight:bold;
+	line-height: 1.2em;
+}
+
+.serif-header-sub{
+	font-weight:bold;
+	font-style: italic;
+	font-size: 1.1em;
+}
+
+.champion-nav{
+			font-family: Champion;
+	font-size: 2.25em;
+	font-weight: normal;
+}
+
+.champion-med a:hover, 
+.sans-large a:hover{
+	color: #f24131;
+			border-bottom: 3px solid #f24131;
+}
+
+.champion-med a, .sans-large a{
+	text-decoration:none;
+		color: #e6d7d0;
+		display:inline-block;
+		line-height: 1.1em;
+		border-bottom: 3px solid #e6d7d0;
+}
+
+.home img:hover{
+		color: #f24131;
+}
+
+.champion-small{
+			font-family: Champion;
+			font-size: 2em;
+}
+
+.champion-med{
+		font-family: Champion;
+	font-size: 2.7em;
+	line-height: 1.5em;
+	font-weight: normal;
+}
+
+.champion-large{
+	font-family: Champion;
+	font-size: 3.75em;
+	line-height:1.25em;
+	font-weight: normal;
+}
+
+.sans-med{
+	font-family: Akzidenz, sans-serif;
+	font-size: 1.25em;
+	letter-spacing: -.5px;
+}
+
+.sans-large{
+	font-family: Akzidenz, sans-serif;
+	font-size: 1.8em;
+}
+
+.serif-ital-large{
+	font-family:serif;
+	font-size: 2.5em;
+	font-style:italic;
+}
+
+.champion-caps-title-large{
+	font-family:Champion;
+	text-transform:uppercase;
+	font-size:1.5em;
+	font-weight:normal;
+}
+
+.champion-caps-title-small{
+		font-family:Champion;
+	text-transform:uppercase;
+	font-size:1.25em;
+	font-weight:normal;
+}
+
+
+/*header styles */
+
+header{
+	width:100%;
+	display:flex;
+}
+
+h1{
+	margin-top: 2%;
+	width:50%;
+	font-weight:normal;
+}
+
+h2{
+	font-family: serif;
+	letter-spacing: -1px;
+	font-size: 2em;
+	font-weight:normal;
+	font-style: italic;
+}
+
+.column-2{
+	width:50%;
+	margin: 3% 0 0 5%;
+}
+
+.two-columns{
+display:flex;
+align-items: flex-end;
+margin-top:5%;
+}
+
+.img1-wrapper{
+	width:55%;
+	height:100%;
+	align-self: right;
+}
+
+.img1{
+	width: 100%;
+	padding-bottom:3%;
+	height:100%;
+}
+
+h3{
+	width:45%;
+	margin-right:10%;
+	font-weight: normal;
+	text-align: right;
+}
+
+
+.nav-2{
+	margin-top:5%;
+	display:flex;
+	width:100%;
+	align-items: flex-end;
+}
+
+.nav-2 nav{
+	width:50%;
+}
+
+h4{
+	width:46%;
+	margin: 0 2%;
+}
+
+/*floating img styles */
+
+.img2{
+	position:absolute;
+	margin-left: 60%;
+	margin-top: 4%;
+	width:22%;
+	height: auto;
+}
+
+.img3{
+	position: absolute;
+	width:28%;
+	margin-left:50%;
+	margin-top: -11%;
+}
+
+/*course objectives */
+
+.course{
+	margin-top:8%;
+	padding-top:4%;
+	position: relative;
+	width:100%;
+	height:730px;
+}
+
+.card-1{
+	position: absolute;
+	top: 0;
+	left: 5%;
+	width:45%;
+	border: 3px solid #e6d7d0;
+	padding: 3% 5%;
+	transition: transform .75s;
+}
+
+.card-1:hover{
+		transform:rotate(-3deg);
+	}
+
+.card-2{
+	position:absolute;
+		width:45%;
+	left: 48%;
+	margin-top:15%;
+	  transform: rotate(7deg);
+	background-color: #e6d7d0;
+	color: #4062a6;
+	font-size: .8em;
+	padding: 2% 4%;
+	transition: transform .75s;
+}
+
+.card-2:hover{
+	transform:rotate(0deg);
+}
+
+/* instructor styles */
+.instructors .block-1{
+	width:50%;
+}
+
+.names{
+	margin-top:5%;
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.names .block-1,
+.names .block-2,
+.names .block-3{
+	width:45%;
+}
+
+.names .block-1{
+
+	margin-right: 10%;
+}
+
+.names .block-2{
+	margin-top: 10%;
+}
+
+/* footer / ticket styles*/
+
+footer{
+	margin-top: 10%;
+}
+
+footer .block-1{
+	display:flex;
+	padding-bottom: 3%;
+	border-bottom: 3px solid #e6d7d0;
+
+}
+
+footer .block-1 .left, 
+footer .block-1 .right,
+footer .block-2 .left,
+footer .block-2 .right{
+	width:50%;
+}
+
+footer .block-2{
+	display:flex;
+	padding-top:3%;
+		padding-bottom: 3%;
+	border-bottom: 3px solid #e6d7d0;
+}
+
+footer .block-2 .right{
+	display:flex;
+}
+
+.times{
+	padding-left:10%;
+}
+
+footer .block-3{
+	padding-top:3%;
+}
+
+/*gradient styles */
+
+/*.radial-gradient {
+  top:0px;
+  left:0px;
+  height:100%;
+  width:100%;
+  
+  /*Fallback if gradeints don't work */
+/*  background: #4062a6;
+  /*Linear gradient... */
+/*  background: 
+    radial-gradient(
+     at center, #ea5507, #4062a6
+    );*/
+/*}*/
+
+@media screen and (max-width: 1100px) {
+  body {
+    font-size: 20px;
+  }
+
+  .course{
+  	height:600px;
+  }
+
+  .champion-large{
+  	font-size: 3.25em;
+  }
+
+  .champion-med{
+  	font-size: 2.25em;
+  }
+  .logo{
+  	width:10%;
+  }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media (min-width: 320px) and (max-width: 850px) {
+  body {
+    font-size:18px;
+  }
+  header{
+  	display: block;
+  }
+
+  .logo{
+  	width:15%;
+  }
+
+  .img3{
+  	z-index: -1;
+  }
+
+  h1{
+  	width: 100%;
+  	margin-bottom: 4%;
+  }
+
+  h2{
+  	text-align:right;
+  }
+
+  h3{
+  	margin: 0;
+  }
+
+  .column-2{
+  	width:100%;
+  	margin: 0;
+  }
+
+  .nav-1{
+  	margin-bottom:4%;
+  }
+
+  .nav-2{
+  	display:block;
+  }
+
+  .nav-2 nav{
+  	width:100%;
+  	margin-top:10%;
+  }
+
+  .champion-large{
+  	font-size: 2.75em;
+  }
+    .champion-med{
+    	font-size: 2em;
+  	line-height: 1.25em;
+  }
+
+  h4{
+  	width: 100%;
+  	margin: 10% 0 0 0;
+  }
+
+  .course{
+  	height: auto;
+  }
+
+  .course, .card-1, .card-2{
+  	position: static;
+  }
+
+  .card-1{
+  	width:100%;
+  }
+
+  .card-2{
+  	width:100%;
+  	margin-top:0;
+  }
+
+  .instructors .block-1{
+	width:100%;
+	margin-top: 10%;
+}
+.names{
+	margin-top:5%;
+	display:block; 
+	flex-wrap:wrap;
+}
+
+.names .block-1,
+.names .block-2,
+.names .block-3{
+	width:100%;
+		margin-top:5%;
+}
+
+/* footer / ticket styles*/
+
+footer{
+	margin-top: 10%;
+}
+
+footer .block-1{
+	display:block;
+	padding-bottom: 3%;
+	border-bottom: 3px solid #e6d7d0;
+
+}
+
+footer .block-1 .left, 
+footer .block-1 .right,
+footer .block-2 .left,
+footer .block-2 .right{
+	width:100%;
+}
+
+footer .block-2{
+	display:block;
+	padding-top:3%;
+		padding-bottom: 3%;
+	border-bottom: 3px solid #e6d7d0;
+}
+
+footer .block-2 .right{
+	margin-top: 10%;
+	display:flex;
+}
+
+.times{
+	padding-left:10%;
+}
+
+footer .block-3{
+	padding-top:3%;
+	margin-top: 2%;
+}
+
+.card-1:hover{
+	transform:none;
+
+}
+.card-2:hover{
+		  transform: rotate(7deg);
+}
+
+/* move all images to back */
+
+}
