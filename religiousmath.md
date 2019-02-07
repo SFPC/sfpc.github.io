@@ -34,13 +34,13 @@ We will also invite participants to share about their own experiences with mathe
 
 - Matt Jacobson is a statistician, recreational mathematician, and educator based in New York City. He hopes to make things that mesmerize and seduce his audience in unexpected ways and embrace that engagement to inspire others.
 
-## Related programs
+## RELATED
 
 - [Computing and Stories Summit](http://sfpc.io/classes/computingandstories/), 2017
 - [Uncomputable](http://sfpc.io/uncomputable), 2018
 
 
-### Where is SFPC?
+### WHERE IS SFPC?
 We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3023.157285117621!2d-74.0114827845943!3d40.73656447932915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d40.736779899999995!2d-74.00924049999999!4m5!1s0x89c259eb003122d1%3A0xede8af6a55291528!2s155+Bank+St%2C+New+York%2C+NY+10014!3m2!1d40.7365645!2d-74.00929409999999!5e0!3m2!1sen!2sus!4v1466975848424" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
