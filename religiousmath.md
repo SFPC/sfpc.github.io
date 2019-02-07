@@ -28,10 +28,9 @@ We will also invite participants to share about their own experiences with mathe
 
 ## TEACHERS
 
-
-      - Nitcha Tothong (Fame) is a Bangkok-born, New York-based multidisciplinary designer, and artist whose work ranges from material sculpture, frame-by-frame animation to custom electronics. Her work focuses on cross-medium pollination, and the juxtaposition between digital and analog that inform each other, practices in visual language as well as physical media both in craft material and electronic computation. She is a math class hater who fell in love with what math can do in the creative field.
-      - Nabil Hassein is a technologist, educator and organizer who has worked professionally as a teacher of mathematics and programming in both public schools and private settings as well as a software developer in the so-called “tech industry”. Nabil studied mathematics at NYU and was blessed to catch a glimpse of its profound structure and beauty despite many negative anti-educational experiences in math classrooms, only to reproduce some of those same harms in teaching numerous students, engendering a need for atonement.
-      - Matt Jacobson is a statistician, recreational mathematician, and educator based in New York City. He hopes to make things that mesmerize and seduce his audience in unexpected ways and embrace that engagement to inspire others.
+- Nitcha Tothong (Fame) is a Bangkok-born, New York-based multidisciplinary designer, and artist whose work ranges from material sculpture, frame-by-frame animation to custom electronics. Her work focuses on cross-medium pollination, and the juxtaposition between digital and analog that inform each other, practices in visual language as well as physical media both in craft material and electronic computation. She is a math class hater who fell in love with what math can do in the creative field.
+- Nabil Hassein is a technologist, educator and organizer who has worked professionally as a teacher of mathematics and programming in both public schools and private settings as well as a software developer in the so-called “tech industry”. Nabil studied mathematics at NYU and was blessed to catch a glimpse of its profound structure and beauty despite many negative anti-educational experiences in math classrooms, only to reproduce some of those same harms in teaching numerous students, engendering a need for atonement.
+- Matt Jacobson is a statistician, recreational mathematician, and educator based in New York City. He hopes to make things that mesmerize and seduce his audience in unexpected ways and embrace that engagement to inspire others.
 
 ## CONTACT
 
