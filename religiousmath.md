@@ -15,6 +15,9 @@ slides:
 - School for Poetic Computation (SFPC), New York City
 - Tuition will be sliding scale between $10 - $30 based on need
 
+
+## DESCRIPTION
+
 Throughout history ancient to modern, countless cultures have been known to practice mathematics — very broadly defined or understood as the study of abstract structure — and applied its numerous branches to fields as eclectic as theology, architecture, medicine, astronomy, and far more. Yet much mathematics education treats its subjects as though they fell from the sky rather than being historically developed by diverse peoples in response to their specific needs and in accordance with their particular cultures; as though rote memorization and computation rather than creativity, intuition or beauty was at the core of mathematical practice; and as though Europe were the only region to produce any notable tradition of quantitative methods, algorithmic thinking or proof-based inquiry.
 
 In this one-day workshop, the organizers will present on and lead discussion of:
