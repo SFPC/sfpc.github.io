@@ -17,7 +17,7 @@ tickets https://www.eventbrite.com/preview?eid=56146554857
 - Saturday Feb. 23rd, 11am-4pm
 - School for Poetic Computation (SFPC), New York City
 - Tuition will be sliding scale between $10 - $30 based on need. If you are a student or require a discount, please email us at [info@sfpc.io](mailto:info@sfpc.io)!
-- [Get your tickets here.](https://airtable.com/shr4DF0I48cpZB9Le)
+- [Get your tickets here.](https://www.eventbrite.com/e/math-as-a-religious-experience-tickets-56146554857)
 
 
 
