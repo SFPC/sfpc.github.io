@@ -2,17 +2,11 @@
 title: Math as Religion
 layout: participate3
 slides:
-
-  - "/static/img/inform.jpg"
-  - "/static/img/inform2.jpg"
-  - "/static/img/nytechzinefair2.jpg"
+  - "/static/img/math-religion-moving.gif"
 
 ---
 
-# Announcing the 'Math as a Religious Experience' Workshop'
-
-
-tickets https://www.eventbrite.com/preview?eid=56146554857
+# Announcing the 'Mathematics as a Religious Experience' Workshop'
 
 - Saturday Feb. 23rd, 11am-4pm
 - School for Poetic Computation (SFPC), New York City
