@@ -38,6 +38,8 @@ We will also invite participants to share about their own experiences with mathe
 
 - Kengchakaj Kengkarnka is a Fulbright scholar and award-winning, Bangkok-born, New York-based composer, pianist, creative musician, whose work embeds African-American derived music infused with aesthetic of Thai music.  
 
+- Robby Kraft is an origami artist, creative engineer, instructor, and toolmaker. He’s the creator of Rabbit Ear, the origami software design tool, is proficient in origami design and folding, and teaches at The New School and SFPC.
+
 Special thanks to session advisor Lauren Gardner for essential help in getting this event going!
 - Lauren is a New York City–based product manager, community builder and artist. She is the co-owner of the art collective and DIY gallery Babycastles which has reinvented the arcade as a social space for independent video game culture. Lauren is also a partner at the School For Poetic Computation.
 
