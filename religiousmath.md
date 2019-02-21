@@ -36,6 +36,11 @@ We will also invite participants to share about their own experiences with mathe
 
 - Matt Jacobson is a statistician, recreational mathematician, and educator based in New York City. He hopes to make things that mesmerize and seduce his audience in unexpected ways and embrace that engagement to inspire others.
 
+- Kengchakaj Kengkarnka is a Fulbright scholar and award-winning, Bangkok-born, New York-based composer, pianist, creative musician, whose work embeds African-American derived music infused with aesthetic of Thai music.  
+
+Special thanks to session advisor Lauren Gardner for essential help in getting this event going!
+- Lauren is a New York City–based product manager, community builder and artist. She is the co-owner of the art collective and DIY gallery Babycastles which has reinvented the arcade as a social space for independent video game culture. Lauren is also a partner at the School For Poetic Computation.
+
 ## RELATED
 
 - [Computing and Stories Summit](http://sfpc.io/classes/computingandstories/), 2017
