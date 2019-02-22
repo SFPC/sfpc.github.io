@@ -8,4 +8,5 @@ github:
 website: http://pamelaliou.com/index.html
 place: NYC
 ---
-Pam is a computational designer and writer living in Brooklyn, NY. Her work examines tensions between craftsmanship, technology and commerce, revealing the hidden sociopolitical infrastructures undergirding human industry. Her research centers around recoupling the consumer with the producer through design literacy and mass customization, fostering intimacy and efficacy through a dialectic creation process. She is a recent graduate of NYU’s ITP program and is currently developing a desktop jacquard loom as a Project Resident at Eyebeam.
+Pamela Liou is an artist and technologist, living in Brooklyn, NY. Using analog video, custom hardware, and textiles, her work examines creative efficacy as self-actualization and the negotiation of the self in space both physical and virtual.  She was a resident at Eyebeam, Museum of Arts and Design, and DBRS labs. She currently teaches design and Technology at
+Parsons School of Design.
