@@ -3,8 +3,8 @@ title: Patricio Gonzalez Vivo
 affiliation:
 - class: Fall 2016
   role: Visitor
-twitter: https://twitter.com/patriciogv
-github: https://github.com/patriciogonzalezvivo
+twitter: patriciogv
+github: patriciogonzalezvivo
 website: http://patriciogonzalezvivo.com/
 place: Brooklyn, USA and Buenos Aires, Argentina
 ---
