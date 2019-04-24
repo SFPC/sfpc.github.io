@@ -7,7 +7,7 @@ layout: default
 		{% if i == class.order %}
 			<div class="class">
 				<div class="row">
-					
+
 					<div class="col-md-9">
 						<img src="/static/img/classes/{{ class.title | downcase | replace: ' ', '-' }}.jpg">
 					</div>
@@ -87,18 +87,18 @@ layout: default
 										{% endif %}
 									{% endfor %}
 									</p>
-								{% endif %}		
-							</div>		
+								{% endif %}
+							</div>
 						</div>
 					</div>
-					<div class="col-md-3"></div>	
+					<div class="col-md-3"></div>
 				</div>
 			</div>
 		{% endif %}
 	{% endfor %}
 {% endfor %}
 
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.0.0/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.0.0/isotope.pkgd.min.js"></script>
 <script>
 $('.classinfo').isotope({
   itemSelector: 'div'
