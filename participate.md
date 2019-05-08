@@ -14,6 +14,24 @@ slides:
 
 Subscribe to our mailing list, at the bottom of the page to be the first to hear about our upcoming programs. We will open the enrollment for the 10-week Fall 2019 program in January and announce a more workshops for February.
 
+## Fall 2019 
+
+- Ten-Weeks Session: March 11th – May. 17th, 2019
+- Location: SFPC, 155 Bank street, West Village, NYCWest Village, NYC
+- [More information](https://sfpc.io/fall2019/) 
+
+Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
+
+ 
+## Code Movement
+
+Led by movement teacher, performer, and writer Cori Kresge, this class will look at code as a natural human resource, applying it to dance practices and community. 
+
+- May 12, 19, 26, 2019
+- Register to the [workshop](https://sfpc.io/classes/movement/)
+
+# Past Programs
+
 
 ## Movement, Memory, and the Unconscious Resource: Workshop by Cori Kresge 
 
@@ -28,7 +46,7 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 - SFPC, 155 Bank street, West Village, NYC
 - <a href="https://www.eventbrite.com/e/put-into-words-a-writing-class-for-artists-and-technologists-by-joanne-mcneil-at-sfpc-tickets-55171615788"> Participate </a>
 
-## Code Paper Scissors application is now closed 
+## Code Paper Scissors  
 
 
 - Two-Week Session, Monday February 4th - Sunday February 17th, 2019
@@ -38,17 +56,7 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 How can we reimagine technology through paper? Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft, SFPC's two-week session will explore the wide variety of ways that a piece of paper can produce function.
 
 
-
-## Spring 2019 Call is now closed
-
-- Ten-Weeks Session: March 11th – May. 17th, 2019
-- Location: SFPC, 155 Bank street, West Village, NYCWest Village, NYC
-
-Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
-
-
-# Past Programs
-
+ 
 ## Code Societies Winter 2019
 
 -  Three-Week Session, Monday January 7th - Saturday January 26th
