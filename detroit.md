@@ -1,13 +1,15 @@
 ---
 title: Detroit
 layout: participate
-slides:
 
- - "/static/img/participate/totallyrad.jpg"
+
 ---
 
 ***
 <!-- -
+slides:
+
+ - "/static/img/participate/totallyrad.jpg"
  - "/static/img/participate/notebook.jpg"
 - "/static/img/participate/softcircuits.jpg"
 - "/static/img/participate/totallyrad.jpg"
@@ -21,9 +23,13 @@ slides:
 
 
 
+![](/static/img/detroit/mocad.jpg)
+Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
+
+
 ## Poetic Computation: Detroit 2019 
 
-- 1 week session: August 12-18, 2019
+- 1 week session: Mid-August, 2019. Dates will be announced soon. 
 - Location: Talking Dolls, 17471 Van Dyke St, Detroit, MI 48234
 - **Apply [here](https://airtable.com/shrwis42pddecU2gA) by July 1, 2019.**
 
@@ -46,6 +52,20 @@ Video by Spring 2018 student, Nitcha Fame Tothong.
 
 Check out more weekly video recaps of past classes [here](https://vimeo.com/user50134452), our [blog](https://medium.com/sfpc) and [Instagram](https://instagram.com/sfpc_nyc).
 
+![](/static/img/participate/totallyrad.jpg)
+Poetic Science Fair, community program at the Silent Barn, 2015. 
+
+![](/static/img/detroit/galen.jpg)
+Project by Galen Macdonald, 2018. 
+
+![](/static/img/detroit/neta.jpg)
+Project by Neta Bomani, 2018. 
+
+![](/static/img/detroit/yelli.jpg)
+Project by Sean Catangui, 2018. 
+
+![](/static/img/detroit/nabil.jpg)
+Project by Nabil Hassein, 2018 
 
 ### How does the application process work? 
 
@@ -60,9 +80,7 @@ All application decisions at SFPC are based on educational needs, accessibility 
 ### Why are we running the camp in Detroit?
 
 We respect the complex and rich history of Detroit as a city of resilient creatives. We are inspired by Detroit-based artists and collectives such as [Complex Movements](https://emergencemedia.org/pages/complex-movements); an artist collective supporting the transformation of communities by exploring the connections of complex science and social justice movements through multimedia interactive performance work. We are inspired by the acclaimed [Allied Media Conference](https://www.alliedmedia.org/amc) for DIY media makers and activists. We are inspired by [Raven Stubbs](https://www.ravenstubbs.com/), whose project in Recess addressed “workshop series and ethnodramaturgical project exploring the role of class within contemporary Black life and community.” We are learning about the challenges of an outsider approaching a city like Detroit. [Taylor Renee Aldridge](https://www.taylorrenee.info/) writes “I urge you to consider the lives that have been lived here. The trauma experienced in these lives. Loss of homes, jobs, and other prized possessions. Consider these narratives as you aim to locate remedies for innovation. We, as Detroiters, welcome change but not at the expense of exploiting our own narratives and spaces for your personal gain.” in [Transplant exploits: Detroit’s savior complex](http://arts.black/2016/04/transplant-exploits-detroits-savior-complex/). Read about our intention in a [blog post](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb). 
-
-
-
+ 
 ### How much is tuition?
 
 Tuition is $0-500 on a sliding scale. No prospective students will be turned away for lack of funds. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible. 
@@ -83,6 +101,11 @@ The camp will be hosted at Talking Dolls, an experimental studio on the east sid
 
 ### Organizers 
 
+![](/static/img/detroit/teachers.jpg)
+
+*SFPC Teachers: American Artist, Sam Lavigne, Lauren Gardner, Nabil Hassein, Taeyoon Choi, April Soetarman* 
+
+
 Poetic Computation: Detroit is organized by Taeyoon Choi, Lauren Gardner, Melanie Hoff, Neta Bomani with SFPC teachers and alums. Detroit-based partners and collaborators include the Detroit Community Technology Project, the Talking Dolls, the Work Department and more.  
 
 ### Support
@@ -92,7 +115,3 @@ Poetic Computation: Detroit is supported by the [Knight Foundation](https://knig
 ### Contact us
 
 Feel free to contact us with any questions about the summer camp at info@sfpc.io.
-
-
- 
-
