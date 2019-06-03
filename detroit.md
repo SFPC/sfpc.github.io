@@ -29,13 +29,14 @@ Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
 
 ## Poetic Computation: Detroit 2019 
 
-- 1 week session: Mid-August, 2019. Dates will be announced soon. 
+- 1 week session: August 19-25, 2019.  
 - Location: Talking Dolls, 17471 Van Dyke St, Detroit, MI 48234
+- Fee: Sliding scale $0~500. 
 - **Apply [here](https://airtable.com/shrwis42pddecU2gA) by July 1, 2019.**
 
-Please join School for Poetic Computation (SFPC), the [Detroit Community Technology Project](https://www.alliedmedia.org/dctp) and the [Talking Dolls](http://talkingdollsdetroit.com/) for a summer camp in Detroit, Michigan. Daily classes range from computational poetry, building electronics, critical theory and the history of the manufacturing industry in Detroit. There are lectures, student-led skill sharing sessions and workshops with visiting artists, walking tours, field trips to art spaces and family dinners. Together we will uncover how coding is more than what happens behind your screen.
+Please join School for Poetic Computation (SFPC) for a summer session in Detroit, Michigan. Daily classes range from computational poetry, building electronics, critical theory and the history of the manufacturing industry in Detroit. There are lectures, student-led skill sharing sessions and workshops with visiting artists, walking tours, field trips to art spaces and family dinners. Together we will uncover how coding is more than what happens behind your screen. 
 
-We are specifically looking for Detroit-based practitioners including artists, designers, activists and educators. We will prioritize applicants who are underrepresented in art and tech spaces, including but not limited to, people who identify as QTPOC and/or Deaf, disabled person. Students of all levels of coding experiences are welcome! We encourage patience to learn the fundamentals. We encourage you to be willing to to reconsider your relationship to technology, habits and the larger environment. 
+We are specifically looking for Detroit-based practitioners including artists, designers, activists and educators. We will prioritize applicants who are underrepresented in art and tech spaces, including but not limited to, people who identify as QTPOC and/or Deaf, disabled person. Students of all levels of coding experiences are welcome! We encourage patience to learn the fundamentals. We encourage you to be willing to to reconsider your relationship to technology, habits and the larger environment. We are supported by Detroit-based organizations including the [Detroit Community Technology Project](https://www.alliedmedia.org/dctp) and the [Talking Dolls](http://talkingdollsdetroit.com/).  
   
 ### What will happen during the week? 
 
@@ -43,7 +44,6 @@ Classes are held in the evenings with workshops and field trips in the afternoon
 
 Students will have access to the tools and materials for the week of the session to work on projects. Mentors will be readily available for technical, conceptual, and artistic guidance.
 
- 
 
 ### What are SFPC classes like? 
 
@@ -71,19 +71,19 @@ Project by Nabil Hassein, 2018
 
 **Apply [here](https://airtable.com/shrwis42pddecU2gA) by July 1, 2019.**
 
-We accept up to 20 students based on their application and video interview. Our program is inclusive of beginners with no prior experience with art or  technology. SFPC and Detroit-based partners will select students with clear intention for joining the camp, and those who have a plan to share the knowledge with their community. Application Deadline is July 1. We will respond to your application by July 15. We anticipate the admission will be highly competitive. We encourage you to apply early!  
+We accept up to 15 students based on their application and video interview. Our program is inclusive of beginners with no prior experience with art or  technology. SFPC and Detroit-based partners will select students with clear intention for joining the camp, and those who have a plan to share the knowledge with their community. Application Deadline is July 1. We will respond to your application by July 15. We anticipate the admission will be highly competitive. We encourage you to apply early!  
 
 SFPC is committed to building a safe environment free of discrimination and harassment. No form of harassment will be tolerated. Harassment includes, but is not limited to verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, skill level, disability, physical appearance, body size, race, age, or religion.
  
 All application decisions at SFPC are based on educational needs, accessibility needs and individual needs and qualifications, without regard to race, color, religion or belief, family or parental status, or any other status. SFPC does not tolerate discrimination or harassment based on any of these characteristics. SFPC encourages applicants of all ages, disabilities and educational backgrounds.
 
-### Why are we running the camp in Detroit?
+### Why are we running the session in Detroit?
 
 We respect the complex and rich history of Detroit as a city of resilient creatives. We are inspired by Detroit-based artists and collectives such as [Complex Movements](https://emergencemedia.org/pages/complex-movements); an artist collective supporting the transformation of communities by exploring the connections of complex science and social justice movements through multimedia interactive performance work. We are inspired by the acclaimed [Allied Media Conference](https://www.alliedmedia.org/amc) for DIY media makers and activists. We are inspired by [Raven Stubbs](https://www.ravenstubbs.com/), whose project in Recess addressed “workshop series and ethnodramaturgical project exploring the role of class within contemporary Black life and community.” We are learning about the challenges of an outsider approaching a city like Detroit. [Taylor Renee Aldridge](https://www.taylorrenee.info/) writes “I urge you to consider the lives that have been lived here. The trauma experienced in these lives. Loss of homes, jobs, and other prized possessions. Consider these narratives as you aim to locate remedies for innovation. We, as Detroiters, welcome change but not at the expense of exploiting our own narratives and spaces for your personal gain.” in [Transplant exploits: Detroit’s savior complex](http://arts.black/2016/04/transplant-exploits-detroits-savior-complex/). Read about our intention in a [blog post](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb). 
  
 ### How much is tuition?
 
-Tuition is $0-500 on a sliding scale. No prospective students will be turned away for lack of funds. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible. 
+Tuition is $0-500 on a sliding scale. If you make more than Detroit City's median income ($27,838 in 2018) and still can not pay $500, please let us know how much you are willing to pay. No prospective students will be turned away for lack of funds. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible. 
 
 ### What is expected of me?
 
@@ -95,9 +95,9 @@ Tuition is $0-500 on a sliding scale. No prospective students will be turned awa
 - If you can, please bring your own laptop (Mac/PC/Linux). Some laptops will be provided for students in need.
 
 
-### Where is the camp located?
+### Where is the session located?
 
-The camp will be hosted at Talking Dolls, an experimental studio on the east side at 17471 Van Dyke St, Detroit, MI 48234.  
+The session will be hosted at Talking Dolls, an experimental studio on the east side at 17471 Van Dyke St, Detroit, MI 48234.  
 
 ### Organizers 
 
@@ -110,7 +110,7 @@ Poetic Computation: Detroit is organized by Taeyoon Choi, Lauren Gardner, Melani
 
 ### Support
 
-Poetic Computation: Detroit is supported by the [Knight Foundation](https://knightfoundation.org/grants/8219). 
+Poetic Computation: Detroit is supported by the [Knight Foundation](https://knightfoundation.org). 
 
 ### Contact us
 

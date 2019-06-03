@@ -14,23 +14,28 @@ slides:
 
 Subscribe to our mailing list, at the bottom of the page to be the first to hear about our upcoming programs. We will open the enrollment for the 10-week Fall 2019 program in January and announce a more workshops for February.
 
-## Fall 2019 
 
-- Ten-Weeks Session: March 11th – May. 17th, 2019
-- Location: SFPC, 155 Bank street, West Village, NYCWest Village, NYC
+## Summer 2019
+
+- Poetic Computation: Detroit. 1 week session: August 19-25, 2019. [More information](https://sfpc.io/detroit). 
+- SFPC Summer 2019 in Yamaguchi. 1 week session: September 4-11, 2019. [More information](https://www.ycam.jp/events/2019/sfpc/) 
+- We are updating our NYC space this summer. We will announce workshops and events via our mailing list. 
+
+## Fall 2019 
+ 
 - [More information](https://sfpc.io/fall2019/) 
 
 Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
  
+# Past Programs
+
 ## Code Movement
 
 Led by movement teacher, performer, and writer Cori Kresge, this class will look at code as a natural human resource, applying it to dance practices and community. 
 
 - May 12, 19, 26, 2019
 - Register to the [workshop](https://sfpc.io/classes/movement/)
-
-# Past Programs
 
 
 ## Movement, Memory, and the Unconscious Resource: Workshop by Cori Kresge 
