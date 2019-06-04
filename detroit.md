@@ -37,12 +37,20 @@ Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
 Please join School for Poetic Computation (SFPC) for a summer session in Detroit, Michigan. Daily classes range from computational poetry, building electronics, critical theory and the history of the manufacturing industry in Detroit. There are lectures, student-led skill sharing sessions and workshops with visiting artists, walking tours, field trips to art spaces and family dinners. Together we will uncover how coding is more than what happens behind your screen. 
 
 We are specifically looking for Detroit-based practitioners including artists, designers, activists and educators. We will prioritize applicants who are underrepresented in art and tech spaces, including but not limited to, people who identify as QTPOC and/or Deaf, disabled person. Students of all levels of coding experiences are welcome! We encourage patience to learn the fundamentals. We encourage you to be willing to to reconsider your relationship to technology, habits and the larger environment. We are supported by Detroit-based organizations including the [Detroit Community Technology Project](https://www.alliedmedia.org/dctp) and the [Talking Dolls](http://talkingdollsdetroit.com/).  
-  
+
+![](/static/img/detroit/roomproject1.jpg)
+Poetic Computation Workshop at the Room Project, Detroit, 2019. 
+
+
 ### What will happen during the week? 
 
 Classes are held in the evenings with workshops and field trips in the afternoon throughout Sunday-Saturday from 1 p.m. - 9:30 p.m. We will program in family dinners and relaxation time. The session will end with a student showcase and party on August Saturday afternoon, where students can invite their family and friends to see presentations of their favorite class projects.
 
 Students will have access to the tools and materials for the week of the session to work on projects. Mentors will be readily available for technical, conceptual, and artistic guidance.
+
+![](/static/img/detroit/talkingdolls.jpg)
+SFPC organizers and Talking Dolls, Detroit, 2019.
+
 
 
 ### What are SFPC classes like? 
