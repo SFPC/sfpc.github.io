@@ -1,0 +1,16 @@
+current directory: /Users/taeyoon/Documents/GitHub/sfpc.github.io/vendor/cache/ruby/2.3.0/gems/eventmachine-1.2.5/ext/fastfilereader
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -I /Library/Ruby/Site/2.3.0 -r ./siteconf20190610-18411-5uaibu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/taeyoon/Documents/GitHub/sfpc.github.io/vendor/cache/ruby/2.3.0/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/taeyoon/Documents/GitHub/sfpc.github.io/vendor/cache/ruby/2.3.0/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/taeyoon/Documents/GitHub/sfpc.github.io/vendor/cache/ruby/2.3.0/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20190610-18411-1n351rz

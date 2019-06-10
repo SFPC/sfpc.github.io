@@ -1,31 +1,16 @@
 ---
-title: Detroit
+title: Detroit 2019
 layout: participate
+slides:
 
+  - "/static/img/detroit/dctp.jpg"
+  - "/static/img/detroit/netaandtawana.jpg"
+  - "/static/img/detroit/taeyoonandkim.jpg"
+  - "/static/img/detroit/melanie.jpg"
 
 ---
 
 ***
-<!-- -
-slides:
-
- - "/static/img/participate/totallyrad.jpg"
- - "/static/img/participate/notebook.jpg"
-- "/static/img/participate/softcircuits.jpg"
-- "/static/img/participate/totallyrad.jpg"
-
-
- - "/static/img/participate/sum2016_lunch.jpg"
- - "/static/img/participate/summer15_wall_new.jpg"
- - "/static/img/participate/goldenhour.jpg"
- - "/static/img/participate/workshop.jpg"
- - "/static/img/participate/notebook.jpg" -->
-
-
-
-![](/static/img/detroit/mocad.jpg)
-Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
-
 
 ## Poetic Computation: Detroit 2019 
 
@@ -34,9 +19,9 @@ Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
 - Fee: Sliding scale $0~500. 
 - **Apply [here](https://airtable.com/shrwis42pddecU2gA) by July 1, 2019.**
 
-Please join School for Poetic Computation (SFPC) for a summer session in Detroit, Michigan. Daily classes range from computational poetry, building electronics, critical theory and the history of the manufacturing industry in Detroit. There are lectures, student-led skill sharing sessions and workshops with visiting artists, walking tours, field trips to community spaces and family dinners. Together we will uncover how coding is more than what happens behind your screen. 
+Please join School for Poetic Computation (SFPC) in partnership with the [Talking Dolls](http://talkingdollsdetroit.com/) for a summer session in Detroit, Michigan. Daily classes range from computational poetry, building electronics, critical theory and the history of the manufacturing industry in Detroit. There are lectures, student-led skill sharing sessions and workshops with visiting artists, walking tours, field trips to community spaces and family dinners. Together we will uncover how coding is more than what happens behind your screen. 
 
-We are specifically looking for Detroit-based practitioners including artists, designers, activists and educators. We will prioritize applicants who are underrepresented in art and tech spaces, including but not limited to, people who identify as Queer and Trans people of color (QTPOC) and/or Disabled, Deaf or Hard of Hearing (HoH). Students of all levels of coding experiences are welcome! We encourage patience to learn the fundamentals. We encourage you to be willing to to reconsider your relationship to technology, habits and the larger environment. We are supported by Detroit-based organizations including the [Detroit Community Technology Project](https://www.alliedmedia.org/dctp) and the [Talking Dolls](http://talkingdollsdetroit.com/).  
+We are specifically looking for Detroit-based practitioners including artists, designers, activists and educators. We will prioritize applicants who are underrepresented in art and tech spaces, including but not limited to, people who identify as Queer and Trans people of color (QTPOC) and/or Disabled, Deaf or Hard of Hearing (HoH). Students of all levels of coding experiences are welcome! We encourage patience to learn the fundamentals. We encourage you to be willing to to reconsider your relationship to technology, habits and the larger environment. We are supported by Detroit-based organizations including the [Detroit Community Technology Project](https://www.alliedmedia.org/dctp) and the [Room Project](https://www.roomproject.org/).  
 
 ![](/static/img/detroit/roomproject1.jpg)
 Poetic Computation Workshop at the Room Project, Detroit, 2019. 
@@ -91,7 +76,8 @@ We respect the complex and rich history of Detroit as a city of resilient creati
 
 
 We are learning about the challenges of outsiders approaching cities like Detroit. In [Transplant exploits: Detroit’s savior complex](http://arts.black/2016/04/transplant-exploits-detroits-savior-complex/), [Taylor Renee Aldridge](https://www.taylorrenee.info/) wrote, “I urge you to consider the lives that have been lived here. The trauma experienced in these lives. Loss of homes, jobs, and other prized possessions. Consider these narratives as you aim to locate remedies for innovation. We, as Detroiters, welcome change but not at the expense of exploiting our own narratives and spaces for your personal gain." Read more about our intentions in our [blog post](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb). 
- 
+
+
 ### How much is tuition?
 
 Tuition is $0-500 on a sliding scale. If you make more than the Detroit median income of $27,838, according to the U.S. Census in 2018, please let us know how much you are willing to pay. No prospective students will be turned away for lack of funds. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible. 
@@ -119,9 +105,28 @@ The session will be hosted at Talking Dolls, an experimental studio on the east 
 
 Poetic Computation: Detroit is organized by Taeyoon Choi, Lauren Gardner, Melanie Hoff, Neta Bomani with SFPC teachers and alums. Detroit-based partners and collaborators include the Detroit Community Technology Project, the Talking Dolls, the Work Department and more.  
 
+Co-organizers 
+- [Taeyoon Choi](https://taeyoonchoi.com) 
+- [Lauren Gardner](https://poohead.com) 
+- [Melanie Hoff](https://melanie-hoff.com)
+- [Neta Bomani](https://netabomani.com) 
+
+Teachers 
+- [American Artist](https://americanartist.us) 
+- [Ann Haeyoung](https://a-tbd.com/) 
+- [Colin Wong](https://www.colinwangdesign.com) 
+- [Nabil Hassein](http://nabilhassein.github.io/about) 
+- More Detroit-based teachers to be announced soon. 
+
+![](/static/img/detroit/mocad.jpg)
+Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
+
+
 ### Support
 
 Poetic Computation: Detroit is supported by the [Knight Foundation](https://knightfoundation.org). 
+
+Slideshow photographs by Russel Stewart. 
 
 ### Contact us
 
