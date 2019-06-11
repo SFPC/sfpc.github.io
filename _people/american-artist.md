@@ -3,7 +3,9 @@ title: American Artist
 affiliation:
 - class: Fall 2018
   role: Teacher
-twitter: 
+- class: Spring 2019
+  role: Teacher
+twitter:
 github:
 website: https://americanartist.us/
 place: Brooklyn, NY

@@ -23,6 +23,8 @@ affiliation:
   role: Teacher
 - class: Fall 2018
   role: Teacher
+- class: Spring 2019
+  role: Teacher
 twitter: poohlaga
 github: poohlaga
 website: http://poohead.com

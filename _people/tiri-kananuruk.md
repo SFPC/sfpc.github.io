@@ -3,6 +3,8 @@ title: Tiri Kananuruk
 affiliation:
 - class: Fall 2018
   role: TA
+- class: Spring 2019
+  role: TA
 twitter: ngonngontiri
 github: Tiriree
 website: http://xxx.tiri.xxx

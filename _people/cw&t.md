@@ -5,6 +5,8 @@ affiliation:
   role: Visitor
 - class: Fall 2018
   role: Teacher
+- class: Spring 2019
+  role: Teacher
 twitter: cwandt
 
 website: https://cwandt.com/

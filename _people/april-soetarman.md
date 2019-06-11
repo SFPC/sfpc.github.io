@@ -5,6 +5,8 @@ affiliation:
   role: Student
 - class: Fall 2018
   role: TA
+- class: Spring 2019
+  role: TA
 twitter: AprilSoetarman
 github:
 website: AprilSoetarman.com

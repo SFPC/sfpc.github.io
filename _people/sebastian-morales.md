@@ -3,6 +3,8 @@ title: Sebastian Morales
 affiliation:
 - class: Fall 2018
   role: TA
+- class: Spring 2019
+  role: TA
 twitter:  
 github: sebmorales
 website: https://www.adorevolution.com/
