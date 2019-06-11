@@ -19,7 +19,7 @@ teachers-staff:
 - name: Fernando Ramallo
 - name: April Soetarman
 
-students: 
+students:
 - name: Alexander Miller
 - name: Ariel Uzal
 - name: Bomani Oseni McClendon
@@ -37,6 +37,14 @@ students:
 - name: Vivienne La
 - name: Yehwan Song
 
+visitors:
+- name: Janus Cassandra Rose
+- name: Kelli Anderson
+- name: Surya Mattu
+- name: Amit Pitaru
+- name: Everest Pipkin
+- name: Rafia
+
 courses:
 - name: Recreating the Past
 - name: Dark Matters
@@ -45,4 +53,4 @@ courses:
 - name: Professional Development
 
 ---
-description: 
+description:
