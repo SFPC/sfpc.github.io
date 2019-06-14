@@ -10,17 +10,74 @@ layout: participate2
 - School for Poetic Computation (SFPC), 155 Bank street, NYC. 
 - Lectures: June 20th and June 28th, 2018, 6~9pm.
 - Exhibition: June 20th to June 28th, 2018, 1~6pm.
-- Featuring Cybernetics Library and Cori Kresge. 
-- The event is full. [Apply to be waitlistd](https://airtable.com/shreKLUM5BDyu2zMi), Limited seating. 
-- The talks and performances will be documented with video. The video will be available by August, 2018 via SFPC's social media channels. 
-
+- Featuring Cori Kresge, Cybernetics Library.
+- Ekphrastic poetry by Allison Parrish and Nick Montfort.
+ 
 
 ## Uncomputable
 
 
 According to digital philosophers, the world is a computer and everything inside it is computable. But is this entirely true? What about things that fall outside the bounds of the computable? Alan Turing demonstrated that there are kinds of problems that are computable and kinds of problems that are not, providing a theoretical answer to the question of the uncomputable. But there is also a practical answer: how many computer cycles do you have at your disposal? If you want to crack high-grade encryption, can you afford to crunch the numbers until the sun burns out? In this project we will explore the realm of the uncomputable. In the digital realm the uncomputable appears in logical paradoxes and rational incompleteness. In the analog realm the uncomputable consists of all those things that remain ungovernable, unspeakable, or unseeable. Come explore with us the binary present, and the non-binary future. Come explore the uncomputable.
 
-Uncomputable consists of lectures by Alexander R. Galloway on June 20th and June 28th, 6~9pm and an exhibition by Taeyoon Choi that will be open to the public between June 20th and 28th. Uncomputable is free, please [apply](https://airtable.com/shreKLUM5BDyu2zMi) for the lectures as seating is limited. Uncomputable is made possible with the support of The Department of Media, Culture, and Communication at New York University and the School for Poetic Computation. 
+Uncomputable consists of lectures by Alexander R. Galloway on June 20th and June 28th, 6~9pm and an exhibition by Taeyoon Choi that will be open to the public between June 20th and 28th. Uncomputable is made possible with the support of The Department of Media, Culture, and Communication at New York University, Data and Society Research Institute and the School for Poetic Computation. 
+
+### Day 1 
+
+<iframe src="https://player.vimeo.com/video/296757778" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/297234281" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/342165659" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Day 2 
+
+ 
+
+<iframe src="https://player.vimeo.com/video/297234509" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/297240995" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/297239635" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+- Videos by Jessica Lee.
+
+- Production team: Livia Huang, cleo (yuekai) miao, Callil Capuozzo, Shira Feldman and Emily Miller.
+
+### Paintings 
+
+![](/static/img/uncomputable/uncomputable1.png )
+
+
+*Analog* by Taeyoon Choi, 48 * 62 inches, Acrylics on canvas.
+
+Ekphrastic poetry by [Nick Montfort](https://nickm.com/) 
+
+Ludwig Wittgenstein writes at the end of the Tractatus that the comprehending reader “must, so to
+speak, throw away the ladder after he has climbed up it.” Wittgenstein’s ladder, along with a small
+staircase of four steps and a connected series of ramps are all thrown away here, small rectilinear forms in space. <!--more--> Paint has otherwise been applied in smooth rotations, some of it — of day and thin cloud — placed atop broader strokes — of night and its hard, abrupt pathways. Smoothed bristles are felt everywhere. In a few places, the paint has narrowly dripped down, following gravity’s desire, a force that also must be gripping the discarded ladder.
+
+
+![](/static/img/uncomputable/uncomputable2.png )
+
+
+*Digital* by Taeyoon Choi, 48 * 62 inches, Acrylics on canvas.   
+Ekphrastic poetry by [Allison Parrish](https://www.decontextualize.com) 
+
+Stratiform precipitation and fog, white fur and black leather belt and boots, stick and ball, the neck and round ears; parks and public spaces, homes or public buildings. Conversely many original church buildings, the letter m; the first letter, a black bear on white background to a white bear on black background; deep red to pink. Vivid patterns of bright red or yellow and black. Sperm with eggs, eggs or milk. Small decals or imitation crab meat. Hinges to a frame, a pantograph sliding on an overhead line, a road through the wilderness, the river shark, the lower jaw, long bony tails; bronze or stone milestones. The finger or the middle finger, four fingers plus one thumb; the thumb roll. A different line or space dust; outer space or the ground.
+
+
+### Readings 
+
+- [General Formula for the Digital and the Analog](http://cultureandcommunication.org/galloway/general-formula-for-the-digital-and-the-analog) by Alex Galloway 
+- [The Computational Decision](http://cultureandcommunication.org/galloway/the-computational-decision) by Alex Galloway 
+- [Anti-Computer](http://cultureandcommunication.org/galloway/anti-computer) by Alex Galloway
+- [Zero & One](http://avant.org/project/zero-one/) by Taeyoon Choi
+- [What is Poetic Computation?](http://poeticcomputation.info/chapters/ch.1/) by Taeyoon Choi 
+- [Control Society](http://poeticcomputation.info/chapters/ch.3/) by Taeyoon Choi
+- [Poor Meme, Rich Meme](http://reallifemag.com/poor-meme-rich-meme/) by Aria Dean
+- [In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/) by Hito Steyerl
+- [Postscript on the Societies of Control](https://cidadeinseguranca.files.wordpress.com/2012/02/deleuze_control.pdf) by Gilles Deleuze
 
 
 ### Alexander R. Galloway 
@@ -31,7 +88,7 @@ Uncomputable consists of lectures by Alexander R. Galloway on June 20th and June
 ### Taeyoon Choi
 
 
-[Taeyoon Choi](http://taeyoonchoi.com) is an artist, a co-founder of School for Poetic Computation. In 2018, Taeyoon is working on [Distributed Web of Care](https://dwc-tchoi8.hashbase.io) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood. His art practice involves social practice, software, electronics, paintings, and installations. He was an artist in residence at the Lower Manhattan Cultural Council’s Workspace, The Frank-Ratchye Studio for Creative Inquiry, and Eyebeam Art and Technology Center. His projects were presented at the Whitney Museum of American Art and Los Angeles County Museum of Art. As a fellow at [Data and Society](http://datasociety.org), he’s focusing on disability and normalcy, and enhancing inclusion within art and technology. He's an adjunct professor at [NYU ITP](https://tisch.nyu.edu/itp), where he teaches '[Teaching as Art](https://tchoi8.github.io/teachingasart/).' 
+[Taeyoon Choi](http://taeyoonchoi.com) is an artist, a co-founder of School for Poetic Computation. In 2018, Taeyoon is working on [Distributed Web of Care](https://dwc-tchoi8.hashbase.io) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood. His art practice involves social practice, software, electronics, paintings, and installations. He was an artist in residence at the Lower Manhattan Cultural Council’s Workspace, The Frank-Ratchye Studio for Creative Inquiry, and Eyebeam Art and Technology Center. His projects were presented at the Whitney Museum of American Art and Los Angeles County Museum of Art. As a fellow at [Data and Society](http://datasociety.org), he’s focusing on disability and normalcy, and enhancing inclusion within art and technology. He's an adjunct professor at NYU ITP, where he teaches '[Teaching as Art](https://teachingasart.github.io).' 
 
 ### Cybernetics Library 
 
@@ -42,13 +99,10 @@ The [Cybernetics Library](https://cybernetics.social/library/) is: Sarah Hamerma
  
 Cori Kresge is a NYC based dancer and teacher. She has a BFA in dance from SUNY Purchase and the Dean’s Award for “breaking the mold.” In 2005 Kresge received a Darmasiswa International Scholarship, studying Balinese dance in Indonesia. She has been a member of the Merce Cunningham Repertory Understudy Group, José Navas/Compagnie Flak, and Stephen Petronio Company. She currently freelances and collaborates with various artists including Esme Boyce, Bill Young, Sarah Skaggs, Ellen Cornfield, Rashaun Mitchell+Silas Riener, Rebecca Lazier, Wendy Osserman, Glitter Kitty Productions, multi-media artist Liz Magic Laser, and film maker Zuzka Kurtz.
 
-### How can I participate? 
-The event is full. You can [Apply](https://airtable.com/shreKLUM5BDyu2zMi) to be waitlisted. We will accept up to 50 participants on a rolling basis. We will respond to your application within 3 weeks of submission. Please understand we may not be able to accomodate all applicants.
-
 
 ### How much is tuition?
 
-Uncomputable is a free event, thanks to The Department of Media, Culture, and Communication at New York University and the School for Poetic Computation. If you'd like to make donation to this event, please contact us. 
+Uncomputable is a free event, thanks to The Department of Media, Culture, and Communication at New York University, Data and Society Research Institute and the School for Poetic Computation.  
 
 ### What is expected of me?
 
@@ -56,6 +110,11 @@ Uncomputable is a free event, thanks to The Department of Media, Culture, and Co
 - Participate in both lectures on June 20th and June 28th, 6~9pm.
 - Adhere to the SFPC Code of Conduct, provided upon acceptance. 
 
+
+### Will there be another Uncomputable? 
+
+- We don't have a plan to organize another Uncomputable at the moment. However we are open to the idea. 
+- Check out related events: [New York Tech Zine Fair](https://techzinefair.org), [Code Ecologies](https://sfpc.io/codeecologies/) and [Distributed Web of Care](http://distributedweb.care). 
 
 ### Where is SFPC?
 
@@ -66,3 +125,4 @@ We are located in 155 Bank street, in the courtyard of the Westbeth Artists Comm
 Feel free to contact Taeyoon Choi (taeyoon@sfpc.io) for any questions.
 
 Image credits: Taeyoon Choi 
+Painting photos: Kyungjun Lee 

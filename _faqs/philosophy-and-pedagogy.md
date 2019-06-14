@@ -31,7 +31,7 @@ Here’s a list of short, non-degree granting programs to learn coding: [The Rec
 
 ### Who started the school?
 
-The school was co-founded in 2013 by Zach Lieberman, Taeyoon Choi, Amit Pitaru, and Jen Lowe in 2013, with Casey Gollan working on administration.
+The school was co-founded in by Zach Lieberman, Taeyoon Choi, Amit Pitaru, and Jen Lowe in 2013, with Casey Gollan working on administration.
 
 ### Who runs the school?
 
