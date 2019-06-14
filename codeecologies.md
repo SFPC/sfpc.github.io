@@ -8,7 +8,7 @@ layout: codeecologies
 
 - December 15, 2018. 1~6pm 
 - School for Poetic Computation and the Michelson Studio, 155 Bank St, NYC
-- Free event. Registration is full with a [waitlist](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164), Limited seating
+- Free event.  
 - Real Time Captioning, disability and access needs will be supported
 - A portion of the event will be live-streamed and open for remote participation  
  
@@ -19,6 +19,13 @@ Code Ecologies is an open forum to explore the environmental impact of computati
 At the School for Poetic Computation, we approach code from artistic, poetic, critical and philosophical perspectives. Considering how poetry explores the transformative qualities of the language and computation enables transfer of information at scale, we hope to bring together activists, poets, scientists, artists and community members to discuss "What should we do about it?" 
  
 Image by Sonia Boller. 
+
+
+<iframe src="https://player.vimeo.com/video/342175391" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Video by Achim Koh
+
+Editing by Mathieu Blanchette
 
 ### Co-organizers 
 
