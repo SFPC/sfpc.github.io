@@ -59,7 +59,7 @@ We accept up to 18 students on a rolling basis. We will respond to your applicat
 
 ### How competitive is the admissions?
 
-SFPC admissions is highly competitive. Every session, we receive up to 80 applicants and select 18. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.  
+SFPC admissions is highly competitive. Every session, we receive up to 80 applicants and select 18. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.
 
 ### How much is tuition?
 $2,500 USD for the 3-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). Upon acceptance, payment of full tuition, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible.
@@ -68,7 +68,7 @@ $2,500 USD for the 3-week program. You’ll also need to cover your own cost of 
 
 We are completely self-funded, which dramatically limits our ability to offer scholarships. In Code Societies, we are offering two work-study opportunity to a qualified applicant who would be expected to work 5 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, disabled person, people under-represented in the field of art + technology, and those with financial need.
 
-Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.  
+Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.
 
 ### Cancellation and refund policy
 
@@ -89,7 +89,7 @@ Please note that if you apply for work study, we will consider your application 
 
 ### Where is SFPC?
 
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+We are located at 155 Bank Street, in the courtyard of the Westbeth Artists' Community in Manhattan's West Village, New York City.
 
 ### Contact Us
 

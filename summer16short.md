@@ -1,6 +1,8 @@
 ---
-title: Code Subversions - Summer '16' 
+title: Code Subversions - Summer '16'
 layout: participate
+location: westbeth
+contact: sfpc
 slides:
 
   - "/static/img/participate/SFPC2-weekSummer.jpg"
@@ -9,7 +11,7 @@ slides:
   - "/static/img/participate/door.jpg"
   - "/static/img/participate/havefun.jpg"
   - "/static/img/participate/poeticsciencefair.jpg"
-  - "/static/img/participate/notebook.jpg"  
+  - "/static/img/participate/notebook.jpg"
 ---
 
 <div class="alert alert-success" role="alert">
@@ -18,9 +20,9 @@ Sorry, applications for the Summer Code Subversions session are now closed.</div
 ***
 
 ## Call for Students: Code Subversions
-- Two-Weeks Session, Monday Aug. 15th - Saturday Aug. 27th 
+- Two-Weeks Session, Monday Aug. 15th - Saturday Aug. 27th
 - @ SFPC, 155 Bank street, West Village, NYC
-- 7pm - 9pm, Evening Classes 
+- 7pm - 9pm, Evening Classes
 
 Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert the computational systems we use every day.
 
@@ -30,12 +32,12 @@ Instead of coding from scratch, we will be remixing, modding and collaging exist
 - [Sam Lavigne](http://lav.io) - data collagist, ITP fellow, Stupid Hackathon founder
 - [Ida C. Benedetto](http://uncommonplaces.com/) - transgressive place maker, experience designer, game maker
 - [Ingrid Burrington](http://lifewinning.com/) - writer, map maker, infrastructure demystifier
-- [Todd Anderson](http://hotwriting.net/) and [Lauren Gardner](http://laurengardner.com) are organizing the session. SFPC Team including [Zachary Lieberman](http://thesystemis.com/) and  [Taeyoon Choi](http://taeyoonchoi.com/) will provide additional support.  
+- [Todd Anderson](http://hotwriting.net/) and [Lauren Gardner](http://laurengardner.com) are organizing the session. SFPC Team including [Zachary Lieberman](http://thesystemis.com/) and  [Taeyoon Choi](http://taeyoonchoi.com/) will provide additional support.
 
 ### Classes
 
 #### Speculative Bureaucracy // Tega Brain
-In this class we will develop online interventions to rethink institutional agendas and critique mainstream tech culture. What are the dominant narratives used by institutions and industry to describe their goals, activities and politics? And what if you could rescript them? 
+In this class we will develop online interventions to rethink institutional agendas and critique mainstream tech culture. What are the dominant narratives used by institutions and industry to describe their goals, activities and politics? And what if you could rescript them?
 
 We will look at the history of culture jamming and apply speculative design strategies, using the contemporary web as medium. Taking delight in the banal, we will experiment with basic web scraping, text manipulation and browser add-ons to provide a glimpse of the world we'd like to see.
 
@@ -65,27 +67,17 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### What if I can't go, can I get a refund?
 - Yes, we can give you 100% refund up to 5 days before class starts
-- 50% refund after 5 days, until the first day of class 
+- 50% refund after 5 days, until the first day of class
 - No refunds can be given after the first day of class
 
 
 ### What is expected of me?
 - Come to all classes and thoughtfully engage with your classmates and teachers.
-- We are looking for autodidacts from all backgrounds who are curious, generous and open. 
-- We welcome students with a broad array of technical experiences--no coding experience is required, but a basic comfort level with technology is preferred. 
+- We are looking for autodidacts from all backgrounds who are curious, generous and open.
+- We welcome students with a broad array of technical experiences--no coding experience is required, but a basic comfort level with technology is preferred.
 - B.Y.O.Laptop (Mac / PC / Linux)
-
-
-### Where is SFPC?
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3023.157285117621!2d-74.0114827845943!3d40.73656447932915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d40.736779899999995!2d-74.00924049999999!4m5!1s0x89c259eb003122d1%3A0xede8af6a55291528!2s155+Bank+St%2C+New+York%2C+NY+10014!3m2!1d40.7365645!2d-74.00929409999999!5e0!3m2!1sen!2sus!4v1466975848424" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
 
 ### ~~How do I apply?~~
 **Sorry, applications are now closed**
 
 We accept up to 15 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
-  
-Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
