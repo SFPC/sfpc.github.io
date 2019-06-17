@@ -9,7 +9,7 @@ slides:
   - "/static/img/participate/door.jpg"
   - "/static/img/participate/havefun.jpg"
   - "/static/img/participate/poeticsciencefair.jpg"
-  - "/static/img/participate/notebook.jpg"  
+  - "/static/img/participate/notebook.jpg"
 ---
 
 <div class="alert alert-success" role="alert">
@@ -18,9 +18,9 @@ Sorry, applications for the Summer Code Subversions session are now closed.</div
 ***
 
 ## Call for Students: Code Subversions
-- Two-Weeks Session, Monday Aug. 15th - Saturday Aug. 27th 
-- @ SFPC, 155 Bank street, West Village, NYC
-- 7pm - 9pm, Evening Classes 
+- Two-Week Session, Monday Aug. 15th – Saturday Aug. 27th
+- @ SFPC, 155 Bank Street, West Village, NYC
+- 7pm – 9pm, Evening Classes
 
 Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We'll learn about the physical infrastructure of the internet, underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert the computational systems we use every day.
 
@@ -30,12 +30,12 @@ Instead of coding from scratch, we will be remixing, modding and collaging exist
 - [Sam Lavigne](http://lav.io) - data collagist, ITP fellow, Stupid Hackathon founder
 - [Ida C. Benedetto](http://uncommonplaces.com/) - transgressive place maker, experience designer, game maker
 - [Ingrid Burrington](http://lifewinning.com/) - writer, map maker, infrastructure demystifier
-- [Todd Anderson](http://hotwriting.net/) and [Lauren Gardner](http://laurengardner.com) are organizing the session. SFPC Team including [Zachary Lieberman](http://thesystemis.com/) and  [Taeyoon Choi](http://taeyoonchoi.com/) will provide additional support.  
+- [Todd Anderson](http://hotwriting.net/) and [Lauren Gardner](http://laurengardner.com) are organizing the session. SFPC Team including [Zachary Lieberman](http://thesystemis.com/) and  [Taeyoon Choi](http://taeyoonchoi.com/) will provide additional support.
 
 ### Classes
 
 #### Speculative Bureaucracy // Tega Brain
-In this class we will develop online interventions to rethink institutional agendas and critique mainstream tech culture. What are the dominant narratives used by institutions and industry to describe their goals, activities and politics? And what if you could rescript them? 
+In this class we will develop online interventions to rethink institutional agendas and critique mainstream tech culture. What are the dominant narratives used by institutions and industry to describe their goals, activities and politics? And what if you could rescript them?
 
 We will look at the history of culture jamming and apply speculative design strategies, using the contemporary web as medium. Taking delight in the banal, we will experiment with basic web scraping, text manipulation and browser add-ons to provide a glimpse of the world we'd like to see.
 
@@ -65,14 +65,14 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### What if I can't go, can I get a refund?
 - Yes, we can give you 100% refund up to 5 days before class starts
-- 50% refund after 5 days, until the first day of class 
+- 50% refund after 5 days, until the first day of class
 - No refunds can be given after the first day of class
 
 
 ### What is expected of me?
 - Come to all classes and thoughtfully engage with your classmates and teachers.
-- We are looking for autodidacts from all backgrounds who are curious, generous and open. 
-- We welcome students with a broad array of technical experiences--no coding experience is required, but a basic comfort level with technology is preferred. 
+- We are looking for autodidacts from all backgrounds who are curious, generous and open.
+- We welcome students with a broad array of technical experiences--no coding experience is required, but a basic comfort level with technology is preferred.
 - B.Y.O.Laptop (Mac / PC / Linux)
 
 

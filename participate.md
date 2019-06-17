@@ -17,51 +17,51 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 ## Summer 2019
 
-- Poetic Computation: Detroit. 1 week session: August 19-25, 2019. [More information](https://sfpc.io/detroit). 
-- SFPC Summer 2019 in Yamaguchi. 1 week session: September 4-11, 2019. [More information](https://www.ycam.jp/events/2019/sfpc/) 
-- We are updating our NYC space this summer. We will announce workshops and events via our mailing list. 
+- Poetic Computation: Detroit. 1 week session: August 19-25, 2019. [More information](https://sfpc.io/detroit).
+- SFPC Summer 2019 in Yamaguchi. 1 week session: September 4-11, 2019. [More information](https://www.ycam.jp/events/2019/sfpc/)
+- We are updating our NYC space this summer. We will announce workshops and events via our mailing list.
 
-## Fall 2019 
- 
-- [More information](https://sfpc.io/fall2019/) 
+## Fall 2019
+
+- [More information](https://sfpc.io/fall2019/)
 
 Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
- 
+
 # Past Programs
 
 ## Code Movement
 
-Led by movement teacher, performer, and writer Cori Kresge, this class will look at code as a natural human resource, applying it to dance practices and community. 
+Led by movement teacher, performer, and writer Cori Kresge, this class will look at code as a natural human resource, applying it to dance practices and community.
 
 - May 12, 19, 26, 2019
 - Register to the [workshop](https://sfpc.io/classes/movement/)
 
 
-## Movement, Memory, and the Unconscious Resource: Workshop by Cori Kresge 
+## Movement, Memory, and the Unconscious Resource: Workshop by Cori Kresge
 
 - February 10, 17, 27, 10am-1pm
-- SFPC, 155 Bank street, West Village, NYC
-- <a href="/classes/movement"> Participate </a> 
+- SFPC, 155 Bank Street, West Village, NYC
+- <a href="/classes/movement"> Participate </a>
 
 
 ## PUT INTO WORDS: A writing class for artists and technologists by Joanne McNeil
 
 - March 22 (Friday) 6-10 pm, March 23 (Saturday) 1-5 pm  March 24 (Sunday) 1-5 pm
-- SFPC, 155 Bank street, West Village, NYC
+- SFPC, 155 Bank Street, West Village, NYC
 - <a href="https://www.eventbrite.com/e/put-into-words-a-writing-class-for-artists-and-technologists-by-joanne-mcneil-at-sfpc-tickets-55171615788"> Participate </a>
 
-## Code Paper Scissors  
+## Code Paper Scissors
 
 
 - Two-Week Session, Monday February 4th - Sunday February 17th, 2019
-- SFPC, 155 Bank street, West Village, NYC
+- SFPC, 155 Bank Street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
 
 How can we reimagine technology through paper? Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft, SFPC's two-week session will explore the wide variety of ways that a piece of paper can produce function.
 
 
- 
+
 ## Code Societies Winter 2019
 
 -  Three-Week Session, Monday January 7th - Saturday January 26th
@@ -105,7 +105,7 @@ Alexander R. Galloway and Taeyoon Choi
 
 
 
-### What is the School for Poetic Computation?  
+### What is the School for Poetic Computation?
 
 School for Poetic Computation (SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. SFPC [began](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0) as a school run by artists for artists. In the past we have held a combinations of two-week and ten-week intensive sessions.
 
@@ -132,14 +132,14 @@ SFPC’s main program takes place over ten weeks in New York City with daily cla
 We select up to 18 participants a session. Classes vary in length and are usually held Monday-Friday between 10am and 5pm. Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participant. We celebrate with a final student showcase where students get to share their projects with the larger SFPC community.
 
 
-SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. Check out [Call for Spring 2018](https://sfpc.io/spring2018) for a full listing of classes.  
+SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. Check out [Call for Spring 2018](https://sfpc.io/spring2018) for a full listing of classes.
 
 ### How can I help SFPC?
 
 We are actively seeking private, corporate and institutional support to open our door to more diverse students. If you are interested in sponsoring a student, email <info@sfpc.io>. We are able to receive tax-deductible donations through our fiscal sponsor.
 
 ### Where is SFPC?
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+We are located in 155 Bank Street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3023.157285117621!2d-74.0114827845943!3d40.73656447932915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d40.736779899999995!2d-74.00924049999999!4m5!1s0x89c259eb003122d1%3A0xede8af6a55291528!2s155+Bank+St%2C+New+York%2C+NY+10014!3m2!1d40.7365645!2d-74.00929409999999!5e0!3m2!1sen!2sus!4v1466975848424" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 

@@ -17,7 +17,7 @@ slides:
 
 ## Call for Students: Code Societies
 - Three-Week Session, Monday January 7th - Saturday January 26th
-- SFPC, 155 Bank street, West Village, NYC
+- SFPC, 155 Bank Street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
 - **Applications are now closed**
 
@@ -38,7 +38,7 @@ Student’s should expect to develop several small scores or sketch pieces that 
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*1 Class, Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, a former fellow at Data and Society and an adjunct professor at NYU ITP. In 2018, Taeyoon is working on [Distributed Web of Care](http://taeyoonchoi.com/soft-care/distributed-web-of-care/) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 - [**Everest Pipkin**](http://www.decontextualize.com/) (*1 Class*) - Everest is a drawing, language and software artist whose work follows landscape as complicated by the advent of digital space. They produce intimate work with large data sets.
 - [**Dan Taeyoung**](http://www.dantaeyoung.com/) (*1 Class*) - Dan is a designer, researcher, and a teacher. He is interested in how cooperative practices and spatial environments change the way we think, collaborate, and learn with each other. He teaches at the Graduate School of Architecture, Planning, and Preservation at Columbia University.
-- [**Nora Khan**](http://www.noranahidkhan.com/) (*1 Class*) - Nora Khan is a writer. Her criticism focuses on digital visual culture, the philosophy of emerging technology, and experimental art and music practices that make arguments through software. She is on the Digital and Media faculty at Rhode Island School of Design, where she teaches several courses: critical theory and artistic research, critical writing about art and technology, and history of media art. She is a longtime editor at Rhizome, an editor of Prototype, a book for Google’s Artist and Machine Intelligence group, and has published in *4Columns, Rhizome, Art in America, Flash Art, Mousse, California Sunday, Spike Art, The Village Voice, Glass Bead*, and many other places.  
+- [**Nora Khan**](http://www.noranahidkhan.com/) (*1 Class*) - Nora Khan is a writer. Her criticism focuses on digital visual culture, the philosophy of emerging technology, and experimental art and music practices that make arguments through software. She is on the Digital and Media faculty at Rhode Island School of Design, where she teaches several courses: critical theory and artistic research, critical writing about art and technology, and history of media art. She is a longtime editor at Rhizome, an editor of Prototype, a book for Google’s Artist and Machine Intelligence group, and has published in *4Columns, Rhizome, Art in America, Flash Art, Mousse, California Sunday, Spike Art, The Village Voice, Glass Bead*, and many other places.
 - **FlucT** (*1 Class*) - FlucT is the collaborative work of two artists, Sigrid Lauren and Monica Mirabile, who address issues in the capital obedience of American culture through choreography and performance. Creating original narrative soundscapes linking a manipulated pop music psychosis with violently intimate dance, their composition is a projection driven to expose the psychology of this social paradigm. FlucT’s work has been widely reviewed and they founded Otion Front Studio, a performance/dance space in the Bushwick neighborhood of Brooklyn, New York. [Sigrid Lauren](http://www.sigridlauren.com/fluct/) & [Monica Mirabile](http://www.monicamirabile.com/fluct-1/)
 - [**BuFu**](http://www.bufubyusforus.com/) (*1 Class*) - Bufu is a collaborative living archive centered around (pan)black and (pan)asian cultural and political relationships. We, the founders of this project, are a collective of queer, femme and non-binary, black and east-asian artists and organizers. Our goal is to facilitate a global conversation on the relationship between black and asian diasporas, with an emphasis on building solidarity, de-centering whiteness, and resurfacing our deeply interconnected and complicated histories. We attempt to achieve this through our collaborative programming, our visual archives, and through building long-term partnerships with collectives, organizations, and individuals.
 
@@ -75,7 +75,7 @@ We accept up to 18 students on a rolling basis. We will respond to your applicat
 
 ### How competitive is the admissions?
 
-SFPC admissions is highly competitive. Every session, we receive up to 80 applicants and select 18. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.  
+SFPC admissions is highly competitive. Every session, we receive up to 80 applicants and select 18. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.
 
 ### How much is tuition?
 $3,000 USD for the 3-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). Upon acceptance, payment of full tuition, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible.
@@ -84,7 +84,7 @@ $3,000 USD for the 3-week program. You’ll also need to cover your own cost of 
 
 We are completely self-funded, which dramatically limits our ability to offer scholarships. In Code Societies, we are offering three work-study opportunity to a qualified applicant who would be expected to work 5 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, disabled person, people under-represented in the field of art + technology, and those with financial need.
 
-Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.  
+Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.
 
 ### Cancellation and refund policy
 
@@ -105,7 +105,7 @@ Please note that if you apply for work study, we will consider your application 
 
 ### Where is SFPC?
 
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+We are located at 155 Bank Street, in the courtyard of the Westbeth Artists' Community in Manhattan's West Village, New York City.
 
 ### Contact Us
 

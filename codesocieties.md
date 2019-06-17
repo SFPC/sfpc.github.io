@@ -20,8 +20,8 @@ slides:
 
 
 ## Call for Students: Code Societies
-- Three-Week Session, Monday July 2th - Saturday July 21st
-- @ SFPC, 155 Bank street, West Village, NYC
+- Three-Week Session, Monday July 2nd – Saturday July 21st
+- @ SFPC, 155 Bank Street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
 - Applications have closed
 
@@ -39,7 +39,7 @@ How do different platforms and processes — including algorithms, data collecti
 - [**Melanie Hoff**](http://melanie-hoff.com/) (*1 Class - Lead Organizer, On-Site Support*) - Artist, researcher, and educator examining technology's influence on social conventions, political rhetoric, and the ways in which economies of behavior reveal distributions of power. She is the co-organizer of [Cybernetics Conference](https://cybernetics.social/) and teaches at Mason Gross School of the Arts at Rutgers University.
 - [**American Artist**](https://americanartist.us/) (*1 Class*) - American is an interdisciplinary artist whose work extends dialectics formalized in Black radicalism and organized labor into a context of networked virtual life. Their practice makes use of video, installation, new media, and writing to reveal historical dynamics embedded within contemporary culture and technology.
 - [**Dan Taeyoung**](http://www.dantaeyoung.com/) (*1 Class*) - Dan dreams of, and creates, cybernetic architectures, infrastructures for care, ethical pedagogy, and warm cooperatives. He teaches at the Graduate School of Architecture Planning and Preservation at Columbia University.
-- [**Sarah Aoun**](sarahaoun.com) (*1 Class*) Sarah is a data activist, operational security trainer, and Ford-Mozilla Open Web Fellow working on data privacy and security. She worked with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on social justice, digital security, ethical data & privacy, and data-driven storytelling.
+- [**Sarah Aoun**](http://sarahaoun.com) (*1 Class*) Sarah is a data activist, operational security trainer, and Ford-Mozilla Open Web Fellow working on data privacy and security. She worked with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on social justice, digital security, ethical data & privacy, and data-driven storytelling.
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*1 Class, Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, a fellow at Data and Society and an adjunct professor at NYU ITP. In 2018, Taeyoon is working on [Distributed Web of Care](http://taeyoonchoi.com/soft-care/distributed-web-of-care/) and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 
 - 15 sessions in total with a final presentations. More teachers and speakers to be announced!
@@ -59,16 +59,16 @@ We accept up to 18 students on a rolling basis. We will respond to your applicat
 
 ### How competitive is the admissions?
 
-SFPC admissions is highly competitive. Every session, we receive up to 80 applicants and select 18. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.  
+SFPC admissions is highly competitive. Every session, we receive up to 80 applicants and select 18. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.
 
 ### How much is tuition?
 $2,500 USD for the 3-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). Upon acceptance, payment of full tuition, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible.
 
-### Do you offer scholarship?
+### Do you offer scholarships?
 
 We are completely self-funded, which dramatically limits our ability to offer scholarships. In Code Societies, we are offering two work-study opportunity to a qualified applicant who would be expected to work 5 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, disabled person, people under-represented in the field of art + technology, and those with financial need.
 
-Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.  
+Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.
 
 ### Cancellation and refund policy
 
@@ -89,7 +89,7 @@ Please note that if you apply for work study, we will consider your application 
 
 ### Where is SFPC?
 
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+We are located at 155 Bank Street, in the courtyard of the Westbeth Artists' Community in Manhattan's West Village, New York City.
 
 ### Contact Us
 
