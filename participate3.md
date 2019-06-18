@@ -17,21 +17,21 @@ slides:
 <div class="alert alert-success" role="alert">Apply <a href="/spring2019/"> by November 4th, 2018</a>.
 </div>
 - Ten-Weeks Session: March 11th – May. 17th, 2019
-- Location: SFPC, 155 Bank street, West Village, NYCWest Village, NYC
+- Location: SFPC, 155 Bank Street, West Village, NYCWest Village, NYC
 
 Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
 
 Subscribe to our mailing list at the bottom of this page for enrollment announcements.
 
-## Summer 2018 programs 
+## Summer 2018 programs
 
 ### Code Words
 #### One Week - Evening Classes
 <div class="alert alert-success" role="alert">Learn more about Code Words <a href="/codewords/">here</a>.
 </div>
 
-- July 29, Brunch and kick off, 1~5pm 
+- July 29, Brunch and kick off, 1~5pm
 - July 30 - August 3, 6:30pm - 9:30pm, Evening Classes
 - **Applications have closed **
 
@@ -45,7 +45,7 @@ We’ll spend the week making short computational pieces and sharing them (howev
 #### Three Weeks - Evening Classes
 - Monday July 2nd - Saturday July 21st
 - 6:30pm - 9:30pm, Evening Classes
-- Code Societies applications have closed. 
+- Code Societies applications have closed.
 
 <a href="/codesocieties/">Code Societies</a> will examine the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
 How do different platforms and processes — including algorithms, data collection, social media, networks, simulation, and ritual — yield distinct modes of seeing, thinking, and feeling, structure social organization, and reinforce existing systems of power? Through a balanced study of critical theory and hands-on making workshops, students will create several small projects that explore and question these ideas. Students will be introduced to Python and discover poetic, playful, and powerful ways to use computation. All levels of programming ability welcome and an enthusiastic willingness to reconsider how code shapes and is shaped by society required!
@@ -54,13 +54,13 @@ How do different platforms and processes — including algorithms, data collecti
 Alexander R. Galloway and Taeyoon Choi
 - Lectures: June 20th and June 28th, 2018, 6~9pm
 - Exhibition: June 20th to June 28th, 2018, 1~6pm
-- Uncomputable is now full. Please apply to be waitlisted. 
+- Uncomputable is now full. Please apply to be waitlisted.
 
 [Uncomputable](http://sfpc.io/uncomputable/): lectures and exhibition by Alexander R. Galloway and Taeyoon Choi. According to digital philosophers, the world is a computer and everything inside it is computable. But is this entirely true? What about things that fall outside the bounds of the computable? Alan Turing demonstrated that there are kinds of problems that are computable and kinds of problems that are not, providing a theoretical answer to the question of the uncomputable. But there is also a practical answer: how many computer cycles do you have at your disposal? If you want to crack high-grade encryption, can you afford to crunch the numbers until the sun burns out? In this project we will explore the realm of the uncomputable. In the digital realm the uncomputable appears in logical paradoxes and rational incompleteness. In the analog realm the uncomputable consists of all those things that remain ungovernable, unspeakable, or unseeable. Come explore with us the binary present, and the non-binary future. Come explore the uncomputable.
- 
 
 
-### What is the School for Poetic Computation?  
+
+### What is the School for Poetic Computation?
 
 School for Poetic Computation (SFPC) is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media. SFPC [began](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0) as a school run by artists for artists. In the past we have held a combinations of two-week and ten-week intensive sessions.
 
@@ -87,14 +87,14 @@ SFPC’s main program takes place over ten weeks in New York City with daily cla
 We select up to 18 participants a session. Classes vary in length and are usually held Monday-Friday between 10am and 5pm. Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participant. We celebrate with a final student showcase where students get to share their projects with the larger SFPC community.
 
 
-SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. Check out [Call for Spring 2018](https://sfpc.io/spring2018) for a full listing of classes.  
+SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. Check out [Call for Spring 2018](https://sfpc.io/spring2018) for a full listing of classes.
 
 ### How can I help SFPC?
 
 We are actively seeking private, corporate and institutional support to open our door to more diverse students. If you are interested in sponsoring a student, email <info@sfpc.io>. We are able to receive tax-deductible donations through our fiscal sponsor.
 
 ### Where is SFPC?
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+We are located in 155 Bank Street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3023.157285117621!2d-74.0114827845943!3d40.73656447932915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d40.736779899999995!2d-74.00924049999999!4m5!1s0x89c259eb003122d1%3A0xede8af6a55291528!2s155+Bank+St%2C+New+York%2C+NY+10014!3m2!1d40.7365645!2d-74.00929409999999!5e0!3m2!1sen!2sus!4v1466975848424" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 

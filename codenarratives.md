@@ -13,7 +13,7 @@ slides:
 
 ## Call for Students: Code Narratives
 - Two-Week Session, Monday July 10th - Saturday July 22nd
-- @ SFPC, 155 Bank street, West Village, NYC
+- @ SFPC, 155 Bank Street, West Village, NYC
 - 7pm - 9:30pm, Evening Classes
 - Apply [**here!**](https://goo.gl/forms/dqGHGq6mijVgLzis2)
 
@@ -28,7 +28,7 @@ SFPC's Summer Intensive: Code Narratives will explore the practice of generative
 - [Hannah Davis](http://www.hannahishere.com/) (*1 Class*) - programmer/data scientist/musician, creator of [Transprose](http://www.musicfromtext.com/), a literature-to-music translation project
 - [Zach Lieberman](http://thesystemis.com/) (*Lecture*) - SFPC co-founder, [OpenFrameworks](http://openframeworks.cc/) co-creator
 - [Taeyoon Choi](http://taeyoonchoi.com/) (*1 Class*) - SFPC co-founder, artist
-- More teachers and speakers to be announced! 
+- More teachers and speakers to be announced!
 
 
 ### What will happen in these two weeks?
@@ -42,7 +42,7 @@ You can apply to this session [**here.**](https://goo.gl/forms/dqGHGq6mijVgLzis2
 We accept up to 15 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 ### How much is tuition?
-$1,500 USD for the 2-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). Upon payment, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible. Unfortunately, due to small size of the overall budget, we can't provide scholarship for intensive program. In the past, students were able to get help from their employer or school to cover the cost. Upon acceptance, SFPC can provide an invitation letter for you. 
+$1,500 USD for the 2-week program. You’ll also need to cover your own cost of living, including housing and meals (recent alumni report this to be in the range of $800 - $1400). Upon payment, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible. Unfortunately, due to small size of the overall budget, we can't provide scholarship for intensive program. In the past, students were able to get help from their employer or school to cover the cost. Upon acceptance, SFPC can provide an invitation letter for you.
 
 
 ### What if I can’t go, can I get a refund?
@@ -57,10 +57,10 @@ $1,500 USD for the 2-week program. You’ll also need to cover your own cost of 
 - B.Y.O.Laptop (Mac / PC / Linux)
 
 ### Where is SFPC?
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+We are located at 155 Bank Street, in the courtyard of the Westbeth Artists' Community in Manhattan's West Village, New York City.
 
 ### Contact Us
 
 Feel free to contact lead organizer Todd Anderson ([toddwords@gmail.com](mailto:toddwords@gmail.com)) with any questions about the Code Narratives session, or [info@sfpc.io](mailto:info@sfpc.io) for any general questions about the school.
 
-Image credits: Allison Parrish, Ross Goodwin, Todd Anderson 
+Image credits: Allison Parrish, Ross Goodwin, Todd Anderson

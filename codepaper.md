@@ -10,7 +10,7 @@ slides:
 ## Call for Students: Code Paper Scissors
 
 - Two-Week Session, Monday February 4th - Sunday February 17th, 2019
-- SFPC, 155 Bank street, West Village, NYC
+- SFPC, 155 Bank Street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
 - [**Apply now!**](https://airtable.com/shrQBGNmSqYLK6q1p) –  deadline is January 21st, 2019
 
@@ -21,7 +21,7 @@ When we fold, we imbue an inert material with pattern, structure, animation, fun
 Lead by paper engineer and designer Kelli Anderson and origami artist and developer Robby Kraft, SFPC's two-week session will explore the wide variety of ways that a piece of paper can produce function.
 
 ![](/static/img/codepaper/camera.jpg)
-Kelli Anderson - This Book is a Camera 
+Kelli Anderson - This Book is a Camera
 
 ### Course objectives include:
 
@@ -112,7 +112,7 @@ space filling origami by Robby, rendered in [Origami Simulator](http://apps.aman
 
 ### Where is SFPC?
 
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+We are located at 155 Bank Street, in the courtyard of the Westbeth Artists' Community in Manhattan's West Village, New York City.
 
 ### Contact Us
 

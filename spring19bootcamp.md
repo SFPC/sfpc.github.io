@@ -12,8 +12,8 @@ slides:
 ***
 
 ## Call for Students: Spring '19 New Coders Bootcamp
-- One Week, Monday March 4th - Friday March 8th
-- @ SFPC, 155 Bank street, West Village, NYC
+- One Week, Monday March 4th – Friday March 8th
+- @ SFPC, 155 Bank Street, West Village, NYC
 - 10am - 1pm, Morning Classes with optional afternoon working sessions
 - [Apply Now!](https://airtable.com/shr4DF0I48cpZB9Le) - deadline is February 20th, 2019
 

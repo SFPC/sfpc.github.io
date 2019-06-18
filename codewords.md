@@ -1,5 +1,5 @@
 ---
-title: Code words 2018
+title: Code Words 2018
 layout: participate
 slides:
  - "/static/img/participate/codewords.png"
@@ -21,8 +21,8 @@ slides:
 
 ## Call for Students: Code Words
 - One-Week Session, Sunday July 29 - Friday August 3, 2018
-- @ SFPC, 155 Bank street, West Village, NYC
-- July 29, Brunch and kick off, 1~5pm 
+- @ SFPC, 155 Bank Street, West Village, NYC
+- July 29, Brunch and kick off, 1~5pm
 - July 30 - August 3, 6:30pm - 9:30pm, Evening Classes
 
 **Applications have closed**
@@ -48,12 +48,12 @@ The main outcome will be experience with literary arts, with other ways that lan
 - [Final Presentation Video](https://medium.com/sfpc/sfpc-code-words-final-presentations-8-3-18-1d3be87c5858)
 
 ### Who are the teachers?
- 
+
 - <a href="http://nickm.com">Nick Montfort.</a> (1 Class + critique, lead organizer) - Nick programs computational poetry and other types of creative computing, from very small Commodore 64 BASIC and assembly pieces to computer-generated books. His practices involve constrained writing, collaboration, concrete poetry, and certain other conceptualisms. His books of poetry include *The Truelist* (Counterpath); *Sliders* (Bad Quarto); *Autopia* (Troll Thread); with collaborators, *2x6* (Les Figues); *#!* (Counterpath), and *Riddle & Bind* (Spineless Books). He has done more than fifty digital projects including *The Deletionist* (with Amaranth Borsuk and Jesper Juul), *Sea and Spar Between* (with Stephanie Strickland), and *Taroko Gorge.* Nick edits the Counterpath series of computer-generated books Using Electricity. He has taught at SFPC three times before, is professor of digital media at MIT, and lives in New York and Boston.
 
 - <a href="http://lillianyvonnebertram.com/">Lillian-Yvonne Bertram.</a> (1 Class + critique) -  Lillian is a poet, also working in visual media, whose work concerns the malleability of language and forms. She teaches in the MFA creative writing program at UMass Boston.
 
-- <a href="http://miltonlaufer.com.ar">Milton Läufer.</a> (1 Class + critique) - Milton develops text generators, ranging from small-scale programs through two novel generators, one that generates Spanish novels and one that works in English. He is from Argentina and earned an MFA at NYU. 
+- <a href="http://miltonlaufer.com.ar">Milton Läufer.</a> (1 Class + critique) - Milton develops text generators, ranging from small-scale programs through two novel generators, one that generates Spanish novels and one that works in English. He is from Argentina and earned an MFA at NYU.
 
 - <a href="http://www.stephaniestrickland.com/">Stephanie Strickland.</a> (1 Class + critique) - Stephanie is a poet who works in and across print and electronic literature, frequently in collaboration. Her publications include eight print books of poetry, some of them directly connected to digital projects.
 
@@ -69,13 +69,13 @@ The session will kick off with a group brunch on Sunday 1-5pm. Classes are held 
 
 Students will have full access to the space for the week of the session to work on projects between classes and mentors will be readily available for technical, conceptual, and artistic guidance.
 
-### How do I apply? 
+### How do I apply?
 **Applications have closed**.
 We accept up to 15 students on a rolling basis. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 ### How competitive is the admissions process?
 
-SFPC admissions is highly competitive. We expect to receive as many as 80 applicants for 15 slots. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.  
+SFPC admissions is highly competitive. We expect to receive as many as 80 applicants for 15 slots. We focus on creating diversity among our student body. We work with a group of alumni and teachers to review and select students based on their work samples and essays.
 
 ### How much is tuition?
 $1000 USD for the One-Week program. You’ll also need to cover your own cost of living, including housing and meals. Upon acceptance, payment of full tuition, your space in the class will be reserved. SFPC tuition goes directly to paying for the teachers, organizers, materials and space that make sessions like this possible.
@@ -84,7 +84,7 @@ $1000 USD for the One-Week program. You’ll also need to cover your own cost of
 
 We are completely self-funded, which dramatically limits our ability to offer scholarships. In Code Words, we are offering one work-study opportunity to a qualified applicant who would be expected to work 5 hrs/week in exchange for a 50% reduction of tuition.  We’re particularly looking out for women, people of color, people with disabilities, people under-represented in the field of art + technology, and those with financial need.
 
-Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.  
+Please note that if you apply for work study, we will consider your application separately from the general admissions applications, since we have little flexibility regarding scholarships. This is for people who absolutely need assistance to participate in SFPC. Occasionally, students have received support from cultural foundations, schools or current employers and we are happy to provide supporting materials as proof of acceptance.
 
 ### Cancellation and refund policy
 
@@ -104,7 +104,7 @@ Please note that if you apply for work study, we will consider your application 
 
 ### Where is SFPC?
 
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
+We are located at 155 Bank Street, in the courtyard of the Westbeth Artists' Community in Manhattan's West Village, New York City.
 
 ### Contact Us
 
