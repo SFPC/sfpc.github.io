@@ -1,6 +1,8 @@
 ---
-title: Code Subversions - Summer '16' 
+title: Code Subversions - Summer '16'
 layout: participate
+location: westbeth
+contact: sfpc
 slides:
 
   - "/static/img/participate/SFPC2-weekSummer.jpg"
@@ -75,17 +77,7 @@ We are committed to being fully transparent about how we make and spend money. I
 - We welcome students with a broad array of technical experiences--no coding experience is required, but a basic comfort level with technology is preferred.
 - B.Y.O.Laptop (Mac / PC / Linux)
 
-
-### Where is SFPC?
-We are located in 155 Bank street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3023.157285117621!2d-74.0114827845943!3d40.73656447932915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d40.736779899999995!2d-74.00924049999999!4m5!1s0x89c259eb003122d1%3A0xede8af6a55291528!2s155+Bank+St%2C+New+York%2C+NY+10014!3m2!1d40.7365645!2d-74.00929409999999!5e0!3m2!1sen!2sus!4v1466975848424" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
-
 ### ~~How do I apply?~~
 **Sorry, applications are now closed**
 
 We accept up to 15 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
-  
-Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)

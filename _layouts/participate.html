@@ -9,6 +9,16 @@ layout: default
 <div class="row">
 	<div class="col-md-8">
 		{{content}}
+		{% if page.location %}
+			{% assign location = 'locations/' | append: page.location | append: '.md' %}
+			{% capture location_include %}{% include {{ location }} %}{% endcapture %}
+			{{ location_include | markdownify }}
+		{% endif %}
+		{% if page.contact %}
+			{% assign contact = 'contacts/' | append: page.contact | append: '.md' %}
+			{% capture contact_include %}{% include {{ contact }} %}{% endcapture %}
+			{{ contact_include | markdownify }}
+		{% endif %}
 	</div>
 	<div id="testimonials" class="col-md-4">
 		{% for testimonial in site.data.testimonials %}
