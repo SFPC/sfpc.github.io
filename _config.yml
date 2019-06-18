@@ -1,3 +1,11 @@
+short_title: SFPC
+title: School for Poetic Computation
+description: The School for Poetic Computation (SFPC), based in NYC, is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media.
+image: https://sfpc.io/static/img/participate/sum2016_lunch.jpg
+social-network-links:
+  twitter: sfpc
+  instagram: sfpc_nyc
+  github: sfpc
 permalink: pretty
 plugins:
 - jekyll-redirect-from
