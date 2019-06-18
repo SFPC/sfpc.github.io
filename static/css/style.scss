@@ -1,8 +1,6 @@
 ---
 ---
-
 /*Fonts*/
-
 body {
 	position: relative; // this is needed for the TOC scroll nav
 	font-size: 170% !important;
@@ -13,33 +11,33 @@ p {
 	padding-bottom: 0.5em;
 }
 
-
 #header {
 	font-size: 0.9em !important;
 }
 
 img {
-	max-width:100%;
+	max-width: 100%;
 }
 
-#logo{
-  width: 20em;
-  padding-bottom: 1em;
-	a{
+#logo {
+	width: 20em;
+	padding-bottom: 1em;
+
+	a {
 		text-decoration: none !important;
 	}
 }
 
-body,.tooltip,.popover{
+body, .tooltip, .popover {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 300;
-	color:#000
+	color: #000;
 }
-h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 600;
 }
-
 
 blockquote .source {
 	text-align: right;
@@ -50,56 +48,60 @@ blockquote .source {
 #header {
 	nav {
 		font-family: Helvetica, sans-serif;
+
 		h2 {
 			margin-top: 0;
 			font-family: Helvetica, sans-serif;
 			font-weight: bold;
+
 			a {
 				text-decoration: none !important;
 				color: #000;
 			}
 		}
+
 		a {
-			text-decoration:none!important;
-			display:block;
+			text-decoration: none !important;
+			display: block;
 		}
 	}
 }
 
 #participate {
-
 	.content {
-	li {
-		padding-bottom: 1em;
-	}
-	h3 {
-		padding-top: 1em;
-	}
+		li {
+			padding-bottom: 1em;
+		}
+
+		h3 {
+			padding-top: 1em;
+		}
 	}
 }
+
 // active states top navigation in pure css
 
 #sfpc .sfpc, #mission .mission, #press .press, #classes .classes, #people .people, #participate .participate, #blog .blog, #faq .faq, #apply .apply {
 	color: #000;
 	font-family: Helvetica, sans-serif;
+
 	//font-weight:bold;
 }
 
-// footer 
+// footer
 
 footer {
-	margin-top:45px;
+	margin-top: 45px;
 }
 
-
-#header{
-	margin-bottom:5em;
+#header {
+	margin-bottom: 5em;
 }
 
-#footer{
-	margin-top:8em;
+#footer {
+	margin-top: 8em;
 	font-size: 0.9em;
-	color: rgba(0,0,0,0.3);
+	color: rgba(0, 0, 0, 0.3);
 }
 
 .page-header {
@@ -114,48 +116,46 @@ footer {
 
 .container .jumbotron {
 	background-size: cover;
-	min-height:80vh;
+	min-height: 80vh;
 	border-radius: 0;
-
 }
 
-
 .bigimg { // press and mission page
-	padding:45px 15px;
+	padding: 45px 15px;
 }
 
 // text on white overlaying full width background images
 
 .overlay {
-	display:block;
-	background: rgba(255,255,255,.90);
+	display: block;
+	background: rgba(255, 255, 255, 0.9);
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
 
 .solidOverlay {
-	background: rgba(255,255,255,1.0) !important;
+	background: rgba(255, 255, 255, 1) !important;
 	margin-top: 2em;
 	margin-bottom: 2em;
-	padding:2em;
-
+	padding: 2em;
 }
 
-.missonStmnt{
-	padding:2em;
+.missonStmnt {
+	padding: 2em;
 	margin-top: 2em;
 	margin-bottom: 2em;
-
 }
+
 // two column css layout for mission page
 
 .content {
 	.form-group {
 		label {
-			padding-bottom:0em !important;
-			margin-bottom:0em !important;
+			padding-bottom: 0em !important;
+			margin-bottom: 0em !important;
 			line-height: 1em !important;
 		}
+
 		padding-bottom: 2em !important;
 	}
 }
@@ -184,13 +184,15 @@ footer {
 	-moz-column-gap: 15px;
 	-webkit-column-gap: 15px;
 	column-gap: 15px;
+
 	blockquote {
-		-webkit-column-break-inside:avoid;
-		-moz-column-break-inside:avoid;
-		column-break-inside:avoid;
-		font-size:1.0em !important;
+		-webkit-column-break-inside: avoid;
+		-moz-column-break-inside: avoid;
+		column-break-inside: avoid;
+		font-size: 1.0em !important;
 	}
-	padding-top:15px !important;
+
+	padding-top: 15px !important;
 }
 
 //
@@ -199,107 +201,128 @@ footer {
 	.faq-section {
 		margin-bottom: 45px;
 	}
+
 	h2 {
 		margin-top: 0;
 	}
+
 	h3 {
-		font-size:1em;
+		font-size: 1em;
+
 		//color: Silver  ;
-		margin-top:1.5em;
+		margin-top: 1.5em;
 	}
 }
+
 // table of contents for faq page
 
 #toc {
-	display:block;
+	display: block;
 	position: relative;
 	margin-bottom: 3em;
+
 	nav {
-		top:15px;
+		top: 15px;
 	}
-	.nav>li>a:hover, .nav>li>a:focus {
-		background:none;
+
+	.nav > li > a:hover, .nav > li > a:focus {
+		background: none;
 	}
+
 	li.active a {
-		font-weight:bold;
+		font-weight: bold;
+
 		//color:#000;
+
 	}
+
 	li a:hover {
-		background:none;
-		text-decoration:underline;
+		background: none;
+		text-decoration: underline;
 	}
+
 	.toc-h2 a {
 		//color: black;
-		font-weight:bold;
-		padding:0;
+		font-weight: bold;
+		padding: 0;
 	}
-	.toc-h3 + .toc-h2  {
-		margin-top:1em;
+
+	.toc-h3 + .toc-h2 {
+		margin-top: 1em;
 	}
+
 	.toc-h3 a {
-		color: Silver  ;
+		color: Silver;
+
 		//padding-left:1em;
-		padding:0;
+		padding: 0;
 	}
+
 	a {
-		padding:0;
+		padding: 0;
 	}
 }
 
 // filter buttons for people page
 
 #filters {
-	text-align:center;
+	text-align: center;
 	margin-bottom: 15px;
+
 	.btn-group {
 		margin-bottom: 15px;
 	}
+
 	button {
 		outline: 0;
 	}
-
 }
 
 // people page grid styles
 
 ul#people-grid {
-	list-style-type:none;
-	margin:0;
-	padding:0;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
 	li {
-		margin-bottom:15px;
+		margin-bottom: 15px;
 	}
+
 	.info {
-		position:relative;
-		display:block;
-		width:100%;
+		position: relative;
+		display: block;
+		width: 100%;
 	}
+
 	.links {
-		opacity:0;
+		opacity: 0;
 		-webkit-transition: opacity .15s;
 		transition: opacity .5s;
-		text-align:right;
-		width:50%;
-		position:absolute;
-			top:1px;
-			right:0;
-		background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 15%, rgba(255,255,255,1) 100%); /* FF3.6+ */
-		background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(255,255,255,0)), color-stop(15%,rgba(255,255,255,1)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
-		background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 15%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
-		background: -o-linear-gradient(left, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 15%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
-		background: -ms-linear-gradient(left, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 15%,rgba(255,255,255,1) 100%); /* IE10+ */
-		background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 15%,rgba(255,255,255,1) 100%); /* W3C */
+		text-align: right;
+		width: 50%;
+		position: absolute;
+		top: 1px;
+		right: 0;
+		background: -moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 15%, rgba(255, 255, 255, 1) 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(15%, rgba(255, 255, 255, 1)), color-stop(100%, rgba(255, 255, 255, 1))); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 15%, rgba(255, 255, 255, 1) 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 15%, rgba(255, 255, 255, 1) 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 15%, rgba(255, 255, 255, 1) 100%); /* IE10+ */
+		background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 15%, rgba(255, 255, 255, 1) 100%); /* W3C */
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
 	}
+
 	li:hover .links {
-		opacity:1;
+		opacity: 1;
 	}
 }
 
 // classes page spacing
 
 #classes .class {
-	margin-bottom:45px;
+	margin-bottom: 45px;
+
 	h2 {
 		margin-top: 0;
 	}
@@ -309,40 +332,58 @@ ul#people-grid {
 
 #testimonials {
 	color: gray;
+
 	blockquote {
 		font-size: 0.9em;
-		background-color:rgba(0,0,0,0.05);
-
+		background-color: rgba(0, 0, 0, 0.05);
 	}
 }
 
 blockquote {
-		font-size: 1em;
-		border: none !important;
+	font-size: 1em;
+	border: none !important;
 }
 
 // media queries
 
 @media (max-width: 768px) {
-    .affix { // don't pin the FAQ TOC on small screens
-        position: static;
-    }
-    // reduce number of columns at smaller screen sizes
+	.affix { // don't pin the FAQ TOC on small screens
+		position: static;
+	}
+
+	// reduce number of columns at smaller screen sizes
 	.twocol {
 		-moz-column-count: 1;
 		-webkit-column-count: 1;
 		column-count: 1;
 	}
+
 	.fourcol {
 		-moz-column-count: 2;
 		-webkit-column-count: 2;
 		column-count: 2;
 	}
+
+	#header {
+		margin-bottom: 2em;
+	}
+
+	// tweak background image placement on homepage
+
+	#sfpc .jumbotron {
+		padding: 110px 40px 0px;
+		min-height: 60vh;
+		.solidOverlay {
+			padding: 1.5em;
+		}
+	}
 }
+
 @media (max-width: 480px) {
 	.fourcol {
 		-moz-column-count: 1;
 		-webkit-column-count: 1;
 		column-count: 1;
 	}
+
 }
