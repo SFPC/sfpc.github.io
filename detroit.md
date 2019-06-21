@@ -116,7 +116,10 @@ Teachers
 - [Ann Haeyoung](https://a-tbd.com/)
 - [Colin Wong](https://www.colinwangdesign.com)
 - [Nabil Hassein](http://nabilhassein.github.io/about)
-- More Detroit-based teachers to be announced soon.
+- [Taylor Renee Aldridge](https://taylorrenee.info) 
+- [Ron Watters](https://onecustomcity.com/)
+
+More Detroit-based teachers to be announced soon.
 
 ![](/static/img/detroit/mocad.jpg)
 Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
