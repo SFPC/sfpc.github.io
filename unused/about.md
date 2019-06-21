@@ -78,20 +78,20 @@ We are incredibly thankful for following special guests; artists, curators, writ
 - Jürg Lehni
 - and more!
 
-![Visiting artist Kyle McDonald](http://farm8.staticflickr.com/7432/10933666386_37c0c2bf35_z.jpg)
+![Visiting artist Kyle McDonald](https://farm8.staticflickr.com/7432/10933666386_37c0c2bf35_z.jpg)
 
 _Visiting artist Kyle McDonald_
 
-![Visiting artist Joanne McNeil during Jen's Open Dinner](http://farm6.staticflickr.com/5498/10296088234_33bb285354_z.jpg)
+![Visiting artist Joanne McNeil during Jen's Open Dinner](https://farm6.staticflickr.com/5498/10296088234_33bb285354_z.jpg)
 
 _Visiting artist Joanne McNeil during Jen's Open Dinner_
 
-![](http://farm8.staticflickr.com/7377/10598868013_556b20f611_z.jpg)
+![](https://farm8.staticflickr.com/7377/10598868013_556b20f611_z.jpg)
 
-![Visiting artist Christine Sun Kim](http://farm6.staticflickr.com/5531/10598865003_d1a994ecf1_z.jpg)
+![Visiting artist Christine Sun Kim](https://farm6.staticflickr.com/5531/10598865003_d1a994ecf1_z.jpg)
 
 _Visiting artist Christine Sun Kim_
 
-![Visiting artist Jürg Lehni at Eyebeam in final week](http://farm4.staticflickr.com/3731/11107538286_3e4a7546a5_z.jpg)
+![Visiting artist Jürg Lehni at Eyebeam in final week](https://farm4.staticflickr.com/3731/11107538286_3e4a7546a5_z.jpg)
 
 _Visiting artist Jürg Lehni at Eyebeam in final week_
