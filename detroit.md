@@ -114,9 +114,8 @@ Co-organizers
 Teachers
 - [American Artist](https://americanartist.us)
 - [Ann Haeyoung](https://a-tbd.com/)
-- [Colin Wong](https://www.colinwangdesign.com)
+- [Colin Wang](https://www.colinwangdesign.com)
 - [Nabil Hassein](http://nabilhassein.github.io/about)
-- [Taylor Renee Aldridge](https://taylorrenee.info) 
 - [Ron Watters](https://onecustomcity.com/)
 
 More Detroit-based teachers to be announced soon.
