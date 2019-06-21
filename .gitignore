@@ -15,3 +15,6 @@ _site
 Gemfile.lock
 .bundle
 vendor/
+
+# iCloud metadata
+*.icloud
