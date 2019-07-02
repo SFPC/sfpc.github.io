@@ -17,7 +17,8 @@ slides:
 - 1-week session: August 19-25, 2019.
 - Location: Talking Dolls, 17471 Van Dyke St, Detroit, MI 48234
 - Fee: Sliding scale $0–500.
-- **Apply [here](https://airtable.com/shrwis42pddecU2gA) by July 1, 2019.**
+- Application closed on July 1, 2019. If you have any question, please email info@sfpc.io
+- We will inform all applicants by the end of July. 
 
 Please join the School for Poetic Computation (SFPC) in partnership with the [Talking Dolls](http://talkingdollsdetroit.com/) for a summer session in Detroit, Michigan. Daily classes range from computational poetry, building electronics, critical theory and the history of the manufacturing industry in Detroit. There are lectures, student-led skill sharing sessions and workshops with visiting artists, walking tours, field trips to community spaces and family dinners. Together we will uncover how coding is more than what happens behind your screen.
 
@@ -62,7 +63,7 @@ Project by Spring 2018 student Nabil Hassein, 2018
 
 ### How does the application process work?
 
-**Apply [here](https://airtable.com/shrwis42pddecU2gA) by July 1, 2019.**
+ 
 
 We accept up to 15 students based on their application and video interview. Our program is inclusive of beginners with no prior experience with art or technology. SFPC and Detroit-based partners will select students with clear intentions for joining the camp, and those who have a plan to share the knowledge with their community. Application Deadline is July 1. We will respond to your application by July 15. We anticipate the admission will be highly competitive. We encourage you to apply early!
 
@@ -132,4 +133,4 @@ Slideshow photographs by Russel Stewart.
 
 ### Contact us
 
-Feel free to contact us with any questions about the summer camp at info@sfpc.io.
+Feel free to contact us with any questions about the Poetic Computation: Detroit at info@sfpc.io.
