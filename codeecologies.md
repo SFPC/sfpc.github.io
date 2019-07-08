@@ -23,9 +23,9 @@ Image by Sonia Boller.
 
 <iframe src="https://player.vimeo.com/video/342175391" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Video by Achim Koh
-
-Editing by Mathieu Blanchette
+- Live streaming by [Achim Koh](https://scalarvectortensor.net/)
+- Video editing by [Mathieu Blanchette](https://twitter.com/mathblank)
+- [Session notes](https://github.com/SFPC/codeecologies/tree/master/notes) by participants 
 
 ### Co-organizers
 
@@ -60,17 +60,12 @@ Ian Fried has been in the field of science and sustainability education for the 
 
 [Cori Kresge](http://www.cornfielddance.org/about/collaborators/view/Cori-Kresge/) is a NYC based dancer, collaborator, writer, and teacher. Kresge graduated from SUNY Purchase with a BFA in dance and the Dean's Award. In 2016 Kresge staged Cunningham's Field Dances, an improvisational score, on students of CNDC, Angers, France. She has also been a member of José Navas/Compagnie Flak, and Stephen Petronio Company. Kresge currently collaborates and performs with various artists including Rashaun Mitchell+Silas Riener, Liz Magic Laser, Rebecca Lazier and more.
 
-### How can I participate?
 
-Free event. Registration is full with a [waitlist](https://www.eventbrite.com/e/code-ecologies-tickets-52863504164), Limited seating
-
-If you'd like to volunteer on 12/14 or 12/15, we are looking for help with note-taking, installation and facilitation. Please contact Sonia Boller at (soniaboller@gmail.com)
 
 ### Is the event accessible?
 
 We will provide Real Time Captioning and support participants disability and access based on needs. If you have any access needs, please describe on the registration form.
-
-If you want to participate remotely via shared documents, chat channel and video, please contact the organizers via Nabil Hassein at (nabil.hassein@gmail.com)
+ 
 
 ### Suggested readings
 
