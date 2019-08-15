@@ -18,7 +18,9 @@ slides:
 - Location: Talking Dolls, 17471 Van Dyke St, Detroit, MI 48234
 - Fee: Sliding scale $0–500.
 - Application closed on July 1, 2019. If you have any question, please email info@sfpc.io
-- We will inform all applicants by the end of July. 
+- [Meet the Teachers Salon](https://www.eventbrite.com/e/poetic-computation-detroit-salon-tickets-68190412359) on August 23, 2019 at the Jam Handy 
+- [Showcase](https://www.eventbrite.com/e/poetic-computation-detroit-showcase-tickets-67655678957) on August 25, 2019 at the Talking Dolls
+
 
 Please join the School for Poetic Computation (SFPC) in partnership with the [Talking Dolls](http://talkingdollsdetroit.com/) for a summer session in Detroit, Michigan. Daily classes range from computational poetry, building electronics, critical theory and the history of the manufacturing industry in Detroit. There are lectures, student-led skill sharing sessions and workshops with visiting artists, walking tours, field trips to community spaces and family dinners. Together we will uncover how coding is more than what happens behind your screen.
 
@@ -117,9 +119,12 @@ Teachers
 - [Ann Haeyoung](https://a-tbd.com/)
 - [Colin Wang](https://www.colinwangdesign.com)
 - [Nabil Hassein](http://nabilhassein.github.io/about)
-- [Ron Watters](https://onecustomcity.com/)
-
-More Detroit-based teachers to be announced soon.
+- [Danielle Aubert](http://www.danielleaubert.info/) 
+- [Ron Watters](https://onecustomcity.com/) 
+- [Andrea Cardinal](https://andreacardinal.com/)
+- [Janice Gates](https://detroitcommunitytech.org/)
+- [Tawana Petty](https://detroitcommunitytech.org/)
+ 
 
 ![](/static/img/detroit/mocad.jpg)
 Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
