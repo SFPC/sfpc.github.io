@@ -15,8 +15,7 @@ slides:
 ## Poetic Computation: Detroit 2019
 
 - 1-week session: August 19-25, 2019.
-- Location: Talking Dolls, 17471 Van Dyke St, Detroit, MI 48234
-- Fee: Sliding scale $0–500.
+- Location: Talking Dolls,  7145 E Davison St | Detroit, MI 48234
 - Application closed on July 1, 2019. If you have any question, please email info@sfpc.io
 - [Meet the Teachers Salon](https://www.eventbrite.com/e/poetic-computation-detroit-salon-tickets-68190412359) on August 23, 2019 at the Jam Handy 
 - [Showcase](https://www.eventbrite.com/e/poetic-computation-detroit-showcase-tickets-67655678957) on August 25, 2019 at the Talking Dolls
@@ -78,7 +77,9 @@ All application decisions at SFPC are based on educational needs, accessibility 
 We respect the complex and rich history of Detroit as a city of resilient creatives. We are inspired by Detroit-based artists and collectives such as [Complex Movements](https://emergencemedia.org/pages/complex-movements), an artist collective supporting the transformation of communities by exploring the connections of complex science and social justice movements through multimedia interactive performance work. We are inspired by the acclaimed [Allied Media Conference](https://www.alliedmedia.org/amc) for DIY media makers and activists. We are inspired by [Raven Stubbs](https://www.ravenstubbs.com/), whose project at Recess Art involved a “workshop series and ethnodramaturgical project exploring the role of class within contemporary Black life and community.”
 
 
-We are learning about the challenges of outsiders approaching cities like Detroit. In [Transplant exploits: Detroit’s savior complex](http://arts.black/2016/04/transplant-exploits-detroits-savior-complex/), [Taylor Renee Aldridge](https://www.taylorrenee.info/) wrote, “I urge you to consider the lives that have been lived here. The trauma experienced in these lives. Loss of homes, jobs, and other prized possessions. Consider these narratives as you aim to locate remedies for innovation. We, as Detroiters, welcome change but not at the expense of exploiting our own narratives and spaces for your personal gain." Read more about our intentions in our [blog post](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb).
+We are learning about the challenges of outsiders approaching cities like Detroit. In [Transplant exploits: Detroit’s savior complex](http://arts.black/2016/04/transplant-exploits-detroits-savior-complex/), [Taylor Renee Aldridge](https://www.taylorrenee.info/) wrote, “I urge you to consider the lives that have been lived here. The trauma experienced in these lives. Loss of homes, jobs, and other prized possessions. Consider these narratives as you aim to locate remedies for innovation. We, as Detroiters, welcome change but not at the expense of exploiting our own narratives and spaces for your personal gain." 
+
+Read more about our intentions in our [Trip report #1](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb), May 1, 2019 and [Trip report #2](https://medium.com/sfpc/poetic-computation-detroit-2-f57835a867b2), August 2, 2019.
 
 
 ### How much is tuition?
@@ -88,7 +89,7 @@ Tuition is $0-500 on a sliding scale. If you make more than the Detroit median i
 ### What is expected of me?
 
 - Participate in all classes and thoughtfully engage with your classmates and teachers.
-- Adhere to the SFPC Code of Conduct.
+- Adhere to the SFPC [Code of Conduct](https://github.com/SFPC/detroit/blob/master/CODE_OF_CONDUCT.md).
 - Participate in the Student Showcase.
 - We are looking for autodidacts from all backgrounds who are curious, generous and open.
 - We welcome students with a broad array of technical experiences—no coding experience is required, but a basic comfort level with technology is preferred.
@@ -97,7 +98,7 @@ Tuition is $0-500 on a sliding scale. If you make more than the Detroit median i
 
 ### Where is the session located?
 
-The session will be hosted at Talking Dolls, an experimental studio on the east side at 17471 Van Dyke St, Detroit, MI 48234.
+The session will be hosted at Talking Dolls, an experimental studio on 7145 E Davison St, Detroit, MI 48234.
 
 ### Organizers
 
@@ -107,6 +108,9 @@ The session will be hosted at Talking Dolls, an experimental studio on the east 
 
 
 Poetic Computation: Detroit is organized by Taeyoon Choi, Lauren Gardner, Melanie Hoff, and Neta Bomani, with SFPC teachers and alumni. Detroit-based partners and collaborators include the Detroit Community Technology Project, the Talking Dolls, the Work Department and more.
+
+The curriculum
+- [Unconvering Technology](https://github.com/sfpc/detroit) 
 
 Co-organizers
 - [Taeyoon Choi](https://taeyoonchoi.com)
@@ -125,6 +129,10 @@ Teachers
 - [Janice Gates](https://detroitcommunitytech.org/)
 - [Tawana Petty](https://detroitcommunitytech.org/)
  
+Public events 
+- [Meet the Teachers Salon](https://www.eventbrite.com/e/poetic-computation-detroit-salon-tickets-68190412359) on August 23, 2019 at the Jam Handy 
+- [Showcase](https://www.eventbrite.com/e/poetic-computation-detroit-showcase-tickets-67655678957) on August 25, 2019 at the Talking Dolls
+
 
 ![](/static/img/detroit/mocad.jpg)
 Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
