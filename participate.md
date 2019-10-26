@@ -12,14 +12,15 @@ slides:
 
 # Upcoming Programs
 
-Subscribe to our mailing list, at the bottom of the page to be the first to hear about our upcoming programs. We will open the enrollment for the 10-week Fall 2019 program in January and announce a more workshops for February.
+Subscribe to our mailing list, at the bottom of the page to be the first to hear about our upcoming programs. We are working on 2020 academic calendar. Please follow our social media and mailing list for the updates. 
+
+## Winter 2019 
+
+- [Code Movement](https://sfpc.io/classes/movement). Led by movement teacher, performer, bodyworker, and writer Cori Kresge, this class will look at code as a resource, applying it to dance practices and community. We will focus on interpreting and creating systems of coding, scoring, and encrypting, using the body’s senses, gestures, and mechanics both individually and collectively. Together, we will cultivate practices that attempt to override the ego constructs that often obstruct or inhibit our learning and creativity.  November. 10, 17, 24, December. 1 1-4PM.
 
 
-## Summer 2019
 
-- Poetic Computation: Detroit. 1 week session: August 19-25, 2019. [More information](https://sfpc.io/detroit).
-- SFPC Summer 2019 in Yamaguchi. 1 week session: September 4-11, 2019. [More information](https://www.ycam.jp/events/2019/sfpc/)
-- We are updating our NYC space this summer. We will announce workshops and events via our mailing list.
+# Past Programs
 
 ## Fall 2019
 
@@ -27,23 +28,13 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
 
+## Summer 2019
 
-# Past Programs
-
-## Code Movement
-
-Led by movement teacher, performer, and writer Cori Kresge, this class will look at code as a natural human resource, applying it to dance practices and community.
-
-- May 12, 19, 26, 2019
-- Register to the [workshop](https://sfpc.io/classes/movement/)
-
-
-## Movement, Memory, and the Unconscious Resource: Workshop by Cori Kresge
-
-- February 10, 17, 27, 10am-1pm
-- SFPC, 155 Bank Street, West Village, NYC
-- <a href="/classes/movement"> Participate </a>
-
+- Poetic Computation: Detroit. 1 week session: August 19-25, 2019. [More information](https://sfpc.io/detroit).
+- SFPC Summer 2019 in Yamaguchi. 1 week session: September 4-11, 2019. [More information](https://www.ycam.jp/events/2019/sfpc/)
+- We are updating our NYC space this summer. We will announce workshops and events via our mailing list.
+ 
+ 
 
 ## PUT INTO WORDS: A writing class for artists and technologists by Joanne McNeil
 
