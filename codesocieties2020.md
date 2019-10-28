@@ -42,8 +42,8 @@ No coding experience necessary; an enthusiastic willingness to reconsider how co
 
 **The Stewards of Code Societies**<br>
 [Melanie Hoff](https://melanie-hoff.com/) (Lead Organizer)<br>
-[Neta Bomani](https://www.netabomani.com/) (Assistant Organizer & TA)<br>
-[Emma Rae Norton](https://www.marceldochamp.net/) (Assistant Organizer & TA)<br>
+[Neta Bomani](https://www.netabomani.com/) (Assistant Organizer)<br>
+[Emma Rae Norton](https://www.marceldochamp.net/) (Assistant Organizer)<br>
 [Taeyoon Choi](http://taeyoonchoi.com/) (Session Advisor)
 
 
