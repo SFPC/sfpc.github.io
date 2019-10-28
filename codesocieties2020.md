@@ -24,21 +24,18 @@ slides:
 - **[Apply Here]()**
 
 
-Code Societies is an introduction to re-introducing yourselves to computers. SFPC’s winter intensive will examine how code and societies shape and are shaped by each other. We will build new kinds of codes made of the social, the digital, and the ritual, on a foundation of shared experience and a commitment to learning with care together. Through a balanced, interwoven study of critical theory and hands-on coding workshops, students will create small projects that explore and question these ideas. We’ll cover foundational methods of coding with Python, coding on the web, navigating the command line, and working with zines as a technology to name a few. The classes are held in the evenings and are designed to engage with code, and the ways code acts on our bodies and networks, equally as subject and as medium.
+SFPC’s winter intensive is an introduction to re-introducing yourselves to computers. How do different platforms and processes—including algorithms, surveillance, social media, infrastructure, and interface—yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? We will examine how code and societies shape and are shaped by each other by building new kinds of codes made of the social, the digital, and the ritual, on a foundation of shared experience and a commitment to learning with care together. Code Societies is about redrawing the divisions that make us and unmake us; and we’ll begin by challenging the division between those who code software and those who are coded by it.
 
-Code Societies is about redrawing the divisions that make us and unmake us; and we’ll begin by challenging the division between those who code software and those who are coded by it. This session centers the learning experience of beginner programmers while simultaneously taking the position that everyone who interacts with computers has—in important ways—always already been programming them.
+No coding experience necessary: This session centers the learning experience of beginner programmers while simultaneously taking the position that everyone who interacts with computers has—in important ways—always already been programming them.[^1]
 
-How do different platforms and processes—including algorithms, surveillance, social media, infrastructure, and interface—yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory, and hands-on coding workshops student’s should expect to develop several small scores or sketch pieces that may exist online, on screens, performed, or installed.
+Through a balanced, interwoven study of critical theory and hands-on coding workshops, students should expect to develop several small scores or sketch pieces that may exist online, on screens, performed, or installed. We’ll cover foundational methods of coding with Python, coding on the web, navigating the command line, and working with zines as a technology to name a few. The classes are held in the evenings and are designed to engage with code, and the ways code acts on our bodies and networks, equally as subject and as medium. Code Societies is both this session’s subject and it’s prompt; it is an invitation to consider coding and choreographing new ways of being with each other within the unique learning environment of SFPC.
 
-Code Societies is both this session’s subject and it’s prompt; it is an invitation to consider coding and choreographing new ways of being in relation with each other within the unique learning environment of SFPC.
-
-SFPC is a school organized by people who are committed to making space for people who exist at the intersections of percieved and oppressed identities, including but not limited to, those who are queer and trans people of color; disabled; deaf or hard of hearing. We understand safety is relative and in constant negotiation, especially at the margins. We also distinguish safety from discomfort, as there is no such thing as a never uncomfortable space.[^1] Code Societies is a program which studies the very systems that create such barriers to space. Because the process of ideological confrontation can be uncomfortable, we will work together to create boundaries that make it easier for everyone involved to feel as safe and comfortable as possible throughout the process without intentional harm or discrimination done onto them, which will not be tolerated. Read more about the SFPC code of conduct [here](https://github.com/SFPC/codeofconduct).
-
-No coding experience necessary; an enthusiastic willingness to reconsider how code shapes and is shaped by society required!
+We will work together to create boundaries that make it easier for everyone involved to feel as safe and comfortable as possible throughout the session without intentional harm or discrimination done onto them, which will not be tolerated. SFPC is a school organized by people who are committed to making space for people who exist at the intersections of perceived and oppressed identities, including but not limited to, those who are queer and trans people of color; disabled; deaf or hard of hearing. Code Societies is a program which studies the very systems that create barriers to spaces of technology and learning and acknowledges  the process of ideological confrontation can sometimes feel uncomfortable. We understand safety is relative and in constant negotiation, especially at the margins. We also distinguish safety from discomfort, as there is no such thing as a never uncomfortable space.[^2] Read more about the SFPC code of conduct [here](https://github.com/SFPC/codeofconduct).
 
 **14 class days in total with a Student Showcase presentation on January 25th. Code Societies 2020 teachers and to be announced!**
 
-[^1]: “Principles.” NYC TJHub, nyctjhub.com/public_principles.html
+[^1]: “Always Already Programming” Melanie Hoff, https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/README.md#always-already-programming
+[^2]: “Principles.” NYC TJHub, nyctjhub.com/public_principles.html
 
 **The Stewards of Code Societies**<br>
 [Melanie Hoff](https://melanie-hoff.com/) (Lead Organizer)<br>
@@ -98,7 +95,7 @@ Taeyoon prompted us to think about not simply decentralizing networks, but takin
 <br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/11/distributed-webo-of-care-blog.html)
 
 
-Read blog postings from [Code Societies 2018](https://github.com/SFPC/codesocieties/blob/master/README.md)
+**Read blog postings from [Code Societies 2018](https://github.com/SFPC/codesocieties/blob/master/README.md)**
 
 - [Code Societies: An Introduction with Melanie Hoff & Taeyoon Choi](https://medium.com/sfpc/code-societies-an-introduction-57de026c7c3b)
 - [Authoring Text Under Control with Allison Parrish](https://medium.com/sfpc/authoring-text-under-control-from-automatic-writing-to-autocomplete-673df0593bfa)
@@ -111,6 +108,12 @@ Read blog postings from [Code Societies 2018](https://github.com/SFPC/codesociet
 - [Social Network Paintings with Melanie Hoff & Dan Taeyoung](https://medium.com/sfpc/social-network-paintings-210816b51cde)
 - [Code Societies Summer 2018: Student Showcase](https://medium.com/sfpc/code-societies-2018-student-showcase-df35e9c95b71)
 
+**Student Quotes**
+
+“This experience was comparable to reading a book that jars me ideologically, changes my conception of possibility, and gives me a new framework for approaching the experience of being a person with a body in a place.” - Mimi Doan after FlucT’s class during Code Societies 2019
+
+“For me Code Societies was an entanglement of ideas, movement and metaphor […] we listened to each other, moved our bodies through space, and shared with each other ways of seeing the world and ourselves.” - Emma Rae Norton from their project, A collaborative Archive of Code Societies Ephemera, 2019
+
 
 ### What will happen in these three weeks?
 Classes are held in the evenings Monday-Friday from 6:30-9:30pm with a day off on Martin Luther King Day January 21st. SFPC space will be open for students on weekdays between 3:30pm-6pm. The session will culminate in a party on the evening of Saturday January 25th, where students can invite their friends and present their projects and reflections.
@@ -119,7 +122,8 @@ Students will have full access to the space during open hours for the three week
 
 
 ### How do I apply?
-**Applications are now closed**
+**Applications are now Open**<br>
+⤳ **[Apply Here]()**
 
 We accept up to 18 students on a rolling basis until **Tuesday, December 2nd**. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
