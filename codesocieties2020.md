@@ -21,10 +21,10 @@ slides:
 - Three-Week Session, Monday January 6th - Saturday January 25th
 - SFPC, 155 Bank Street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
-- **[Apply Here]()**
+- **[Apply Here](https://airtable.com/shrbFALyK5MRnXpP1)**
 
 
-SFPC’s winter intensive is an introduction to re-introducing yourselves to computers. How do different platforms and processes—including algorithms, surveillance, social media, infrastructure, and interface—yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? We will examine how code and societies shape and are shaped by each other by building new kinds of codes made of the social, the digital, and the ritual, on a foundation of shared experience and a commitment to learning with care together. Code Societies is about redrawing the divisions that make us and unmake us; and we’ll begin by challenging the division between those who code software and those who are coded by it.
+SFPC’s winter intensive is an introduction to re-introducing yourselves to computers. How do different platforms and processes—including algorithms, surveillance, social media, infrastructure, and interface—yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? We will examine how code and societies shape and are shaped by each other by building new codes made of the social, the digital, and the ritual, on a foundation of shared experience and a commitment to learning with care together. Code Societies is about redrawing the divisions that make us and unmake us; and we’ll begin by challenging the division between those who code software and those who are coded by it.
 
 No coding experience necessary: This session centers the learning experience of beginner programmers while simultaneously taking the position that everyone who interacts with computers has—in important ways—always already been programming them.[^1]
 
@@ -121,7 +121,7 @@ Students will have full access to the space during open hours for the three week
 
 ### How do I apply?
 **Applications are now Open**<br>
-⤳ **[Apply Here]()**
+⤳ **[Apply Here](https://airtable.com/shrbFALyK5MRnXpP1)**
 
 We accept up to 18 students on a rolling basis until **Tuesday, December 2nd**. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
