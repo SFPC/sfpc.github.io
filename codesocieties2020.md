@@ -35,7 +35,7 @@ We will work together to create boundaries that make it easier for everyone invo
 **14 class days in total with a Student Showcase presentation on January 25th.**<br>
 _**Code Societies 2020 teachers and to be announced soon!**_
 
-[^1]: “Always Already Programming” Melanie Hoff, (https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/README.md#always-already-programming
+[^1]: “Always Already” Heidegger, https://en.wikipedia.org/wiki/Always_already
 [^2]: “Principles.” NYC TJHub, nyctjhub.com/public_principles.html
 
 ## The Stewards of Code Societies
