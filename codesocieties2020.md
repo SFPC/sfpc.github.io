@@ -1,5 +1,5 @@
 ---
-title: Code Societies Winter 2019
+title: Code Societies Winter 2020
 layout: participate
 slides:
  - "/static/img/codesocieties/long-2020.jpg"
@@ -24,7 +24,7 @@ slides:
 - **[Apply Here](https://airtable.com/shrbFALyK5MRnXpP1)**
 
 
-SFPC’s winter intensive is an introduction to re-introducing yourselves to computers. How do different platforms and processes—including algorithms, surveillance, social media, infrastructure, and interface—yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? We will examine how code and societies shape and are shaped by each other by building new codes made of the social, the digital, and the ritual, on a foundation of shared experience and a commitment to learning with care together. Code Societies is about redrawing the divisions that make us and unmake us; and we’ll begin by challenging the division between those who code software and those who are coded by it.
+School for Poetic Computation(SFPC)’s winter intensive is an introduction to re-introducing yourselves to computers. How do different platforms and processes—including algorithms, surveillance, social media, infrastructure, and interface—yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? We will examine how code and societies shape and are shaped by each other by building new codes made of the social, the digital, and the ritual, on a foundation of shared experience and a commitment to learning with care together. Code Societies is about redrawing the divisions that make us and unmake us; and we’ll begin by challenging the division between those who code software and those who are coded by it.
 
 No coding experience necessary: This session centers the learning experience of beginner programmers while simultaneously taking the position that everyone who interacts with computers has—in important ways—always already been programming them.[^1]
 
@@ -35,7 +35,7 @@ We will work together to create boundaries that make it easier for everyone invo
 **14 class days in total with a Student Showcase presentation on January 25th.**<br>
 _**Code Societies 2020 teachers and to be announced soon!**_
 
-[^1]: “Always Already Programming” Melanie Hoff, https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/README.md#always-already-programming
+[^1]: “Always Already Programming” Melanie Hoff, (https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/README.md#always-already-programming
 [^2]: “Principles.” NYC TJHub, nyctjhub.com/public_principles.html
 
 ## The Stewards of Code Societies
@@ -46,7 +46,7 @@ _**Code Societies 2020 teachers and to be announced soon!**_
 
 **[Emma Rae Norton](https://www.marceldochamp.net/) (Assistant Organizer)** is an artist working with and through software. Her work, while mostly existing online, has appeared in the form of DAT zines, CD-ROM and collaborative hand coding workshops. Emma is committed to unpacking the ubiquitous networked and computational world that she lives in through a research-based art practice. Her current research focuses on the computer mouse as an impactful technological object — most recently taking the form of writing, the co-organization of a computer mouse conference, and scrolling lectures.
 
-**[Taeyoon Choi](http://taeyoonchoi.com/) (Session Advisor)** is an artist, writer, and a co-founder of SFPC.
+**[Taeyoon Choi](http://taeyoonchoi.com/) (Session Advisor)** is an artist, writer, and a co-founder of SFPC. He works on accessibile and inclusive art and technology education. He works for disability rights and environmental justice. He collaborates with various artists and engineers on the Distributed Web of Care. 
 <br>
 <br>
 
@@ -140,10 +140,10 @@ Please note that if you apply for work study, we will consider your application 
 
 ### Cancellation and refund policy
 
-- If you are accepted and need to cancel, we can give you 100% refund up to December 15th, 2018.
-- 50% refund between December 15th – December 31st, 2018.
-- 25% refund between January 1st – January 6th, 2018.
-- No refunds can be given after the first day of class.
+- If you are accepted and need to cancel, we can give you 100% refund up to December 15th, 2019.
+- 50% refund between December 15th – December 25th, 2020.
+- 25% refund between December 25th – January 3rd, 2020.
+- No refunds can be given after January 3rd, 2020.
 - Participation is not transferrable to another person.
 
 
@@ -161,6 +161,6 @@ We are located at 155 Bank Street, in the courtyard of the Westbeth Artists' Com
 
 ### Contact Us
 
-Feel free to contact Code Societies lead organizer Melanie Hoff ([hoffmelanie@gmail.com](mailto:hoffmelanie@gmail.com)) with any questions about the Code Societies session, or [info@sfpc.io](mailto:info@sfpc.io) for any general questions about finances or the school.
+Feel free to contact Code Societies lead organizer Melanie Hoff ([hoffmelanie@gmail.com](mailto:hoffmelanie@gmail.com)) with any questions about the Code Societies session, or [taeyoon@sfpc.io](mailto:taeyoon@sfpc.io) for any general questions about finances or the school.
 
 Image credits: Taeyoon Choi, Melanie Hoff, April Soeterman
