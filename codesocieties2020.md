@@ -52,8 +52,9 @@ _**Code Societies 2020 teachers and to be announced soon!**_
 
 ![](/static/img/codesocieties/fade.gif)
 <br>
-### Classes taught in Code Societies Winter 2019
 <br>
+### Classes taught in Code Societies Winter 2019
+
 **Nabil Hassein & Melanie Hoff taught [Computational Methods of Code Societies](http://sfpc.io/codesocieties-winter-19/2019/01/08/computational-methods-of-code-societies.html)**<br>
 An introduction to the the programmer, the computer, and the environments they create together. We wrote folder poetry in the command line, coded socially with Github, and processed language with Python.
 <br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/08/computational-methods-of-code-societies.html)**
