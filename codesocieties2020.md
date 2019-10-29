@@ -18,7 +18,7 @@ slides:
 
 
 ## Call for Students: Code Societies
-- Three-Week Session, Monday January 6th - Saturday January 25th
+- Three-Week Session, Monday January 6th - Saturday January 25th 2020
 - SFPC, 155 Bank Street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
 - **[Apply Here](https://airtable.com/shrbFALyK5MRnXpP1)**
@@ -46,7 +46,7 @@ _**Code Societies 2020 teachers and to be announced soon!**_
 
 **[Emma Rae Norton](https://www.marceldochamp.net/) (Assistant Organizer)** is an artist working with and through software. Her work, while mostly existing online, has appeared in the form of DAT zines, CD-ROM and collaborative hand coding workshops. Emma is committed to unpacking the ubiquitous networked and computational world that she lives in through a research-based art practice. Her current research focuses on the computer mouse as an impactful technological object — most recently taking the form of writing, the co-organization of a computer mouse conference, and scrolling lectures.
 
-**[Taeyoon Choi](http://taeyoonchoi.com/) (Session Advisor)** is an artist, writer, and a co-founder of SFPC. He works on accessibile and inclusive art and technology education. He works for disability rights and environmental justice. He collaborates with various artists and engineers on the Distributed Web of Care. 
+**[Taeyoon Choi](http://taeyoonchoi.com/) (Session Advisor)** is an artist, writer, and a co-founder of SFPC. He works on accessibile and inclusive art and technology education. He works for disability rights and environmental justice. He collaborates with various artists and engineers on the Distributed Web of Care.
 <br>
 <br>
 
@@ -123,7 +123,7 @@ Students will have full access to the space during open hours for the three week
 **Applications are now Open**<br>
 ⤳ **[Apply Here](https://airtable.com/shrbFALyK5MRnXpP1)**
 
-We accept up to 18 students on a rolling basis until **Tuesday, December 2nd**. We will respond to your application within 3 weeks of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+We accept up to 18 students on a rolling basis until **Monday, December 1st**. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early! We will respond to your application within 3 weeks of submission.
 
 ### How competitive is the admissions?
 
