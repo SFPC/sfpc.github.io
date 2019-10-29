@@ -32,87 +32,84 @@ Through a balanced, interwoven study of critical theory and hands-on coding work
 
 We will work together to create boundaries that make it easier for everyone involved to feel as safe and comfortable as possible throughout the session without intentional harm or discrimination done onto them, which will not be tolerated. SFPC is a school organized by people who are committed to making space for people who exist at the intersections of perceived and oppressed identities, including but not limited to, those who are queer and trans people of color; disabled; deaf or hard of hearing. Code Societies is a program which studies the very systems that create barriers to spaces of technology and learning and acknowledges  the process of ideological confrontation can sometimes feel uncomfortable. We understand safety is relative and in constant negotiation, especially at the margins. We also distinguish safety from discomfort, as there is no such thing as a never uncomfortable space.[^2] Read more about the SFPC code of conduct [here](https://github.com/SFPC/codeofconduct).
 
-**14 class days in total with a Student Showcase presentation on January 25th. Code Societies 2020 teachers and to be announced!**
+**14 class days in total with a Student Showcase presentation on January 25th.**<br>
+_**Code Societies 2020 teachers and to be announced soon!**_
 
 [^1]: “Always Already Programming” Melanie Hoff, https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/README.md#always-already-programming
 [^2]: “Principles.” NYC TJHub, nyctjhub.com/public_principles.html
 
-**The Stewards of Code Societies**<br>
-[Melanie Hoff](https://melanie-hoff.com/) (Lead Organizer)<br>
-[Neta Bomani](https://www.netabomani.com/) (Assistant Organizer)<br>
-[Emma Rae Norton](https://www.marceldochamp.net/) (Assistant Organizer)<br>
-[Taeyoon Choi](http://taeyoonchoi.com/) (Session Advisor)
+## The Stewards of Code Societies
 
+**[Melanie Hoff](https://melanie-hoff.com/) (Lead Organizer)** is an artist and educator examining the role technology plays in social organization and reinforcing hegemonic structures. Their work uncovers coded conventions of norms, interfaces, and sex, through software, installation, and new choreographies of exchange. They are a founding member of the [Cybernetics Library](http://cybernetics.social), an art and research collective offering resources for study and critique of technosocial systems and [Soft Surplus](https://www.instagram.com/softsurplus), a collective art studio warehouse for learning together by making things near each other. They teach at teach at the Rhode Island School of Design, SFPC, and have presented their work at the Tate Exchange London, the New Museum, the Queens Museum, The Internet Archive, Pioneer Works, and elsewhere.
+
+**[Neta Bomani](https://www.netabomani.com/) (Assistant Organizer)** is a worker who engages in visual storytelling, direct action and anti art practices through organizing and making archives, writings, prints, zines, circuits and workshops. Neta's work has materialized as an educator of the Pioneer Works collaboration with Good Shepherds after school programs, a steward of the School for Poetic Computation, a member of Stephanie Dinkins Studio and a participator in grassroots organizing against prisons and borders in New York City and beyond in solidarity with No New Jails, Take Back the Bronx and more.
+
+**[Emma Rae Norton](https://www.marceldochamp.net/) (Assistant Organizer)** is an artist working with and through software. Her work, while mostly existing online, has appeared in the form of DAT zines, CD-ROM and collaborative hand coding workshops. Emma is committed to unpacking the ubiquitous networked and computational world that she lives in through a research-based art practice. Her current research focuses on the computer mouse as an impactful technological object — most recently taking the form of writing, the co-organization of a computer mouse conference, and scrolling lectures.
+
+**[Taeyoon Choi](http://taeyoonchoi.com/) (Session Advisor)** is an artist, writer, and a co-founder of SFPC.
+<br>
+<br>
 
 ![](/static/img/codesocieties/fade.gif)
-
-### Classes taught in Code Societies Winter 2019:
-
+<br>
+### Classes taught in Code Societies Winter 2019
+<br>
 **Nabil Hassein & Melanie Hoff taught [Computational Methods of Code Societies](http://sfpc.io/codesocieties-winter-19/2019/01/08/computational-methods-of-code-societies.html)**<br>
-An introduction to developing an intentional relationship between yourself as the the programmer, your computer, and the environments you create together. We wrote folder poetry in the command line, coded socially with Github, and processed language with Python.
-<br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/08/computational-methods-of-code-societies.html)
+An introduction to the the programmer, the computer, and the environments they create together. We wrote folder poetry in the command line, coded socially with Github, and processed language with Python.
+<br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/08/computational-methods-of-code-societies.html)**
 
-**American Artist taught [Software as Ideology]()**<br>
+**American Artist taught [Software as Ideology](https://github.com/0ld-h3ad/SoftwareAsIdeology-Winter2019)**<br>
 We Discussed how software, from programs to GUIs, can teach us about how we enact ideology in our lives.
-<br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/24/software-as-ideology.html)
+<br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/24/software-as-ideology.html)**
 
-**Everest Pipkin taught [Building Nets for Floating Data]()**<br>
+**Everest Pipkin taught [Building Nets for Floating Data](https://docs.google.com/document/d/1I1kM6lD8zPUvxakIujNj0HeUdmYFVAwnrt0s18BvMMQ/edit)**<br>
 We learned how to scrape the web while asking the question, what does consent mean when repurposing online data?
-<br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#day-4-building-nets-for-floating-data)
+<br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#day-4-building-nets-for-floating-data)**
 
-**Allison Parrish taught [The Computational Scrawl]()**<br>
+**Allison Parrish taught [The Computational Scrawl](https://gist.github.com/aparrish/8c1a0fde5a7b9b025930edc8628f438f)**<br>
 We examined the physical gesture and material artifacts of the act of writing, as seen through the lens of computation and digital media.
-<br>⤳ [Blog Post 1](http://sfpc.io/codesocieties-winter-19/2019/01/14/the-computational-scrawl-session-1.html)
-<br>⤳ [Blog Post 2](http://sfpc.io/codesocieties-winter-19/2019/01/14/the-computational-scrawl-session-2.html)
+<br>**⤳ [Blog Post 1](http://sfpc.io/codesocieties-winter-19/2019/01/14/the-computational-scrawl-session-1.html)**
+<br>**⤳ [Blog Post 2](http://sfpc.io/codesocieties-winter-19/2019/01/14/the-computational-scrawl-session-2.html)**
 
-**Ingrid Burrington taught [Networked Terraforming]()**<br>
+**Ingrid Burrington taught [Networked Terraforming](https://github.com/lifewinning/networked-terraforming)**<br>
 We deconstructed the internet as the largest global terraforming project.
-<br>⤳ [Blog Post 1](http://sfpc.io/codesocieties-winter-19/2019/01/23/networked-terraforming-pt-1.html)
-<br>⤳ [Blog Post 2](http://sfpc.io/codesocieties-winter-19/2019/01/23/networked-terraforming-pt-2.html)
+<br>**⤳ [Blog Post 1](http://sfpc.io/codesocieties-winter-19/2019/01/23/networked-terraforming-pt-1.html)**
+<br>**⤳ [Blog Post 2](http://sfpc.io/codesocieties-winter-19/2019/01/23/networked-terraforming-pt-2.html)**
 
-**Melanie Hoff taught [Cybernetics of Sex: Technology, Feminism(s), and the Choreography of Culture]()**<br>
+**Melanie Hoff taught [Cybernetics of Sex: Technology, Feminism(s), and the Choreography of Culture](https://github.com/melaniehoff/cyberneticsofsex/blob/master/README.md)**<br>
 We considered the social norms and laws that regulate reproduction, sex, & gender as a case study for thinking about systemic problems and feedback loops.
-<br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#cybernetics-of-sex-technology-feminisms-the-choreography-of-cult)
+<br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/blog#cybernetics-of-sex-technology-feminisms-the-choreography-of-cult)**
 
-**BUFU taught [WYFY: Exorcizing Technology]()**<br>
+**BUFU taught [WYFY: Exorcizing Technology](https://docs.google.com/document/d/1TMuCytOWLwIFkJtzQLmnStxE4UGuAjXVOYuZGmh8J9U/edit)**<br>
 We Went on a journey to rethink building more equitable spaces IRL/URL and participated in meditative exercises to exorcize technology.
-<br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/12/wyfy-exorcizing-technology.html)
+<br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/12/wyfy-exorcizing-technology.html)**
 
-**Dan Taeyoung taught [Ethicsware]()**<br>
+**Dan Taeyoung taught [Ethicsware](https://github.com/dantaeyoung/Ethicsware/)**<br>
 We asked what is intimate software, created by us, only for us, that debates with our ethical selves? We used Python to create software that debates and disputes, rather than fulfills our desires.
-<br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/15/ethicsware.html)
+<br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/15/ethicsware.html)**
 
-**Nora Khan taught [Critical Simulation]()**<br>
+**Nora Khan taught [Critical Simulation](https://docs.google.com/document/d/119UxuwE0TfuUI47rZ7RU47mGqmLanRHl5J2lSHqJLzM/edit?usp=sharing)**<br>
 We rethought techno-utopian ideals of neutrality that perpetuates the idea of a “just world” which assumes a flat plane of opportunity. Together we imagined alternative simulations of collective futures we wanted to be a part of.
-<br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/30/critical-simulation.html)
+<br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/30/critical-simulation.html)**
 
-**FlucT taught [We Play Programmed]()**<br>
+**FlucT taught [We Play Programmed](https://docs.google.com/document/d/1-UMjwqIkazFVAMA9pLwBABdhQi4eBc4pHWEj2xq1Fiw/edit?ts=5c26ff07)**<br>
 An embodied workshop and performance about performance both as art and behavior. We explored how behaviors are prioritized by social programming, whether by poetry or by survival.
-<br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/18/we-play-programmed.html)
+<br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/18/we-play-programmed.html)**
 
-**Taeyoon Choi taught [Distributed Web of Care]()**<br>
+**Taeyoon Choi taught [Distributed Web of Care](http://distributedweb.care/posts/codesocieties/)**<br>
 Taeyoon prompted us to think about not simply decentralizing networks, but taking a step further to weave a distributed web of care. Through code, movement, and string we practiced an understanding of that which could not be verbalized.
-<br>⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/11/distributed-webo-of-care-blog.html)
+<br>**⤳ [Blog Post](http://sfpc.io/codesocieties-winter-19/2019/01/11/distributed-webo-of-care-blog.html)**
 
 
-**Read blog postings from [Code Societies 2018](https://github.com/SFPC/codesocieties/blob/master/README.md)**
+**Check out the classes and blog postings from [Code Societies 2018 here.](https://github.com/SFPC/codesocieties/blob/master/README.md)**
 
-- [Code Societies: An Introduction with Melanie Hoff & Taeyoon Choi](https://medium.com/sfpc/code-societies-an-introduction-57de026c7c3b)
-- [Authoring Text Under Control with Allison Parrish](https://medium.com/sfpc/authoring-text-under-control-from-automatic-writing-to-autocomplete-673df0593bfa)
-- [Hacking the Attention Economy with dana boyd](https://medium.com/sfpc/code-societies-2018-day-3-danah-boyd-f928ef747087)
-- [Sorting Things Out with Shannon Mattern](https://medium.com/sfpc/sorting-things-out-b06d39cfa37e)
-- [Smarter Home with Lauren McCarthy](https://medium.com/sfpc/smarter-home-baeed9dbd512)
-- [Software as Ideology with American Artist](https://medium.com/sfpc/software-as-ideology-6ad1091ef929)
-- [Distributed Web of Care with Taeyoon Choi](https://medium.com/sfpc/distributed-web-of-care-8847a144487b)
-- [Diversity & Inclusion in Surveillance AI with Sarah Aoun](https://medium.com/sfpc/diversity-inclusion-in-surveillance-ai-12d6be789f5f)
-- [Social Network Paintings with Melanie Hoff & Dan Taeyoung](https://medium.com/sfpc/social-network-paintings-210816b51cde)
-- [Code Societies Summer 2018: Student Showcase](https://medium.com/sfpc/code-societies-2018-student-showcase-df35e9c95b71)
 
-**Student Quotes**
 
-“This experience was comparable to reading a book that jars me ideologically, changes my conception of possibility, and gives me a new framework for approaching the experience of being a person with a body in a place.” - Mimi Doan after FlucT’s class during Code Societies 2019
+### Student Quotes
 
-“For me Code Societies was an entanglement of ideas, movement and metaphor […] we listened to each other, moved our bodies through space, and shared with each other ways of seeing the world and ourselves.” - Emma Rae Norton from their project, A collaborative Archive of Code Societies Ephemera, 2019
+>“This experience was comparable to reading a book that jars me ideologically, changes my conception of possibility, and gives me a new framework for approaching the experience of being a person with a body in a place.” - Mimi Doan after FlucT’s class during Code Societies 2019
+
+>“For me Code Societies was an entanglement of ideas, movement and metaphor […] we listened to each other, moved our bodies through space, and shared with each other ways of seeing the world and ourselves.” - Emma Rae Norton from their project, A collaborative Archive of Code Societies Ephemera, 2019
 
 
 ### What will happen in these three weeks?
