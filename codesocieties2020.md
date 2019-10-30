@@ -12,7 +12,6 @@ slides:
 ---
 
 
-
 ## Call for Students: Code Societies
 - Three-Week Session, Monday January 6th - Saturday January 25th 2020
 - SFPC, 155 Bank Street, West Village, NYC
@@ -100,8 +99,10 @@ Taeyoon prompted us to think about not simply decentralizing networks, but takin
 
 **Check out the classes and blog postings from [Code Societies 2018 here.](https://github.com/SFPC/codesocieties/blob/master/README.md)**
 
+
 ![Code Societies plotter drawing by AC Gillette 2019](/static/img/codesocieties/pos.png)Code Societies plotter drawing by AC Gillette 2019
 <br>
+
 ### Student Quotes
 
 >“This experience was comparable to reading a book that jars me ideologically, changes my conception of possibility, and gives me a new framework for approaching the experience of being a person with a body in a place.” - Mimi Doan after FlucT’s class during Code Societies 2019
@@ -161,4 +162,5 @@ Feel free to contact Code Societies lead organizer Melanie Hoff ([hoffmelanie@gm
 
 **Image credits**
 Graphics by Lisa Larson Walker
-Photos by Taeyoon Choi, Melanie Hoff, April Soeterman,
+Photos by Taeyoon Choi, Melanie Hoff, Emma Rae Norton, Nicole Cheng, Mimi Doan
+
