@@ -2,19 +2,15 @@
 title: Code Societies Winter 2020
 layout: participate
 slides:
- - "/static/img/codesocieties/long-2020.jpg"
-
+- "/static/img/codesocieties/long-p2020.jpg"
+- "/static/img/codesocieties/k.2.jpg"
+- "/static/img/codesocieties/h.2.jpg"
+- "/static/img/codesocieties/fluct.jpg"
+- "/static/img/codesocieties/class.jpg"
+- "/static/img/codesocieties/crowd.jpg"
 
 ---
-<!-- - "/static/img/codesocieties/banner.jpg"
-- "/static/img/codesocieties/quote.jpg"
-- "/static/img/codesocieties/k.2.jpg"
-- "/static/img/codesocieties/b.2.jpg"
-- "/static/img/codesocieties/g.2.jpg"
-- "/static/img/codesocieties/j.2.jpg"
-- "/static/img/participate/allisonp.jpg"
-- "/static/img/codesocieties/l.2.jpg"
-- "/static/img/participate/sum2016_outside.jpg" -->
+
 
 
 ## Call for Students: Code Societies
@@ -104,8 +100,8 @@ Taeyoon prompted us to think about not simply decentralizing networks, but takin
 
 **Check out the classes and blog postings from [Code Societies 2018 here.](https://github.com/SFPC/codesocieties/blob/master/README.md)**
 
-
-
+![Code Societies plotter drawing by AC Gillette 2019](/static/img/codesocieties/pos.png)Code Societies plotter drawing by AC Gillette 2019
+<br>
 ### Student Quotes
 
 >“This experience was comparable to reading a book that jars me ideologically, changes my conception of possibility, and gives me a new framework for approaching the experience of being a person with a body in a place.” - Mimi Doan after FlucT’s class during Code Societies 2019
@@ -163,4 +159,6 @@ We are located at 155 Bank Street, in the courtyard of the Westbeth Artists' Com
 
 Feel free to contact Code Societies lead organizer Melanie Hoff ([hoffmelanie@gmail.com](mailto:hoffmelanie@gmail.com)) with any questions about the Code Societies session, or [taeyoon@sfpc.io](mailto:taeyoon@sfpc.io) for any general questions about finances or the school.
 
-Image credits: Taeyoon Choi, Melanie Hoff, April Soeterman
+**Image credits**
+Graphics by Lisa Larson Walker
+Photos by Taeyoon Choi, Melanie Hoff, April Soeterman,
