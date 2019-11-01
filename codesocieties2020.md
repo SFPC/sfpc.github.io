@@ -12,7 +12,6 @@ slides:
 ---
 
 
-
 ## Call for Students: Code Societies
 - Three-Week Session, Monday January 6th - Saturday January 25th 2020
 - SFPC, 155 Bank Street, West Village, NYC
@@ -26,7 +25,7 @@ No coding experience necessary: This session centers the learning experience of 
 
 Through a balanced, interwoven study of critical theory and hands-on coding workshops, students should expect to develop several small scores or sketch pieces that may exist online, on screens, performed, or installed. We’ll cover foundational methods of coding with Python, coding on the web, navigating the command line, and working with zines as a technology to name a few. The classes are held in the evenings and are designed to engage with code, and the ways code acts on our bodies and networks, equally as subject and as medium. Code Societies is both this session’s subject and it’s prompt; it is an invitation to consider coding and choreographing new ways of being with each other within the unique learning environment of SFPC.
 
-We will work together to create boundaries that make it easier for everyone involved to feel as safe and comfortable as possible throughout the session without intentional harm or discrimination done onto them, which will not be tolerated. SFPC is a school organized by people who are committed to making space for people who exist at the intersections of perceived and oppressed identities, including but not limited to, those who are queer and trans people of color; disabled; deaf or hard of hearing. Code Societies is a program which studies the very systems that create barriers to spaces of technology and learning and acknowledges  the process of ideological confrontation can sometimes feel uncomfortable. We understand safety is relative and in constant negotiation, especially at the margins. We also distinguish safety from discomfort, as there is no such thing as a never uncomfortable space.[^2] Read more about the SFPC code of conduct [here](https://github.com/SFPC/codeofconduct).
+We will work together to create boundaries that make it easier for everyone involved to feel as safe and comfortable as possible throughout the session without intentional harm or discrimination done onto them, which will not be tolerated. SFPC is a school organized by people who are committed to making space for people who exist at the intersections of perceived and oppressed identities, including but not limited to, those who are queer, trans, people of color, disabled, deaf or hard of hearing. Code Societies is a program which studies the very systems that create barriers to spaces of technology and learning and acknowledges  the process of ideological confrontation can sometimes feel uncomfortable. We understand safety is relative and in constant negotiation, especially at the margins. We also distinguish safety from discomfort, as there is no such thing as a never uncomfortable space.[^2] Read more about the SFPC code of conduct [here](https://github.com/SFPC/codeofconduct).
 
 **14 class days in total with a Student Showcase presentation on January 25th.**<br>
 _**Code Societies 2020 teachers and to be announced soon!**_
@@ -100,9 +99,13 @@ Taeyoon prompted us to think about not simply decentralizing networks, but takin
 
 **Check out the classes and blog postings from [Code Societies 2018 here.](https://github.com/SFPC/codesocieties/blob/master/README.md)**
 
+
 ![Code Societies plotter drawing by AC Gillette 2019](/static/img/codesocieties/pos.png)Code Societies plotter drawing by AC Gillette 2019
 <br>
+
 ### Student Quotes
+
+**Check out Emma Norton's Student Showcase project from Code Societies 2019,<br>[A Collaborative Archive of Code Societies Ephemera](https://sfpc.io/codesocieties_students/)**
 
 >“This experience was comparable to reading a book that jars me ideologically, changes my conception of possibility, and gives me a new framework for approaching the experience of being a person with a body in a place.” - Mimi Doan after FlucT’s class during Code Societies 2019
 
@@ -161,4 +164,4 @@ Feel free to contact Code Societies lead organizer Melanie Hoff ([hoffmelanie@gm
 
 **Image credits**
 Graphics by Lisa Larson Walker
-Photos by Taeyoon Choi, Melanie Hoff, April Soeterman,
+Photos by Taeyoon Choi, Melanie Hoff, Emma Rae Norton, Nicole Cheng, Mimi Doan
