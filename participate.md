@@ -24,43 +24,21 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 # Past Programs
 
-## Fall 2019
+## 2019
 
-- [More information](https://sfpc.io/fall2019/)
+- [Fall 2019](https://sfpc.io/fall2019/) Immersive 10-week program covering programming, electronics, and the history and theory of art and technology.
 
-Join SFPC's main program for ten weeks in New York City. Daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
+- [Poetic Computation: Detroit](https://sfpc.io/detroit). 1 week session: August 19-25, 2019.
 
-## Summer 2019
+- [SFPC Summer 2019 in Yamaguchi](https://www.ycam.jp/events/2019/sfpc/) 1 week session: September 4-11, 2019.
 
-- Poetic Computation: Detroit. 1 week session: August 19-25, 2019. [More information](https://sfpc.io/detroit).
-- SFPC Summer 2019 in Yamaguchi. 1 week session: September 4-11, 2019. [More information](https://www.ycam.jp/events/2019/sfpc/)
-- We are updating our NYC space this summer. We will announce workshops and events via our mailing list.
+- [PUT INTO WORDS](https://www.eventbrite.com/e/put-into-words-a-writing-class-for-artists-and-technologists-by-joanne-mcneil-at-sfpc-tickets-55171615788) A weekend long writing class for artists and technologists by Joanne McNeil, March 22 - 24th.
 
+- [Code Paper Scissors](https://sfpc.io/codepaper), a two-Week Session exploring the wide variety of ways that a piece of paper can produce function. Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft. February 4th - February 17th, 2019 with evening classes from 6:30pm - 9:30pm.
 
-
-## PUT INTO WORDS: A writing class for artists and technologists by Joanne McNeil
-
-- March 22 (Friday) 6-10 pm, March 23 (Saturday) 1-5 pm  March 24 (Sunday) 1-5 pm
-- SFPC, 155 Bank Street, West Village, NYC
-- <a href="https://www.eventbrite.com/e/put-into-words-a-writing-class-for-artists-and-technologists-by-joanne-mcneil-at-sfpc-tickets-55171615788"> Participate </a>
-
-## Code Paper Scissors
+- [Code Societies Winter 2019](https://sfpc.io/codesocieties-winter-19) examines the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas. Three-Week Session, January 7th - January 26th
 
 
-- Two-Week Session, Monday February 4th - Sunday February 17th, 2019
-- SFPC, 155 Bank Street, West Village, NYC
-- 6:30pm - 9:30pm, Evening Classes
-
-How can we reimagine technology through paper? Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft, SFPC's two-week session will explore the wide variety of ways that a piece of paper can produce function.
-
-
-
-## Code Societies Winter 2019
-
--  Three-Week Session, Monday January 7th - Saturday January 26th
-- Time: 6:30pm - 9:30pm, Evening Classes
-
-SFPC’s <a href="/codesocieties-winter-19/">Code Societies</a>, examines the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.
 
 ## December 2018
 
