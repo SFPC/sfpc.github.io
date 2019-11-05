@@ -16,9 +16,13 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 ## Winter 2019
 
-- [Code Movement](https://sfpc.io/classes/movement). Led by movement teacher, performer, bodyworker, and writer Cori Kresge, this class will look at code as a resource, applying it to dance practices and community. We will focus on interpreting and creating systems of coding, scoring, and encrypting, using the body’s senses, gestures, and mechanics both individually and collectively. Together, we will cultivate practices that attempt to override the ego constructs that often obstruct or inhibit our learning and creativity.  November. 10, 17, 24, December. 1 1-4PM.
+#### Code Movement, [learn more](https://sfpc.io/classes/movement).
+- Led by movement teacher, performer, bodyworker, and writer Cori Kresge, this class will look at code as a resource, applying it to dance practices and community. We will focus on interpreting and creating systems of coding, scoring, and encrypting, using the body’s senses, gestures, and mechanics both individually and collectively. Together, we will cultivate practices that attempt to override the ego constructs that often obstruct or inhibit our learning and creativity.  
+- Nov. 10, 17, 24, & Dec. 1; 1-4PM
 
-- [Code Societies](https://sfpc.io/codesocieties2020/) is about challenging the division between those who code software and those who are coded by it.  We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together. This session will run in the evening from 6:30pm - 9:30pm from January 6th - January 25th, 2020.
+#### Code Societies, [learn more](https://sfpc.io/codesocieties2020/)
+- We will challenge the division between those who code software and those who are coded by it.  We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together.
+- This session will run in the evening from 6:30pm - 9:30pm from January 6th - January 25th, 2020
 
 
 
@@ -26,17 +30,17 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 ## 2019
 
-- [Fall 2019](https://sfpc.io/fall2019/) Immersive 10-week program covering programming, electronics, and the history and theory of art and technology.
+[Fall 2019](https://sfpc.io/fall2019/) Immersive 10-week program covering programming, electronics, and the history and theory of art and technology.
 
-- [Poetic Computation: Detroit](https://sfpc.io/detroit). 1 week session: August 19-25, 2019.
+[Poetic Computation: Detroit](https://sfpc.io/detroit). 1 week session: August 19-25, 2019.
 
-- [SFPC Summer 2019 in Yamaguchi](https://www.ycam.jp/events/2019/sfpc/) 1 week session: September 4-11, 2019.
+[SFPC Summer 2019 in Yamaguchi](https://www.ycam.jp/events/2019/sfpc/) 1 week session: September 4-11, 2019.
 
-- [PUT INTO WORDS](https://www.eventbrite.com/e/put-into-words-a-writing-class-for-artists-and-technologists-by-joanne-mcneil-at-sfpc-tickets-55171615788) A weekend long writing class for artists and technologists by Joanne McNeil, March 22 - 24th.
+[PUT INTO WORDS](https://www.eventbrite.com/e/put-into-words-a-writing-class-for-artists-and-technologists-by-joanne-mcneil-at-sfpc-tickets-55171615788) A weekend long writing class for artists and technologists by Joanne McNeil, March 22 - 24th.
 
-- [Code Paper Scissors](https://sfpc.io/codepaper), a two-Week Session exploring the wide variety of ways that a piece of paper can produce function. Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft. February 4th - February 17th, 2019 with evening classes from 6:30pm - 9:30pm.
+[Code Paper Scissors](https://sfpc.io/codepaper), a two-Week Session exploring the wide variety of ways that a piece of paper can produce function. Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft. February 4th - February 17th, 2019 with evening classes from 6:30pm - 9:30pm.
 
-- [Code Societies Winter 2019](https://sfpc.io/codesocieties-winter-19) examines the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas. Three-Week Session, January 7th - January 26th
+[Code Societies Winter 2019](https://sfpc.io/codesocieties-winter-19) examines the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas. Three-Week Session, January 7th - January 26th
 
 
 
