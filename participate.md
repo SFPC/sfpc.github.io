@@ -48,17 +48,17 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 ## 2018
 
-- [Code Ecologies](http://sfpc.io/codeecologies) December 15, 2018.
+[Code Ecologies](http://sfpc.io/codeecologies) December 15, 2018.
 
-- [You Do (it) You(rself), Personal and Social Narratives of System Design in Electronic Arts](https://www.eventbrite.com/e/you-do-it-yourself-tickets-51939426222) December 8, 2018.
+[You Do (it) You(rself), Personal and Social Narratives of System Design in Electronic Arts](https://www.eventbrite.com/e/you-do-it-yourself-tickets-51939426222) December 8, 2018.
 
-- [New York Tech Zine Fair](http://techzinefair.org) December 1, 2018.
+[New York Tech Zine Fair](http://techzinefair.org) December 1, 2018.
 
-- [Code Words](http://sfpc.io/codewords) July 29 - August 3, 2018. A one-week session exploring how computation relates to language and art, focusing on literary art and poetry. 
+[Code Words](http://sfpc.io/codewords) July 29 - August 3, 2018. A one-week session exploring how computation relates to language and art, focusing on literary art and poetry. 
 
-- [Code Societies](http://sfpc.io/codesocieties) July 2nd - Saturday July 21st, 2018. Code Societies examines the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
+[Code Societies](http://sfpc.io/codesocieties) July 2nd - Saturday July 21st, 2018. Code Societies examines the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
 
-- [Uncomputable](http://sfpc.io/uncomputable/) June 20th and June 28th, 2018. A series of lectures and exhibition by Alexander R. Galloway and Taeyoon Choi.
+[Uncomputable](http://sfpc.io/uncomputable/) June 20th and June 28th, 2018. A series of lectures and exhibition by Alexander R. Galloway and Taeyoon Choi.
 
 
 
