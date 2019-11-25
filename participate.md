@@ -38,45 +38,27 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 [PUT INTO WORDS](https://www.eventbrite.com/e/put-into-words-a-writing-class-for-artists-and-technologists-by-joanne-mcneil-at-sfpc-tickets-55171615788) A weekend long writing class for artists and technologists by Joanne McNeil, March 22 - 24th.
 
+[Spring 2019](https://sfpc.io/fall2019/) March 4th - May 17th, 2019. Our immersive 10-week program covering programming, electronics, and the history and theory of art and technology.
+
 [Code Paper Scissors](https://sfpc.io/codepaper), a two-Week Session exploring the wide variety of ways that a piece of paper can produce function. Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft. February 4th - February 17th, 2019 with evening classes from 6:30pm - 9:30pm.
 
 [Code Societies Winter 2019](https://sfpc.io/codesocieties-winter-19) examines the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas. Three-Week Session, January 7th - January 26th
 
 
 
-## December 2018
+## 2018
 
-- [New York Tech Zine Fair](http://techzinefair.org) on December 1
-- [You Do (it) You(rself), Personal and Social Narratives of System Design in Electronic Arts](https://www.eventbrite.com/e/you-do-it-yourself-tickets-51939426222) on December 8
-- [Code Ecologies](http://sfpc.io/codeecologies) on December 15
+- [Code Ecologies](http://sfpc.io/codeecologies) December 15, 2018.
 
-### Code Words
-#### One Week - Evening Classes
-<div class="alert alert-success" role="alert">Learn more about Code Words <a href="/codewords/">here</a>.
-</div>
+- [You Do (it) You(rself), Personal and Social Narratives of System Design in Electronic Arts](https://www.eventbrite.com/e/you-do-it-yourself-tickets-51939426222) December 8, 2018.
 
-- July 29 - August 3, 6:30pm - 9:30pm, Evening Classes
+- [New York Tech Zine Fair](http://techzinefair.org) December 1, 2018.
 
-SFPC's Summer Intensive, Code Words is a one-week session in which we explore how computation relates to language and art, focusing on literary art and poetry. Although “words” is in the title of session, we also embrace work that is made of glyphs that don’t form words.
+- [Code Words](http://sfpc.io/codewords) July 29 - August 3, 2018. A one-week session exploring how computation relates to language and art, focusing on literary art and poetry. 
 
-We’ll spend the week making short computational pieces and sharing them (however is appropriate for each particular project) day by day. A subset of students will present work each day, based on who signs up, with priority given to those who have not yet presented; everyone will present on the last day.
+- [Code Societies](http://sfpc.io/codesocieties) July 2nd - Saturday July 21st, 2018. Code Societies examines the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
 
-
-
-### Code Societies
-#### Three Weeks - Evening Classes
-- Monday July 2nd - Saturday July 21st
-- 6:30pm - 9:30pm, Evening Classes
-
-<a href="/codesocieties/">Code Societies</a> will examine the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
-How do different platforms and processes — including algorithms, data collection, social media, networks, simulation, and ritual — yield distinct modes of seeing, thinking, and feeling, structure social organization, and reinforce existing systems of power? Through a balanced study of critical theory and hands-on making workshops, students will create several small projects that explore and question these ideas. Students will be introduced to Python and discover poetic, playful, and powerful ways to use computation. All levels of programming ability welcome and an enthusiastic willingness to reconsider how code shapes and is shaped by society required!
-
-### Uncomputable
-Alexander R. Galloway and Taeyoon Choi
-- Lectures: June 20th and June 28th, 2018, 6~9pm
-- Exhibition: June 20th to June 28th, 2018, 1~6pm
-
-[Uncomputable](http://sfpc.io/uncomputable/): lectures and exhibition by Alexander R. Galloway and Taeyoon Choi. According to digital philosophers, the world is a computer and everything inside it is computable. But is this entirely true? What about things that fall outside the bounds of the computable? Alan Turing demonstrated that there are kinds of problems that are computable and kinds of problems that are not, providing a theoretical answer to the question of the uncomputable. But there is also a practical answer: how many computer cycles do you have at your disposal? If you want to crack high-grade encryption, can you afford to crunch the numbers until the sun burns out? In this project we will explore the realm of the uncomputable. In the digital realm the uncomputable appears in logical paradoxes and rational incompleteness. In the analog realm the uncomputable consists of all those things that remain ungovernable, unspeakable, or unseeable. Come explore with us the binary present, and the non-binary future. Come explore the uncomputable.
+- [Uncomputable](http://sfpc.io/uncomputable/) June 20th and June 28th, 2018. A series of lectures and exhibition by Alexander R. Galloway and Taeyoon Choi.
 
 
 
