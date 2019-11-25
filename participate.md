@@ -14,15 +14,19 @@ slides:
 
 Subscribe to our mailing list, at the bottom of the page to be the first to hear about our upcoming programs. We are working on 2020 academic calendar. Please follow our social media and mailing list for the updates.
 
-## Winter 2019
+## Upcoming
 
-#### Code Movement, [learn more](https://sfpc.io/classes/movement).
+#### Code Movement, Nov. 10, 17, 24, & Dec. 1; 1-4PM [learn more](https://sfpc.io/classes/movement).
 - Led by movement teacher, performer, bodyworker, and writer Cori Kresge, this class will look at code as a resource, applying it to dance practices and community. We will focus on interpreting and creating systems of coding, scoring, and encrypting, using the body’s senses, gestures, and mechanics both individually and collectively. Together, we will cultivate practices that attempt to override the ego constructs that often obstruct or inhibit our learning and creativity.  
-- Nov. 10, 17, 24, & Dec. 1; 1-4PM
 
-#### Code Societies, [learn more](https://sfpc.io/codesocieties2020/)
-- We will challenge the division between those who code software and those who are coded by it.  We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together.
-- This session will run in the evening from 6:30pm - 9:30pm from January 6th - January 25th, 2020
+#### Fall 2019 Student Showcase, Dec. 1 & Dec. 2; [learn more](https://www.eventbrite.com/e/student-showcase-fall-2019-tickets-82909802451). 
+- This showcase is an open studio, a chance to observe the students’ journey of poetic computation and see their works in progress. Come meet our amazing students of the Fall 2019 cohort, celebrate their hard work and hang out. We will be open:
+- Sunday Dec. 1st ~ 1pm - 6pm (performances between 4 - 6pm)
+- Monday Dec. 2nd ~ 3pm - 9pm
+
+
+#### Code Societies, Jan. 6th - Jan. 25th, 2020; evening classes from 6:30pm - 9:30pm [learn more](https://sfpc.io/codesocieties2020/).
+- We will challenge the division between those who code software and those who are coded by it.  We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together. 
 
 
 
