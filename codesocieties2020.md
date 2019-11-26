@@ -30,7 +30,7 @@ We will work together to create boundaries that make it easier for everyone invo
 **14 class days in total with a Student Showcase presentation on January 25th.**<br>
 _**Code Societies 2020 teachers and to be announced soon!**_
 
-[^1]: “Always Already” Heidegger, https://en.wikipedia.org/wiki/Always_already
+[^1]: “Always Already” Heidegger, https://en.wikipedia.org/wiki/Always_already, "Always Already There, or Software as Memory" Chun https://oxfordindex.oup.com/view/10.7551/mitpress/9780262015424.003.0008
 [^2]: “Principles.” NYC TJHub, nyctjhub.com/public_principles.html
 
 ## The Teachers & Organizers of Code Societies 2020
