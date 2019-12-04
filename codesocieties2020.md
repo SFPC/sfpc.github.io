@@ -16,7 +16,7 @@ slides:
 - Three-Week Session, Monday January 6th - Saturday January 25th 2020
 - SFPC, 155 Bank Street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
-- **[Apply Here](https://airtable.com/shrbFALyK5MRnXpP1)**
+- **[Applications are closed]**
 
 
 School for Poetic Computation(SFPC)’s winter intensive is an introduction to re-introducing yourselves to computers. How do different platforms and processes—including algorithms, surveillance, social media, infrastructure, and interface—yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together. Code Societies is about redrawing the divisions that make us and unmake us. We’ll begin by challenging the division between those who code software and those who are coded by it.
