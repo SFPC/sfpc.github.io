@@ -3,15 +3,13 @@ title: Spring 2020
 layout: participate
 location: westbeth
 contact: sfpc
-description: The School for Poetic Computation (SFPC) will host a ten week session in New York City from March 30th — June 7th, 2019. SFPC is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media.
+description: The School for Poetic Computation (SFPC) will host a ten week session in New York City from March 30th — June 5th, 2020. SFPC is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media.
 slides:
 
   - "/static/img/participate/bagels.jpg"
   - "/static/img/participate/allisonp.jpg"
   - "/static/img/participate/fall15-hang.jpg"
-  - "/static/img/participate/fall15-view.jpg"
   - "/static/img/participate/fall15-sarah.jpg"
-  - "/static/img/participate/fall16-katrina.jpg"
   - "/static/img/participate/goldenhour.jpg"
   - "/static/img/participate/breadboard.jpg"
   - "/static/img/participate/circuits.jpg"
@@ -19,6 +17,13 @@ slides:
   - "/static/img/participate/notebook.jpg"
   - "/static/img/participate/softcircuits.jpg"
   - "/static/img/participate/totallyrad.jpg"
+  - "/static/img/participate/IMG_0648.JPG"
+  - "/static/img/participate/DSCF5350.JPG"
+  - "/static/img/participate/FilipWolak_Showcase-1912_0061_1404.jpg"
+  - "/static/img/participate/FilipWolak_Showcase-1912_0077_1424.jpg"
+  - "/static/img/participate/FilipWolak_Showcase-1912_0105_1459.jpg"
+  - "/static/img/participate/FilipWolak_Showcase-1912_0164_1533.jpg"
+  - "/static/img/participate/FilipWolak_Showcase-1912_0207_1589.jpg"
 
 
 ---
@@ -27,7 +32,7 @@ slides:
 
 ### Spring 2020 Immersive
 - Bootcamp for new coders: March 23rd — March 27th, 2020
-- Ten-Week Session: March 30th — June 7th, 2020
+- Ten-Week Session: March 30th — June 5th, 2020
 - Location: SFPC, 155 Bank Street, West Village, NYC
 
 **Student application coming soon**
@@ -87,7 +92,7 @@ We will be in touch with applicants at the latest by the end of February.
 
 ### How much is tuition?
 
-$7,000 USD for the 10-week program. In the past we have routinely charged $5,500 then in 2019 we raised it to $6,000. For 2020, we are raising tuition because we have been adding additional staff (seven TA's) to better serve the needs of the students and program. In the past we raised the tuition costs because of a 150% rent increase, costs of insurance and administration, and an extension of the program to five days per week of programming instead of four. In the application, there is an option to apply for a reduced tuition scholarship.
+$7,000 USD for the 10-week program.  Please note that for 2020, we have had to raise our tuition to cover additional costs such as rent increase and increased staffing costs.  Note that in the application, there is an option to apply for a work study / reduced tuition scholarship.
 
 Upon Acceptance to the program, you will receive an invoice to make a $2000 deposit to reserve your spot in the upcoming session with the remaining invoice expected to be paid before class starts. We accept tuition payments by check or wire transfer.
 
