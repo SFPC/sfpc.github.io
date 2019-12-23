@@ -16,6 +16,14 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 ## Upcoming
 
+#### Poetic Computation: 7 years of SFPC
+
+- January 11 - January 23, 2020
+
+We are excited to announce [Poetic Computation: 7 years of SFPC](https://sevenyears/) an exhibition at the Westbeth Gallery, NYC. January 11 - January 23, 2020. Opening January 16, 6pm. The exhibition, created with volunteer efforts, will feature projects by our teachers and alums. Public programs to be announced. Mark your calendar!
+
+# Past Programs
+
 #### Code Movement, Nov. 10, 17, 24, & Dec. 1; 1-4PM [learn more](https://sfpc.io/classes/movement).
 - Led by movement teacher, performer, bodyworker, and writer Cori Kresge, this class will look at code as a resource, applying it to dance practices and community. We will focus on interpreting and creating systems of coding, scoring, and encrypting, using the body’s senses, gestures, and mechanics both individually and collectively. Together, we will cultivate practices that attempt to override the ego constructs that often obstruct or inhibit our learning and creativity.  
 
@@ -27,13 +35,7 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 #### Code Societies, Jan. 6th - Jan. 25th, 2020; evening classes from 6:30pm - 9:30pm [learn more](https://sfpc.io/codesocieties2020/).
 - We will challenge the division between those who code software and those who are coded by it.  We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together. 
-
-
-
-# Past Programs
-
-## 2019
-
+ 
 [Fall 2019](https://sfpc.io/fall2019/) Immersive 10-week program covering programming, electronics, and the history and theory of art and technology.
 
 [Poetic Computation: Detroit](https://sfpc.io/detroit). 1 week session: August 19-25, 2019.
