@@ -35,7 +35,7 @@ slides:
 - Ten-Week Session: March 30th — June 5th, 2020
 - Location: SFPC, 155 Bank Street, West Village, NYC
 
-**Student application coming soon**
+**[Student application](https://airtable.com/shrFKEwHRrhAYyyzj) due on January 31st, 2020**
 
 Join SFPC's ten-week intensive program in New York City. Daily classes range from programming, electronics, poetry, and the history / theory of art & technology. While enrolled, students have full access to the space to work on projects while teachers, TA's and mentors are readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among students. Check out the <a href="https://medium.com/sfpc">weekly reports</a> by previous students.
 
@@ -83,7 +83,7 @@ Check out more weekly video recaps of past classes [here](https://vimeo.com/user
 
 ### Deadline to apply — January 31st
 
-In the past, we’ve received 60+ strong applications from around the world, and this time will likely be competitive as well. We will select students based on their application and a short video introduction. We sometimes reach out to an applicant's reference for a letter of recommendation.
+[Student application](https://airtable.com/shrFKEwHRrhAYyyzj) is open now. In the past, we’ve received 60+ strong applications from around the world, and this time will likely be competitive as well. We will select students based on their application and a short video introduction. We sometimes reach out to an applicant's reference for a letter of recommendation.
 
 We will be in touch with applicants at the latest by the end of February.
 
