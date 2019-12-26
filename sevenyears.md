@@ -7,7 +7,7 @@ layout: participate2
 ![](/static/img/sevenyears/hmu_SfPC_Fall2018-Showcase-115.jpg)
 
 - Dates: January 11 - January 23, 2020
-- Opening: January 16, 6 PM, 2020 
+- Opening: January 16, 6 PM, 2020 [RSVP](https://www.eventbrite.com/e/poetic-computation-the-first-seven-years-opening-tickets-87324900127)
 - Location: Westbeth Gallery, 55 Bethune St, New York, NY 10014
 - Free and open to the public during select days and hours 
 
