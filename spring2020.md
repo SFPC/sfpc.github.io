@@ -37,11 +37,11 @@ slides:
 
 **Student application coming soon**
 
-Join SFPC's ten-week intensive program in New York City. Daily classes range from programming, electronics, poetry and the history and theory of art and technology. Students have full access to the space to work on projects. Teachers and mentors are readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among students. Check out the <a href="https://medium.com/sfpc">weekly reports</a> by current students.
+Join SFPC's ten-week intensive program in New York City. Daily classes range from programming, electronics, poetry, and the history / theory of art & technology. While enrolled, students have full access to the space to work on projects while teachers, TA's and mentors are readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among students. Check out the <a href="https://medium.com/sfpc">weekly reports</a> by previous students.
 
-We select up to 18 students per session. Classes are held Monday–Friday from morning until the afternoon and students are expected to participate full-time. In addition to classes, there are student-led skill sharing sessions; lectures and workshops with visiting artists; field trips to institutions, schools and art spaces; and dinners with special guests.
+We select up to 18 students per session. Classes are held Monday–Friday from 10 am to 1pm and students are expected to participate full-time. In addition to classes, there are student-led skill sharing sessions; lectures and workshops with visiting artists; field trips to institutions, schools and art spaces; and dinners with special guests.
 
-We offer an optional bootcamp week for students who are new to code or feel like they need additional time to focus on coding before the full session starts.
+Before the session starts, we offer an optional bootcamp week for students who are new to code or feel like they need additional time to focus on coding before the full session starts.
 
 The program starts with the SFPC Salon, an evening of talks and performances by leading practitioners in the field. We finish the program by celebrating with a final showcase where students get to share their projects with the larger SFPC community. Most importantly, SFPC is a safe space for students to grow. Consider joining the community of curious and generous peers through SFPC's main program.
 
@@ -50,7 +50,7 @@ The program starts with the SFPC Salon, an evening of talks and performances by 
 SFPC classes are structured around the following concepts:
 
 - **Computation and artistic practice** — Algorithmic processes and concepts have been manifest in art and design throughout the twentieth century. How can we explore the influence of algorithms in practice and develop new approaches and techniques for utilizing them? What is the fundamental nature of computation and how can we work with it in a lyrical, expressive manner? How can code make things move in compelling and lifelike ways through animation and interaction? Check out [Recreating the Past](https://github.com/ofZach/recreatingThePast_fall17) by Zach Lieberman, the [SFPC Re-Coded](http://sfpc.io/recoded/) project and [Lux Lingua](https://github.com/patriciogonzalezvivo/sfpc_ll16) by Patricio Gonzalez Vivo.
-- **Language design as creative practice** — Every programming language has specific parameters and demands certain processes in its use, we consider the subtle differences and approaches that have shaped various languages throughout history. This area focuses also on ways to design programming languages from scratch and asks how can language design open up new ways of thinking, making and building software? How can we build better tools and with that, better possibilities for ourselves? Check out [Radical Computer Science](http://nas.sr/teaching/2016/radical-computer-science/) by Ramsey Nasser, [Code and Platform](http://nickm.com/classes/sfpc/2016_summer/code_and_platform.html) and [Small Machines](http://nickm.com/classes/sfpc/2017_fall/small_machines.html) by Nick Montfort.
+- **Programming languages as a creative practice** — Every programming language has specific parameters and demands certain processes in its use, we consider the subtle differences and approaches that have shaped various languages throughout history. This area explores the poetics of programming languages. What can the different programming languages make and how might we make them different to make something new? How can language design open up new ways of thinking, making and building software? How can we build better tools and with that, better possibilities for ourselves? What small changes might yield completely new and interesting results? Check out [Peer-to-Peer Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry) by Melanie Hoff, [Scrapism](https://github.com/antiboredom/sfpc-scrapism-spring-2019) by Sam Lavigne, [Radical Computer Science](http://nas.sr/teaching/2016/radical-computer-science/) by Ramsey Nasser, [Code and Platform](http://nickm.com/classes/sfpc/2016_summer/code_and_platform.html) and [Small Machines](http://nickm.com/classes/sfpc/2017_fall/small_machines.html) by Nick Montfort.
 - **Electronics and physical computing** — What are the fundamental building blocks for electronic computer? How do transistors, resistors and capacitors work? How can we use binary logic gates to create adding and remembering machines? How does CPU work? How have micro-controllers made physical computing more accessible? Check out [Handmade Computer](https://avant.org/project/hello-world/) by Taeyoon Choi.
 - **Critical theory and philosophy for technology** — With contemporary society and our collective future irrevocably changed by ubiquitous technology, what critical and ethical questions can we, the makers, artists and technologists pose to society? What can we learn from the history of technology and how can we draft the future we like to see? Check out [Dark Matters](https://github.com/0ld-h3ad/DarkMatters-Spring2019) by American Artist, [Poetic Computation: Reader](https://poeticcomputation.info/) by Taeyoon Choi, [The Radical Outside](https://github.com/morehshin/TheRadicalOutside) by Morehshin Allahyari, [Architectural History of Computing](https://github.com/lifewinning/ahoc.sfpc.fall.16) by Ingrid Burrington, [Critical Theory of Technology](https://github.com/allisonburtch/Critical-Theory-of-Technology) by Allison Burtch.
 
@@ -73,11 +73,11 @@ This 5-day session will be open both to incoming SFPC students and anyone who wa
 
 ### What does it feel like?
 
-<iframe src="https://player.vimeo.com/video/244867403" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Video by Fall 2017 student, Yumi Nishida.
+<iframe src="https://player.vimeo.com/video/374292495" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Video by Fall 2019 student, Olivia Ross.
 
-<iframe src="https://player.vimeo.com/video/279146924?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Video by Spring 2017 student, Nitcha Fame Tothong.
+<iframe src="https://player.vimeo.com/video/372253707" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Video by Fall 2019 student, Olivia Ross.
 
 Check out more weekly video recaps of past classes [here](https://vimeo.com/user50134452).
 
