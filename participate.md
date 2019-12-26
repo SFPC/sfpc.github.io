@@ -16,6 +16,13 @@ Subscribe to our mailing list, at the bottom of the page to be the first to hear
 
 ## Upcoming
 
+#### Spring 2020 Immersive
+
+- March 30 — June 5, 2020
+
+Join SFPC’s [ten-week intensive program](https://sfpc.io/spring2020/) in New York City. Daily classes range from programming, electronics, poetry and the history and theory of art and technology. Students have full access to the space to work on projects. Teachers and mentors are readily available for technical, conceptual, and artistic guidance. 
+
+
 #### Poetic Computation: 7 years of SFPC
 
 - January 11 - January 23, 2020
