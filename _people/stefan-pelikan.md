@@ -3,6 +3,8 @@ title: Stefan Pelikan
 affiliation:
 - class: Spring 2019
   role: Student
+- class: Fall 2019
+  role: TA
 website: https://pelikan.gd/
 twitter: _stefanpelikan
 instagram: stefanpelikan

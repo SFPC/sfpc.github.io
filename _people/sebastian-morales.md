@@ -5,6 +5,8 @@ affiliation:
   role: TA
 - class: Spring 2019
   role: TA
+- class: Fall 2019
+  role: TA
 twitter:  
 github: sebmorales
 website: https://www.adorevolution.com/

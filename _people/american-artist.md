@@ -5,6 +5,8 @@ affiliation:
   role: Teacher
 - class: Spring 2019
   role: Teacher
+- class: Fall 2019
+  role: Teacher
 twitter:
 github:
 website: https://americanartist.us/

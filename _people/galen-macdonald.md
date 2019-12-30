@@ -5,6 +5,8 @@ affiliation:
   role: Student
 - class: Spring 2019
   role: TA
+- class: Fall 2019
+  role: TA
 twitter:
 github:
 website: http://galenmacdonald.com

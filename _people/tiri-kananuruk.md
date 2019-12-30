@@ -5,6 +5,8 @@ affiliation:
   role: TA
 - class: Spring 2019
   role: TA
+- class: Fall 2019
+  role: TA
 twitter: ngonngontiri
 github: Tiriree
 website: http://xxx.tiri.xxx

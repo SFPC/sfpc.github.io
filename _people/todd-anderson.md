@@ -7,6 +7,8 @@ affiliation:
   role: Teacher
 - class: August 2016
   role: Organizer
+- class: Fall 2019
+  role: Teacher
 twitter:
 github:
 website: http://toddwords.com

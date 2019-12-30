@@ -7,6 +7,8 @@ affiliation:
   role: TA
 - class: Spring 2019
   role: TA
+- class: Fall 2019
+  role: TA
 twitter: celinejade
 github:
 website: http://celinekatzman.com

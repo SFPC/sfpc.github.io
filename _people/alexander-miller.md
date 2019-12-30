@@ -3,6 +3,8 @@ title: Alexander Miller
 affiliation:
 - class: Spring 2019
   role: Student
+- class: Fall 2019
+  role: TA
 website: http://spacefiller.space/
 instagram: space.filler.art
 place: Seattle, WA

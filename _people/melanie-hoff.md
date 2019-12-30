@@ -7,6 +7,8 @@ affiliation:
   role: TA
 - class: Fall 2018
   role: Visitor
+- class: Fall 2019
+  role: Teacher
 twitter: melanie_hoff
 github: melaniehoff
 website: http://Melanie-Hoff.com
