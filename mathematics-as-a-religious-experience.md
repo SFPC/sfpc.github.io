@@ -1,5 +1,5 @@
 ---
-title: Math as Religion
+title: Mathematics as a Religious Experience
 layout: participate3
 slides:
   - "/static/img/math-religion-moving.gif"
