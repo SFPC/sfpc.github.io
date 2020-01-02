@@ -2,7 +2,7 @@
 title: Critical Theory Retrospective
 layout: participate3
 slides:
-  - "/static/img/crit-theory-retro-promo.jpg"
+  - "/static/img/critical-theory-retro-square-final.png"
 
 ---
 
