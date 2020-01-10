@@ -123,17 +123,21 @@ layout: participate2
     </tr>
 </table>
 
-Free and open to the public during select days and hours. Please check the gallery hours and SFPC's [twitter](https://twitter.com/sfpc) for the latest updates on open hours. 
+Free and open to the public during select days and hours. Please check the gallery hours and SFPC's [twitter](https://twitter.com/sfpc) for the latest updates on open hours.
 
-This exhibition will celebrate and highlight the work of the School for Poetic Computation (SFPC) from the past seven years. Located in the Westbeth Artists Housing, SFPC is an artist run school, residency and research community exploring the intersection of code, design, hardware and theory — focusing especially on artistic intervention. Our mission is to support and nurture a diverse community of artists and critical thinkers to shape more creative, humane and poetic forms of computation. In the past few years, the school prioritizes inclusion of women, QTPOC, and disability community, offering a range of free public programs. With classes and events focusing on environmental justice, disability and accessibility, intersectionalities and racial bias in algorithms, the teachers have expanded the conventional understanding of computation. To further reach the communities that have been traditionally marginalized from art and technology, the school is planning an exhibition titled Poetic Computation. This exhibition will showcase a group of artworks from our teachers and alumni, a group that now numbers more than 300. The exhibition will also present material from the school’s archives for the first time with displays about our pedagogy and philosophy towards teaching art and computation. The exhibit will specifically focus on computation as an artistic medium spanning visual art, systems art and poetry, as well as critical perspectives on how computation impacts different communities in dramatically, uneven ways. The exhibition is initiated by SFPC Steering Committee member Tega Brain in collaboration with SFPC community. Special thanks to Westbeth Artists Housing, Westbeth Gallery and Pioneer Works. This exhibition is made possible by support from ARTECHOUSE. 
- 
+This exhibition will celebrate and highlight the work of the School for Poetic Computation (SFPC) over the past seven years. Founded in 2013, and located in Westbeth Artists Housing, SFPC is an artist-run school, residency and research community, exploring the intersection of code, design, hardware and theory — focusing especially on artistic intervention. Its mission is to support and nurture a diverse community of artists and critical thinkers to shape more creative, humane and poetic forms of computation. In the past few years, the school has prioritized inclusion of women, QTPOC, and the disability community, offering a range of free public programs. With classes and events focusing on environmental justice, disability and accessibility, intersectionalities, and racial bias in algorithms, the teachers have expanded the conventional understanding of computation.
+
+ To further reach the communities that have been traditionally marginalized from art and technology, the school has created an exhibition titled *Poetic Computation: 7 years of SFPC*. This exhibition showcases a group of artworks from our teachers and alumni, a group that now numbers more than 300. The exhibition also presents material from the school’s archives for the first time, with displays about our pedagogy and philosophy on teaching art and computation. The exhibit will specifically focus on computation as an artistic medium — spanning visual art, systems art and poetry — as well as critical perspectives on how computation impacts different communities in dramatically uneven ways.
+
+ The exhibition was initiated by SFPC Steering Committee member Tega Brain in collaboration with the SFPC community. Special thanks to Westbeth Artists Housing, Westbeth Gallery and Pioneer Works. This exhibition is made possible by support from ARTECHOUSE.
+
 
 ![](/static/img/sevenyears/exhibition_filip.png)
 
 - Co-organizers: Lauren Gardner, Tega Brain, Taeyoon Choi, Brian Solon, Alex Miller
 - Co-curators: Nabil Hassein, Tiri Kananuruk, Sebastian Morales, Zach Lieberman, Zainab Aliyu, Dan Gorelick, Nitcha Tothong
 - Contributors: Nitcha Tothong, Kate Chanban, Roy Macdonald, Joseph Wilk, Tim Burcham, Matthew Ortega, Lynne Yun, Sarah Howorka, Nitcha Tothong, Ishac Bertran, Shannon Finnegan, Andrew Badr, Sean Catangui, American Artist, Bomani Oseni McClendon, Josh Michaels, Everest Pipkin, Kate Chanba, Andrew Kleindolph, Sam Lavigne, Taylor Levy, Allison Parrish, Christo Allegra, Colin Wang, Yeseul Song, KoalaTokki (Yeseul Song & Michael Simpson), Susie Fu, Cori Kresge, Phil  Schleihauf, Char Stiles and Dan Gorelick, and more.  *Artist list in formation.*
- 
+
 
 ![](/static/img/sevenyears/hmu_SfPC_Fall2018-Showcase-115.jpg)
 
@@ -152,4 +156,4 @@ The exhibition is supported by [ARTECHOUSE](https://www.artechouse.com/)
 
 Image credits: Poster design by Lynne Yun, Photo by Filip Wolak and Minu Han
 
- 
+
