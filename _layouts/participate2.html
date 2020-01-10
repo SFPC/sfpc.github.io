@@ -5,8 +5,8 @@ layout: default
 	<div class="col-md-10">
 		{{content}}
 	</div>
- 
-</div> 
+
+</div>
 
 <div class="row" style="padding-bottom:20px;">
 	<div class="col-md-12">
@@ -16,6 +16,6 @@ layout: default
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sfpc">
-<meta name="twitter:title" content="Participate | School for Poetic Computation">
-<meta name="twitter:description" content="School for Poetic Computation (SFPC), based in NYC, is a hybrid of school, artist residency and research group where students develop a deep curiosity of what it means to work poetically in computational media.">
+<meta name="twitter:title" content="{{ title | default: 'Participate' }} | {{ site.title }}">
+<meta name="twitter:description" content="{{ site.description }}">
 <meta name="twitter:image:src" content="http://sfpc.io/static/img/participate/door.jpg">
