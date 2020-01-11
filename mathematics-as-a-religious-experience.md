@@ -9,7 +9,7 @@ slides:
 # Announcing the 'Mathematics as a Religious Experience' public talk
 - Saturday January 18th 2020, 12-3pm (doors open at 11:30am)
 - School for Poetic Computation (SFPC), 55 Bank St, New York City
-- Tuition will be sliding scale between $10 - $30 based on need. If you are a student or require a discount, please email us at [info@sfpc.io](mailto:info@sfpc.io)!
+- Tuition will be sliding scale between $10 - $30 based on need. If you are a student or require a discount, please email [nabil.hassein@gmail.com](mailto:nabil.hassein@gmail.com)!
 - [Get your tickets here.](https://www.eventbrite.com/e/mathematics-as-a-religious-experience-tickets-87636969535)
 
 
@@ -30,20 +30,26 @@ Special thanks to session advisor Lauren Gardner and co-organizer Zainab Aliyu f
 ## Cost
 Full-price tickets are $30, and there is also a donation based option available. See the 'Tickets' link on the [eventbrite registration page](https://www.eventbrite.com/e/mathematics-as-a-religious-experience-tickets-87636969535) for more information. No one turned away for lack of funds.
 
+## Recording
+The event will be livestreamed, and a transcript will later be added to the recording. Links forthcoming!
+
+## Accessibility
+SFPC is located approximately half a mile from the ADA accessible 14th St-8 Ave stop on the A, C, E, and L trains. The plaza entrance leading to SFPC has a ramp, and one of the three bathrooms is large enough for a wheelchair, although the inner door to the space is somewhat narrow.
+
+All bathrooms are gender neutral. No ID required to enter.
+
+CART will be professionally provided, and Deaf/deaf and hard of hearing folks are invited to indicate their need for priority access to seating to view the captions, which may not visible to all attendees due to the layout of the space.
+
+Please [contact Nabil](mailto:nabil.hassein@gmail.com) if you have any other accessibility questions or requests!
+
+
 ## Where is SFPC?
 We are located in 155 Bank Street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3023.157285117621!2d-74.0114827845943!3d40.73656447932915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d40.736779899999995!2d-74.00924049999999!4m5!1s0x89c259eb003122d1%3A0xede8af6a55291528!2s155+Bank+St%2C+New+York%2C+NY+10014!3m2!1d40.7365645!2d-74.00929409999999!5e0!3m2!1sen!2sus!4v1466975848424" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-## Accessibility
-SFPC is located approximately half a mile from the ADA accessible 14th St-8 Ave stop on the A, C, E, and L trains. The plaza entrance leading to SFPC has a ramp, and one of the the three bathrooms is large enough for a wheelchair, although the inner door to the space is somewhat narrow.
-
-CART will be professionally provided, and Deaf/deaf and hard of hearing folks are invited to indicate their need for priority access to seating to view the captions, which may not visible to all attendees due to the layout of the space.
-
-Please contact us if you have any other accessibility questions or requests!
-
 
 ## CONTACT
-Feel free to reach out to us if you have questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
+Feel free to reach out to [Nabil](mailto:nabil.hassein@gmail.com) directly about the event, or SFPC for general questions about the school: [info@sfpc.io](mailto:info@sfpc.io)
 
 *Promo visual by Matt Jacobson
