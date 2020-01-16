@@ -1,0 +1,433 @@
+@font-face {
+  font-family: 'Louize Display';
+  src: url('../../fonts/sevenyears/LouizeDisplay-Italic.ttf') format('truetype'); /* IE6-IE8 */
+}
+
+html{
+	margin:0;
+}
+body{
+	background-color: #e3dcdc;
+	color: #000000;
+	font-family: Arial;
+	font-weight: normal;
+	position:relative;
+	min-width: 100%;
+	margin: 0 auto;
+	font-size: 18px;
+}
+
+header{
+/*		border-bottom: solid 3px black;
+*/}
+
+.wrapper-margin{
+
+}
+
+.section2{
+	background-color: #000000;
+	color: #e3dcdc;
+	padding-top: 6%;
+}
+
+.wrapper{
+		background-color: #e3dcdc;
+}
+
+.space{
+	margin-top: 20%;
+}
+
+header{
+	background-color: #e3dcdc;
+	position: fixed;
+	font-size: 1.25em;
+	width:100%;
+	top: 0;
+	left:0;
+    z-index: 1000;
+}
+
+.header-copy{
+	margin: 1% 0 1% 50%;
+    transform: translate(-50%, 0);
+        text-align: center;
+}
+
+footer{
+	background-color: #000000;
+	color: #e3dcdc;
+		position: fixed;
+	left: 0;
+	bottom: 0;
+	z-index: 1000;
+	width:100%;
+}
+
+.footer-copy{
+	margin: 1% 10% 1% 10%;
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+}
+
+
+
+.center{
+	text-align: center;
+}
+
+.intro{
+	width: 50%;
+	padding-bottom: 2%;
+}
+
+.intro{
+		margin: 5% auto 0 auto;
+		font-size: 0.85em;
+}
+
+.credits{
+	width: 80%;
+			margin: 6% auto 0 auto;
+	padding-bottom: 10%;
+	font-size: 0.85em;
+}
+
+hr.credits{
+	  border-top: 2px solid #e3dcdc;
+
+}
+
+.space2{
+	margin-top: 8%;
+}
+/* fireworks styles */
+
+.fixed{
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 0;
+}
+
+.fixed img{
+	width: 60%;
+}
+
+.fireworks{
+	z-index: 1500;
+	display: flex;
+	justify-content: space-between;
+	pointer-events: none;
+
+width: 100%;}
+
+.fireworks-left,
+.fireworks-right{
+	display: flex;
+	flex-direction:column;
+}
+
+.fireworks1left,
+.fireworks2left,
+.fireworks1right,
+.fireworks2right{
+	width: 200px;
+}
+
+.fireworks1left{
+	margin-left: 30%;
+	margin-top: 0%;
+}
+
+.fireworks2left{
+	margin-top: 0%;
+	margin-left: -50%%;
+}
+
+.fireworks1right{
+	margin-left: -30%;
+	margin-top: 0%;
+}
+
+.fireworks2right{
+	margin-left: -10%;
+	margin-top: 0%;
+}
+
+/* typeface styles */
+
+.serif{
+	font-family: Louize Display;
+}
+
+.sans-small{
+	font-size: 0.85em;
+}
+
+.serif-med{
+		font-size: 1em;
+}
+
+.names .serif{
+	font-size: 1em;
+	line-height: 1.2em;
+}
+
+.serif-header-main{
+	width:100%;
+	font-size: 1.5em;
+	margin-bottom: 2%;
+}
+
+.date,
+.role{
+	text-transform: uppercase;
+}
+
+.tab{
+	padding-left: 20%;
+}
+
+.right{
+	text-align: right;
+}
+
+li{
+	margin-top: 6%;
+}
+
+hr{
+  border-top: 2px solid black;
+}
+
+.section-header{
+	font-size: 1.25em;
+	text-align: center;
+}
+
+.project{
+	font-size: 0.85em;
+}
+
+.project img{
+	width: 100%;
+	height: auto;
+}
+
+.project-title, .artist-info{
+	text-transform: uppercase;
+}
+
+.project-title{
+		margin-top:4%;
+}
+
+.project-desc{
+	margin-top: 2%;
+}
+
+.artist-info{
+	margin-top:4%;
+	text-decoration: underline;
+}
+
+a{
+	text-decoration: underline;
+	color: #000;
+}
+
+.card-1 a{
+	font-size: 0.9em;
+}
+
+.section2 a{
+		color: #e3dcdc;
+}
+/* card styles */
+
+.cards{
+	padding-top:2%;
+	position: relative;
+	width:100%;
+	height:730px;
+}
+
+.card-1{
+	position: absolute;
+	top: 1%;
+	left: 11%;
+	width:40%;
+	border: 3px solid #000;
+	padding: 1% 2%;
+	transition: transform .75s;
+		z-index: 100;
+				background-color: #e3dcdc;
+}
+
+.card-1:HOVER{
+		transform:rotate(-7deg);
+	}
+
+.card-2{
+	position:absolute;
+		width:40%;
+	left: 50%;
+	margin-top:5%;
+	  transform: rotate(3deg);
+	background-color: #000;
+	color: #e3dcdc;
+	padding: 1% 2%;
+	transition: transform .75s;
+		z-index: 100;
+
+
+}
+
+.card-2:hover{
+	transform:rotate(10deg);
+}
+
+/* project styles */
+
+.thumbnails{
+	width: 80%;
+	margin: 4% auto 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	  justify-content:space-between;
+}
+
+.project{
+	width: 47%;
+	margin-bottom: 6%;
+}
+
+
+
+@media (min-width: 320px) and (max-width: 1000px) {
+
+	.serif-header-main {
+		font-size: 1.25em;
+	}
+
+	header{
+		font-size: 1em;
+	}
+
+	.header-copy{
+			margin: 3% 0 2% 50%;
+	}
+	.intro{
+	width:70%;
+	padding-bottom: 2%;
+}
+
+.intro{
+		margin: 45% auto 0 auto;
+		font-size: 0.85em;
+}
+
+.cards{
+  	height: auto;
+  }
+
+  .cards, .card-1, .card-2{
+  	position: static;
+  }
+
+  .card-1{
+  	width:95%;
+  	  	margin-top:0;
+  	margin: 0 auto;
+  		border: 1px solid #000;
+
+  }
+
+  .card-2{
+  	width:95%;
+  	margin-top:0;
+  	margin: 0 auto;
+	  transform: rotate(1deg);
+  }
+
+  .card-1:HOVER{
+		transform:rotate(0deg);
+	}
+
+
+.card-2:hover{
+	transform:rotate(0deg);
+}
+
+.fireworks1left,
+.fireworks2left,
+.fireworks1right,
+.fireworks2right{
+	width:40%;
+}
+
+.fireworks1left{
+	margin-left: 0%;
+	margin-top: 0%;
+}
+
+.fireworks2left{
+	margin-top: 0%;
+	margin-left: -50%%;
+}
+
+.fireworks1right{
+	margin-left: 60%;
+	margin-top: 0%;
+}
+
+.fireworks2right{
+	margin-left: 60%;
+	margin-top: 0%;
+}
+.date-copy{
+	font-size: 0.85em;
+}
+
+.thumbnails{
+	width: 95%;
+	margin: 4% auto 2% auto;
+	display: block;
+}
+
+.project{
+	width: 100%;
+	margin-bottom: 10%;
+}
+
+.credits{
+	text-align: left;
+			margin: 6% auto 0 auto;
+	font-size: 0.85em;
+		width: 95%;
+	padding-bottom: 20%;
+}
+
+
+.footer-copy{
+	font-size: 0.85em;
+	margin: 2% 10% 3% 10%;
+        text-align: center;
+        display: block;
+}
+
+
+
+}
+
+@media print {
+   header, footer, nav, aside{
+      display: none;
+   }
+   #fireworks{
+   	opacity: 50%;
+   }
+}
