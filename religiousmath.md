@@ -7,6 +7,7 @@ slides:
 ---
 
 # Announcing the 'Mathematics as a Religious Experience' Workshop'
+*Note that this event is past -- the 2020 version is [here](https://sfpc.io/mathematics-as-a-religious-experience/)*.
 
 - Saturday Feb. 23rd 2019, 11am-4pm
 - School for Poetic Computation (SFPC), New York City
