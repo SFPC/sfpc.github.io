@@ -1,5 +1,8 @@
 # sfpc.io
 
+## Github based development
+You can create or edit pages directly on Github, and after you make your commit to master, that change will automatically be deployed to sfpc.io. No need to setup jekyll on your local machine!
+
 ## Local Development
 
 1. Install ruby, bundler, and github-pages. Detailed instructions [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
