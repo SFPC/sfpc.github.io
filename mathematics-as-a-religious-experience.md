@@ -34,7 +34,7 @@ Full-price tickets are $30, and there is also a donation based option available.
 The event will be livestreamed, and a transcript will later be added to the recording. Links forthcoming!
 
 ## Accessibility
-SFPC is located approximately half a mile from the ADA accessible 14th St-8 Ave stop on the A, C, E, and L trains. The plaza entrance leading to SFPC has a ramp, and one of the three bathrooms is large enough for a wheelchair, although the inner door to the space is somewhat narrow.
+SFPC is located approximately half a mile from the ADA accessible 14th St-8 Ave stop on the A, C, E, and L trains. The plaza entrance leading to SFPC does not have stairs, however the space is unfortunately not wheelchair accessible.
 
 All bathrooms are gender neutral. No ID required to enter.
 
