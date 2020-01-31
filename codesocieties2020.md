@@ -12,7 +12,7 @@ slides:
 ---
 
 
-## Call for Students: Code Societies
+## Code Societies Website & Blog: [sfpc.io/code-societies](http://sfpc.io/code-societies)
 - Three-Week Session, Monday January 6th - Saturday January 25th 2020
 - SFPC, 155 Bank Street, West Village, NYC
 - 6:30pm - 9:30pm, Evening Classes
