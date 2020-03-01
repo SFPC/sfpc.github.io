@@ -90,6 +90,6 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### How do I apply?
 
-Applications for the New Coders Bootcamp - please [CLICK HERE](https://airtable.com/shr4DF0I48cpZB9Le) to submit your application. Deadline is March 1st, 2020
+Applications for the New Coders Bootcamp - please [CLICK HERE](https://airtable.com/shr4DF0I48cpZB9Le). 
 
 We accept up to 17 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
