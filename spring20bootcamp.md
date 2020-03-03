@@ -17,7 +17,7 @@ slides:
 - One Week, Monday March 23rd — Friday March 27th, 2020
 - @ SFPC, 155 Bank Street, West Village, NYC
 - 10am - 1pm, Morning Classes with optional afternoon working sessions
-- [Apply Now!] - deadline is August 28th, 2019
+- [Apply Now!](https://airtable.com/shr4DF0I48cpZB9Le) - rolling deadline, submissions will close when class is full.
 
 School for Poetic Computation’s Bootcamp introduces the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 day session will be open both to incoming SFPC students and anyone who wants to learn to code. The bootcamp will be taught by Matt Jacobson, Robby Kraft and Alex Miller.
 
@@ -90,6 +90,6 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### How do I apply?
 
-Applications for the New Coders Bootcamp - please [CLICK HERE](https://airtable.com/shr4DF0I48cpZB9Le). 
+Applications for the New Coders Bootcamp - please [CLICK HERE](https://airtable.com/shr4DF0I48cpZB9Le).
 
 We accept up to 17 students on a rolling basis. We will respond to your application within ~1 week of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
