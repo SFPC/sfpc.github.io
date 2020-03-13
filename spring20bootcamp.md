@@ -17,7 +17,7 @@ slides:
 - One Week, Monday March 23rd — Friday March 27th, 2020
 - @ SFPC, 155 Bank Street, West Village, NYC
 - 10am - 1pm, Morning Classes with optional afternoon working sessions
-- [Apply Now!](https://airtable.com/shr4DF0I48cpZB9Le) - rolling deadline, submissions will close when class is full.
+- *Applications are closed*
 
 School for Poetic Computation’s Bootcamp introduces the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 day session will be open both to incoming SFPC students and anyone who wants to learn to code. The bootcamp will be taught by Matt Jacobson, Robby Kraft and Alex Miller.
 
