@@ -1,15 +1,15 @@
 ---
 title: SFPC Creative Coding Bootcamp (online)
 layout: participate
-location: 
+location:
 contact: sfpc
 slides:
 
   - "/static/img/bootcamp/bootcamp1.jpg"
   - "/static/img/bootcamp/bootcamp2.jpg"
-  - "/static/img/bootcamp/bootcamp3.jpg"
   - "/static/img/bootcamp/bootcamp4.jpg"
   - "/static/img/bootcamp/bootcamp5.jpg"
+  - "/static/img/bootcamp/bootcamp6.jpg"  
 ---
 ***
 
@@ -41,6 +41,8 @@ SFPC fosters a collaborative and relaxed learning environment. We value your que
 - We welcome students with a broad array of technical experiences–no coding experience is required, but a basic comfort level / curiosity with technology is preferred.
 - There are no prerequisites. Students are required to have a computer (Mac/Windows/Linux), an internet connection, and pre-install Xcode or Visual Studio. We will be using free software and links will be provided before class.
 
+![We encourage you to show your work.](/static/img/bootcamp/april.gif)
+![And give / recieve feedback from peers.](/static/img/bootcamp/colin_nik.gif)
 
 ### Schedule
 
