@@ -40,14 +40,18 @@ SFPC fosters a collaborative and relaxed learning environment. We value your que
 - Come to all classes and thoughtfully engage with your classmates, teachers and TAs.
 - We are looking for autodidacts from all backgrounds who are curious, generous and open.
 - We welcome students with a broad array of technical experiences–no coding experience is required, but a basic comfort level / curiosity with technology is preferred.
-- There are no prerequisites. Students are required to have a computer (Mac/Windows/Linux), an internet connection, and pre-install Xcode or Visual Studio. We will be using free software and links will be provided before class.
+- There are no prerequisites. Students are required to have a computer (Mac/Windows/Linux), an internet connection, and pre-install Xcode or Visual Studio. Links will be provided before class.
 
-![We encourage you to show your work.](/static/img/bootcamp/april.gif)
-*We encourage you to show your work.*
 
-![And give / recieve feedback from peers.](/static/img/bootcamp/colin_nik.gif)
-*And give / recieve feedback from peers.*
+| ![We encourage you to show your work.](/static/img/bootcamp/april.gif) |
+|:--:|
+| *We encourage you to show your work.* |
 
+| ![And give / receive feedback from peers.](/static/img/bootcamp/colin_nik.gif) |
+|:--:|
+| *And give / receive feedback from peers.* |
+
+  
 ### Schedule
 
 #### Weekly class times
