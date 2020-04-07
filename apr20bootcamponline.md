@@ -14,10 +14,10 @@ slides:
 ***
 
 ## Call for Students: Creative Coding Bootcamp (online)
-- April 21st - May 5th, total of five classes and study sessions held over three weeks.
+- April 21st - May 5th, total of five classes and additional study sessions held over three weeks.
 - Classes will be held Tuesdays & Thursdays from 1pm - 3pm EST.
-- Teachers and TAs will be available for an additional one-on-one discussion through office hours and email throughout the week.
-- *Applications are open now. [Register here](https://airtable.com/shr4DF0I48cpZB9Le)*
+- Teachers and TAs will be available for additional one-on-one discussions through office hours throughout the session.
+- **Applications are open now. [Register here](https://airtable.com/shr4DF0I48cpZB9Le)**
 
 School for Poetic Computation’s Bootcamp introduces the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 session class will now be open to online participation for the first time and we welcome anyone who wants to learn to code. The bootcamp will be taught by Robby Kraft with teaching assistance from Ilona Brand and Zachary Lieberman.  
 
@@ -29,7 +29,7 @@ Students will be coding in C++, learning concepts like variables, memory, and sc
 - [Zach Lieberman](http://zach.li/), Visiting Teacher - is a new media artist, designer, computer programmer, and educator.
 
 ### How will the class be conducted?
-We will conduct the class online via Zoom between 1 - 3 pm EST On Tuesday's and Thursdays. Teachers and TA's will be available at dedicated hours through the week for individual questions and discussion.
+We will conduct the class online via Zoom between 1 - 3 pm EST on Tuesday's and Thursdays. Teachers and TA's will be available at dedicated hours through the week for individual questions and discussion.
 
 In addition to online classes and one-on-ones, we will be using Slack for communication, GitHub for sharing course material, Google calendar to stay organized and Calend.ly to schedule one-on-ones. You do not need to create accounts on these services yet, we will send you information once you are accepted. Please be prepared to dedicate up to 5 hours of additional study and work time to the class outside of the two hours of class time each week.
 
@@ -93,18 +93,11 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### What if I can’t go, can I get a refund?
 - Yes, we can give you 100% refund up to 2 days before class starts
-- 50% refund after 2 days (April 14th), until the first day of class
+- 50% refund after 2 days, until the first day of class
 - No refunds can be given after the first day of class
 
 
 ### How do I apply?
-Applications for the Creative Coding Bootcamp - please [CLICK HERE]().
+Applications for the New Coders Bootcamp - please [CLICK HERE](https://airtable.com/shr4DF0I48cpZB9Le).  
 
 We will be accepting up to 17 students on a rolling basis. We will respond to your application within 2 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
-
-
-### How do I apply?
-
-Applications for the New Coders Bootcamp - please [CLICK HERE](https://airtable.com/shr4DF0I48cpZB9Le).
-
-We accept up to 17 students on a rolling basis. We will respond to your application within 2 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
