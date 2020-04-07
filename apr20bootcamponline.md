@@ -7,7 +7,6 @@ slides:
 
   - "/static/img/bootcamp/bootcamp1.jpg"
   - "/static/img/bootcamp/bootcamp2.jpg"
-  - "/static/img/bootcamp/bootcamp4.jpg"
   - "/static/img/bootcamp/bootcamp5.jpg"
   - "/static/img/bootcamp/bootcamp6.jpg"  
 ---
@@ -35,7 +34,7 @@ In addition to online classes and one-on-ones, we will be using Slack for commun
 
 SFPC fosters a collaborative and relaxed learning environment. We value your questions and want to make sure all students feel comfortable engaging with the teachers and material fully.  Although we will not be sitting around the same table, we are committed to offer the same level of support and dedication to this cohort of students.
 
-[https://medium.com/sfpc/sfpc-fall-2019-bootcamp-week-b77877b4df23](Click here) to see what last semester's bootcamp class felt like from a student's perspective.
+[Click here](https://medium.com/sfpc/sfpc-fall-2019-bootcamp-week-b77877b4df23) to see what last semester's bootcamp class felt like from a student's perspective.
 
 ### What is expected of me?
 - Come to all classes and thoughtfully engage with your classmates, teachers and TAs.
@@ -43,9 +42,11 @@ SFPC fosters a collaborative and relaxed learning environment. We value your que
 - We welcome students with a broad array of technical experiences–no coding experience is required, but a basic comfort level / curiosity with technology is preferred.
 - There are no prerequisites. Students are required to have a computer (Mac/Windows/Linux), an internet connection, and pre-install Xcode or Visual Studio. We will be using free software and links will be provided before class.
 
-![We encourage you to show your work.](/static/img/bootcamp/april.gif) We encourage you to show your work.
+![We encourage you to show your work.](/static/img/bootcamp/april.gif)
+*We encourage you to show your work.*
 
-![And give / recieve feedback from peers.](/static/img/bootcamp/colin_nik.gif) And give / recieve feedback from peers.
+![And give / recieve feedback from peers.](/static/img/bootcamp/colin_nik.gif)
+*And give / recieve feedback from peers.*
 
 ### Schedule
 
