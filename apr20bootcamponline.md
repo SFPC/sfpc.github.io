@@ -1,7 +1,7 @@
 ---
 title: SFPC Creative Coding Bootcamp (online)
 layout: participate
-location: westbeth
+location: 
 contact: sfpc
 slides:
 
