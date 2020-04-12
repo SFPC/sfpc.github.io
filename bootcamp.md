@@ -53,14 +53,14 @@ SFPC fosters a collaborative and relaxed learning environment. We value your que
 
 ### Is this the right class for me?
 
-##### If this sounds like you, then YES!
+#### If this sounds like you, then YES!
 - I don’t know code and want to learn so I can make 2D-based or visual art.
 - I know how HTML/CSS works but haven’t delved deeper into coding.
 - My art practice is music/photo/design/language(...) based and I want to learn code so I can play around with some ideas.
 - I have learned code in the past but I could use a basic review of concepts (ie, a getting started course makes sense).
 - I’d like to have a better grasp on the basics of code (variables, functions, objects) and to learn how to ask questions / get unstuck faster.
 
-##### If this sounds like you, you should consider signing up for an upcoming ‘Recreating the Past’ class with Zach.  Note that bootcamp is geared towards beginners and you may find the first classes a little slow.
+#### If this sounds like you, you should consider signing up for an upcoming ‘Recreating the Past’ class with Zach.  Note that bootcamp is geared towards beginners and you may find the first classes a little slow.
 - I have a good understanding of what variables, functions, control structures are.  I even may have done object / OOP programming.
 - I am a developer at my job but want to expand my knowledge of using code for artistic purposes.
 - I have experience with code (C++/P5/P5js/pyton, etc) but not openFrameworks - or - it’s been a while since I’ve played with it.

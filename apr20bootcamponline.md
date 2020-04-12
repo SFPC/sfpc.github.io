@@ -16,7 +16,7 @@ slides:
 - April 21st - May 5th, total of five classes and additional study sessions held over three weeks.
 - Classes will be held Tuesdays & Thursdays from 1pm - 3pm EST.
 - Teachers and TAs will be available for additional one-on-one discussions through office hours throughout the session.
-- **Applications are open now. [Register here](https://airtable.com/shr4DF0I48cpZB9Le)**
+- **Applications are now closed.**
 
 School for Poetic Computation’s Bootcamp introduces the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 session class will now be open to online participation for the first time and we welcome anyone who wants to learn to code. The bootcamp will be taught by Robby Kraft with teaching assistance from Ilona Brand and Zachary Lieberman.  
 
@@ -51,7 +51,21 @@ SFPC fosters a collaborative and relaxed learning environment. We value your que
 |:--:|
 | *And give / receive feedback from peers.* |
 
-  
+### Is this the right class for me?
+
+#### If this sounds like you, then YES!
+- I don’t know code and want to learn so I can make 2D-based or visual art.
+- I know how HTML/CSS works but haven’t delved deeper into coding.
+- My art practice is music/photo/design/language(...) based and I want to learn code so I can play around with some ideas.
+- I have learned code in the past but I could use a basic review of concepts (ie, a getting started course makes sense).
+- I’d like to have a better grasp on the basics of code (variables, functions, objects) and to learn how to ask questions / get unstuck faster.
+
+#### If this sounds like you, you should consider signing up for an upcoming ‘Recreating the Past’ class with Zach.  Note that bootcamp is geared towards beginners and you may find the first classes a little slow.
+- I have a good understanding of what variables, functions, control structures are.  I even may have done object / OOP programming.
+- I am a developer at my job but want to expand my knowledge of using code for artistic purposes.
+- I have experience with code (C++/P5/P5js/pyton, etc) but not openFrameworks - or - it’s been a while since I’ve played with it.
+
+
 ### Schedule
 
 #### Weekly class times
@@ -108,6 +122,6 @@ We are committed to being fully transparent about how we make and spend money. I
 
 
 ### How do I apply?
-Applications for the New Coders Bootcamp - please [CLICK HERE](https://airtable.com/shr4DF0I48cpZB9Le).  
+Applications are now closed.  
 
 We will be accepting up to 17 students on a rolling basis. We will respond to your application within 2 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
