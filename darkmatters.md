@@ -1,5 +1,5 @@
 ---
-title: SFPC Creative Coding Bootcamp (online)
+title: Dark Matters Expanded (online)
 layout: participate
 location:
 contact: sfpc
@@ -13,43 +13,46 @@ slides:
 ***
 
 ## Call for Students: Creative Coding Bootcamp (online)
-- April 21st - May 5th, total of five classes and additional study sessions held over three weeks.
-- Classes will be held Tuesdays & Thursdays from 1pm - 3pm EST.
+- ...., total of 10 classes and additional study sessions held 10 eight weeks.
+- Classes will be held Wednesdays from 1pm - 4pm EST.
 - Teachers and TAs will be available for additional one-on-one discussions through office hours throughout the session.
 - **Applications are now closed.**
 
-School for Poetic Computation’s Bootcamp introduces the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 session class will now be open to online participation for the first time and we welcome anyone who wants to learn to code. The bootcamp will be taught by Robby Kraft with teaching assistance from Ilona Brand and Zachary Lieberman.  
+In this course, together we will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. 
 
-Students will be coding in C++, learning concepts like variables, memory, and scope; branching, looping, boolean evaluations, and logic; functions, recursion, and events; object-oriented design; and working with media like video, sound, and responding to keyboard and mouse inputs. Students will become competent in Xcode/Visual Studio, GitHub, and openFrameworks.
+By reading critical texts, streaming artworks and interacting with professional guests we will learn how these structures are compromised so that we can begin to imagine what an outside to them might look like. This class relies on an expanded notion of study, where we will challenge one another to think outside the box about what learning is and ultimately can be. We will also look at the practices of contemporary artists critiquing (and expanding the imaginary within) technology as examples of how radical imagination can be evoked through artistic practice. By the end of the class we will publish a digital publication containing original contributions from every member of the class.
+
+### Learning Goals
+- The ability to communicate complex ideas through writing and discussion with peers.
+- A more conscientious approach to developing new tech and design solutions that reflect our current moment which prioritizes equity.
+- A nuanced critical perspective towards technological objects and their generation of power and control in society.
+- A thorough knowledge of the history of surveillance practices in the United States.
+- An understanding of the economy which assumes the possibility of humans being valued as commodities.
+- An interdisciplinary understanding of the relationship between art, design, technology, and economics.
+
 
 ### Who are the teachers?
-- [Robby Kraft](http://robbykraft.com/), Teacher - is an origami artist, educator, and software engineer based in New York City.
-- [Ilona Brand](https://theilonabrand.com/), Teaching Assistant - is a freelance tech generalist building technology to empower communities.
-- [Zach Lieberman](http://zach.li/), Visiting Teacher - is a new media artist, designer, computer programmer, and educator.
+- [American Artist](https://americanartist.us/) [teacher] is an artist whose work considers black labor and visibility within networked life. Artist is an alumni of the Whitney Independent Study Program and part-time lecturer at The New School. Recent solo exhibitions include My Blue Window, 2019, Queens Museum, NY and I’m Blue (If I Was █████ I Would Die), 2019, Koenig & Clinton, NY.
+- [Zainab Aliyu (Zai)](zai.zone) [TA]
 
 ### How will the class be conducted?
-We will conduct the class online via Zoom between 1 - 3 pm EST on Tuesday's and Thursdays. Teachers and TA's will be available at dedicated hours through the week for individual questions and discussion.
+We will conduct the class online via Zoom between 1 to 4 pm EST on Wednesdays. Teacher and TA will be available at dedicated hours through the week for individual questions and discussion.
 
-In addition to online classes and one-on-ones, we will be using Slack for communication, GitHub for sharing course material, Google calendar to stay organized and Calend.ly to schedule one-on-ones. You do not need to create accounts on these services yet, we will send you information once you are accepted. Please be prepared to dedicate up to 5 hours of additional study and work time to the class outside of the two hours of class time each week.
+In addition to online classes and one-on-ones, we will be using Slack for communication, _____ for sharing course material, Google calendar to stay organized and Calend.ly to schedule one-on-ones. You do not need to create accounts on these services yet, we will send you information once you are accepted.
 
-SFPC fosters a collaborative and relaxed learning environment. We value your questions and want to make sure all students feel comfortable engaging with the teachers and material fully.  Although we will not be sitting around the same table, we are committed to offer the same level of support and dedication to this cohort of students.
+Over the course of the 10 weeks, we will be working on a collaborative publication relating to themes discussed in class, and by the end of the class we will publish this as a digital publication containing original contributions from every member of the class.
 
-[Click here](https://medium.com/sfpc/sfpc-fall-2019-bootcamp-week-b77877b4df23) to see what last semester's bootcamp class felt like from a student's perspective.
+Please be prepared to dedicate up to 5 hours of additional study (readings and assignments) and work time to the class outside of the 3 hours of class time each week.
+
+SFPC fosters a collaborative and relaxed learning environment. We value your questions and want to make sure all students feel comfortable engaging with the teachers and material fully. Although we will not be sitting around the same table, we are committed to offer the same level of support and dedication to this cohort of students.
+
 
 ### What is expected of me?
-- Come to all classes and thoughtfully engage with your classmates, teachers and TAs.
-- We are looking for autodidacts from all backgrounds who are curious, generous and open.
-- We welcome students with a broad array of technical experiences–no coding experience is required, but a basic comfort level / curiosity with technology is preferred.
-- There are no prerequisites. Students are required to have a computer (Mac/Windows/Linux), an internet connection, and pre-install Xcode or Visual Studio. Links will be provided before class.
+- The only requirement is that students come with an open mind and an interest in helping one another to learn by providing a welcome learning environment.
+- It is suggested that students purchase the books that we will read, but it is not required, all texts will be provided digitally.
 
 
-| ![We encourage you to show your work.](/static/img/bootcamp/april.gif) |
-|:--:|
-| *We encourage you to show your work.* |
-
-| ![And give / receive feedback from peers.](/static/img/bootcamp/colin_nik.gif) |
-|:--:|
-| *And give / receive feedback from peers.* |
+**picture of Zines here**
 
 ### Is this the right class for me?
 
