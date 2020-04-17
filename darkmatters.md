@@ -12,13 +12,13 @@ slides:
 ---
 ***
 
-## Call for Students: Creative Coding Bootcamp (online)
+## Call for Students: Dark Matters Expanded (online)
 - ...., total of 10 classes and additional study sessions held 10 eight weeks.
 - Classes will be held Wednesdays from 1pm - 4pm EST.
 - Teachers and TAs will be available for additional one-on-one discussions through office hours throughout the session.
 - **Applications are now closed.**
 
-In this course, together we will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. 
+In this course, together we will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases.
 
 By reading critical texts, streaming artworks and interacting with professional guests we will learn how these structures are compromised so that we can begin to imagine what an outside to them might look like. This class relies on an expanded notion of study, where we will challenge one another to think outside the box about what learning is and ultimately can be. We will also look at the practices of contemporary artists critiquing (and expanding the imaginary within) technology as examples of how radical imagination can be evoked through artistic practice. By the end of the class we will publish a digital publication containing original contributions from every member of the class.
 
