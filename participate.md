@@ -10,17 +10,42 @@ slides:
   - "/static/img/participate/sum2016_notes.jpg"
 ---
 
+## Upcoming
+
+Due to COVID-19, we are offering all programs online. Please support our fundraiser on [GoFundMe](https://gofundme.com/help-the-school-for-poetic-comptuation). 
+
+### Poetic Hardware 
+
+10 weeks online class lead by CW&T, Tiri and Seb 
+
+### Digital Love Languages 
+
+10 weeks online class lead by Melanie Hoff 
+[More information](https://sfpc.io/digitallovelangauges)
+
+
+### Dark Matters Online 
+10 weeks online class by American Artist 
+
+### Teaching as Art 
+10 weeks online class by Taeyoon Choi 
+
+### Artist Statement Workshop 
+5 weeks online class by Celine Katzman 
+
+Coming up
+
+### Beginner Bootcamp
+- Online class by Robby Kraft 
+
+### Spreadsheet for Poets 
+- Online class by Achim Koh 
 # Upcoming Programs
 
 Subscribe to our mailing list, at the bottom of the page to be the first to hear about our upcoming programs. We are working on 2020 academic calendar. Please follow our social media and mailing list for the updates.
 
-## Upcoming
 
-#### Spring 2020 Immersive
-
-- March 30 — June 5, 2020
-
-Join SFPC’s [ten-week intensive program](https://sfpc.io/spring2020/) in New York City. Daily classes range from programming, electronics, poetry and the history and theory of art and technology. Students have full access to the space to work on projects. Teachers and mentors are readily available for technical, conceptual, and artistic guidance. 
+## Recent programs  
 
 
 #### Poetic Computation: 7 years of SFPC
