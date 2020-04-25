@@ -8,9 +8,8 @@ contact: sfpc
 
 # Digital Love Languages: Code as Gift 
 
-Date: Starting in the week of May 18, 2020.
-
-Time: TBD 
+Date: Starting in June, 2020.
+Time: Once a week for ten weeks. 
 
 Application is now open. (link) 
 
