@@ -9,8 +9,7 @@ contact: sfpc
 # Digital Love Languages: Code as Gift 
 
 Date: Starting in June, 2020.
-Time: Once a week for ten weeks. 
-
+Teacher: Melanie Hoff  
 Application is now open. (link) 
 
 How do we want to live in a post COVID-19 world, and what role do we want technology to play? Let us gather for the creation of placemaking on the internet where love and solidarity are valued and supported. As our daily activities and closest relationships become increasingly bound up with corporate systems of surveillance and exploitation,  we need to explore the cultivation of code as a love language that can be gentle, healing, and personal. This class is about building poetic tools for online communion through a re-introduction to computers and a call to action for expanding computation’s capacity for fostering interdependence and creative expression. 
@@ -25,7 +24,7 @@ This class owes a great deal to the works of bell hooks, Audre Lorde, Olia Liali
 
 No prior coding experience is necessary, as this class is oriented towards new programmers. We are committed to co-creating with participants an anti-racist, anti-sexist, and environmentally conscious theory of computation. The code of conduct will be co-written by and upheld by all participants. SFPC is a school organized by people who are committed to making space for people who exist at the intersections of oppressed identities, including but not limited to those who are queer, trans, people of color, disabled, Deaf, or hard of hearing.  The pedagogy of this class draws on the lead teacher Melanie Hoff’s experience as a programmer, artist, and organizer of Code Societies, a three week intensive event at the School for Poetic Computation. In Code Societies,  we engage with code and the ways code acts on our bodies and networks, equally as subject and as medium. Code Societies and this class push back against the nearly ubiquitous mode of tech education where learning a technical thing apart from a social history of that thing is the norm. 
 
-# Material covered
+# Syllabus
 
 - Fundamentals of the Python programming language
 - Natural language processing using Python 

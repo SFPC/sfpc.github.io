@@ -12,62 +12,66 @@ slides:
 
 ## Upcoming
 
-Due to COVID-19, we are offering all programs online. Please support our fundraiser on [GoFundMe](https://gofundme.com/help-the-school-for-poetic-comptuation). 
+Announced on April 27,2020 
 
-### Poetic Hardware 
+Due to the COVID-19 outbreaks, the School for Poetic Computation is offering classes for online, remote learning for the first time. Each class is lead by one of our core teachers. Apply now as the space is limited. Also, please support our fundraiser on [GoFundMe](https://gofundme.com/help-the-school-for-poetic-comptuation) to help us transition to online programs. We will announce summer/fall 2020 programs in mid-May. Sign up to our mailing list to get the latest updates. 
 
-10 weeks online class lead by CW&T, Tiri and Seb 
+### Recreating the Past
 
-### Digital Love Languages 
+Ten weeks class by Zach Lieberman starting in May. Study computational art from the past decades and recreate these works with contemporary techniques to gain aesthetic, analytical and technical knowledge. [More information](https://sfpc.io/recreating-spring2020) 
 
-10 weeks online class lead by Melanie Hoff 
-[More information](https://sfpc.io/digitallovelangauges)
+### Poetic Hardware
 
+Ten weeks class by CW&T starting in June. Learn computational hardware as a way to engage with the physical world and broaden our creative practices. Learn to make analog + digital electronics, a programmable micro-controller, sensors and mechanisms. [More information](https://sfpc.io/poetichardware-spring2020) 
 
 ### Dark Matters Online 
-10 weeks online class by American Artist 
+
+Ten weeks online class by American Artist starting in May. We will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. [More information](https://sfpc.io/darkmatters)
+
+ 
+### Digital Love Languages  
+
+Ten weeks class by Melanie Hoff starting in June. Learn to cultivatte code as a love language that can be gentle, healing, and personal. This class is about building poetic tools for online communion through a re-introduction to computers and a call to action for expanding computation’s capacity for fostering interdependence and creative expression. [More information](https://sfpc.io/digitallove)
 
 ### Teaching as Art 
-10 weeks online class by Taeyoon Choi 
+
+Ten weeks online class by Taeyoon Choi starting in June. This class is for artists and technologists who want to teach. The class is also for teachers who want to advance their art and pedagogy. Students will learn about applying creative processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College, Socially Engaged Art, as well as more recent experiments in Alternative Education. [More information](https://sfpc.io/teachingasart)
 
 ### Artist Statement Workshop 
-5 weeks online class by Celine Katzman 
+Five weeks class by Celine Katzman starting in June. This workshop offers a combination of practical writing and critical thinking skills. Enrollment is open to anyone including artists, designers, creative technologists, engineers, architects, and others whose practices are difficult to define. [More information](https://sfpc.io/artiststatement)
 
-Coming up
+---
 
-### Beginner Bootcamp
-- Online class by Robby Kraft 
-
-### Spreadsheet for Poets 
-- Online class by Achim Koh 
-# Upcoming Programs
-
-Subscribe to our mailing list, at the bottom of the page to be the first to hear about our upcoming programs. We are working on 2020 academic calendar. Please follow our social media and mailing list for the updates.
+## Past programs  
 
 
-## Recent programs  
+SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We offer a variety of programs including full time classes, short workshops, conferences and exhibitions. Here are some of our recent programs. 
 
+### Creative Coding Bootcamp
 
-#### Poetic Computation: 7 years of SFPC
+[More inforation](https://sfpc.io/apr20bootcamponline/)
 
-- January 11 - January 23, 2020
+### Critical Writing Workshop
+
+One week class by Joanne McNeil. [More information](https://www.eventbrite.com/e/critical-writing-workshop-tickets-87741305607)
+
+### Poetic Computation: 7 years of SFPC
 
 We are excited to announce [Poetic Computation: 7 years of SFPC](https://sevenyears/) an exhibition at the Westbeth Gallery, NYC. January 11 - January 23, 2020. Opening January 16, 6pm. The exhibition, created with volunteer efforts, will feature projects by our teachers and alums. Public programs to be announced. Mark your calendar!
-
-# Past Programs
-
-#### Code Movement, Nov. 10, 17, 24, & Dec. 1; 1-4PM [learn more](https://sfpc.io/classes/movement).
-- Led by movement teacher, performer, bodyworker, and writer Cori Kresge, this class will look at code as a resource, applying it to dance practices and community. We will focus on interpreting and creating systems of coding, scoring, and encrypting, using the body’s senses, gestures, and mechanics both individually and collectively. Together, we will cultivate practices that attempt to override the ego constructs that often obstruct or inhibit our learning and creativity.  
-
-#### Fall 2019 Student Showcase, Dec. 1 & Dec. 2; [learn more](https://www.eventbrite.com/e/student-showcase-fall-2019-tickets-82909802451). 
-- This showcase is an open studio, a chance to observe the students’ journey of poetic computation and see their works in progress. Come meet our amazing students of the Fall 2019 cohort, celebrate their hard work and hang out. We will be open:
-- Sunday Dec. 1st ~ 1pm - 6pm (performances between 4 - 6pm)
-- Monday Dec. 2nd ~ 3pm - 9pm
-
-
-#### Code Societies, Jan. 6th - Jan. 25th, 2020; evening classes from 6:30pm - 9:30pm [learn more](https://sfpc.io/codesocieties2020/).
-- We will challenge the division between those who code software and those who are coded by it.  We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together. 
  
+### Code Movement
+
+Led by movement teacher, performer, bodyworker, and writer Cori Kresge, this class will look at code as a resource, applying it to dance practices and community. We will focus on interpreting and creating systems of coding, scoring, and encrypting, using the body’s senses, gestures, and mechanics both individually and collectively. Together, we will cultivate practices that attempt to override the ego constructs that often obstruct or inhibit our learning and creativity. [More information](https://sfpc.io/classes/movement)
+
+
+### Code Societies 
+
+We will challenge the division between those who code software and those who are coded by it.  We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together. [learn more](https://sfpc.io/codesocieties2020/).
+
+## 2019 
+
+Fall 2019 Student Showcase. This showcase is an open studio, a chance to observe the students’ journey of poetic computation and see their works in progress. Come meet our amazing students of the Fall 2019 cohort, celebrate their hard work and hang out. [More information](https://www.eventbrite.com/e/student-showcase-fall-2019-tickets-82909802451). 
+
 [Fall 2019](https://sfpc.io/fall2019/) Immersive 10-week program covering programming, electronics, and the history and theory of art and technology.
 
 [Poetic Computation: Detroit](https://sfpc.io/detroit). 1 week session: August 19-25, 2019.
@@ -83,7 +87,6 @@ We are excited to announce [Poetic Computation: 7 years of SFPC](https://sevenye
 [Code Societies Winter 2019](https://sfpc.io/codesocieties-winter-19) examines the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas. Three-Week Session, January 7th - January 26th
 
 
-
 ## 2018
 
 [Code Ecologies](http://sfpc.io/codeecologies) December 15, 2018.
@@ -97,6 +100,9 @@ We are excited to announce [Poetic Computation: 7 years of SFPC](https://sevenye
 [Code Societies](http://sfpc.io/codesocieties) July 2nd - Saturday July 21st, 2018. Code Societies examines the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
 
 [Uncomputable](http://sfpc.io/uncomputable/) June 20th and June 28th, 2018. A series of lectures and exhibition by Alexander R. Galloway and Taeyoon Choi.
+
+
+---
 
 
 
@@ -116,18 +122,11 @@ In the past, we have had students with a broad array of technical experiences an
 
 ### What is expected of me?
 
-Acceptance into the session is an invitation to join the SFPC community. Full-time participation during the ten weeks is mandatory. This also means you come prepared to all of the classes, do the homework, and engage with the community. We expect our students to be in the school between 10am~5pm, Monday to Friday.
-
-It’s also expected that you work openly – sharing what you learn along the way and collaborate with your peers. The success of the session for the group is dependent on engaged participation throughout the term. By participating you will be actively shaping an emerging culture of open source and transparent education.
+Acceptance into the session is an invitation to join the SFPC community. If you take our classes, we expect you to follow SFPC Code of Conduct. It’s also expected that you work openly – sharing what you learn along the way and collaborate with your peers. The success of the session for the group is dependent on engaged participation throughout the term. By participating you will be actively shaping an emerging culture of open source and transparent education.
 
 ### What are classes like?
 
-SFPC’s main program takes place over ten weeks in New York City with daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests.
-
-We select up to 18 participants a session. Classes vary in length and are usually held Monday-Friday between 10am and 5pm. Students have full access to the space to work on projects between classes with teachers and mentors readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participant. We celebrate with a final student showcase where students get to share their projects with the larger SFPC community.
-
-
-SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. Check out [Call for Spring 2018](https://sfpc.io/spring2018) for a full listing of classes.
+SFPC’s main program takes place over ten weeks in New York City with daily classes that range from programming, electronics, and the history and theory of art and technology. There are student-led skill sharing sessions, lectures and workshops with visiting artists, visits to institutions, schools, art spaces and dinners with special guests. Students have access to SFPC Slack to communicate with SFPC teachers and mentors who are readily available for technical, conceptual, and artistic guidance. Peer to peer collaboration is highly encouraged among participant. We celebrate with a final student showcase where students get to share their projects with the larger SFPC community.
 
 ### How can I help SFPC?
 
