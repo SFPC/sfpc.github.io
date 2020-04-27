@@ -9,8 +9,10 @@ contact: sfpc
 # Digital Love Languages: Code as Gift 
 
 Date: Starting in June, 2020.
+
 Teacher: Melanie Hoff  
-Application is now open. (link) 
+
+[Application](https://airtable.com/shr2q0neXIgi478Wa) is now open  
 
 How do we want to live in a post COVID-19 world, and what role do we want technology to play? Let us gather for the creation of placemaking on the internet where love and solidarity are valued and supported. As our daily activities and closest relationships become increasingly bound up with corporate systems of surveillance and exploitation,  we need to explore the cultivation of code as a love language that can be gentle, healing, and personal. This class is about building poetic tools for online communion through a re-introduction to computers and a call to action for expanding computation’s capacity for fostering interdependence and creative expression. 
 
@@ -57,9 +59,10 @@ We are committed to being fully transparent about how we make and spend money. I
 
 
 ### How do I apply?
-Applications is now open.  
 
-We will be accepting up to 17 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+[Application](https://airtable.com/shr2q0neXIgi478Wa) is now open  
+
+We will be accepting up to 15 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 ### Is this class right for me? 
 

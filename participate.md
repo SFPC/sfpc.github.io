@@ -18,11 +18,11 @@ Due to the COVID-19 outbreaks, the School for Poetic Computation is offering cla
 
 ### Recreating the Past
 
-Ten weeks class by Zach Lieberman starting in May. Study computational art from the past decades and recreate these works with contemporary techniques to gain aesthetic, analytical and technical knowledge. [More information](https://sfpc.io/recreating-spring2020) 
+Ten weeks class by Zach Lieberman starting in May. Study computational art from the past decades and recreate these works with contemporary techniques to gain aesthetic, analytical and technical knowledge. [More information](https://sfpc.io/recreatingthepast) 
 
 ### Poetic Hardware
 
-Ten weeks class by CW&T starting in June. Learn computational hardware as a way to engage with the physical world and broaden our creative practices. Learn to make analog + digital electronics, a programmable micro-controller, sensors and mechanisms. [More information](https://sfpc.io/poetichardware-spring2020) 
+Ten weeks class by CW&T starting in June. Learn computational hardware as a way to engage with the physical world and broaden our creative practices. Learn to make analog + digital electronics, a programmable micro-controller, sensors and mechanisms. [More information](https://sfpc.io/poetichardware) 
 
 ### Dark Matters Online 
 

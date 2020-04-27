@@ -8,9 +8,11 @@ contact: sfpc
 
 # Poetic Hardware 
 
-- Date: Starting in June 1st, 2020. Exact time and date to be announced.  
-- Time: 3 hours class, once a week for five weeks. 
-- Application is now open. (link)  
+Date: Starting in June 1st, 2020. Exact time and date to be announced.  
+
+Teachers: CW&T (Che-Wei Wang + Taylor Levy), Tiri Kananuruk and Sebastian Morales
+
+[Application](https://airtable.com/shrPsncfUrezichzK) is now open 
 
 ​​In *Poetic Hardware* we learn computational hardware as a way to engage with the physical world and broaden our creative practices. This 10-week online curriculum is supported by a custom electronics learning kit intended for beginners to learn about analog + digital electronics, a programmable micro-controller, sensors and mechanisms through a lens of legibility and thoughtful exploration.
 ​​
@@ -37,9 +39,15 @@ contact: sfpc
 ​​
 ​​If you already have a clear electronics project in mind, like building a drone or a complex I.O.T. system, this may not be the right class for you. However, if you want to learn about electronics + hardware through the lens of poetry, self-expression and quirky thoughtfulness, we look forward to working a playing together.
 
+### How do I apply?
+ 
+[Application](https://airtable.com/shrPsncfUrezichzK) is now open. 
+
+We will be accepting up to 15 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+​
 
 ### How much is tuition?
-$1700 + 105.12 (Payment processing fee)"" Total $1805.12 USD fee for the course and custom kit. Upon payment, your space in the class will be reserved.
+$1700 + payment processing fee for the course and custom kit. Upon payment, your space in the class will be reserved.
 
 We are committed to being transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
 
@@ -49,13 +57,7 @@ We are committed to being transparent about how we make and spend money. In the 
 - 50% refund after 10 days, until the first day of class
 - No refunds can be given after the first day of class
 
-### How do I apply?
-Applications is now open.  
-
-We will be accepting up to 15 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
-
-​​
-​​ 
+ 
 
  
  
