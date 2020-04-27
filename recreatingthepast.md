@@ -5,7 +5,7 @@ location:
 contact: sfpc
 ---
 
-![](/static/img/spring2020/recreatingthepast.jpg) 
+![](/static/img/recreating/recreatingthepast1.png) 
 
 Date: Starting in May 11, 2020, once a week for ten weeks 
 
@@ -32,7 +32,8 @@ Here are examples of some of the artists / works / ideas we will be exploring:
 - Body (Camille Utterback and Romy Achituv / Myron Krueger)
 - Glitch / Deformation  (Rosa Menkman / Steina and Woody Vasulka)
 
-![](/static/img/spring2020/recreatingthepast.jpg)
+![](/static/img/recreating/recreatingthepast2.png) 
+
 
 ### From our students
 
@@ -63,11 +64,13 @@ This class is not right for you if:
 -  You are interested in a more skills based, less theoretical approach to learning creative code
 -  You are not interested in research or engaging with artworks from the past
 
+![](/static/img/recreating/recreatingthepast3.png) 
 
 ### How will this class work online?
 
 The class will be taught for 2 hours weekly with an additional ½ hour to 1 hr or asynchronous content which includes short lectures and code explanations. The homework will take additional time per week depending on the complexity of the artwork being recreated (Estimated 1-4 hours / week). In addition the teacher and TA will each offer 2 hours of office hour support, at a scheduled time TBD throughout the week.  We will use github, dropbox paper, and slack as our primary tools with zoom used for the class meetings and TA hours. Recordings of the live portions of each class will be archived and shared with participants for a limited time. 
 
+![](/static/img/recreating/zach-lieberman.jpg) 
 
 ### Instructors
  
