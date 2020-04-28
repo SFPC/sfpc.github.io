@@ -41,16 +41,21 @@ This workshop is adapted from the Artist’s Tool Kit, a class offered during th
 “Celine’s workshops guided us through the daunting, yet rewarding task of articulating the ideas behind our work. Our one-on-one meetings helped me contextualize my practice alongside everything else I learned at SFPC.” Danny Garfield
 
 
-# Class structure 
+# Syllabus
 
-To be announced.
+Class 1 - Orientation + “What is an artist statement?”: We will introduce ourselves and review the course objectives and structure. Then, we will begin deconstructing “the artist statement.”
 
 
+Class 2 - Mobile Studio Visits: Each student will give a brief presentation of their own work, followed by group feedback. 
+
+Class 3 - Artist Writings + Visiting Artist Ryan Kuo: We will review and discuss a selection of texts written by artists. Ryan Kuo will give a presentation.
+
+Class 4 - Collective Feedback: We will read artist statements out loud to each other “in a circle,” allowing time for productive feedback, reflection, and congratulations.
+
+Class 5 - Publishing + What’s next?: We will decide on a format and design for the class publication. We will brainstorm what artists can offer to our communities, the public, and struggling institutions during this difficult period.
 
 ![](https://sfpc.io/static/img/artiststatement/fm_gold.png)
 ![Family Maker](https://rkuo.net/Family-Maker), 2017-2018 by Visiting artist Ryan Kuo
-
-
 
 
 # Teacher 
