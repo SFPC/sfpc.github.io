@@ -10,7 +10,7 @@ contact: sfpc
 
 Date: Starting in June, 2020.
 
-Teacher: Melanie Hoff  
+Teacher: Melanie Hoff    
 
 [Application](https://airtable.com/shr2q0neXIgi478Wa) is now open  
 
@@ -47,7 +47,11 @@ Let us gather for the creation of placemaking on the internet where connection a
 
 ## Instructor Bio
 
+![](/static/img/melanie-bio-photo-sm2.jpg) 
+
 [Melanie Hoff](https://melanie-hoff.com/) is an artist and educator examining the role technology plays in social organization and the reinforcing of hegemonic structures. Their work uncovers and re-scripts coded conventions of norms, interfaces, and sex, through software, installation, and new choreographies of exchange. They are a co-founder of Soft Surplus, (a collective space for making and learning near each other), the Cybernetics Library (an art and research collective offering resources for study and critique of socio-technological systems). They teach at NYU IDM, RISD, and the School for Poetic Computation, where they organize Code Societies, a learning initiative about the social histories of technology and the expressive capacity of coding with care. They have presented their work internationally in spaces like the Tate Exchange London, the New Museum, the Queens Museum, The Internet Archive, Pioneer Works, and elsewhere.
+
+TA: TBD
 
  
 ### How much is tuition?
