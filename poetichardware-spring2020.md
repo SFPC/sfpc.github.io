@@ -85,6 +85,10 @@ We will be accepting up to 15 students on a rolling basis. We will respond to yo
 ### How much is tuition?
 $1700 + Eventbrite payment processing fees. Upon payment, your space in the class will be reserved.
 
+We are completely self-funded, which dramatically limits our ability to offer scholarships. While we price our classes reasonably to offer quality learning experiences, we understand the tuition is beyond the reach of many people. We are sensitive to the rapidly changing economy due to the COVID-19. While we can't offer scholarships like the past, we hope to support students in need. Our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance. Please check out these resources for financial support in response to the COVID19 pandemic.
+
+- [Cloud9 Mutual Aid Doc: Financial Assistance](https://docs.google.com/document/d/1Qo_w8b6u2yXKzE7dIUmSeWqk3FFrqS1KhoCGzqcmZiQ/edit#heading=h.8jojokwzkoa7)
+- [The Art of Social Distancing](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0lJMLDRlx_HsE132C3aGFa-D_rvk8rDVtkt9E7BH0jVQHrv-zD0favR98AtgTlPbNl2A5RPDH63X/pubhtml)
 We are committed to being transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
 
 ### What if I can’t go, can I get a refund?

@@ -41,6 +41,10 @@ This workshop is adapted from the Artist’s Tool Kit, a class offered during th
 “Celine’s workshops guided us through the daunting, yet rewarding task of articulating the ideas behind our work. Our one-on-one meetings helped me contextualize my practice alongside everything else I learned at SFPC.” Danny Garfield
 
 
+![](/static/img/artiststatement/fm_gold.png)
+
+[Family Maker](https://rkuo.net/Family-Maker), 2017-2018 by Visiting artist Ryan Kuo
+
 # Syllabus
 
 Class 1 - Orientation + “What is an artist statement?”: We will introduce ourselves and review the course objectives and structure. Then, we will begin deconstructing “the artist statement.”
@@ -53,9 +57,6 @@ Class 3 - Artist Writings + Visiting Artist Ryan Kuo: We will review and discuss
 Class 4 - Collective Feedback: We will read artist statements out loud to each other “in a circle,” allowing time for productive feedback, reflection, and congratulations.
 
 Class 5 - Publishing + What’s next?: We will decide on a format and design for the class publication. We will brainstorm what artists can offer to our communities, the public, and struggling institutions during this difficult period.
-
-![](https://sfpc.io/static/img/artiststatement/fm_gold.png)
-![Family Maker](https://rkuo.net/Family-Maker), 2017-2018 by Visiting artist Ryan Kuo
 
 
 # Teacher 
@@ -84,7 +85,14 @@ If this sounds like you, then YES!
 
 $500 USD + Eventbrite Processing fee. Upon payment, your space in the class will be reserved.
 
+We are completely self-funded, which dramatically limits our ability to offer scholarships. While we price our classes reasonably to offer quality learning experiences, we understand the tuition is beyond the reach of many people. We are sensitive to the rapidly changing economy due to the COVID-19. While we can't offer scholarships like the past, we hope to support students in need. Our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance. Please check out these resources for financial support in response to the COVID19 pandemic.
+
+- [Cloud9 Mutual Aid Doc: Financial Assistance](https://docs.google.com/document/d/1Qo_w8b6u2yXKzE7dIUmSeWqk3FFrqS1KhoCGzqcmZiQ/edit#heading=h.8jojokwzkoa7)
+- [The Art of Social Distancing](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0lJMLDRlx_HsE132C3aGFa-D_rvk8rDVtkt9E7BH0jVQHrv-zD0favR98AtgTlPbNl2A5RPDH63X/pubhtml)
+
 We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
+
+ 
 
 
 ### How do I apply?
@@ -98,6 +106,11 @@ We will be accepting up to 15 students on a rolling basis. We will respond to yo
 - Yes, we can give you 100% refund up to 10 days before class starts
 - 50% refund after 10 days, until the first day of class
 - No refunds can be given after the first day of class
+
+### Accessibility 
+
+Our classes are conducted in spoken English with audiovisual materials such as slides, code examples and video. All classes will be held over Zoom until further notice. Please contact us if you need a special accessibility requests. In the past, we worked with American Sign Language Interpreters and Visual Interpreters, as well as accessibility and disability rights organizations to make our classes more inclusive. Our programs are rapidly changing due to the COVID-19, we are adjusting to the needs of our community. Please help us become more accessible and inclusive. info@sfpc.io 
+
 
 If you have more questions, please email celine.katzman@gmail.com
 

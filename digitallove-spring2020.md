@@ -53,12 +53,18 @@ Let us gather for the creation of placemaking on the internet where connection a
 
 TA: TBD
 
+This class is organized by Taeyoon Choi of the School for Poetic Computation. 
  
 ### How much is tuition?
-$1200 USD. Upon payment, your space in the class will be reserved.
+
+$1200 USD + Eventbrite Processing Fees. Upon payment, your space in the class will be reserved.
+
+We are completely self-funded, which dramatically limits our ability to offer scholarships. While we price our classes reasonably to offer quality learning experiences, we understand the tuition is beyond the reach of many people. We are sensitive to the rapidly changing economy due to the COVID-19. While we can't offer scholarships like the past, we hope to support students in need. Our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance. Please check out these resources for financial support in response to the COVID19 pandemic.
+
+- [Cloud9 Mutual Aid Doc: Financial Assistance](https://docs.google.com/document/d/1Qo_w8b6u2yXKzE7dIUmSeWqk3FFrqS1KhoCGzqcmZiQ/edit#heading=h.8jojokwzkoa7)
+- [The Art of Social Distancing](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0lJMLDRlx_HsE132C3aGFa-D_rvk8rDVtkt9E7BH0jVQHrv-zD0favR98AtgTlPbNl2A5RPDH63X/pubhtml)
 
 We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
-
 
 ### What if I can’t go, can I get a refund?
 - Yes, we can give you 100% refund up to 10 days before class starts
@@ -70,10 +76,11 @@ We are committed to being fully transparent about how we make and spend money. I
 
 [Application](https://airtable.com/shr2q0neXIgi478Wa) is now open  
 
-We will be accepting up to 15 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+We will be accepting up to 15 students on a rolling basis. We will respond to your application within 10 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 ### Is this class right for me? 
 
 This class is intended for beginners without much experience in coding. If you have experience with coding, we recommend other classes offered at SFPC. 
 
+If you have questions, please write info@sfpc.io 
 

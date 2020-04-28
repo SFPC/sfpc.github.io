@@ -47,6 +47,8 @@ How would you evaluate the instructor?
 
 ### Syllabus
 
+Weekly class of 2.5 hours that includes lectures and group discussion. Weekly assignments and readings that require minimum 3 hours of work. Office hours with the teacher and teaching assistant. 
+
 Week 1: Learning. Introduction of the course and the instructor's practice and Teaching philosophy. Questions about Learning.
 
 Week 2: Curriculum. What is a curriculum? Artists as educators, performance artwork as curriculum, Joseph Beuys & Fluxus, Judy Chicago & Feminism, Allan Kapprow & Happening. 
@@ -71,7 +73,6 @@ Week 10: Final presentation. Students will present their syllabus and workshop s
 
 ![](/static/img/teachingasart/taeyoonchoi.png) 
 
-
 Teacher: [Taeyoon Choi](http://taeyoonchoi.com) is an artist, educator, and organizer. He is a co-founder of the School for Poetic Computation, an artist-run institution with the motto of “More Poetry, Less Demo!” Taeyoon seeks a sense of gentleness, intellectual kinship, magnanimity, justice and solidarity in his work and collaboration. He has presented installations, performances and workshops at Eyebeam Art and Technology Center, Los Angeles County Museum of Art, New Museum, M+ Museum, Istanbul Design Biennale, Seoul Mediacity Biennale and Venice Biennale for Architecture. He contributed to alternative education such as the Public School New York, Occupy University and Triple Canopy Publication Intensive. He organized Learning to Teach conference with Tega Brain, in partnership with the Processing Foundation. In 2019, Taeyoon worked with Mimi Onuoha to start the New York Tech Zine Fair, with support from Ritu Ghiya and Neta Bomani. He also collaborated with Nabil Hassein and Sonia Boller to organize the Code Ecologies conference about the environmental impact of technology. As a disability justice organizer, Taeyoon continues to work with the Deaf and Disability community towards accessibility and inclusion.
 
 ### How do I apply?
@@ -81,6 +82,12 @@ We will be accepting up to 15 students on a rolling basis. We will respond to yo
 
 ### How much is tuition?
 $1200 USD + Eventbrite Processing Fees. Upon payment, your space in the class will be reserved.
+
+
+We are completely self-funded, which dramatically limits our ability to offer scholarships. While we price our classes reasonably to offer quality learning experiences, we understand the tuition is beyond the reach of many people. We are sensitive to the rapidly changing economy due to the COVID-19. While we can't offer scholarships like the past, we hope to support students in need. Our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance. Please check out these resources for financial support in response to the COVID19 pandemic.
+
+- [Cloud9 Mutual Aid Doc: Financial Assistance](https://docs.google.com/document/d/1Qo_w8b6u2yXKzE7dIUmSeWqk3FFrqS1KhoCGzqcmZiQ/edit#heading=h.8jojokwzkoa7)
+- [The Art of Social Distancing](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0lJMLDRlx_HsE132C3aGFa-D_rvk8rDVtkt9E7BH0jVQHrv-zD0favR98AtgTlPbNl2A5RPDH63X/pubhtml)
 
 We are committed to being transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
 
@@ -107,11 +114,8 @@ Q: Will I get a certificate of completion?
 
 A: We won't be able to give you a teaching certificate. However, we can offer a letter of completion which you can send to your employer or future client. 
  
+
+
 If you have more questions, please email taeyoon@sfpc.io 
-
-
-### Accessibility 
-
-Our classes are conducted in spoken English with audiovisual materials such as slides, code examples and video. All classes will be held over Zoom until further notice. Please contact us if you need a special accessibility requests. In the past, we worked with American Sign Language Interpreters and Visual Interpreters, as well as accessibility and disability rights organizations to make our classes more inclusive. Our programs are rapidly changing due to the COVID-19, we are adjusting to the needs of our community. Please help us become more accessible and inclusive. info@sfpc.io
 
 Main image: SFPC Teachers Retreat at the Strange Foundation, 2018.
