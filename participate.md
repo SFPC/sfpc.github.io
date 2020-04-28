@@ -28,7 +28,6 @@ Ten weeks class by CW&T starting in June. Learn computational hardware as a way 
 
 Ten weeks online class by American Artist starting in May. We will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. [More information](https://sfpc.io/darkmatters)
 
- 
 ### Digital Love Languages  
 
 Ten weeks class by Melanie Hoff starting in June. Learn to cultivatte code as a love language that can be gentle, healing, and personal. This class is about building poetic tools for online communion through a re-introduction to computers and a call to action for expanding computation’s capacity for fostering interdependence and creative expression. [More information](https://sfpc.io/digitallove)
