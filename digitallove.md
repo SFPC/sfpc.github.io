@@ -14,7 +14,7 @@ Teacher: Melanie Hoff
 
 [Application](https://airtable.com/shr2q0neXIgi478Wa) is now open  
 
-How do we want to live in a post COVID-19 world, and what role do we want technology to play? As our daily activities and closest relationships become increasingly bound up with corporate systems of surveillance and exploitation, let’s explore and cultivate code as a love language that can be gentle, healing, and intimate. **DIGITAL LOVE LANGUAGES: Codes of Affirmation is a class about building poetic tools for online communion through a re-introduction to computers.** This class is also a call to action for expanding computation’s capacity for fostering interdependence and emotive expression.  
+How do we want to live in a post COVID-19 world, and what role do we want technology to play? As our daily activities and closest relationships become increasingly bound up with corporate systems of surveillance and exploitation, let’s explore and cultivate code as a love language that can be gentle, healing, and intimate. Digital Love Languages: Codes of Affirmation is a class about building poetic tools for online communion through a re-introduction to computers. This class is also a call to action for expanding computation’s capacity for fostering interdependence and emotive expression.  
 
 Together we will build small and personal digital platforms for affirming one another across physical distance. We will explore networked proximity and design digital spaces for ourselves. Technology will be unpacked as a social process, not only a logic or material, regarding code as a craft and medium capable of expressing the full range of feeling and desire. 
 

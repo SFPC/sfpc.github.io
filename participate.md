@@ -14,30 +14,30 @@ slides:
 
 Announced on April 27,2020 
 
-Due to the COVID-19 outbreaks, the School for Poetic Computation is offering classes for online, remote learning for the first time. Each class is lead by one of our core teachers. Apply now as the space is limited. Also, please support our fundraiser on [GoFundMe](https://gofundme.com/help-the-school-for-poetic-comptuation) to help us transition to online programs. We will announce summer/fall 2020 programs in mid-May. Sign up to our mailing list to get the latest updates. 
+Due to the COVID-19 outbreaks, the School for Poetic Computation is offering classes for online, remote learning for the first time. Each class is lead by one of our core teachers. Apply now as the space is limited. Also, please support our fundraiser on [GoFundMe](https://gofundme.com/help-the-school-for-poetic-comptuation) to help us transition to online programs. We will announce summer/fall 2020 programs in mid-May. Sign up to our mailing list to get the latest updates. We will be announcing more short form workshops for spring/summer 2020. 
 
 ### Recreating the Past
 
-Ten weeks class by Zach Lieberman starting in May. Study computational art from the past decades and recreate these works with contemporary techniques to gain aesthetic, analytical and technical knowledge. [More information](https://sfpc.io/recreatingthepast) 
+Ten weeks class by Zach Lieberman starting in May. Study computational art from the past decades and recreate these works with contemporary techniques to gain aesthetic, analytical and technical knowledge. [More information](/recreatingthepast/) 
 
 ### Poetic Hardware
 
-Ten weeks class by CW&T starting in June. Learn computational hardware as a way to engage with the physical world and broaden our creative practices. Learn to make analog + digital electronics, a programmable micro-controller, sensors and mechanisms. [More information](https://sfpc.io/poetichardware) 
+Ten weeks class by CW&T starting in June. Learn computational hardware as a way to engage with the physical world and broaden our creative practices. Learn to make analog + digital electronics, a programmable micro-controller, sensors and mechanisms. [More information](/poetichardware) 
 
 ### Dark Matters Online 
 
-Ten weeks online class by American Artist starting in May. We will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. [More information](https://sfpc.io/darkmatters)
+Ten weeks online class by American Artist starting in May. We will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. [More information](/darkmatters)
 
 ### Digital Love Languages  
 
-Ten weeks class by Melanie Hoff starting in June. Learn to cultivatte code as a love language that can be gentle, healing, and personal. This class is about building poetic tools for online communion through a re-introduction to computers and a call to action for expanding computation’s capacity for fostering interdependence and creative expression. [More information](https://sfpc.io/digitallove)
+Ten weeks class by Melanie Hoff starting in June. Learn to cultivatte code as a love language that can be gentle, healing, and personal. This class is about building poetic tools for online communion through a re-introduction to computers and a call to action for expanding computation’s capacity for fostering interdependence and creative expression. [More information](/digitallove)
 
 ### Teaching as Art 
 
-Ten weeks online class by Taeyoon Choi starting in June. This class is for artists and technologists who want to teach. The class is also for teachers who want to advance their art and pedagogy. Students will learn about applying creative processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College, Socially Engaged Art, as well as more recent experiments in Alternative Education. [More information](https://sfpc.io/teachingasart)
+Ten weeks online class by Taeyoon Choi starting in June. This class is for artists and technologists who want to teach. The class is also for teachers who want to advance their art and pedagogy. Students will learn about applying creative processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College, Socially Engaged Art, as well as more recent experiments in Alternative Education. [More information](/teachingasart)
 
 ### Artist Statement Workshop 
-Five weeks class by Celine Katzman starting in June. This workshop offers a combination of practical writing and critical thinking skills. Enrollment is open to anyone including artists, designers, creative technologists, engineers, architects, and others whose practices are difficult to define. [More information](https://sfpc.io/artiststatement)
+Five weeks class by Celine Katzman starting in June. This workshop offers a combination of practical writing and critical thinking skills. Enrollment is open to anyone including artists, designers, creative technologists, engineers, architects, and others whose practices are difficult to define. [More information](../artiststatement)
 
 ---
 
