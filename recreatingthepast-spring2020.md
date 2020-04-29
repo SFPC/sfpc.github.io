@@ -15,17 +15,15 @@ slides:
 
 ### Recreating the Past 
 
-Date: Starting in May 11, 2020, once a week for ten weeks 
+Date: Starting in May 14th, 2020, once a week on Thursday 1-3pm EST for ten weeks 
 
 Teacher: Zach Lieberman 
 
 [Application](https://airtable.com/shrTfxvRtZ8nsUTyu) is now open 
 
-
 In Recreating the Past, we will study computational art from the past decades and recreate these works with contemporary techniques to gain aesthetic, analytical and technical knowledge. The class is led by artist and SFPC co-founder Zach Lieberman, and will be offered online for the first time. For each class, we investigate a different set of artists that have created work with software (either through code or algorithmic processes) and then recreate their artworks from scratch, discussing their approaches and tools, as well as poetic underpinnings. By recreating historic works, we also investigate what modern tools and approaches have to offer. In addition, we will also look at broader examples of what the artwork teaches us about algorithmic approaches and conceptual explorations. For example, seminal works like Camille Utterback and Romy Achituv's "Text Rain" can be used as a starting point for discussing computer vision-based interaction. The class will focus on the building blocks of media art and generative design practice, such as algorithmic composition, typography, imaging, computer vision, audio analysis / synthesis, and interaction design. 
 
 Students will be encouraged to begin a practice of generative visual sketching in whatever medium they feel comfortable in and share their process amongst the cohort. Class examples will be prepared in openFrameworks which is written in C++ and built on top of OpenGL. Although the assignments will be required to be completed via coding, the class is open to a variety of skill and experience levels. The lead teacher and teaching assistant will help to get you up to speed. Students are expected to have basic knowledge of coding and familiarity with using variables, functions, control structures. If you are a beginner, we recommend you take SFPC Coding Bootcamp before applying for this class. 
-
 
 ### Syllabus 
 
@@ -42,10 +40,9 @@ Here are examples of some of the artists / works / ideas we will be exploring:
 
 ![](/static/img/recreating/recreatingthepast2.png) 
 
-
 ### From our students
 
-"now, being months after taking this course, I think back on RTP often because the works we recreated are *so* relevant to the designs we see in our everyday walk down the street or strut through an exhibit. I look at fonts and typography and placement on posters. I analyze digital aesthetic structures with a more informed eye because I learned the how/what/why of appreciating the past. RTP gave me technical tools to learn how to appreciate the bedrock of the future - our past." Oceane Boulais  (MIT) 
+"now, being months after taking this course, I think back on RTP often because the works we recreated are *so* relevant to the designs we see in our everyday walk down the street or strut through an exhibit. I look at fonts and typography and placement on posters. I analyze digital aesthetic structures with a more informed eye because I learned the how/what/why of appreciating the past. RTP gave me technical tools to learn how to appreciate the bedrock of the future - our past." Oceane Boulais (MIT) 
 
 "RTP is a great class with a strong workshop vibe. Using past works as a basis for creating new pieces is liberating, and it's gratifying to see all the pieces come together as an output of this journey! Zach's teaching style is refreshing as it blends discussions about different artistic perspectives with some practical coding tips to help us materialize our ideas." Joanne Leong (MIT)
 
@@ -59,7 +56,7 @@ Here are examples of some of the artists / works / ideas we will be exploring:
 
 This class is right for you if: 
 
-- You have a basic knowledge of code (for example, you’ve taken SFPCbootcamp class or have experience with coding in p5, etc)
+- You have a basic knowledge of code (for example, you’ve taken SFPC bootcamp class or have experience with coding in p5, etc)
 - You have access to a computer that can run openFrameworks.
 - You are interested in learning the craft of creative coding 
 - You enjoy researching / learning about how artists work
@@ -92,19 +89,16 @@ Can the error message be a conversation? How can communication in a digital medi
 [Application](https://airtable.com/shrTfxvRtZ8nsUTyu) is now open. We evaluate applicants based on their written responses and work sample. We prioritize diversity of our students. In some cases, we may recommend you to participate in another way, if you are too experienced for the class or if you need to take pre-requisite to fully take advange of the class.    
 
 We will be accepting up to 15 students on a rolling basis. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early! If you are accepted, you will get a link to Eventbrite where you can register and make payment.  
-
-
  
 ### How much is tuition?
 $1200 USD + Eventbrite Processing Fees. Upon payment, your space in the class will be reserved.
 
-We are completely self-funded, which dramatically limits our ability to offer scholarships. While we price our classes reasonably to offer quality learning experiences, we understand the tuition is beyond the reach of many people. We are sensitive to the rapidly changing economy due to the COVID-19. While we can't offer scholarships like the past, we hope to support students in need. Our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance. Please check out these resources for financial support in response to the COVID19 pandemic.
+We are completely self-funded, which dramatically limits our ability to offer scholarships. While we price our classes reasonably to offer quality learning experiences, we understand the tuition is beyond the reach of many people. We are sensitive to the rapidly changing economy due to the COVID-19. While we can't offer scholarships like the past, we hope to support students in need. Our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance. Please check out these resources for financial support in response to the COVID-19 pandemic.
 
 - [Cloud9 Mutual Aid Doc: Financial Assistance](https://docs.google.com/document/d/1Qo_w8b6u2yXKzE7dIUmSeWqk3FFrqS1KhoCGzqcmZiQ/edit#heading=h.8jojokwzkoa7)
 - [The Art of Social Distancing](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0lJMLDRlx_HsE132C3aGFa-D_rvk8rDVtkt9E7BH0jVQHrv-zD0favR98AtgTlPbNl2A5RPDH63X/pubhtml)
 
 We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
-
 
 ### What if I can’t go, can I get a refund?
 - Yes, we can give you 100% refund up to 10 days before class starts

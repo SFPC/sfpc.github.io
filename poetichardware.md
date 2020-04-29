@@ -53,6 +53,15 @@ Past student projects.
 - Analog input (sensors)
 - Motors + mechanisms
 
+​### Hear from the students
+
+"CW&T's hardware class made me remember how much I love making things—how the devices around us are not inaccessible works of magic, but human objects that are discernible. It made be believe I could figure out how to build anything, and that the line between engineering and art could be blurred completely. Che-Wei and Taylor both teach with kindness, openness, and joy. It's infectious and genuine, as is their interest in student work. I loved learning about not only their individual perspectives and practices, but their partnership. That important reminder that we need not always toil alone.” - Maxwell Neely-Cohen
+
+​​“CW&T's hardware and electronics class started with the simplest definition of a machine, and had us re-examine each piece as we built it up so that at the end we not only understood the underlying technology but were able to draw inspiration from the inner workings of the hardware we chose for projects. The material can be difficult but through each step CW&T encouraged us to invest in the hardware challenges that inspired us, so each assignment led to a meaningful creation.” - Danny Garfield
+​​
+​​“I absolutely loved the hardware class at SFPC. I had never really dabbled in electronics prior to SFPC, and I cannot even begin to express how grateful I am to Taylor, Che-Wei, Tiri, and Seb for being such patient and helpful instructors. It was lovely to learn from instructors with such strong backgrounds in art and design, and I feel like I gained so much knowledge through them and through collaboration with such a diverse group of classmates. The class was super interactive, and it was amazing to experience such a hands-on deep dive into electronics and physical computing in such a sort period of time.” - Sonia Boller
+​
+
 ### Meet the teachers
 
 ![](/static/img/poetichardware/cwandt.jpg) 
