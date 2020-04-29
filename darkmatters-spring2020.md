@@ -47,7 +47,9 @@ We will conduct the class online via Zoom between 1 to 3 pm EST on Wednesdays. T
 * Please be prepared to dedicate up to 5 hours of additional study (readings and assignments) and work time to the class outside of the 3 hours of class time each week.
 * It is suggested that students purchase the books that we will read, but it is not required as all texts will be provided digitally.
 
-![](/static/img/darkmatters/darkmatters5.png) 
+| ![Dark Matters zine from previous cohort](/static/img/darkmatters/darkmatters5.png) |
+|:--:|
+| *Dark Matters zine from previous cohort* |
 
 
 ### Is this the right class for me?
@@ -58,7 +60,9 @@ If this sounds like you, then YES!
 If this sounds like you, then this class may not be for you:
 * If you want to learn to code or hone your computer skills then this may not be for you!
 
-![](/static/img/darkmatters/darkmatters4.jpg) 
+| ![Final project from Neta Bomani displayed at student showcase](/static/img/darkmatters/darkmatters4.jpg) |
+|:--:|
+| *Final project from Neta Bomani displayed at student showcase* |
 
 ### What do previous students have to say?
 
@@ -99,6 +103,10 @@ Approximately 2 hours of Teacher & 5 hours of TA support during the week based o
 **- Week 9: Reimagining Justice** We will consider the history of light as a tool of oppression and illumination as well as how to proceed in creating an equitable future within technology.
 
 **- Week 10: Graduation/Salon** We will share our collaborative publication with the community via Zoom event.
+
+| ![Final project from Neta Zainab Aliyu displayed at student showcase](/static/img/darkmatters/darkmatters2.png) |
+|:--:|
+| *Final project from Zainab Aliyu displayed at student showcase* |
 
 ### How much is tuition?
 
@@ -147,8 +155,8 @@ We are committed to being fully transparent about how we make and spend money. I
 
 
 ### How do I apply?
-Applications are now closed.
 
 We will be accepting up to 17 students on a rolling basis. We will respond to your application within 2 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
-![](/static/img/darkmatters/darkmatters2.png) 
+<div class="typeform-widget" data-url="https://sfpcnyc.typeform.com/to/o1QX47" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=o1QX47&utm_source=typeform.com-01D8JX5PJSJ9JVJ7YKGT09KDZ3-essentials&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+
