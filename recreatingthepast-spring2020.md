@@ -5,11 +5,19 @@ location:
 contact: sfpc
 slides:
 
-  - "/static/img/recreating/slide1.jpg"
-  - "/static/img/recreating/slide2.jpg"
-  - "/static/img/recreating/slide3.jpg"
-  - "/static/img/recreating/slide4.jpg"
-  - "/static/img/recreating/slide5.jpg"
+  - "/static/img/recreating/img___0000_Layer 9.jpg"
+  - "/static/img/recreating/img___0001_Layer 7.jpg"
+  - "/static/img/recreating/img___0002_Layer 8.jpg"
+  - "/static/img/recreating/img___0003_Screen Shot 2020-04-29 at 10.08.19 AM.jpg"
+  - "/static/img/recreating/img___0004_Screen Shot 2020-04-29 at 10.06.23 AM.jpg"
+  - "/static/img/recreating/img___0006_Screen Shot 2020-04-29 at 10.01.58 AM.jpg"
+  - "/static/img/recreating/img___0007_Screen Shot 2020-04-29 at 10.00.54 AM.jpg"
+  - "/static/img/recreating/img___0008_Layer 6.jpg"
+  - "/static/img/recreating/img___0009_Layer 4.jpg"
+  - "/static/img/recreating/img___0010_Screen Shot 2020-04-28 at 11.52.13 AM.jpg"
+  - "/static/img/recreating/img___0011_Screen Shot 2020-04-28 at 11.51.36 AM.jpg"
+  - "/static/img/recreating/img___0012_Screen Shot 2020-04-28 at 11.51.46 AM.jpg"
+  - "/static/img/recreating/muriel.jpg"
  
 ---
 
