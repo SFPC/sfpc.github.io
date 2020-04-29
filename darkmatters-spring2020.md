@@ -131,8 +131,8 @@ $125 (Auditing / Independent Study) - capped at 50 people
 
 
 ### What if I can’t go, can I get a refund?
-- Yes, we can give you 100% refund up to 10 days before class starts
-- 50% refund after 10 days, until the first day of class
+- Yes, we can give you 100% refund up to 2 days before class starts
+- 50% refund after 2 days, until the first day of class
 - No refunds can be given after the first day of class
 
 
