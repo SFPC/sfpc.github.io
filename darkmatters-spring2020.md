@@ -9,13 +9,13 @@ contact: sfpc
 
 ### Dark Matters Expanded  
 
-- Start date tbd. Classes will be held Wednesdays from 1pm - 4pm EST.
+- Start date tbd. Classes will be held Wednesdays from 1pm - 3pm EST.
 - Teacher: American Artist
 - *Application is not open yet*
 
 In this critical theory of technology course, together we will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. By reading critical texts, streaming artworks and interacting with professional guests we will learn how these structures are compromised so that we can begin to imagine what an outside to them might look like. This class relies on an expanded notion of study, where we will challenge one another to think outside the box about what learning is and ultimately can be. We will also look at the practices of contemporary artists critiquing (and expanding the imaginary within) technology as examples of how radical imagination can be evoked through artistic practice. By the end of the class we will publish a digital publication containing original contributions from every member of the class. 
 
-### Learning Goals
+### What will students be learning?
 - The ability to communicate complex ideas through writing and discussion with peers.
 - A more conscientious approach to developing new tech and design solutions that reflect our current moment which prioritizes equity.
 - A nuanced critical perspective towards technological objects and their generation of power and control in society.
@@ -23,7 +23,7 @@ In this critical theory of technology course, together we will consider the raci
 - An understanding of the economy which assumes the possibility of humans being valued as commodities.
 - An interdisciplinary understanding of the relationship between art, design, technology, and economics.
 
-### Hear from the students 
+### What do previous students have to say?
 
 “Dark Matters was the most influential class for me during my time at SFPC. As someone coming from an engineering educational background, the course was one of my first experiences having critical discussions about technology, race, theory, and more in a group setting. Dark Matters was rigorous in all of the right ways and it has left a lasting impact on the way I think, research, and write.” — Bomani Oseni McClendon, Spring ‘19
 
@@ -35,21 +35,19 @@ In this critical theory of technology course, together we will consider the raci
 
 “Critical Theory was eye-opening to me after having majored in computer engineering and worked in tech for a couple years. It made me rethink my relationship with technology and should be a required curriculum for anybody working with computers.” — Francisco Rojo, Fall ‘19
 
-
-
 ### Who are the teachers?
 
-[American Artist](https://americanartist.us/) [Teacher] is an artist whose work considers black labor and visibility within networked life. Their practice makes use of video, installation, new media, and writing. Artist is a 2018-2019 recipient of the Queens Museum Jerome Foundation Fellowship. They are a former resident of Pioneer Works Tech Residency, EYEBEAM, Abrons Art Center, and completed the Whitney Independent Study program as an artist in 2017. They have exhibited at the Museum of African Diaspora, San Francisco; the Studio Museum in Harlem; Museum of Contemporary Art Chicago, and Koenig & Clinton, New York. Their work has been featured in the New York Times, Artforum, ARTnews, and Huffington Post. They have published writing in The New Inquiry and Art21 and have been featured in The New York Times, Artforum, ARTnews, and Huffington Post. Artist is a part-time faculty at The New School and teaches Critical Theory at SFPC.
+**[American Artist](https://americanartist.us/) [Teacher]** is an artist whose work considers black labor and visibility within networked life. Their practice makes use of video, installation, new media, and writing. Artist is a 2018-2019 recipient of the Queens Museum Jerome Foundation Fellowship. They are a former resident of Pioneer Works Tech Residency, EYEBEAM, Abrons Art Center, and completed the Whitney Independent Study program as an artist in 2017. They have exhibited at the Museum of African Diaspora, San Francisco; the Studio Museum in Harlem; Museum of Contemporary Art Chicago, and Koenig & Clinton, New York. Their work has been featured in the New York Times, Artforum, ARTnews, and Huffington Post. They have published writing in The New Inquiry and Art21 and have been featured in The New York Times, Artforum, ARTnews, and Huffington Post. Artist is a part-time faculty at The New School and teaches Critical Theory at SFPC.
 
-[Zainab Aliyu (Zai)](zai.zone)[Teaching Assistant] is a cultural worker, designer and artist based in New York. Her practice, which spans installations, virtual environments, archives, writings, printed matter and community-participatory (de)programming, interrogates the cybernetic and temporal entanglement embedded within societal dynamics. Zai is an alum of the Fall 2019 cohort at the School for Poetic Computation. 
+**[Zainab Aliyu (Zai)](zai.zone)[Teaching Assistant]** is a cultural worker, designer and artist based in New York. Her practice, which spans installations, virtual environments, archives, writings, printed matter and community-participatory (de)programming, interrogates the cybernetic and temporal entanglement embedded within societal dynamics. Zai is an alum of the Fall 2019 cohort at the School for Poetic Computation. 
 
 ### How will the class be conducted?  
 
 We will conduct the class online via Zoom between 1 to 3 pm EST on Wednesdays. Teacher and TA will be available at dedicated hours through the week for individual questions and discussion. In addition to online classes and one-on-ones, we will be using Slack for communication, weekly emails and Google Drive for sharing course material and assignments, Google calendar to stay organized, Calend.ly to schedule one-on-ones, and Zoom for class meetings and office hours. You do not need to create accounts on these services yet, we will send you information once you are accepted. 
 
-Final project: Over the course of the 10 weeks, we will be working on a collaborative publication relating to themes discussed in class, and by the end of the class we will publish this as a digital publication containing original contributions from every member of the class. See past years’ publications ([Spring 2019](https://github.com/0ld-h3ad/DarkMatters-Fall2019/blob/master/DarkMattersZineSpring2019Scan(Searchable).pdf)), ([Fall 2018](https://github.com/0ld-h3ad/DarkMatters-Spring2019/blob/master/Critical_Theory_Zine_spreads.pdf)) and ([Fall 2019](https://github.com/0ld-h3ad/DarkMatters-Fall2019/blob/master/FA19_zine-digital.pdf)). 
+**Final project:** Over the course of the 10 weeks, we will be working on a collaborative publication relating to themes discussed in class, and by the end of the class we will publish this as a digital publication containing original contributions from every member of the class. See past years’ publications ([Spring 2019](https://github.com/0ld-h3ad/DarkMatters-Fall2019/blob/master/DarkMattersZineSpring2019Scan(Searchable).pdf)), ([Fall 2018](https://github.com/0ld-h3ad/DarkMatters-Spring2019/blob/master/Critical_Theory_Zine_spreads.pdf)) and ([Fall 2019](https://github.com/0ld-h3ad/DarkMatters-Fall2019/blob/master/FA19_zine-digital.pdf)). 
 
-Culture: SFPC fosters a collaborative and relaxed learning environment. We value your questions and want to make sure all students feel comfortable engaging with the teachers and material fully. Although we will not be sitting around the same table, we are committed to offer the same level of support and dedication to this cohort of students. 
+**Culture:** SFPC fosters a collaborative and relaxed learning environment. We value your questions and want to make sure all students feel comfortable engaging with the teachers and material fully. Although we will not be sitting around the same table, we are committed to offer the same level of support and dedication to this cohort of students. 
 
 ### What is expected of me?
 
@@ -68,17 +66,16 @@ It is suggested that students purchase the books that we will read, but it is no
  
 If this sounds like you, then YES!
 
-If you are a coder/tech worker and you want to think more critically about the impact of coding socially and economically, or if you are not a coder/tech worker but you want a deeper understanding of how code affects everything around us, then yes!
+* If you are a coder/tech worker and you want to think more critically about the impact of coding socially and economically, or if you are not a coder/tech worker but you want a deeper understanding of how code affects everything around us, then yes!
 
 If this sounds like you, then this class may not be for you:
 
-If you want to learn to code or hone your computer skills then this may not be for you!
+* If you want to learn to code or hone your computer skills then this may not be for you!
 
 ![](/static/img/darkmatters/darkmatters4.jpg) 
 
 
 ### Schedule
-
 
 There will be one 45-minute lecture video each week that you must watch before meeting together as a class.
 
@@ -106,10 +103,31 @@ Approximately 2 hours of Teacher & 5 hours of TA support during the week based o
 - Week 10 (7/15): Graduation/Salon! We will be sharing our collaborative publication with the community via Zoom event.
 
 ### How much is tuition?
- 
-TBD
 
-We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
+We are offering different options for student engagement. When enrollment opens, we will prioritize applicants for the cohort. If we fill the cohort, we will open an additional auditing / independent study option. On the application, please let us know if you are interested in auditing and we will contact you once the cohort is full.
+
+$975 (Cohort) 
+* First week orientation
+* Up to 1 hour office hours across the 10 weeks
+* Contribute to zine
+* 8 weeks x  2 hour discussion with American and Zai
+** Afternoon session (18 students) 
+** 30 min breakouts during 2 hr session
+* Last week culmination
+
+$1200 Cohort Add-on (+ $225) - everything mentioned above, plus:
+* 2+ Dinners with special guests/Q&A hangout (10 students max)
+** Send lecture and/or reading related to guest beforehand
+* Unlimited sign up for available office hours
+* Group studio visit with American Artist
+
+We will cap the enrollment for the cohort + cohort add on at 18 students max with a limit of 10 students max for the add on portion. 
+ 
+$125 (Auditing / Independent Study) - capped at 50 people 
+* 8 weeks of 45 min weekly lecture videos
+* Access to readings and guides  
+
+
 
 
 ### What if I can’t go, can I get a refund?
