@@ -9,8 +9,8 @@ contact: sfpc
 
 ### Dark Matters Expanded  
 
-- Start date tbd. Classes will be held Wednesdays from 1pm - 3pm EST.
-- Teacher: American Artist
+- DATES HERE, total of 10 classes plus additional times for one-on-ones and class discussions (Details in schedule below)
+- Classes will be held Wednesdays, from 1pm - 3pm EST.
 - *Application is not open yet*
 
 In this critical theory of technology course, together we will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. By reading critical texts, streaming artworks and interacting with professional guests we will learn how these structures are compromised so that we can begin to imagine what an outside to them might look like. This class relies on an expanded notion of study, where we will challenge one another to think outside the box about what learning is and ultimately can be. We will also look at the practices of contemporary artists critiquing (and expanding the imaginary within) technology as examples of how radical imagination can be evoked through artistic practice. By the end of the class we will publish a digital publication containing original contributions from every member of the class. 
