@@ -12,25 +12,25 @@ slides:
 
 ## Upcoming
 
-Announced on April 27,2020 
+Announced on April 27,2020
 
-Due to the COVID-19 outbreaks, the School for Poetic Computation is offering classes for online, remote learning for the first time. Each class is lead by one of our core teachers. Apply now as the space is limited. Also, please support our fundraiser on [GoFundMe](https://gofundme.com/help-the-school-for-poetic-comptuation) to help us transition to online programs. We will announce summer/fall 2020 programs in mid-May. Sign up to our mailing list to get the latest updates. We will be announcing more short form workshops for spring/summer 2020. 
+Due to the COVID-19 outbreaks, the School for Poetic Computation is offering classes for online, remote learning for the first time. Each class is lead by one of our core teachers. Apply now as the space is limited. Also, please support our fundraiser on [GoFundMe](https://gofundme.com/help-the-school-for-poetic-comptuation) to help us transition to online programs. We will announce summer/fall 2020 programs in mid-May. Sign up to our mailing list to get the latest updates. We will be announcing more short form workshops for spring/summer 2020.
 
 ### Recreating the Past (online)
 
-Ten weeks class by Zach Lieberman starting in May. Study computational art from the past decades and recreate these works with contemporary techniques to gain aesthetic, analytical and technical knowledge. [More information](/recreatingthepast-spring2020/) 
+Ten weeks class by Zach Lieberman starting in May. Study computational art from the past decades and recreate these works with contemporary techniques to gain aesthetic, analytical and technical knowledge. [More information](/recreatingthepast-spring2020/)
 
 ### Poetic Hardware (online)
 
-Ten weeks class by CW&T starting in June. Learn computational hardware as a way to engage with the physical world and broaden our creative practices. Learn to make analog + digital electronics, a programmable micro-controller, sensors and mechanisms. [More information](/poetichardware-spring2020) 
+Ten weeks class by CW&T starting in June. Learn computational hardware as a way to engage with the physical world and broaden our creative practices. Learn to make analog + digital electronics, a programmable micro-controller, sensors and mechanisms. [More information](/poetichardware-spring2020)
 
 ### Dark Matters (online)
 
 Ten weeks online class by American Artist starting in May. We will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. [More information](/darkmatters-spring2020)
 
-### Digital Love Languages (online) 
+### Digital Love Languages (online)
 
-Ten weeks class by Melanie Hoff starting in June. Learn to cultivatte code as a love language that can be gentle, healing, and personal. This class is about building poetic tools for online communion through a re-introduction to computers and a call to action for expanding computation’s capacity for fostering interdependence and creative expression. [More information](/digitallove-spring2020)
+Ten weeks class by Melanie Hoff starting in June. Learn to cultivate code as a love language that can be gentle, healing, and intimate. This class is about building poetic tools for online communion through a re-introduction to computers and a call to action for expanding computation’s capacity for fostering interdependence and creative expression. [More information](/digitallove-spring2020)
 
 ### Teaching as Art (online)
 
@@ -44,7 +44,7 @@ Five weeks class by Celine Katzman starting in June. This workshop offers a comb
 
 ## Past programs  
 
-SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We offer a variety of programs including full time classes, short workshops, conferences and exhibitions. Here are some of our recent programs. 
+SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We offer a variety of programs including full time classes, short workshops, conferences and exhibitions. Here are some of our recent programs.
 
 ### Creative Coding Bootcamp
 
@@ -57,19 +57,19 @@ One week class by Joanne McNeil. [More information](https://www.eventbrite.com/e
 ### Poetic Computation: 7 years of SFPC
 
 We are excited to announce [Poetic Computation: 7 years of SFPC](https://sevenyears/) an exhibition at the Westbeth Gallery, NYC. January 11 - January 23, 2020. Opening January 16, 6pm. The exhibition, created with volunteer efforts, will feature projects by our teachers and alums. Public programs to be announced. Mark your calendar!
- 
+
 ### Code Movement
 
 Led by movement teacher, performer, bodyworker, and writer Cori Kresge, this class will look at code as a resource, applying it to dance practices and community. We will focus on interpreting and creating systems of coding, scoring, and encrypting, using the body’s senses, gestures, and mechanics both individually and collectively. Together, we will cultivate practices that attempt to override the ego constructs that often obstruct or inhibit our learning and creativity. [More information](https://sfpc.io/classes/movement)
 
 
-### Code Societies 
+### Code Societies
 
 We will challenge the division between those who code software and those who are coded by it.  We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together. [learn more](https://sfpc.io/codesocieties2020/).
 
-## 2019 
+## 2019
 
-Fall 2019 Student Showcase. This showcase is an open studio, a chance to observe the students’ journey of poetic computation and see their works in progress. Come meet our amazing students of the Fall 2019 cohort, celebrate their hard work and hang out. [More information](https://www.eventbrite.com/e/student-showcase-fall-2019-tickets-82909802451). 
+Fall 2019 Student Showcase. This showcase is an open studio, a chance to observe the students’ journey of poetic computation and see their works in progress. Come meet our amazing students of the Fall 2019 cohort, celebrate their hard work and hang out. [More information](https://www.eventbrite.com/e/student-showcase-fall-2019-tickets-82909802451).
 
 [Fall 2019](https://sfpc.io/fall2019/) Immersive 10-week program covering programming, electronics, and the history and theory of art and technology.
 
@@ -94,7 +94,7 @@ Fall 2019 Student Showcase. This showcase is an open studio, a chance to observe
 
 [New York Tech Zine Fair](http://techzinefair.org) December 1, 2018.
 
-[Code Words](http://sfpc.io/codewords) July 29 - August 3, 2018. A one-week session exploring how computation relates to language and art, focusing on literary art and poetry. 
+[Code Words](http://sfpc.io/codewords) July 29 - August 3, 2018. A one-week session exploring how computation relates to language and art, focusing on literary art and poetry.
 
 [Code Societies](http://sfpc.io/codesocieties) July 2nd - Saturday July 21st, 2018. Code Societies examines the ideological and mythological attributes of computation, concentrating on the poetics and politics of culturally embedded software.
 
