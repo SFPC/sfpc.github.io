@@ -40,6 +40,9 @@ Let's gather for the creation of placemaking on the internet where sweetness and
 
 # Student Testimonials
 
+"SFPC Code Societies has helped to reconfigure my approach to learning. Here, admitting that you do not understand, that you are falling short of what you wanted to do and need the support of others, is a magic act of naming in itself. A way of creating the communities of learning and care that you may have been searching for. A way of refusing educational standards that expect us to not ask, not desire, to not honor the needs of our own minds and bodies, to not admit places of confusion or unknowing.” - Amber Officer-Narvasa January 2020
+
+
 “This is hard to put into words, but I feel like Code Societies taught me that the world is more malleable than I knew? That I have the power to influence (physical and digital) space [...] that the possibilities for speculative design and visioning are so much more expansive than I thought. Relational and digital interfaces feel more alive now. [...] Code Societies made me realize how much trepidation or doubt I still held about interacting with my computer, with code, with the world? I feel like it returned me to a sense of play that I had been looking for. I feel so much more possibility now in every part of my life. Thank you. " - Amber Officer-Narvasa January 2020
 
 "Melanie provided a model of pedagogy and care that was rigorous, emotionally present, and generous. I've learned so much from her about the ways I want to teach, learn, make art, and show up for others. Thank you for all the work and intention that you put into planning this session. I'm so grateful." - Anonymous Student Feedback on Code Societies
