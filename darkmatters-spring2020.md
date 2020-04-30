@@ -125,7 +125,7 @@ $975 (Cohort)
 ** 30 min breakouts during 2 hr session
 * Last week culmination
 
-$1200 Cohort Add-on (+ $225) - everything mentioned above, plus:
+$1200 Cohort Add-on ($975 + $225) - everything mentioned above, plus:
 * 2+ Dinners with special guests/Q&A hangout (10 students max)
 ** Send lecture and/or reading related to guest beforehand
 * Unlimited sign up for available office hours
