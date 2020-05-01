@@ -89,7 +89,7 @@ We are completely self-funded, which dramatically limits our ability to offer sc
 - [Cloud9 Mutual Aid Doc: Financial Assistance](https://docs.google.com/document/d/1Qo_w8b6u2yXKzE7dIUmSeWqk3FFrqS1KhoCGzqcmZiQ/edit#heading=h.8jojokwzkoa7)
 - [The Art of Social Distancing](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0lJMLDRlx_HsE132C3aGFa-D_rvk8rDVtkt9E7BH0jVQHrv-zD0favR98AtgTlPbNl2A5RPDH63X/pubhtml)
 
-We are committed to being transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
+We are committed to being transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on GitHub](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
 
 ### What if I can’t go, can I get a refund?
 - Yes, we can give you 100% refund up to 10 days before class starts
