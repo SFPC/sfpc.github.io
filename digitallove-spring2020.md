@@ -8,11 +8,11 @@ contact: sfpc
 
 # Digital Love Languages: Codes of Affirmation
 
-Date: Starting in June, 2020.
+Date: Starting in June 16th, 2020. 1-4 PM EST
 
 Teacher: Melanie Hoff    
 
-[Application](https://airtable.com/shr2q0neXIgi478Wa) is now open  
+[Application](https://airtable.com/shr2q0neXIgi478Wa) is now open until June 1st, 2020
 
 As our daily activities and closest relationships become increasingly bound up with corporate systems of surveillance and exploitation, let’s explore and cultivate code as a love language that can be gentle, healing, and intimate. How do we want to live in a post COVID-19 world, and what role do we want technology to play? Digital Love Languages: Codes of Affirmation is a class about building poetic tools for online communion through a re-introduction to computers. This class is also a call to action for expanding computation’s capacity for fostering interdependence and emotive expression.  
 
@@ -80,7 +80,7 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### How do I apply?
 
-[Application](https://airtable.com/shr2q0neXIgi478Wa) is now open  
+[Application](https://airtable.com/shr2q0neXIgi478Wa) is now open until June 1st, 2020.  
 
 We will be accepting up to 15 students on a rolling basis. We will respond to your application within 10 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
@@ -88,4 +88,7 @@ We will be accepting up to 15 students on a rolling basis. We will respond to yo
 
 This class is intended for beginners without much experience in coding. If you have experience with coding, we recommend other classes offered at SFPC.
 
-If you have questions, please write info@sfpc.io
+If you have questions about the class, please write dll@sfpc.io and for administrative questions, please write info@sfpc.io.  
+
+
+[Application](https://airtable.com/shr2q0neXIgi478Wa) is now open until June 1st, 2020
