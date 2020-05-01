@@ -49,7 +49,7 @@ How would you evaluate the instructor?
 
 Weekly class of 2.5 hours that includes lectures and group discussion. Weekly assignments and readings that require minimum 3 hours of work. Office hours with the teacher and teaching assistant. 
 
-Week 1: Learning. Introduction of the course and the instructor's practice and Teaching philosophy. Questions about Learning.
+Week 1: Learning. Introduction of the course and the instructor's practice and teaching philosophy. Questions about learning.
 
 Week 2: Curriculum. What is a curriculum? Artists as educators, performance artwork as curriculum, Joseph Beuys & Fluxus, Judy Chicago & Feminism, Allan Kapprow & Happening. 
 
