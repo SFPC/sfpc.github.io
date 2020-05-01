@@ -118,4 +118,4 @@ A: We won't be able to give you a teaching certificate. However, we can offer a 
 
 If you have more questions, please email taeyoon@sfpc.io 
 
-Main image: SFPC Teachers Retreat at the Strange Foundation, 2018.
+Main image: SFPC Teachers' Retreat at the Strange Foundation, 2018.
