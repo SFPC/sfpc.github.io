@@ -11,8 +11,10 @@ contact: sfpc
 
 - May 20th ~ July 22nd, total of 10 classes plus additional times for one-on-ones and class discussions (Details in schedule below)
 - Classes will be held Wednesdays, from 1pm - 3pm EST.
-- Feel free to contact us with any questions, [darkmatters@sfpc.io](mailto:darkmatters@sfpc.io)
 - [**Apply to Dark Matters**](https://sfpcnyc.typeform.com/to/o1QX47)
+- We will be accepting up to 18 students to the cohort/cohort plus and up to 50 students to audit the class. 
+- Enrollment ends on Sunday, May 10th and we will be reaching out to all applicants on Tuesday, May 12th. 
+- Feel free to contact us with any questions, [darkmatters@sfpc.io](mailto:darkmatters@sfpc.io)
 
 In this critical theory of technology course, together we will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. By reading critical texts, streaming artworks and interacting with professional guests we will learn how these structures are compromised so that we can begin to imagine what an outside to them might look like. 
 
@@ -162,7 +164,9 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### How do I apply?
 
-We will be accepting up to 17 students on a rolling basis. We will respond to your application within 2 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+We will be accepting up to 18 students to the cohort/cohort plus and up to 50 students to audit the class. Enrollment ends on Sunday, May 10th and we will be reaching out to all applicants on Tuesday, May 12th. 
+
+We will first select students for the cohort/cohort plus option. Once full, an email will be sent to make tickets available for everyone interested in auditing the class. Please apply using the link below if you are interested in auditing the class only.
 
 - [**Apply to Dark Matters**](https://sfpcnyc.typeform.com/to/o1QX47)
 
