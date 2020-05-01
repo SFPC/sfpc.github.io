@@ -57,7 +57,7 @@ Week 3: Syllabus. What is a syllabus? Create a syllabus from the perspective of 
 
 Week 4: Pedagogy. Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education. Special focus on Lygia Clark. 
 
-Week 5: Inclusive Learning. Lecture on marginalization and includion in learning spaces. Midterm proposal workshop and Interdependence activity. Discussion on the reading on Socially Engaged Art.
+Week 5: Inclusive Learning. Lecture on marginalization and includion in learning spaces. Midterm proposal workshop and interdependence activity. Discussion on the reading on socially-engaged art.
 
 Week 6: Mid-term presentation. Students will present their learning map and plan for the final project 
 
