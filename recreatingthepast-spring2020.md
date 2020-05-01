@@ -65,7 +65,7 @@ Here are examples of some of the artists / works / ideas we will be exploring:
 This class is right for you if: 
 
 - You have a basic knowledge of code (for example, you’ve taken SFPC bootcamp class or have experience with coding in p5, etc)
-- You have access to a computer that can run openFrameworks.
+- You have access to a computer that can run [openFrameworks](https://openframeworks.cc)
 - You are interested in learning the craft of creative coding 
 - You enjoy researching / learning about how artists work
 - You agree with SFPC Code of Conduct  
