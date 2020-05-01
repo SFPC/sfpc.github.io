@@ -11,6 +11,7 @@ contact: sfpc
 
 - May 20th ~ July 22nd, total of 10 classes plus additional times for one-on-ones and class discussions (Details in schedule below)
 - Classes will be held Wednesdays, from 1pm - 3pm EST.
+- Feel free to contact us with any questions, [mailto](mailto:darkmatters@sfpc.io)
 - [**Apply to Dark Matters**](https://sfpcnyc.typeform.com/to/o1QX47)
 
 In this critical theory of technology course, together we will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. By reading critical texts, streaming artworks and interacting with professional guests we will learn how these structures are compromised so that we can begin to imagine what an outside to them might look like. 
@@ -55,12 +56,17 @@ We will conduct the class online via Zoom between 1 to 3 pm EST on Wednesdays. T
 
 
 ### Is this the right class for me?
- 
+
 If this sounds like you, then YES!
-* If you are a coder/tech worker and you want to think more critically about the impact of coding socially and economically, or if you are not a coder/tech worker but you want a deeper understanding of how code affects everything around us, then yes!
+* If you are a coder or tech worker and you want to think more critically about the social and economic impact of computers.
+* If you are NOT a coder or tech worker but you want a deeper understanding of how code affects everything around us.
+* If you are a fan of The Matrix (1999).
 
 If this sounds like you, then this class may not be for you:
-* If you want to learn to code or hone your computer skills then this may not be for you!
+* If you want to learn to code or hone your computer skills.
+* If you think Adam Smith was onto something.
+* If you think the cloud is in the sky.
+
 
 | ![Final project from Neta Bomani displayed at student showcase](/static/img/darkmatters/darkmatters4.jpg) |
 |:--:|
