@@ -53,7 +53,7 @@ Week 1: Learning. Introduction of the course and the instructor's practice and t
 
 Week 2: Curriculum. What is a curriculum? Artists as educators, performance artwork as curriculum, Joseph Beuys & Fluxus, Judy Chicago & Feminism, Allan Kapprow & Happening. 
 
-Week 3: Syllabus. What is a syllabus? Create a syllabus from the perspective of a teacher (or a schoolmaster). Your partner will give feedback from the perspective of a student in the school. and vice versa. 
+Week 3: Syllabus. What is a syllabus? Create a syllabus from the perspective of a teacher (or a schoolmaster). Your partner will give feedback from the perspective of a student in the school, and vice versa. 
 
 Week 4: Pedagogy. Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education. Special focus on Lygia Clark. 
 
