@@ -108,7 +108,7 @@ A: No, we welcome anyone above 18 years old. At SFPC, we had students who were f
 
 Q: Will I learn to code? 
 
-A: Not in the class. You will learn about the history of art and technology, theory of computation in relation to teaching and educational organizations. If you want to learn to code, please check out other classes offered at SFPC.
+A: Not in the class. You will learn about the history of art and technology, the theory of computation in relation to teaching, and educational organizations. If you want to learn to code, please check out other classes offered at SFPC.
 
 Q: Will I get a certificate of completion? 
 
