@@ -32,6 +32,8 @@ This class relies on an expanded notion of study, where we will challenge one an
 
 **[Zainab Aliyu (Zai)](zai.zone), Teaching Assistant** - is a cultural worker, designer and artist based in New York. Her practice, which spans installations, virtual environments, archives, writings, printed matter and community-participatory (de)programming, interrogates the cybernetic and temporal entanglement embedded within societal dynamics. Zai is an alum of the Fall 2019 cohort at SFPC. 
 
+This class is organized by Lauren Gardner of the School for Poetic Computation.
+
 ### How will the class be conducted?  
 
 We will conduct the class online via Zoom between 1 to 3 pm EST on Wednesdays. Teacher and TA will be available at dedicated hours through the week for individual questions and discussion. In addition to online classes and one-on-ones, we will be using Slack for communication, Google calendar to stay organized, Calend.ly to schedule one-on-ones, and Zoom for class meetings and office hours. You do not need to create accounts on these services yet, we will send you information once you are accepted. 
