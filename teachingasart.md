@@ -100,7 +100,7 @@ We are committed to being transparent about how we make and spend money. In the 
 
 Q: What type of students are you looking for? T
 
-A: his class is intended for aspiring teachers and teachers with many years of experience. 
+A: This class is intended for aspiring teachers and teachers with many years of experience. 
 
 Q: Am I too old or too young to participate? 
 
