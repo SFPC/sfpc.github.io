@@ -16,7 +16,7 @@ Teaching as Art is for artists and technologists who want to teach. The class is
 
 In this class, students will learn about applying creative processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College, Socially Engaged Art, as well as more recent experiments in Alternative Education. Students are expected to participate in critical discussions about the topics, offer constructive feedback for each other and share teaching material. 
 
-This class was offered at Interactive Telecommunications in New York University’s Tisch School of the Arts in 2017 and 2018 as well as the EYEO Festival in 2016. Students of the previous classes went on to become teaching artists in institutions such as MoMA, the New Museum and the Whitney Museum of American Art, professors in various universities, and organizers of Afrotectopia, Computer Mouse Conference and more.   
+This class was offered at Interactive Telecommunications in New York University’s Tisch School of the Arts in 2017 and 2018 as well as Eyeo Festival in 2016. Students of the previous classes went on to become teaching artists in institutions such as MoMA, the New Museum and the Whitney Museum of American Art, professors in various universities, and organizers of Afrotectopia, Computer Mouse Conference and more.   
 
 ![](/static/img/teachingasart/teachingasart-eyeo.jpg)
 Teaching as Art workshop at Eyeo Festival 2016. 
