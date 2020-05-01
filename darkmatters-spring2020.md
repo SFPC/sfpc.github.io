@@ -9,7 +9,7 @@ contact: sfpc
 
 ### Dark Matters Expanded  
 
-- DATES HERE, total of 10 classes plus additional times for one-on-ones and class discussions (Details in schedule below)
+- May 20th ~ July 22nd, total of 10 classes plus additional times for one-on-ones and class discussions (Details in schedule below)
 - Classes will be held Wednesdays, from 1pm - 3pm EST.
 - [**Apply to Dark Matters**](https://sfpcnyc.typeform.com/to/o1QX47)
 
