@@ -23,7 +23,7 @@ Teaching as Art workshop at the Eyeo Festival, 2016.
 
 ### Hear from the students
 
-Anonymous testimonials from NYU students submitted to the course evaluations between 2017~2020. 
+Anonymous testimonials from NYU students submitted to the course evaluations between 2017–2020. 
 
 What aspects of this course were the most important or helpful to you? 
 
