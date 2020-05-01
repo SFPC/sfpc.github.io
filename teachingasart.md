@@ -67,7 +67,7 @@ Week 8: Platforms. Lecture on Accessible and inclusive learning spaces, Makerspa
 
 Week 9: Museum as a school. Reading and discussion of _Open Field_ at Walker Museum, MoMA's adult education, Shaun Leonardo's project at the Guggenheim museum,  Art + Technology Lab at LACMA, Machine Project, Triple Canopy and more.  
 
-Week 10: Final presentation. Students will present their syllabus and workshop samples. The final presentation will be open to the public via Zoom. Guest critics will participate for feedback session.    
+Week 10: Final presentation. Students will present their syllabus and workshop samples. The final presentation will be open to the public via Zoom. Guest critics will participate in a feedback session.    
 
 ### Meet the teacher
 
