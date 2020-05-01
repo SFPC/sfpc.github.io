@@ -23,9 +23,9 @@ slides:
 
 ### Recreating the Past 
 
-- Date: Starting in May 14th, 2020, once a week on Thursday 1-3pm EST for ten weeks 
+- Date: Starting in May 21st, 2020, once a week on Thursday 1-3pm EST for ten weeks 
 - Teacher: Zach Lieberman 
-- [Application](https://airtable.com/shrTfxvRtZ8nsUTyu) is now open 
+- [Application](https://airtable.com/shrTfxvRtZ8nsUTyu) is now open until May 12th, 2020
 
 ### Class Description
 
@@ -94,7 +94,7 @@ Can the error message be a conversation? How can communication in a digital medi
 
 ### How do I apply?
 
-[Application](https://airtable.com/shrTfxvRtZ8nsUTyu) is now open. We evaluate applicants based on their written responses and work sample. We prioritize diversity of our students. In some cases, we may recommend you to participate in another way, if you are too experienced for the class or if you need to take pre-requisite to fully take advange of the class.    
+[Application](https://airtable.com/shrTfxvRtZ8nsUTyu) is now open until May 12th, 2020. We evaluate applicants based on their written responses and work sample. We prioritize diversity of our students. In some cases, we may recommend you to participate in another way, if you are too experienced for the class or if you need to take pre-requisite to fully take advange of the class.    
 
 We will be accepting up to 15 students on a rolling basis. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early! If you are accepted, you will get a link to Eventbrite where you can register and make payment.  
  
