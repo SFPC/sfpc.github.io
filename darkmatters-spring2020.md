@@ -11,7 +11,7 @@ contact: sfpc
 
 - May 20th ~ July 22nd, total of 10 classes plus additional times for one-on-ones and class discussions (Details in schedule below)
 - Classes will be held Wednesdays, from 1pm - 3pm EST.
-- Feel free to contact us with any questions, [mailto](mailto:darkmatters@sfpc.io)
+- Feel free to contact us with any questions, [darkmatters@sfpc.io](mailto:darkmatters@sfpc.io)
 - [**Apply to Dark Matters**](https://sfpcnyc.typeform.com/to/o1QX47)
 
 In this critical theory of technology course, together we will consider the racialized history of surveillance and the positioning of white as neutral within interfaces as forms of violence enacted through high technology. We will discuss in small groups, large discussions, and one-on-one how we all can use computational systems to create change while holding them accountable for their origins and biases. By reading critical texts, streaming artworks and interacting with professional guests we will learn how these structures are compromised so that we can begin to imagine what an outside to them might look like. 
