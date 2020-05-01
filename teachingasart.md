@@ -98,7 +98,7 @@ We are committed to being transparent about how we make and spend money. In the 
 
 ### Is this class right for me? 
 
-Q: What type of students are you looking for? T
+Q: What type of students are you looking for? 
 
 A: This class is intended for aspiring teachers and teachers with many years of experience. 
 
