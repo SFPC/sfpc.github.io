@@ -110,10 +110,8 @@ We will be accepting up to 15 students on a rolling basis. We will respond to yo
 
 Our classes are conducted in spoken English with audiovisual materials such as slides, code examples and video. All classes will be held over Zoom until further notice. Please contact us if you need a special accessibility requests. In the past, we worked with American Sign Language Interpreters and Visual Interpreters, as well as accessibility and disability rights organizations to make our classes more inclusive. Our programs are rapidly changing due to the COVID-19, we are adjusting to the needs of our community. Please help us become more accessible and inclusive. info@sfpc.io 
 
-
 If you have more questions about the class, please email artiststatement@sfpc.io
  
 [Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open until May 20th, 2020.  
 
-
-![](https://sfpc.io/static/img/artiststatement/fm_ps.gif)
+ 

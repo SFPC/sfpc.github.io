@@ -117,4 +117,6 @@ We are committed to being fully transparent about how we make and spend money. I
 
 Our classes are conducted in spoken English with audiovisual materials such as slides, code examples and video. All classes will be held over Zoom until further notice. Please contact us if you need a special accessibility requests. In the past, we worked with American Sign Language Interpreters and Visual Interpreters, as well as accessibility and disability rights organizations to make our classes more inclusive. Our programs are rapidly changing due to the COVID-19, we are adjusting to the needs of our community. Please help us become more accessible and inclusive. info@sfpc.io 
 
-SFPC Recreating the Past Spring 2020 [Application](https://airtable.com/shrTfxvRtZ8nsUTyu) is now open.  
+SFPC Recreating the Past Spring 2020 
+
+[Application](https://airtable.com/shrTfxvRtZ8nsUTyu) is now open.  

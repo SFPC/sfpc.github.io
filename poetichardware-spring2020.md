@@ -24,10 +24,10 @@ Beginning with discrete electronic components such as resistors, LEDs and transi
 ​​Through instructor-led tutorials, modular circuits and creative hands-on prompts, we will create custom electronics with our hands and gain access to electronic production tools that are normally reserved for mass production. By the end of the course, expect to have a working familiarity with basic analog and digital electronics, and the confidence to begin to apply computational tools to our creative practices.
 
 ​​
-​​The Poetic Hardware class is taught by CW&T (Che-Wei Wang + Taylor Levy), Tiri Kananuruk and Sebastian Morales. The curriculum is developed by the teachers and Taeyoon Choi of School for Poetic Computation. 
+​​The Poetic Hardware class is developed and taught by CW&T (Che-Wei Wang + Taylor Levy), Tiri Kananuruk and Sebastian Morales.
 
 
-Past student projects.
+Past student projects. Photos by Tiri Kananuruk
 ![](/static/img/poetichardware/L1550317.JPG) 
 ![](/static/img/poetichardware/L1550461.JPG)
 ![](/static/img/poetichardware/L1550634.JPG)
@@ -76,9 +76,25 @@ Taylor Levy [pron. tey-ler] is an artist & designer with a penchant for taking t
 
 [Tiri Kananuruk](http://xxx.tiri.xxx/) is a performance and new media artist. She holds a BA in exhibition design from Chulalongkorn University in Bangkok, and an MPS from the Interactive Telecommunications Program at New York University. Her work explores the manipulation of sound in the context of technological consumerism, examining human relationships through the use of transmitted signals, machine learning, natural language processing and bodily movement.  
 
+This class is organized by Taeyoon Choi of the School for Poetic Computation. 
+
 ### ​​I’m still not sure if I should take this class?!!?
 ​​
 ​​If you already have a clear electronics project in mind, like building a drone or a complex I.O.T. system, this may not be the right class for you. However, if you want to learn about electronics + hardware through the lens of poetry, self-expression and quirky thoughtfulness, we look forward to working a playing together.
+
+### What will I get from taking this class 
+
+- Special tutorials and class materials created by SFPC teachers
+- Lectures, homeworks, 1:1 office hours with SFPC teachers
+- A custom board designed by Taylor Levy (We will ship it out to you)
+
+### What is not included in the tuitio? 
+
+- A laptop computer with a webcam (not provided)
+- Soldering iron and basic electronic tools (We will suggest our favorite tools for you to purchase or source) 
+- A kit of electronic parts (We will make a list of items for you to order)
+- Tools and kit would cost roughly $300 USD if you were to buy all new items 
+
 
 ### How do I apply?
  
@@ -88,7 +104,7 @@ We will be accepting up to 15 students on a rolling basis. We will respond to yo
 ​
 
 ### How much is tuition?
-$1700 + Eventbrite payment processing fees for all classes and a custom board. Students are expected to purchase a kit and basic electronic tools totalling no more than $200. Upon payment, your space in the class will be reserved.
+$1700 + Eventbrite payment processing fees for all classes and a custom board. The tuition does not include a kit of electronic components and basic electronic tools (such as a quality soldering iron) totalling no more than $300. If you have some of the tools, you are not reqired to purchase new tools. Upon payment, your space in the class will be reserved.
 
 We are completely self-funded, which dramatically limits our ability to offer scholarships. While we price our classes reasonably to offer quality learning experiences, we understand the tuition is beyond the reach of many people. We are sensitive to the rapidly changing economy due to the COVID-19. While we can't offer scholarships like the past, we hope to support students in need. Our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance. Please check out these resources for financial support in response to the COVID19 pandemic.
 
@@ -97,6 +113,7 @@ We are completely self-funded, which dramatically limits our ability to offer sc
 We are committed to being transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
 
 ### What if I can’t go, can I get a refund?
+
 - Yes, we can give you 100% refund up to 10 days before class starts
 - 50% refund after 10 days, until the first day of class
 - No refunds can be given after the first day of class
@@ -109,7 +126,7 @@ If you have any questions regarding the class, please email hardware@sfpc.io and
 
 [Application](https://airtable.com/shrPsncfUrezichzK) is now open until June 1st, 2020. 
 
- 
+ Main image: Inlaid Logic by CW&T. 
 
  
  
