@@ -104,7 +104,7 @@ A: This class is intended for aspiring teachers and teachers with many years of 
 
 Q: Am I too old or too young to participate? 
 
-A: No, we welcome anyone above 18 years old. At SFPC, we had students who were fresh out of highschool and students who were tenured professors participating during their sabbatical. We aim to be a horizontal learning space. 
+A: No, we welcome anyone above 18 years old. At SFPC, we've had students who were fresh out of high school and students who were tenured professors participating during their sabbatical. We aim to be a horizontal learning space. 
 
 Q: Will I learn to code? 
 
