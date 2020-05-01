@@ -43,7 +43,7 @@ How would you evaluate the instructor?
 
 "Taeyoon was extremely empathetic and understanding to my situation, and was willing to work with me and allow me to engage at will, as well as gently push me out of comfort zone just enough without me to have issues. I recommend him highly as an instructor!"
 
-"Learning the fundamentals of pedagogy, while also appreciating it's context in certain art practices. What unique qualities come from combining them? Also, social critique, and "unlearning" as a method of learning in a broader, cultural and political context."
+"Learning the fundamentals of pedagogy, while also appreciating its context in certain art practices. What unique qualities come from combining them? Also, social critique, and "unlearning" as a method of learning in a broader, cultural and political context."
 
 ### Syllabus
 
