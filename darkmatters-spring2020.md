@@ -115,8 +115,6 @@ We are offering different options for student engagement in the hopes of making 
 When enrollment opens, we will prioritize applicants for the cohort. If we fill the cohort, we will open an additional auditing / independent study option. If you are intersted in auditing the class, please let us know in the application and we will contact you once the cohort is full.
 
 $975 (Cohort) 
-* 8 weeks of 45 min weekly lecture videos
-* Access to readings and guides  
 * First week orientation
 * Up to 1 hour office hours across the 10 weeks
 * Contribute to zine
