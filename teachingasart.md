@@ -65,7 +65,7 @@ Week 7: Unlearning. Lecture on critical pedagogy. How to combine theory and prac
  
 Week 8: Platforms. Lecture on Accessible and inclusive learning spaces, Makerspaces, community spaces, libraries. Special focus on disability and access for Deaf, blind and wheelchair users.
 
-Week 9: Museum as a school. Reading and discussion of Open field at Walker Museum, MoMA's adult education, Shaun Leonardo's project at the Guggenheim museum,  Art + Technology Lab at LACMA, Machine Project, Triple Canopy and more.  
+Week 9: Museum as a school. Reading and discussion of _Open Field_ at Walker Museum, MoMA's adult education, Shaun Leonardo's project at the Guggenheim museum,  Art + Technology Lab at LACMA, Machine Project, Triple Canopy and more.  
 
 Week 10: Final presentation. Students will present their syllabus and workshop samples. The final presentation will be open to the public via Zoom. Guest critics will participate for feedback session.    
 
