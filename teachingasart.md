@@ -19,7 +19,7 @@ In this class, students will learn about applying creative processes to teaching
 This class was offered at Interactive Telecommunications in New York University’s Tisch School of the Arts in 2017 and 2018 as well as the EYEO Festival in 2016. Students of the previous classes went on to become teaching artists in institutions such as MoMA, the New Museum and the Whitney Museum of American Art, professors in various universities, and organizers of Afrotectopia, Computer Mouse Conference and more.   
 
 ![](/static/img/teachingasart/teachingasart-eyeo.jpg)
-Teaching as Art workshop at the Eyeo Festival, 2016. 
+Teaching as Art workshop at Eyeo Festival 2016. 
 
 ### Hear from the students
 
