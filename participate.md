@@ -48,7 +48,7 @@ SFPC classes are typically structured around the following concepts: Computation
 
 ### Creative Coding Bootcamp
 
-[More inforation](https://sfpc.io/apr20bootcamponline/)
+[More information](https://sfpc.io/apr20bootcamponline/)
 
 ### Critical Writing Workshop
 
