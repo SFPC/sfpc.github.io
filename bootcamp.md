@@ -12,11 +12,10 @@ slides:
 ---
 ***
 
-## Call for Students: Creative Coding Bootcamp (online)
-- April 21st - May 5th, total of five classes and additional study sessions held over three weeks.
-- Classes will be held Tuesdays & Thursdays from 1pm - 3pm EST.
-- Teachers and TAs will be available for additional one-on-one discussions through office hours throughout the session.
-- **Applications are now closed.**
+## Creative Coding Bootcamp (online)
+- Total of five classes and additional study sessions held over three weeks.
+- Classes will be held twice a week. Teachers and TAs will be available for additional one-on-one discussions through office hours throughout the session.
+- **Let us know your email [here](https://airtable.com/shr70F6hr8Gz52BWf) and we'll let you know AS SOON AS the next dates are announced.**
 
 School for Poetic Computation’s Bootcamp introduces the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 session class will now be open to online participation for the first time and we welcome anyone who wants to learn to code. The bootcamp will be taught by Robby Kraft with teaching assistance from Ilona Brand and Zachary Lieberman.  
 
@@ -26,6 +25,8 @@ Students will be coding in C++, learning concepts like variables, memory, and sc
 - [Robby Kraft](http://robbykraft.com/), Teacher - is an origami artist, educator, and software engineer based in New York City.
 - [Ilona Brand](https://theilonabrand.com/), Teaching Assistant - is a freelance tech generalist building technology to empower communities.
 - [Zach Lieberman](http://zach.li/), Visiting Teacher - is a new media artist, designer, computer programmer, and educator.
+- This class is organized by Lauren Gardner of the School for Poetic Computation.
+
 
 ### How will the class be conducted?
 We will conduct the class online via Zoom between 1 - 3 pm EST on Tuesday's and Thursdays. Teachers and TA's will be available at dedicated hours through the week for individual questions and discussion.
@@ -69,18 +70,18 @@ SFPC fosters a collaborative and relaxed learning environment. We value your que
 ### Schedule
 
 #### Weekly class times
-- Tuesdays & Thursdays, 1pm ~ 3pm mandatory online class
+- Twice a week, 2 hours of mandatory online class (dates and hours TBD)
 - Approximately 3 hours of Teacher & TA support during the week based on student availability. Use this time to schedule one-on-ones to review any problems or questions you might have about assignments.
 
 
-#### Apr. 21st
+#### Class 1
 - building openFrameworks applications
 - introduce basic C++ syntax and openFrameworks graphics functions
 - working with the painter's algorithm
 - creating our own variables and functions
 
 
-#### Apr. 23rd
+#### Class 2
 - functions that return values
 - openFrameworks utility methods, random numbers, time, using sine curves
 - animation and changing states
@@ -88,14 +89,14 @@ SFPC fosters a collaborative and relaxed learning environment. We value your que
 - event handlers: mouse and keyboard
 
 
-#### Apr. 28th
+#### Class 3
 - container data structures: C arrays and C++ vectors
 - object-oriented design
 - classes, methods, properties, and states
 - ofPoint and other openFrameworks primitives
 
 
-#### Apr. 30th
+#### Class 4
 - openFrameworks object types: polylines, vectors
 - cameras, transformations and the matrix stack
   - rotate, translate scale
@@ -103,7 +104,7 @@ SFPC fosters a collaborative and relaxed learning environment. We value your que
 - function recursion
 
 
-#### May 5th
+#### Class 5
 - ofxAddons, community extensions to openFrameworks
 - reading and writing data
 - displaying images, playing audio, capturing video
@@ -122,6 +123,6 @@ We are committed to being fully transparent about how we make and spend money. I
 
 
 ### How do I apply?
-Applications are now closed.
+Applications are now closed but give us your email [here](https://airtable.com/shr70F6hr8Gz52BWf) and we'll let you know as soon as we announce the next dates.
 
 We will be accepting up to 17 students on a rolling basis. We will respond to your application within 2 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
