@@ -40,6 +40,10 @@ Five weeks class by Celine Katzman starting in June. This workshop offers a comb
 
 Ten weeks online class by Taeyoon Choi starting in June. This class is for artists and technologists who want to teach. The class is also for teachers who want to advance their art and pedagogy. Students will learn about applying creative processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College, Socially Engaged Art, as well as more recent experiments in Alternative Education. [More information](/teachingasart-spring2020)
 
+### Creative Coding Bootcamp (online)
+
+A five session class taught over three weeks, next dates TBD. Students will be coding in C++, learning concepts like variables, memory, and scope; branching, looping, boolean evaluations, and logic; functions, recursion, and events; object-oriented design; and working with media like video, sound, and responding to keyboard and mouse inputs. Students will become competent in Xcode/Visual Studio, GitHub, and openFrameworks. This class is great for beginner coders who like to learn in a friendly, open environemt. Students are encouraged to ask questions and share their work. [More information](https://sfpc.io/bootcamp/)
+
 ---
 
 ## Past programs  
