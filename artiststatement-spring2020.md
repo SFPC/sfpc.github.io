@@ -4,19 +4,19 @@ layout: participate2
 location:
 contact: sfpc
 ---
-![](/static/img/nytechzinefair2.jpg) 
+![](/static/img/nytechzinefair2.jpg)
 
-# Artist Statement Workshop: A User Guide
+# Artist Statement: A User Guide
 
-Date: Starting in June 1st, 2020 on Mondays. 5 sessions of weekly 3 hours classes 
+Date: Starting in June 1st, 2020 on Mondays. 5 sessions of weekly 3 hours classes
 
-Teacher: Celine Wong Katzman 
+Teacher: Celine Wong Katzman
 
 [Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open until May 20th, 2020  
- 
+
 This workshop offers a combination of practical writing and critical thinking skills. Enrollment is open to anyone including artists, designers, creative technologists, engineers, architects, and others whose practices are difficult to define.  
 
-Much like a user guide helps non-technical readers understand a system, an artist statement introduces an unfamiliar audience to the artist’s practice and informs them about the references, questions, and thought processes behind the artist’s work. We will consider the artist statement as a practical communication tool (for grant and residency applications) as well as a more intimate map for guiding the direction and values of one’s practice. 
+Much like a user guide helps non-technical readers understand a system, an artist statement introduces an unfamiliar audience to the artist’s practice and informs them about the references, questions, and thought processes behind the artist’s work. We will consider the artist statement as a practical communication tool (for grant and residency applications) as well as a more intimate map for guiding the direction and values of one’s practice.
 
 Students will:
 - give thoughtful presentations of their own work and feedback to others
@@ -50,7 +50,7 @@ This workshop is adapted from the Artist’s Tool Kit, a class offered during th
 Class 1 - Orientation + “What is an artist statement?”: We will introduce ourselves and review the course objectives and structure. Then, we will begin deconstructing “the artist statement.”
 
 
-Class 2 - Mobile Studio Visits: Each student will give a brief presentation of their own work, followed by group feedback. 
+Class 2 - Mobile Studio Visits: Each student will give a brief presentation of their own work, followed by group feedback.
 
 Class 3 - Artist Writings + Visiting Artist Ryan Kuo: We will review and discuss a selection of texts written by artists. Ryan Kuo will give a presentation.
 
@@ -59,13 +59,13 @@ Class 4 - Collective Feedback: We will read artist statements out loud to each o
 Class 5 - Publishing + What’s next?: We will decide on a format and design for the class publication. We will brainstorm what artists can offer to our communities, the public, and struggling institutions during this difficult period.
 
 
-# Teacher 
+# Teacher
 
 ![](https://sfpc.io/static/img//people/celine-katzman.jpg)
 
 [Celine Katzman](celinekatzman.com) is a Singaporean-American writer, curator, and educator based in New York. Her work is focused on supporting artists and creative practitioners who critically engage with new technologies, emphasizing social, political, and ecological responsibility. She is a NYSCA Curatorial Fellow at the Queens Museum and an instructor at the School for Poetic Computation. She has held positions at bitforms gallery, Rhizome, and other arts institutions. Celine graduated from Brown University in 2015. Her writing appears in publications such as Rhizome, The Nation, and Art in America, as well as in the New Museum's exhibition catalog, The Art Happens Here: Net Art's Archival Poetics. She has lectured at institutions including Bard College, the School of Visual Arts, and Brown University, and is a regular guest critic at residency programs.
 
-This class is organized by Taeyoon Choi(SFPC). 
+This class is organized by Taeyoon Choi(SFPC).
 
 
 # Is this the right class for me?
@@ -80,7 +80,7 @@ If this sounds like you, then YES!
 - I am applying for grants and residency programs, or any program where I need to produce a statement of purpose, personal statement, or artist statement
 - I want to figure out how to align my creative practice with my personal values and politics
 - I have an intermediate English language reading and writing capability (ESL students are very welcome!)
- 
+
 ### How much is tuition?
 
 $500 USD + Eventbrite Processing Fees. Upon payment, your space in the class will be reserved.
@@ -92,12 +92,12 @@ We are completely self-funded, which dramatically limits our ability to offer sc
 
 We are committed to being fully transparent about how we make and spend money. In the spirit of radical openness and generosity, on which the school was founded, [we open-source our finances on Github](https://github.com/sfpc/finance-and-administration). There, you can read financial reports and download raw statements.
 
- 
+
 
 ### How do I apply?
 
 [Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open until May 20th, 2020.  
- 
+
 We will be accepting up to 15 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 
@@ -106,12 +106,10 @@ We will be accepting up to 15 students on a rolling basis. We will respond to yo
 - 50% refund after 10 days, until the first day of class
 - No refunds can be given after the first day of class
 
-### Accessibility 
+### Accessibility
 
-Our classes are conducted in spoken English with audiovisual materials such as slides, code examples and video. All classes will be held over Zoom until further notice. Please contact us if you need a special accessibility requests. In the past, we worked with American Sign Language Interpreters and Visual Interpreters, as well as accessibility and disability rights organizations to make our classes more inclusive. Our programs are rapidly changing due to the COVID-19, we are adjusting to the needs of our community. Please help us become more accessible and inclusive. info@sfpc.io 
+Our classes are conducted in spoken English with audiovisual materials such as slides, code examples and video. All classes will be held over Zoom until further notice. Please contact us if you need a special accessibility requests. In the past, we worked with American Sign Language Interpreters and Visual Interpreters, as well as accessibility and disability rights organizations to make our classes more inclusive. Our programs are rapidly changing due to the COVID-19, we are adjusting to the needs of our community. Please help us become more accessible and inclusive. info@sfpc.io
 
 If you have more questions about the class, please email artiststatement@sfpc.io
- 
-[Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open until May 20th, 2020.  
 
- 
+[Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open until May 20th, 2020.  
