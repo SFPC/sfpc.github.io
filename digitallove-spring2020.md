@@ -8,7 +8,7 @@ contact: sfpc
 
 # Digital Love Languages: Codes of Affirmation
 
-Date: Starting in June 16th, 2020. 1-4 PM EST
+Date: Starting in June 9th, 2020. 1-4 PM EST
 
 Teacher: Melanie Hoff    
 
@@ -29,7 +29,7 @@ No prior coding experience is necessary, as this class is oriented towards new p
 Let's gather for the creation of placemaking on the internet where sweetness and solidarity are valued and supported.
 
 
-# Syllabus
+# Material Covered
 
 - Fundamentals of the Python programming language
 - Introduction to natural language processing using Python
@@ -40,12 +40,12 @@ Let's gather for the creation of placemaking on the internet where sweetness and
 
 # Student Testimonials
 
-"SFPC Code Societies has helped to reconfigure my approach to learning. Here, admitting that you do not understand, that you are falling short of what you wanted to do and need the support of others, is a magic act of naming in itself. A way of creating the communities of learning and care that you may have been searching for. A way of refusing educational standards that expect us to not ask, not desire, to not honor the needs of our own minds and bodies, to not admit places of confusion or unknowing.” - Amber Officer-Narvasa January 2020
+"SFPC Code Societies has helped to reconfigure my approach to learning. Here, admitting that you do not understand, that you are falling short of what you wanted to do and need the support of others, is a magic act of naming in itself. A way of creating the communities of learning and care that you may have been searching for. A way of refusing educational standards that expect us to not ask, not desire, to not honor the needs of our own minds and bodies, to not admit places of confusion or unknowing.” - Amber Officer-Narvasa Code Societies blog post, January 2020
 
 
-“This is hard to put into words, but I feel like Code Societies taught me that the world is more malleable than I knew? That I have the power to influence (physical and digital) space [...] that the possibilities for speculative design and visioning are so much more expansive than I thought. Relational and digital interfaces feel more alive now. [...] Code Societies made me realize how much trepidation or doubt I still held about interacting with my computer, with code, with the world? I feel like it returned me to a sense of play that I had been looking for. I feel so much more possibility now in every part of my life. Thank you. " - Amber Officer-Narvasa January 2020
+“This is hard to put into words, but I feel like Code Societies taught me that the world is more malleable than I knew? That I have the power to influence (physical and digital) space [...] that the possibilities for speculative design and visioning are so much more expansive than I thought. Relational and digital interfaces feel more alive now. [...] Code Societies made me realize how much trepidation or doubt I still held about interacting with my computer, with code, with the world? I feel like it returned me to a sense of play that I had been looking for. I feel so much more possibility now in every part of my life. Thank you. " - Amber Officer-Narvasa Code Societies Student Feedback, January 2020
 
-"Melanie provided a model of pedagogy and care that was rigorous, emotionally present, and generous. I've learned so much from her about the ways I want to teach, learn, make art, and show up for others. Thank you for all the work and intention that you put into planning this session. I'm so grateful." - Anonymous Student Feedback on Code Societies
+"Melanie provided a model of pedagogy and care that was rigorous, emotionally present, and generous. I've learned so much from her about the ways I want to teach, learn, make art, and show up for others. Thank you for all the work and intention that you put into planning this session. I'm so grateful." - Anonymous Code Societies Student Feedback
 
 
 “I genuinely appreciate the care and attention you give to us as not only students but people too. It makes me feel better knowing that I have a teacher “on my side” that makes an effort to understand us.” - Yanxin Jiang after Melanie Hoff's class at NYU IDM transitioned to online this semester in response to COVID-19, March 2020.
