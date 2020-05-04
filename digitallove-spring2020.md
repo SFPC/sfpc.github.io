@@ -32,8 +32,8 @@ Let's gather for the creation of placemaking on the internet where sweetness and
 # Syllabus
 
 - Fundamentals of the Python programming language
-- Natural language processing using Python
-- Navigating file paths fluently using the terminal, an application that can allow you to control your computer with text based commands
+- Introduction to natural language processing using Python
+- Navigating file paths fluently using the terminal, an application that allows you to control your computer with text based commands
 - Building blocks of the web
 - Fundamentals of JavaScript
 - Coding browser Extensions as poetic ambient communication platforms
