@@ -22,21 +22,24 @@ This course will be in two parts. The first four weeks will be focused on gettin
 
 The last four weeks will be an investigation of the browser as a fertile site for ambient and playful communication. Through code and the browser we can facilitate the kind of care that happens in the small moments of routine. In this part of the course we will get comfortable with the building blocks of the web and make browser extensions using javascript.
 
-This class owes a great deal to the works of bell hooks, Audre Lorde, Olia Lialina, Cory Arcangel, and Allison Parrish. This class is also deeply inspired by BUFU & China Residencies where a group discussion in a [Cloud9](https://cloud9.support/) workshop called Queering Zoom inspired the title of this class.
+This class owes a great deal to the works of bell hooks, Audre Lorde, Olia Lialina, Cory Arcangel, and Allison Parrish. This class is also deeply inspired by BUFU & China Residencies where a group discussion in a [Cloud9](https://cloud9.support/) workshop called Queering Zoom led by Tate Benson inspired the title of this class.
 
 No prior coding experience is necessary, as this class is oriented towards new programmers. We are committed to co-creating with participants an anti-racist, anti-sexist, and environmentally conscious theory of computation. The code of conduct will be co-written by and upheld by all participants. SFPC is a school organized by people who are committed to making space for people who exist at the intersections of oppressed identities, including but not limited to those who are queer, trans, people of color, disabled, Deaf, or hard of hearing.  The pedagogy of this class draws on the lead teacher Melanie Hoff’s experience as a programmer, artist, and organizer of [Code Societies](http://sfpc.io/code-societies), a three week intensive event at the School for Poetic Computation. In Code Societies,  we engage with code and the ways code acts on our bodies and networks, equally as subject and as medium. Code Societies and Digital Love Languages approach learning a technical thing as inseparable from learning a social history of that thing.
 
 Let's gather for the creation of placemaking on the internet where sweetness and solidarity are valued and supported.
 
 
-# Material Covered
+# What will students learn?
 
+- The ability to create a space within ourselves where we become intimate with computers and write poetry with their logic
 - Fundamentals of the Python programming language
 - Introduction to natural language processing using Python
 - Navigating file paths fluently using the terminal, an application that allows you to control your computer with text based commands
+- To write code as a love letter
 - Building blocks of the web
 - Fundamentals of JavaScript
 - Coding browser Extensions as poetic ambient communication platforms
+
 
 # Student Testimonials
 
