@@ -76,7 +76,7 @@ If this sounds like you, then this class may not be for you:
 
 ### What do previous students have to say?
 
-“Dark Matters was the most influential class for me during my time at SFPC. As someone coming from an engineering educational background, the course was one of my first experiences having critical discussions about technology, race, theory, and more in a group setting. Dark Matters was rigorous in all of the right ways and it has left a lasting impact on the way I think, research, and write.” *— Bomani Oseni McClendon, Spring ‘19*
+“As someone coming from an engineering educational background, the course was one of my first experiences having critical discussions about technology, race, theory, and more in a group setting. Dark Matters was rigorous in all of the right ways and it has left a lasting impact on the way I think, research, and write” *— Bomani Oseni McClendon, Spring ‘19*
 
 “Taking this class gave me such a vital vocabulary and lens for looking at computing and power. American’s carefully chosen readings and the discussions we had were my introduction to talking to others about technology critically. I can’t imagine how anyone can consider a computer science education complete without understanding the topics covered in this course. A total once-in-a-lifetime experience!” *— Olivia Ross, Fall ‘19*
 

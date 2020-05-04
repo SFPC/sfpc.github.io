@@ -6,23 +6,23 @@ affiliation:
 - class: Code Societies 2020
   role: Advisor
 - class: Fall 2013
-  role: Teacher / Organizer
+  role:  Organizer
 - class: Spring 2014
-  role: Teacher / Organizer
+  role:  Organizer
 - class: Fall 2014
-  role: Teacher / Organizer
+  role:  Organizer
 - class: Spring 2015
-  role: Teacher / Organizer
+  role:  Organizer
 - class: Summer 2015
   role: Teacher
 - class: Fall 2015
-  role: Teacher / Organizer
+  role: Organizer
 - class: Summer 2016
-  role: Teacher / Organizer
+  role: Organizer
 - class: Fall 2016
-  role: Teacher / Organizer
+  role: Organizer
 - class: Fall 2017
-  role: Teacher / Organizer
+  role: Organizer
 - class: Spring 2018
   role: Teacher
 - class: Fall 2018
@@ -34,8 +34,8 @@ affiliation:
 twitter: tchoi8
 github: tchoi8
 website: http://taeyoonchoi.com
-place: Brooklyn, NY
-published: false
+place: Seoul, South Korea
 
----
-Taeyoon Choi is an artist, educator, and organizer based in New York and Seoul. His art practice involves performance, electronics, drawings, and installations that form the basis for storytelling in public spaces. He has published artists’ books, including ‘Urban Programming 101’ and ‘Anti-Manifesto.’ Choi’s solo exhibitions include Speakers Corners, Eyebeam Art and Technology Center, New York (2012); My friends, there is no friend, Spanien 19C, Aarhus (2011); and When Technology Fails, Reality Reveals, Art Space Hue, Seoul (2007). His projects were presented at the Shanghai Biennale, Shanghai (2012) and Whitney Museum of American Art, New York (2015). Choi was an artist in residence at the Lower Manhattan Cultural Council’s Workspace, New York (2014), The Frank-Ratchye Studio for Creative Inquiry at Carnegie Mellon University, Pittsburgh (2014) and at Art Center Nabi, Seoul (2006). He received commissions from Art +Technology Lab, Los Angeles County Museum of Art, LA (2014) and SeMA Biennale Mediacity Seoul (2016). He curated Resistance and Resilience at Usdan Gallery, Bennington College, Vermont (2012) and directed Making Lab at Anyang Public Art Project, Anyang (2013). Choi holds a B.F.A. from the School of the Art Institute of Chicago and a M.S. from the Korea Advanced Institute of Science and Technology. He teaches at the Interactive Telecommunications Program in the Tisch School of the Arts, New York University. Choi co-founded the School for Poetic Computation where he continues to organize sessions and teach classes on electronics, drawings, and social practice. Recently, he’s been focusing on unlearning the wall of disability and normalcy, and enhancing accessibility and inclusion within art and technology. He was a 2017-2018 fellow at the Data and Society Research Institute.
+--- 
+
+Taeyoon Choi an artist, educator, and organizer. He is a co-founder of the School for Poetic Computation, an artist-run institution with the motto of “More Poetry, Less Demo!” Taeyoon seeks a sense of gentleness, intellectual kinship, magnanimity, justice and solidarity in his work and collaboration. He has presented installations, performances and workshops at Eyebeam Art and Technology Center, Los Angeles County Museum of Art, New Museum, M+ Museum, Istanbul Design Biennale, Seoul Mediacity Biennale and more. He contributed to alternative education such as the Public School New York, Occupy University and Triple Canopy Publication Intensive. In 2018, Taeyoon worked with Mimi Onuoha, Ritu Ghiya and Neta Bomani to organize the New York Tech Zine Fair. He also collaborated with Nabil Hassein and Sonia Boller to organize the Code Ecologies conference about the environmental impact of technology. He collaborated with Alexander R. Galloway, Cori Kresge and the Cybernetics Library to organize the Uncomputable. In 2019, he worked on Poetic Computation: Detroit with support from the Knight Foundation and SFPC in Yamaguchi in partnership with the Yamaguchi Center for Arts and Media [YCAM]. He spoke at the Creative Time Summit, Decentralized Web Summit, Asilomar Microcomputer Workshop, 8th World Summit on Arts and Culture and Eyeo Festival. He's an adjunct professor at Interactive Telecommunications Program in the Tisch School of the Arts, New York University. He is an affiliate at the Data and Society Research Institute where he engages with social scientists and activists. As a disability justice organizer, Taeyoon continues to work with the Deaf and Disability community towards accessibility and inclusion. Lately at the School for Poetic Computation, Taeyoon helps teachers to plan their classes and organizes special events and research projects. 

@@ -60,7 +60,7 @@ A more detailed syllabus will be shared in class with specific readings and assi
 
 "Yes, Recreating The Past taught me a lot about coding. But for me, it’s value as an art history class, as an exercise in the importance of archiving, preservation, and curation, felt like a home I’d always been searching for. History is not a passive subject you simply consume, but an active form, something you “do,” and this was one of the only classes I’ve ever been in that seemed to not only understand that, but revel in it.” *Max Neely Cohen (SFPC)*
 
-"I loved it!  enough theory and history to make the practice more enjoyable.I particularly like the title of the class. It’s a way of saying something else. It could have been called “code”, but the name talks a lot about other things." *Javier De Azkue (SFPC)*
+"I loved it! There is theory and history to make the practice more enjoyable. I particularly like the title of the class. It’s a way of saying something else. It could have been called “code”, but the name talks a lot about other things." *Javier De Azkue (SFPC)*
 
 “In Recreating the Past, I learned to look closely at works of art in a way that I had never done before. It was an engaging introduction to the history of computational art that helped orient my search for more inspiration in the space. Most importantly, RTP reminded me of the creative possibility of mathematical and algorithmic thinking in the context of art.”  *Bomani Oseni McClendon  (SFPC)*
 
@@ -84,7 +84,6 @@ This class is not right for you if:
 ![](/static/img/recreating/recreatingthepast3.png) 
 
 ![](/static/img/recreating/slide1.jpg) 
-
 
 
 ### How will this class work online?

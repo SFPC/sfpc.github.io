@@ -14,4 +14,6 @@ github: idamantium
 website: http://uncommonplaces.com
 place: New York, USA
 ---
-Ida Benedetto is a Brooklyn-based media strategist and experience designer. She believes in storytelling, empathy, and adventure. Ida co-founded Wanderlust Projects. Wanderlust makes experiences in places you aren’t supposed to be, with a focus on the transformative power of intimacy, transgression, location, and generosity. Her work has been praised in The New Yorker, The Atlantic, and O Estado de S. Paulo.
+
+Ida Benedetto is an experience designer and strategist who provokes new insight through adventure and play. Major projects include the Night Heron Speakeasy and Starbuck’s National Anti-Bias Conversation. She has researched the design of transformative social experiences by comparing sex parties, funerals, and wilderness trips. Her work has been featured in Businessweek, The New York Times, Fast Company, NPR, and The New Yorker. She is a Senior Experience Designer at SYPartners in New York City. 
+

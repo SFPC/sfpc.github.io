@@ -50,17 +50,13 @@ A five session class taught over three weeks, next dates TBD. Students will be c
 
 SFPC classes are typically structured around the following concepts: Computation and artistic practice, Language design as creative practice, Electronics and physical computing, Theory and philosophy for technology, and Code Poetry (Electronic literature and generatie poetry). The idea behind these interconnected topics is to build on SFPC’s core curriculum by exploring common ground where we can take the ideas developed in our classroom into the streets and studio. We offer a variety of programs including full time classes, short workshops, conferences and exhibitions. Here are some of our recent programs.
 
-### Creative Coding Bootcamp
-
-[More information](https://sfpc.io/apr20bootcamponline/)
-
 ### Critical Writing Workshop
 
 One week class by Joanne McNeil. [More information](https://www.eventbrite.com/e/critical-writing-workshop-tickets-87741305607)
 
 ### Poetic Computation: 7 years of SFPC
 
-We are excited to announce [Poetic Computation: 7 years of SFPC](https://sevenyears/) an exhibition at the Westbeth Gallery, NYC. January 11 - January 23, 2020. Opening January 16, 6pm. The exhibition, created with volunteer efforts, will feature projects by our teachers and alums. Public programs to be announced. Mark your calendar!
+The [Poetic Computation: 7 years of SFPC](https://sevenyears/) was an exhibition at the Westbeth Gallery, NYC between January 11 - January 23, 2020. The exhibition, created with volunteer efforts, featured projects by our teachers and alums.  
 
 ### Code Movement
 
@@ -69,11 +65,9 @@ Led by movement teacher, performer, bodyworker, and writer Cori Kresge, this cla
 
 ### Code Societies
 
-We will challenge the division between those who code software and those who are coded by it.  We will examine how code and societies shape and are shaped by each other by building new codes made of the the digital, the social, and the ritual, on a foundation of shared experience and a commitment to learning with care together. [learn more](https://sfpc.io/codesocieties2020/).
+Three weeks session organized by Melanie Hoff that challenged the division between those who code software and those who are coded by it. The session focused on creating a shared experience and a commitment to learning with care together. [learn more](https://sfpc.io/codesocieties2020/).
 
 ## 2019
-
-Fall 2019 Student Showcase. This showcase is an open studio, a chance to observe the students’ journey of poetic computation and see their works in progress. Come meet our amazing students of the Fall 2019 cohort, celebrate their hard work and hang out. [More information](https://www.eventbrite.com/e/student-showcase-fall-2019-tickets-82909802451).
 
 [Fall 2019](https://sfpc.io/fall2019/) Immersive 10-week program covering programming, electronics, and the history and theory of art and technology.
 
@@ -81,20 +75,17 @@ Fall 2019 Student Showcase. This showcase is an open studio, a chance to observe
 
 [SFPC Summer 2019 in Yamaguchi](https://www.ycam.jp/events/2019/sfpc/) 1 week session: September 4-11, 2019.
 
-[PUT INTO WORDS](https://www.eventbrite.com/e/put-into-words-a-writing-class-for-artists-and-technologists-by-joanne-mcneil-at-sfpc-tickets-55171615788) A weekend long writing class for artists and technologists by Joanne McNeil, March 22 - 24th.
-
 [Spring 2019](https://sfpc.io/fall2019/) March 4th - May 17th, 2019. Our immersive 10-week program covering programming, electronics, and the history and theory of art and technology.
 
-[Code Paper Scissors](https://sfpc.io/codepaper), a two-Week Session exploring the wide variety of ways that a piece of paper can produce function. Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft. February 4th - February 17th, 2019 with evening classes from 6:30pm - 9:30pm.
+[Code Paper Scissors](https://sfpc.io/codepaper), a two-Week Session exploring the wide variety of ways that a piece of paper can produce function. Lead by paper engineer/designer Kelli Anderson and origami artist/developer Robby Kraft.  
 
-[Code Societies Winter 2019](https://sfpc.io/codesocieties-winter-19) examines the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas. Three-Week Session, January 7th - January 26th
-
+[Code Societies Winter 2019](https://sfpc.io/codesocieties-winter-19) examines the ideological and corporeal attributes of computation; concentrating on the poetics and politics of culturally embedded software. How do different platforms and processes — including algorithms, data collection, social media, infrastructure, and interface — yield distinct modes of seeing, thinking, feeling, and reinforce existing systems of power? Through a balanced study of critical theory discussion and hands-on coding workshops, students will create small projects that explore and question these ideas.  
 
 ## 2018
 
 [Code Ecologies](http://sfpc.io/codeecologies) December 15, 2018.
 
-[You Do (it) You(rself), Personal and Social Narratives of System Design in Electronic Arts](https://www.eventbrite.com/e/you-do-it-yourself-tickets-51939426222) December 8, 2018.
+[You Do (it) You(rself), Personal and Social Narratives of System Design in Electronic Arts](http://avant.org/event/doyou/) December 8, 2018.
 
 [New York Tech Zine Fair](http://techzinefair.org) December 1, 2018.
 
@@ -115,7 +106,7 @@ School for Poetic Computation (SFPC) is a hybrid of school, artist residency and
 
 SFPC is not a technical bootcamp, it is an opportunity to work with a group of faculty, visiting artists, and peers to focus on exploring artistic practice through computation. Computation is poetic when technology is used for critical thinking and aesthetic inquiry – a space where logic meets electricity (hardware), math meets language (software) and analytical thinking meets creative experimentation (theory).
 
-[This article](http://www.creativeapplications.net/education/teaching-and-learning-at-sfpc-conversation-with-allison-parrish-and-surya-mattu/) featuring two teachers provides more insight on what teaching and learning feels like at SFPC or you can check out some of the student's blogs from previous sessions: [Yeseul](http://ysfpc.tumblr.com), [Chris](http://sfpchris.tumblr.com/), [Toru](http://sfpctoruurakawa.tumblr.com/), [Andy](http://sfpc-amd.tumblr.com/), [Sarah](http://sarahgp.com/writings/sfpc/other-two-questions.html) and [Robby](http://robbykraft.com/sfpc/).  Finally, our [FAQ](http://sfpc.io/faq/).
+[This article](http://www.creativeapplications.net/education/teaching-and-learning-at-sfpc-conversation-with-allison-parrish-and-surya-mattu/) featuring two teachers provides more insight on what teaching and learning feels like at SFPC or you can check out some of the student's blogs from previous sessions: [Yeseul](http://ysfpc.tumblr.com), [Chris](http://sfpchris.tumblr.com/), [Andy](http://sfpc-amd.tumblr.com/), [Sarah](http://sarahgp.com/writings/sfpc/other-two-questions.html) and [Robby](http://robbykraft.com/sfpc/).  Finally, our [FAQ](http://sfpc.io/faq/).
 
 ### Who are we looking for?
 
@@ -133,7 +124,7 @@ SFPC’s main program takes place over ten weeks in New York City with daily cla
 
 ### How can I help SFPC?
 
-We are actively seeking private, corporate and institutional support to open our door to more diverse students. If you are interested in sponsoring a student, email <info@sfpc.io>. We are able to receive tax-deductible donations through our fiscal sponsor.
+You can support our fundraiser on [GoFundMe](https://gofundme.com/help-the-school-for-poetic-comptuation). We are actively seeking private, corporate and institutional support to open our door to more diverse students. If you are interested in sponsoring a student, email <info@sfpc.io>. We are able to receive tax-deductible donations through our fiscal sponsor.
 
 ### Where is SFPC?
 We are located in 155 Bank Street, in the courtyard of the Westbeth Artists Community in the West Village, New York City.
