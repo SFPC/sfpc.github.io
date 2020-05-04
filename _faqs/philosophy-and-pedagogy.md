@@ -7,7 +7,7 @@ order: 3
 
 SFPC is an alternative school for art and technology. We are striving to create a model of education based on collaboration between faculty and students. By participating you will be actively shaping an emerging culture of open source and transparent education. 
  
-You can read some articles about the kind of work that’s developed at SFPC: [New York Times](http://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/?_r=0), [Yahoo Tech](https://www.yahoo.com/tech/what-does-poetic-computation-look-like-here-are-six-88665797019.html), video sketch of the final day at [Seen in NY](https://vialogues.com/vialogues/play/14021) and also students’ reports on their time at the school can be found here: [Ida](http://uncommonplaces.com/2014/06/school-poetic-computation/) and [Lee](http://www.thehacktory.org/the-school-for-poetic-computation/).
+You can read some articles about the kind of work that’s developed at SFPC: [New York Times](https://bits.blogs.nytimes.com/2013/08/12/code-to-joy-the-school-for-poetic-computation-opens/), video sketch of the final day at [Seen in NY](https://vialogues.com/vialogues/play/14021) and also students’ reports on their time at the school can be found here: [Ida](http://uncommonplaces.com/2014/06/school-poetic-computation/) and showcase projects on the [Creative Applications](https://www.creativeapplications.net/tag/sfpc/). You can check out videos on our [Vimeo](https://vimeo.com/sfpc).
 
 ### Where did the idea come from?
 

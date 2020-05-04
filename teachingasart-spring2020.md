@@ -16,14 +16,14 @@ Teaching as Art is for artists and technologists who want to teach. The class is
 
 In this class, students will learn about applying creative processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College, Socially Engaged Art, as well as more recent experiments in Alternative Education. Students are expected to participate in critical discussions about the topics, offer constructive feedback for each other and share teaching material. 
 
-This class was offered at Interactive Telecommunications in New York University’s Tisch School of the Arts in 2017 and 2018 as well as the EYEO Festival in 2016. Students of the previous classes went on to become teaching artists in institutions such as MoMA, the New Museum and the Whitney Museum of American Art, professors in various universities, and organizers of Afrotectopia, Computer Mouse Conference and more.   
+This class was offered at Interactive Telecommunications in New York University’s Tisch School of the Arts in 2017 and 2018 as well as the EYEO Festival in 2017. Students of the previous classes went on to become teaching artists in institutions such as MoMA, the New Museum and the Whitney Museum of American Art, professors in various universities, and organizers of Afrotectopia, Computer Mouse Conference and more.   
 
 ![](/static/img/teachingasart/teachingasart-eyeo.jpg)
-Teaching as Art workshop at Eyeo Festival 2016. 
+Teaching as Art workshop at Eyeo Festival 2017. 
 
 ### Hear from the students
 
-Anonymous testimonials from NYU students submitted to the course evaluations between 2017~2020. 
+Anonymous testimonials from NYU students submitted to the course evaluations between 2017~2018. 
 
 What aspects of this course were the most important or helpful to you? 
 
@@ -55,7 +55,7 @@ Week 3: Syllabus. What is a syllabus? Create a syllabus from the perspective of 
 
 Week 4: Pedagogy. Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education. Special focus on Lygia Clark. 
 
-Week 5: Inclusive Learning. Lecture on marginalization and includion in learning spaces. Midterm proposal workshop and Interdependence activity. Discussion on the reading on Socially Engaged Art.
+Week 5: Inclusive Learning. Lecture on marginalization and inclusion in learning spaces. Midterm proposal workshop and Interdependence activity. Discussion on the reading on Socially Engaged Art.
 
 Week 6: Mid-term presentation. Students will present their learning map and plan for the final project 
 
@@ -80,7 +80,7 @@ Teaching Assistant: [Ashley Jane Lewis](http://ashleyjanelewis.com/) is an inter
 ### How do I apply?
 [Application](https://airtable.com/shrUFmByJeNnv0uAl) is now open until June 1st, 2020
 
-We will be accepting up to 15 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
+We will be accepting up to 15 students on a rolling basis. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
 ### How much is tuition?
 $1200 USD + Eventbrite Processing Fees. Upon payment, your space in the class will be reserved.
@@ -104,7 +104,7 @@ A: No, we welcome anyone above 18 years old. At SFPC, we had students who were f
 
 Q: Will I learn to code? 
 
-A: Not in the class. You will learn about the history of art and technology, the theory of computation in relation to teaching, and educational organizations. If you want to learn to code, please check out other classes offered at SFPC.
+A: Not in the class. You will learn about the history of art and technology, the theory of computation in relation to teaching, and educational organizations. If you want to learn to code, please check out other classes offered at SFPC such as Creative Coding Bootcamp and Digital Love Languages on our [Participate](https://sfpc.io/participate) page.
 
 Q: Will I get a certificate of completion? 
 

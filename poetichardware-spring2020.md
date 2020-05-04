@@ -88,7 +88,7 @@ This class is organized by Taeyoon Choi of the School for Poetic Computation.
 - Lectures, homeworks, 1:1 office hours with SFPC teachers
 - A custom board designed by Taylor Levy (We will ship it out to you)
 
-### What is not included in the tuitio? 
+### What is not included in the tuitiom? 
 
 - A laptop computer with a webcam (not provided)
 - Soldering iron and basic electronic tools (We will suggest our favorite tools for you to purchase or source) 

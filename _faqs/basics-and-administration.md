@@ -19,4 +19,4 @@ We are located in 155 Bank Street, in the courtyard of the [Westbeth Artists Com
 
 ### How can I support SFPC?
 
-If you are interested in helping underwrite scholarships or support our school through sponsorship, please contact info@sfpc.io for more details. We are also able to receive tax deductible donation through our fiscal sponsor, Eyebeam Art and Technology Center.
+If you are interested in helping underwrite scholarships or support our school through sponsorship, please contact info@sfpc.io for more details. We are also able to receive tax deductible donation through our fiscal sponsor.

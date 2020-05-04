@@ -83,7 +83,7 @@ If this sounds like you, then YES!
  
 ### How much is tuition?
 
-$500 USD + Eventbrite Processing fee. Upon payment, your space in the class will be reserved.
+$500 USD + Eventbrite Processing Fees. Upon payment, your space in the class will be reserved.
 
 We are completely self-funded, which dramatically limits our ability to offer scholarships. While we price our classes reasonably to offer quality learning experiences, we understand the tuition is beyond the reach of many people. We are sensitive to the rapidly changing economy due to the COVID-19. While we can't offer scholarships like the past, we hope to support students in need. Our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance. Please check out these resources for financial support in response to the COVID19 pandemic.
 

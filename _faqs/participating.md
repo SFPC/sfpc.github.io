@@ -17,4 +17,4 @@ Yes. The 10 weeks session accommodates international students visiting with visi
 
 ### How can I find out about future sessions?
 
-We are planning two Ten-Weeks sessions to take place in the 2018. We are also planning a short Two-Weeks session in summer of 2018. If you subscribe to our mailing list (on the footer of this page) you will be the first to hear when we announce a Call for Students.
+Due to the COVID-19 outbreaks, the School for Poetic Computation is offering classes for online, remote learning for the first time. Please check out our [Participate](/participate) page. 
