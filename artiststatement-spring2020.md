@@ -18,6 +18,8 @@ This workshop offers a combination of practical writing and critical thinking sk
 
 Much like a user guide helps non-technical readers understand a system, an artist statement introduces an unfamiliar audience to the artist’s practice and informs them about the references, questions, and thought processes behind the artist’s work. We will consider the artist statement as a practical communication tool (for grant and residency applications) as well as a more intimate map for guiding the direction and values of one’s practice.
 
+![](/static/img/artiststatement/userguide.jpg)
+
 Students will:
 - give thoughtful presentations of their own work and feedback to others
 - participate in writing exercises and one-on-one editorial meetings
@@ -29,6 +31,9 @@ The instructor, Celine Katzman, will offer her guidance as a curator and writer 
 
 # References
 This workshop is adapted from the Artist’s Tool Kit, a class offered during the SFPC ten week session, taught by Taeyoon Choi with teaching assistance from Celine Katzman.
+
+![Photo of Celine and Taeyoon in class](/static/img/artiststatement/class.jpg)
+
 
 # Student testimonials
 
