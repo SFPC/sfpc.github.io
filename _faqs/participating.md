@@ -26,7 +26,7 @@ Due to the COVID-19 outbreaks, the School for Poetic Computation is offering cla
 
 ### Do you have a Code of Conduct?
 
-Yes, we have a working [Code of Conduct](https://github.com/SFPC/codeofconduct) which we adapt to specific courses in collaboration with teachers and students. We are indepted to many of our friends and mentors for the Code of Conduct, including Babycastles and BUFU, who helped us become a more welcoming space for diverse communities.
+Yes, we have a working [Code of Conduct](https://github.com/SFPC/codeofconduct) which we adapt to specific courses in collaboration with teachers and students. We are indebted to many of our friends and mentors for the Code of Conduct, including Babycastles and BUFU, who helped us become a more welcoming space for diverse communities.
 
 ### Is your class accessible for disabled students?
 
