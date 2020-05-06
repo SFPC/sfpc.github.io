@@ -28,6 +28,7 @@ No prior coding experience is necessary, as this class is oriented towards new p
 
 Let's gather for the creation of placemaking on the internet where sweetness and solidarity are valued and supported.
 
+![](/static/img/codesocieties/melanie-teaching.jpeg)
 
 # What will students learn?
 
@@ -95,3 +96,6 @@ If you have questions about the class, please write dll@sfpc.io and for administ
 
 
 [Application](https://airtable.com/shr2q0neXIgi478Wa) is now open until June 1st, 2020
+
+
+![](/static/img/codesocieties/terminal.png)
