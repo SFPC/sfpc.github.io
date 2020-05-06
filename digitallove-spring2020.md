@@ -4,7 +4,7 @@ layout: participate2
 location:
 contact: sfpc
 ---
-![](/static/img/codesocieties/digital-love-languages3.jpg)
+![](/static/img/codesocieties/digital-love-languages-6-withnames-grey.png)
 
 # Digital Love Languages: Codes of Affirmation
 
