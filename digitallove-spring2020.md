@@ -8,7 +8,7 @@ contact: sfpc
 
 # Digital Love Languages: Codes of Affirmation
 
-Date: Starting in June 9th, 2020. 1-4 PM EST
+Date: Starting in June 9th, 2020. Tuesdays 1-4 PM EST
 
 Teacher: Melanie Hoff    
 
