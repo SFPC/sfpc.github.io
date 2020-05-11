@@ -11,7 +11,7 @@ contact: sfpc
 
 - May 20th ~ July 22nd, total of 10 classes plus additional times for one-on-ones and class discussions (Details in schedule below)
 - Classes will be held Wednesdays, from 1pm - 3pm EST.
-- [**Apply to Dark Matters**](https://sfpcnyc.typeform.com/to/o1QX47)
+- **Applications to Dark Matters are now closed. Sign up [here](https://airtable.com/shr0GBkfk3jMx9FJV) to receive an email when we announce an upcoming session.**
 - We will be accepting up to 18 students to the cohort/cohort plus and up to 50 students to audit the class.
 - Enrollment ends on Sunday, May 10th and we will be reaching out to all applicants on Tuesday, May 12th.
 - Feel free to contact us with any questions, [darkmatters@sfpc.io](mailto:darkmatters@sfpc.io)

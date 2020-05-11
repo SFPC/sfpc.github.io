@@ -91,7 +91,7 @@ We will be accepting up to 15 students on a rolling basis. We will respond to yo
 
 This class is intended for beginners without much experience in coding. If you have experience with coding, we recommend other classes offered at SFPC.
 
-If you have questions about the class, please write dll@sfpc.io and for administrative questions, please write info@sfpc.io.  
+If you have questions about the class, please write dll@sfpc.io and for administrative questions, please write dll@sfpc.io.  
 
 
 [Application](https://airtable.com/shr2q0neXIgi478Wa) is now open until June 1st, 2020
