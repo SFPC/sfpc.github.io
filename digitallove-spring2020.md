@@ -4,7 +4,7 @@ layout: participate2
 location:
 contact: sfpc
 ---
-![](/static/img/codesocieties/digital-love-languages-6-withnames-grey.png)
+![Colorful and busy graphic of a heart. Patterns of broadcasting signal test, hand written letters, emoji of e-mails and love letters.](/static/img/codesocieties/digital-love-languages-6-withnames-grey.png)
 
 # Digital Love Languages: Codes of Affirmation
 
@@ -13,6 +13,8 @@ Date: Starting in June 9th, 2020. Meets Weekly on Tuesdays 1-4 PM EST
 Teacher: Melanie Hoff    
 
 [Application](https://airtable.com/shr2q0neXIgi478Wa) is now open until June 1st, 2020
+
+Learn the fundamentals of Python and JavaScript, natural language processing, web and terminal in order to change your relationship with computers. Create a space for poetry, love letters and community by programming with codes of affirmation. 10 Weeks class for beginners at SFPC by Melanie Hoff
 
 As our daily activities and closest relationships become increasingly bound up with corporate systems of surveillance and exploitation, let’s explore and cultivate code as a love language that can be gentle, healing, and intimate. How do we want to live in a post COVID-19 world, and what role do we want technology to play? Digital Love Languages: Codes of Affirmation is a class about building poetic tools for online communion through a re-introduction to computers. This class is also a call to action for expanding computation’s capacity for fostering interdependence and emotive expression.  
 
@@ -28,7 +30,8 @@ No prior coding experience is necessary, as this class is oriented towards new p
 
 Let's gather for the creation of placemaking on the internet where sweetness and solidarity are valued and supported.
 
-![](/static/img/codesocieties/melanie-teaching.jpeg)
+![Photo of Melanie Hoff in YCAM, Japan smiling with students.](/static/img/codesocieties/melanie-teaching.jpeg)
+Photo: Naoki Takehisa. Courtesy of Yamaguchi Center for Arts and Media [YCAM]
 
 # What will students learn?
 
@@ -97,4 +100,4 @@ If you have questions about the class, please write dll@sfpc.io and for administ
 [Application](https://airtable.com/shr2q0neXIgi478Wa) is now open until June 1st, 2020
 
 
-![](/static/img/codesocieties/terminal.png)
+![A wide field of emojis in playful arrangement created in terminal](/static/img/codesocieties/terminal.png)
