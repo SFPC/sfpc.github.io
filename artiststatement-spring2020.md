@@ -8,7 +8,7 @@ contact: sfpc
 
 # Artist Statement: A User Guide
 
-Date: Starting in June 1st, 2020 on Mondays. 5 sessions of weekly 3 hours classes
+Date: Starting in June 1st, 2020 on Mondays. 5 sessions of weekly 3 hours classes, starts at 1 PM EST. 
 
 Teacher: Celine Wong Katzman
 
