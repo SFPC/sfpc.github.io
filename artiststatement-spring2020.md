@@ -12,7 +12,7 @@ Date: Starting in June 1st, 2020 on Mondays. 5 sessions of weekly 3 hours classe
 
 Teacher: Celine Wong Katzman
 
-[Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open until May 20th, 2020  
+[Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open until May 27th, 2020  
 
 This workshop offers a combination of practical writing and critical thinking skills. Enrollment is open to anyone including artists, designers, creative technologists, engineers, architects, and others whose practices are difficult to define.  
 
@@ -101,7 +101,7 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### How do I apply?
 
-[Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open until May 20th, 2020.  
+[Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open until May 27th, 2020.  
 
 We will be accepting up to 15 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
