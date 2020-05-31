@@ -8,11 +8,11 @@ contact: sfpc
 
 ### Poetic Hardware 
 
-Date: Starting in June 19th 2020 until August 21st, 2020, every Friday 1-4 PM EST
+Date: Starting in July 10th 2020 until September 11th, 2020, every Friday 1-4 PM EST (Updated date)
 
 Teachers: CW&T (Che-Wei Wang + Taylor Levy), Tiri Kananuruk and Sebastian Morales
 
-[Application](https://airtable.com/shrPsncfUrezichzK) is now open until June 1st, 2020
+[Application](https://airtable.com/shrPsncfUrezichzK) is now open until June 10th, 2020
 
 ​​In *Poetic Hardware* we learn computational hardware as a way to engage with the physical world and broaden our creative practices. This 10-week online curriculum is supported by a custom electronics learning kit intended for beginners to learn about analog + digital electronics, a programmable micro-controller, sensors and mechanisms through a lens of legibility and thoughtful exploration.
 ​​
@@ -98,7 +98,7 @@ This class is organized by Taeyoon Choi of the School for Poetic Computation.
 
 ### How do I apply?
  
-[Application](https://airtable.com/shrPsncfUrezichzK) is now open until June 1st, 2020. 
+[Application](https://airtable.com/shrPsncfUrezichzK) is now open until June 10th, 2020. 
 
 We will be accepting up to 15 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 ​
@@ -124,7 +124,11 @@ Our classes are conducted in spoken English with audiovisual materials such as s
 
 If you have any questions regarding the class, please email hardware@sfpc.io and for administrative questions, please email info@sfpc.io. 
 
-[Application](https://airtable.com/shrPsncfUrezichzK) is now open until June 1st, 2020. 
+[Application](https://airtable.com/shrPsncfUrezichzK) is now open until June 10th, 2020. 
+
+#### Updated date 
+
+Due to the COVID-19, custom board manufacturing has been delayed. We are resecheduling the class to start in July 10th, 2020. Thanks for your patience. Updated on May 31, 2020. 
 
  Main image: Inlaid Logic by CW&T. 
 
