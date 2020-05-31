@@ -8,9 +8,9 @@ contact: sfpc
 
 ### Teaching as Art
 
-- Date: Starting in June 19, 2020 for ten weeks. Saturdays 10am- 12pm EST  
+- Date: Starting in June 20, 2020 for ten weeks until August 22, 2020. Saturdays 10am- 12pm EST with asynchronous content and 1:1 office hours  
 - Teacher: Taeyoon Choi
-- [Application](https://airtable.com/shrUFmByJeNnv0uAl) is now open until June 1st, 2020
+- [Application](https://airtable.com/shrUFmByJeNnv0uAl) is now open until June 10th, 2020
  
 Teaching as Art is for artists and technologists who want to teach. The class is also for teachers who want to advance their art and pedagogy. A good teacher is a great student themself. They transform their curiosity into knowledge and share their learning processes with others. One can learn to become a better teacher by staying fearless about ‘not knowing’ something, embracing radically open ideas and connecting various expertise and knowledge. Teaching can be a form of artistic and creative practice in collaboration with a diverse community. Teachers can invent new forms of learning spaces, new kinds of collaboration and new senses of community. Teachers and students can collaborate on art projects that connect social justice with creative practice. Teaching, learning and unlearning can be a way to make sense of the unsettling world, to build a web of care and accountability and create a micro-institutions for larger, social change.  
 
@@ -89,7 +89,7 @@ Teacher: [Taeyoon Choi](http://taeyoonchoi.com) is an artist, educator, and orga
 Teaching Assistant: [Ashley Jane Lewis](http://ashleyjanelewis.com/) is an interactive artist with a focus on tech education and speculative design. Her art practice envisions empowered black communities of the past, present and future through machine learning, data weaving, networked devices, analog textiles, bio art and performance. Her award winning work has exhibited in both Canada and the US, most notably on the White House website during the Obama presidency. As an educator, Ashley has taught more than 3500 youth how to code, landing her on the 2016 Top 100 Black Women to Watch in Canada as well as press coverage as a tech activist from Reader’s Digest, Huffington Post, Metro News and Washington Square News. Ashley is proud of the work she has done with Daniel Shiffman and his team on ml5.js, a “friendly machine learning for the web” platform that lowers the barrier to entry into creative computing. She is currently finishing a Master’s degree in Interactive Telecommunications at ITP in New York University’s Tisch School of the Arts. 
 
 ### How do I apply?
-[Application](https://airtable.com/shrUFmByJeNnv0uAl) is now open until June 1st, 2020
+[Application](https://airtable.com/shrUFmByJeNnv0uAl) is now open until June 10th, 2020
 
 We will be accepting up to 15 students on a rolling basis. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
