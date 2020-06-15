@@ -8,7 +8,7 @@ contact: sfpc
 
 ### Teaching as Art
 
-- Date: Starting in June 20, 2020 for ten weeks until August 22, 2020. Two sections. Fridays 5-7PM PT (12 AM GMT) and Saturdays 10AM- 12PM EST (2 PM GMT) with asynchronous content and 1:1 office hours  
+- Date: Starting in June 19, 2020 for ten weeks until August 22, 2020. Two sections. Fridays 5-7PM PT (12 AM GMT) and Saturdays 10AM- 12PM EST (2 PM GMT) with asynchronous content and 1:1 office hours  
 - Teacher: Taeyoon Choi
 - Teaching assistant: Ashley Jane Lewis
 - [Rolling application](https://airtable.com/shrUFmByJeNnv0uAl) is now open until June 18th, 2020
