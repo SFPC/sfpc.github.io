@@ -7,6 +7,15 @@ body {
 	line-height: 1.40em;
 }
 
+/* redefining bootstrap link colors explicitly*/
+a {
+  color: #0F6151;
+}
+a:hover,
+a:focus {
+ color:#073B31;
+}
+
 p {
 	padding-bottom: 0.5em;
 }
