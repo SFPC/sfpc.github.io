@@ -63,7 +63,7 @@ _**Code Societies 2020 teachers and to be announced soon!**_
 <br>
 <br>
 
-![](/static/img/codesocieties/fade.gif)
+![Code societies winter 2020 poster, swirling lines of type](/static/img/codesocieties/fade.gif)
 <br>
 <br>
 ### Classes taught in Code Societies Winter 2019

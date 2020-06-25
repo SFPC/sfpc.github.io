@@ -28,10 +28,10 @@ Beginning with discrete electronic components such as resistors, LEDs and transi
 
 
 Past student projects. Photos by Tiri Kananuruk
-![](/static/img/poetichardware/L1550317.JPG) 
-![](/static/img/poetichardware/L1550461.JPG)
-![](/static/img/poetichardware/L1550634.JPG)
-![](/static/img/poetichardware/L1550652.JPG) 
+![student projects, people with palms together and led lights on hands](/static/img/poetichardware/L1550317.JPG) 
+![student projects, box with wire and led spelling out hello world](/static/img/poetichardware/L1550461.JPG)
+![student projects, boxes with wires attached, representation of logic gates](/static/img/poetichardware/L1550634.JPG)
+![student projects, people around red box with electronics and lit interior](/static/img/poetichardware/L1550652.JPG) 
 ​
 
 ### ​​Expectations and requirements 
@@ -60,7 +60,7 @@ Past student projects. Photos by Tiri Kananuruk
 
 ### Meet the teachers
 
-![](/static/img/poetichardware/cwandt.jpg) 
+![portrait of Che-Wei Wang & Taylor Levy](/static/img/poetichardware/cwandt.jpg) 
 
 [CW&T](https://cwandt.com/) is the art and design practice of Che-Wei Wang & Taylor Levy. 
 
@@ -68,11 +68,11 @@ Che-Wei Wang [pron. sey-wey] is an artist, designer & architect with expertise i
 
 Taylor Levy [pron. tey-ler] is an artist & designer with a penchant for taking things apart, understanding how they work, and then putting them back together in a way that exposes their inner workings.The results take on a variety of forms from low-tech electronic sculpture to high-tech software & other executions. She has work on view at The Leonardo Museum of Science and Technology and was a resident at Fabrica Interactive in Treviso, Italy. She is an alumna of MIT Media Lab, ITP at NYU, and Vassar College.
 
-![](/static/img/poetichardware/symbiosis.gif) 
+![device by cwandt](/static/img/poetichardware/symbiosis.gif) 
 
 [Sebastián Morales](https://www.adorevolution.com/) is an artist, engineer and researcher based in NYC. He develops interactive works at the intersections of robotics, digital culture and living systems. He is currently a new media artist in residence at Mana Contemporary in NJ working on speculative symbiotic relationships between single cells and internet bots. Creating estuaries for them to evolve into new hybrid forms.
 
-![](/static/img/poetichardware/tiri.jpg) 
+![portrait of Tiri Kananuruk](/static/img/poetichardware/tiri.jpg) 
 
 [Tiri Kananuruk](http://xxx.tiri.xxx/) is a performance and new media artist. She holds a BA in exhibition design from Chulalongkorn University in Bangkok, and an MPS from the Interactive Telecommunications Program at New York University. Her work explores the manipulation of sound in the context of technological consumerism, examining human relationships through the use of transmitted signals, machine learning, natural language processing and bodily movement.  
 

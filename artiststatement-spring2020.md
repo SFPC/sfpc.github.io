@@ -4,7 +4,7 @@ layout: participate2
 location:
 contact: sfpc
 ---
-![](/static/img/nytechzinefair2.jpg)
+![Zine creation in progress](/static/img/nytechzinefair2.jpg)
 
 # Artist Statement: A User Guide
 
@@ -18,7 +18,7 @@ This workshop offers a combination of practical writing and critical thinking sk
 
 Much like a user guide helps non-technical readers understand a system, an artist statement introduces an unfamiliar audience to the artist’s practice and informs them about the references, questions, and thought processes behind the artist’s work. We will consider the artist statement as a practical communication tool (for grant and residency applications) as well as a more intimate map for guiding the direction and values of one’s practice.
 
-![](/static/img/artiststatement/userguide.jpg)
+![Troublingshooting the artist statement, a user guide](/static/img/artiststatement/userguide.jpg)
 
 Students will:
 - give thoughtful presentations of their own work and feedback to others
@@ -46,7 +46,7 @@ This workshop is adapted from the Artist’s Tool Kit, a class offered during th
 “Celine’s workshops guided us through the daunting, yet rewarding task of articulating the ideas behind our work. Our one-on-one meetings helped me contextualize my practice alongside everything else I learned at SFPC.” Danny Garfield
 
 
-![](/static/img/artiststatement/fm_gold.png)
+![mac os windows with text and symbols](/static/img/artiststatement/fm_gold.png)
 
 [Family Maker](https://rkuo.net/Family-Maker), 2017-2018 by Visiting artist Ryan Kuo
 
@@ -66,7 +66,7 @@ Class 5 - Publishing + What’s next?: We will decide on a format and design for
 
 # Teacher
 
-![](https://sfpc.io/static/img//people/celine-katzman.jpg)
+![Celine Katzman](https://sfpc.io/static/img//people/celine-katzman.jpg)
 
 [Celine Katzman](celinekatzman.com) is a Singaporean-American writer, curator, and educator based in New York. Her work is focused on supporting artists and creative practitioners who critically engage with new technologies, emphasizing social, political, and ecological responsibility. She is a NYSCA Curatorial Fellow at the Queens Museum and an instructor at the School for Poetic Computation. She has held positions at bitforms gallery, Rhizome, and other arts institutions. Celine graduated from Brown University in 2015. Her writing appears in publications such as Rhizome, The Nation, and Art in America, as well as in the New Museum's exhibition catalog, The Art Happens Here: Net Art's Archival Poetics. She has lectured at institutions including Bard College, the School of Visual Arts, and Brown University, and is a regular guest critic at residency programs.
 
