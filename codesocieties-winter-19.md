@@ -46,7 +46,7 @@ Student’s should expect to develop several small scores or sketch pieces that 
 - 15 class days in total with a final presentation. More teachers and speakers to be announced!
 
 
-![](/static/img/codesocieties/bw.2.jpg)
+![Code societies winter 2019 logo](/static/img/codesocieties/bw.2.jpg)
 
 
 

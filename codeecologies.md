@@ -4,7 +4,7 @@ layout: codeecologies
 
 ---
 
-![](/static/img/participate/codeecologies.jpg )
+![trees rendered in vertical lines](/static/img/participate/codeecologies.jpg )
 
 - December 15, 2018. 1~6pm
 - School for Poetic Computation and the Michelson Studio, 155 Bank St, NYC
@@ -127,4 +127,4 @@ Please support this event by making a donation. [Paypal](https://www.paypal.com/
 This event is made possible through the generous support from the [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/) Flash Grant, Astra Taylor, friends and volunteers of SFPC community.
 
 
-![](/static/img/participate/shuttleworth.jpg )
+![Shuttleworth Funded graphic](/static/img/participate/shuttleworth.jpg )

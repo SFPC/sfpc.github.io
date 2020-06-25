@@ -45,7 +45,7 @@ How do different platforms and processes — including algorithms, data collecti
 - 15 sessions in total with a final presentations. More teachers and speakers to be announced!
 
 
-![](/static/img/participate/codesocieties_poster_s.jpg)
+![code societies poster](/static/img/participate/codesocieties_poster_s.jpg)
 
 ### What will happen in these three weeks?
 Classes are held in the evenings Monday-Friday from 6:30-9:30pm with a day off on July 4th. SFPC space will be open for students on weekdays between 1pm-6pm. The session will culminate in a party on the afternoon of Saturday July 21st, where students can invite their friends and present their favorite projects.
