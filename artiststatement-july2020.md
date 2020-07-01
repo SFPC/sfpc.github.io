@@ -29,7 +29,6 @@ Students will:
 
 The instructor, Celine Katzman, will offer her guidance as a curator and writer who is committed to supporting artists and creative practitioners engaged with new technologies. By the end of the workshop, students will cultivate clear and compelling artist statements.
 
-# References
 This workshop is adapted from the [Artist’s Tool Kit](https://github.com/tchoi8/artiststoolkit), a class offered during the Fall 2018 SFPC ten week session, taught by Taeyoon Choi with teaching assistance from Celine Katzman
 
 ![Photo of Celine and Taeyoon in class](/static/img/artiststatement/class.jpg)
@@ -37,7 +36,7 @@ This workshop is adapted from the [Artist’s Tool Kit](https://github.com/tchoi
 # Requirements
 A computer capable of using Zoom (for class) and Google Docs
 
-# Student testimonials
+# References
 
 “Celine’s Artist Statement workshop gave me invaluable feedback on crafting an artist’s statement that could ground my work for applications for exhibition, residencies, teaching opportunities, and more. Beyond that, studying with Celine helped me articulate my practice to myself, and I return to that piece of writing often for guidance as I continue to adapt and develop my practice. This class is not only about learning to explain your work to institutions, but also about envisioning your practice for yourself.” Galen MacDonald
 
@@ -96,9 +95,7 @@ $550 USD + Eventbrite Processing Fees. Upon payment, your space in the class wil
 
 We will be offering partial scholarships for those in need and who are typically underrepresented in technology. Priority will be given to students who identify as BIPOC. You can apply for scholarship on the application letting us know how much tuition support you would need.
 
-We are primarly self-funded, which limits our ability to offer scholarships. If you do not qualify for our scholarship, our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance.
-
-Please check out these resources for financial support in response to the COVID19 pandemic.
+We are primarly self-funded, which limits our ability to offer scholarships. If you do not qualify for our scholarship, our previous students have received support from cultural foundations, schools, current employers, or crowdfunding. We are happy to provide supporting materials as proof of acceptance. Please check out these resources for financial support in response to the COVID19 pandemic.
 - [Cloud9 Mutual Aid Doc: Financial Assistance](https://docs.google.com/document/d/1Qo_w8b6u2yXKzE7dIUmSeWqk3FFrqS1KhoCGzqcmZiQ/edit#heading=h.8jojokwzkoa7)
 - [The Art of Social Distancing](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0lJMLDRlx_HsE132C3aGFa-D_rvk8rDVtkt9E7BH0jVQHrv-zD0favR98AtgTlPbNl2A5RPDH63X/pubhtml)
 
