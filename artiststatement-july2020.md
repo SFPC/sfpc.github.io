@@ -8,7 +8,7 @@ contact: sfpc
 
 # Artist Statement: A User Guide
 - Date: Starting July 27th, 2020 classes will be held once a week on Mondays for five weeks (Jul 27 - Aug 24, 2020)
-- Time: Classes time is TBD based on the location of applicants (either 1 pm or 5 pm EST)
+- Time: Classes time is TBD based on the location of applicants (either 1 pm or 5 pm EST) plus optional weekly office hours
 - Teacher: Celine Wong Katzman
 - [Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open through July 12th, 2020  
 
@@ -45,23 +45,6 @@ A computer capable of using Zoom (for class) and Google Docs
 “Celine's mentoring motivated me to consider professional and personal values in making art. She guided me in writing an artist statement that clarified the ideas that I want to pursue with my work and that also correlates to broader concepts I want to explore within my practice.” Vivienne La
 
 “Celine’s workshops guided us through the daunting, yet rewarding task of articulating the ideas behind our work. Our one-on-one meetings helped me contextualize my practice alongside everything else I learned at SFPC.” Danny Garfield
-
-
-![](/static/img/artiststatement/fm_gold.png)
-
-[Family Maker](https://rkuo.net/Family-Maker), 2017-2018 by Visiting artist Ryan Kuo
-
-# Syllabus
-
-Class 1 - Orientation + “What is an artist statement?”: We will introduce ourselves and review the course objectives and structure. Then, we will begin deconstructing “the artist statement.”
-
-Class 2 - Mobile Studio Visits: Each student will give a brief presentation of their own work, followed by group feedback.
-
-Class 3 - Artist Writings + Visiting Artist Ryan Kuo: We will review and discuss a selection of texts written by artists. Ryan Kuo will give a presentation.
-
-Class 4 - Collective Feedback: We will read artist statements out loud to each other “in a circle,” allowing time for productive feedback, reflection, and congratulations.
-
-Class 5 - Publishing + What’s next?: We will decide on a format and design for the class publication. We will brainstorm what artists can offer to our communities, the public, and struggling institutions during this difficult period.
 
 
 # Instructor Bio
@@ -110,8 +93,7 @@ We will be accepting up to 16 students on a rolling basis. We will respond to yo
 
 
 ### What if I can’t go, can I get a refund?
-- Yes, we can give you 100% refund up to 5 days before class starts
-- 50% refund after 2 days, until the first day of class
+- Yes, we can give you 100% before class starts
 - No refunds can be given after the first day of class
 
 ### Accessibility
