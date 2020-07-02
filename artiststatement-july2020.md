@@ -4,7 +4,7 @@ layout: participate2
 location:
 contact: sfpc
 ---
-![](/static/img/nytechzinefair2.jpg)
+![](/static/img/artiststatement/userguide_lg.jpg)
 
 # Artist Statement: A User Guide
 - Date: Starting July 27th, 2020 classes will be held once a week on Mondays for five weeks (Jul 27 - Aug 24, 2020)
@@ -18,7 +18,7 @@ This workshop offers a combination of practical writing and critical thinking sk
 
 Much like a user guide helps non-technical readers understand a system, an artist statement introduces an unfamiliar audience to the artist’s practice and informs them about the references, questions, and thought processes behind the artist’s work. We will consider the artist statement as a practical communication tool (for grant and residency applications) as well as a more intimate map for guiding the direction and values of one’s practice.
 
-![](/static/img/artiststatement/userguide.jpg)
+![](/static/img/nytechzinefair2.jpg)
 
 Students will:
 - practice presenting their own work and give feedback to others
