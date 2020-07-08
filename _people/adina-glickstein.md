@@ -2,7 +2,7 @@
 title: Adina Glickstein
 affiliation:
 - class: Digital Love Languages: Codes of Affirmation
-  role: Class Assistant
+  role: Assistant
 twitter: haunt0l0gy
 instagram:
 github:

@@ -1,12 +1,12 @@
 ---
-title: Adina Glickstein
+title: Amber Officer-Narvasa
 affiliation:
 - class: Digital Love Languages: Codes of Affirmation
-  role: Class Assistant
-twitter: haunt0l0gy
+  role: Assistant
+twitter:
 instagram:
 github:
-website: http://adinaglickstein.com
-place: Denver, CO
+website: http://amberonarvasa.contently.com
+place: Washington Heights, NY
 ---
-Adina Glickstein is a writer and video artist experimenting with the varied affordances of analog and digital processes of creation and distribution. Their most recent work focuses on the relationship between cinema, vision, and labor.
+a/mber is a storyteller, writer, listener, friend, beginning gardener, sag with libra moon, grower of games and ritual work, question asker, playlist maker, and older sibling living on unceded lenape land. most days a(mber) believes in crushes and in stumbling n blushing towards pleasure. a.m.b.e.r. is in deep mourning for all the Black women and trans folks who should still be breathing today. if ur white, open your fucking pocket$ to Black ppl now.
