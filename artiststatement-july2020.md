@@ -7,10 +7,10 @@ contact: sfpc
 ![](/static/img/artiststatement/userguide_lg.jpg)
 
 # Artist Statement: A User Guide
-- Date: Starting July 27th, 2020 classes will be held once a week on Mondays for five weeks (Jul 27 - Aug 24, 2020)
+- Date: Starting August 18th, 2020 classes will be held once a week on Tuesdays for five weeks (August 18 - September 15, 2020)
 - Time: Classes time is TBD based on the location of applicants (either 1 pm or 5 pm EST) plus optional weekly office hours
 - Teacher: Celine Wong Katzman
-- [Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open through July 12th, 2020  
+- [Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open through August 4th, 2020  
 
 # Description
 
@@ -87,7 +87,7 @@ We are committed to being fully transparent about how we make and spend money. I
 
 ### How do I apply?
 
-[Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open through July 12th, 2020.
+[Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open through August 4th, 2020.
 
 We will be accepting up to 16 students on a rolling basis. We will respond to your application within 5 days of submission. Rolling admissions means there are fewer and fewer slots the longer you wait, so if you’re interested in the program get your application in early!
 
