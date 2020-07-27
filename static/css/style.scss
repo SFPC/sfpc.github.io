@@ -260,8 +260,7 @@ footer {
 	}
 
 	.toc-h3 a {
-		color: Silver;
-
+    color: #565656;
 		//padding-left:1em;
 		padding: 0;
 	}
@@ -269,6 +268,13 @@ footer {
 	a {
 		padding: 0;
 	}
+}
+
+// contrast increase on bootstrap default color for btns on people page
+
+.btn-primary {
+ background-color: #0F6151;
+ border-color: #0F6151
 }
 
 // filter buttons for people page
