@@ -2,10 +2,14 @@
 title: Code Societies 2018
 layout: participate
 slides:
- - "/static/img/participate/codesocieties_poster_wide.jpg"
- - "/static/img/participate/sum2016_outside.jpg"
- - "/static/img/participate/allisonp.jpg"
- - "/static/img/participate/sum2016_lunch.jpg"
+ - image: "/static/img/participate/codesocieties_poster_wide.jpg"
+   alt: "Code Societies logo with symbols of interconnectedness and computation"
+ - image: "/static/img/participate/sum2016_outside.jpg"
+   alt: "outside view of sfpc space"
+ - image: "/static/img/participate/allisonp.jpg"
+   alt: "Allison Parrish presenting to a group of people"
+ - image: "/static/img/participate/sum2016_lunch.jpg"
+   alt: "SFPC students eating lunch and chatting in the courtyard by SFPC"
 
 
 ---

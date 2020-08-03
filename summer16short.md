@@ -5,13 +5,21 @@ location: westbeth
 contact: sfpc
 slides:
 
-  - "/static/img/participate/SFPC2-weekSummer.jpg"
-  - "/static/img/participate/wallbw.jpg"
-  - "/static/img/participate/flower.jpg"
-  - "/static/img/participate/door.jpg"
-  - "/static/img/participate/havefun.jpg"
-  - "/static/img/participate/poeticsciencefair.jpg"
-  - "/static/img/participate/notebook.jpg"
+  - image: "/static/img/participate/SFPC2-weekSummer.jpg"
+    alt: "SFPC 2 week summer session text photoshopped onto nytimes front page"
+  - image: "/static/img/participate/wallbw.jpg"
+    alt: "sfpc code poetry wall art with polaroids of sfpc students and people"
+  - image: "/static/img/participate/flower.jpg"
+    alt: "books next to flowers, the books are conditional design workbook, speaking code, and the art of the art assignment"
+  - image: "/static/img/participate/door.jpg"
+    alt: "sfpc door with signs and sticks all over it, its a pull and push door"
+  - image: "/static/img/participate/havefun.jpg"
+    alt: "papers that say have fun and keep making things sfpc"
+  - image: "/static/img/participate/poeticsciencefair.jpg"
+    alt: "sfpc poetic science fair, crowd looking at artworks and chatting"
+  - image: "/static/img/participate/notebook.jpg"
+    alt: "paper notes about coordinate systems and programming"
+
 ---
 
 <div class="alert alert-success" role="alert">
