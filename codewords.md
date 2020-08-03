@@ -2,13 +2,20 @@
 title: Code Words 2018
 layout: participate
 slides:
- - "/static/img/participate/codewords.png"
- - "/static/img/participate/sum2016_outside.jpg"
- - "/static/img/participate/sum2016_lunch.jpg"
- - "/static/img/participate/summer15_wall_new.jpg"
- - "/static/img/participate/goldenhour.jpg"
- - "/static/img/participate/workshop.jpg"
- - "/static/img/participate/notebook.jpg"
+ - image: "/static/img/participate/codewords.png"
+   alt: "code words class logo, illegible text shapes in the background "
+ - image: "/static/img/participate/sum2016_outside.jpg"
+   alt: "chairs and tables outside the sfpc space"
+ - image: "/static/img/participate/sum2016_lunch.jpg"
+   alt: "sfpc students eating lunch in the courtyard by sfpc"
+ - image: "/static/img/participate/summer15_wall_new.jpg"
+   alt: "sfpc code poetry wall art with polaroids of sfpc participants "
+ - image: "/static/img/participate/goldenhour.jpg"
+   alt: "four sfpc students working on laptops during goldenhour lighting"
+ - image: "/static/img/participate/workshop.jpg"
+   alt: "sfpc students studying at laptops while example codes are projected behind"
+ - image: "/static/img/participate/notebook.jpg"
+   alt: "notes about coordinate system and programming"
 ---
 
 ***

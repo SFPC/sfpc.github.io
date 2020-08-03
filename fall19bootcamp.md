@@ -5,11 +5,15 @@ location: westbeth
 contact: sfpc
 slides:
 
-  - "/static/img/bootcamp/bootcamp1.jpg"
-  - "/static/img/bootcamp/bootcamp2.jpg"
-  - "/static/img/bootcamp/bootcamp3.jpg"
+  - image: "/static/img/bootcamp/bootcamp1.jpg"
+    alt: "people studying at laptops in SFPC space"
+  - image: "/static/img/bootcamp/bootcamp2.jpg"
+    alt: "paper notes about coordinate systems spelling out N E T A"
+  - image: "/static/img/bootcamp/bootcamp3.jpg"
+    alt: "a person showing digital artwork on a laptop spelling out TOTOSH"
   - "/static/img/bootcamp/bootcamp4.jpg"
-  - "/static/img/bootcamp/bootcamp5.jpg"
+  - image: "/static/img/bootcamp/bootcamp5.jpg"
+    alt: "paper notes about coordinate systems spelling out N E T A"
 ---
 ***
 

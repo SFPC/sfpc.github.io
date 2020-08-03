@@ -3,11 +3,17 @@ title: Participate
 layout: participate
 slides:
 
-  - "/static/img/participate/sum2016_lunch.jpg"
-  - "/static/img/participate/fall15-robby.jpg"
-  - "/static/img/participate/sum2016_group.jpg"
-  - "/static/img/participate/flower.jpg"
-  - "/static/img/participate/sum2016_notes.jpg"
+  - image: "/static/img/participate/sum2016_lunch.jpg"
+    alt: "SFPC students eating lunch and chatting in the courtyard by SFPC"
+  - image: "/static/img/participate/fall15-robby.jpg"
+    alt: "robby interacting with a digital and physical art piece"
+  - image: "/static/img/participate/sum2016_group.jpg"
+    alt: "people chatting in the sfpc space"
+  - image: "/static/img/participate/flower.jpg"
+    alt: "books next to flowers in a cup, speaking code, the art of the art assignment, and conditional design workbook."
+  - image: "/static/img/participate/sum2016_notes.jpg"
+    alt: "person taking notes with a pen on a table"
+
 ---
 
 

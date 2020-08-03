@@ -5,10 +5,14 @@ location:
 contact: sfpc
 slides:
 
-  - "/static/img/bootcamp/bootcamp1.jpg"
-  - "/static/img/bootcamp/bootcamp2.jpg"
-  - "/static/img/bootcamp/bootcamp5.jpg"
-  - "/static/img/bootcamp/bootcamp6.jpg"  
+  - image: "/static/img/bootcamp/bootcamp1.jpg"
+    alt: "people studying at laptops in SFPC space"
+  - image: "/static/img/bootcamp/bootcamp2.jpg"
+    alt: "paper notes about coordinate systems spelling out N E T A"
+  - image: "/static/img/bootcamp/bootcamp5.jpg"
+    alt: "people comparing notes on paper and in code on a laptop"
+  - image: "/static/img/bootcamp/bootcamp6.jpg"  
+    alt: "a group sfpc creative coding bootcamp photo, with projected stars on top"
 ---
 ***
 
