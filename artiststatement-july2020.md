@@ -8,7 +8,7 @@ contact: sfpc
 
 # Artist Statement: A User Guide
 - Date: Starting August 18th, 2020 classes will be held once a week on Tuesdays for five weeks (August 18 - September 15, 2020)
-- Time: Classes time is TBD based on the location of applicants (either 1 pm or 5 pm EST) plus optional weekly office hours
+- Time: Classes time will be Tuesdays 1~4 PM EST plus optional weekly office hours
 - Teacher: Celine Wong Katzman
 - [Application](https://airtable.com/shrsWGhjsdy5r8o7j) is now open through August 4th, 2020  
 
