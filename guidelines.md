@@ -13,7 +13,7 @@ The web as we know it is built and standardized to be accessible for a wide vari
 
 ### Image tagging
 
-Wherever a image provides editorial information or context for a post or article, it should get tagged with an "alt-tag." These are used when someone is using a slower internet connection, and, first and foremost, when a screen reader is active.
+Wherever a image provides editorial information or context for a post or article, it should get tagged with an "alt-tag." These are used when someone has a screen reader active, or when they're using a device with a slower internet connection.
 
 Perkins School for the Blind is a forefront resource on improving access and education for people who are blind. It's a great institution, and they have some advice for tagging:
 [https://www.perkinselearning.org/technology/blog/how-write-alt-text-and-image-descriptions-instagram](https://www.perkinselearning.org/technology/blog/how-write-alt-text-and-image-descriptions-instagram)
@@ -25,7 +25,7 @@ Perkins School for the Blind is a forefront resource on improving access and edu
 
 For someone who has the ability, writing image tags is usually as simple as if you looked at a picture and tried to describe it to someone next to you in one or two sentences. Think back to when you've done that during a phone call, for instance. Perkins doesn't recommend making the description hard to understand for the sake of accurately describing colors (e.g. [https://colors.lol/](https://colors.lol/).) Instead, it's usually best to focus on the subject matter.
 
-In the sfpc website when editing a page, the markdown for alternative text looks like this (where the highlighted region is the alt-text.
+In the sfpc website when editing a page, the markdown for alternative text looks like this:
 
 ```markdown
 ![Zine creation in progress](/static/img/nytechzinefair2.jpg)
@@ -59,7 +59,7 @@ contact: sfpc
 slides:
 
 - image: "/static/img/bootcamp/bootcamp1.jpg"
-  alt: "people studying at laptops in SFPC space"
+  alt: "people studying at laptops in theanthropical SFPC space"
 - image: "/static/img/bootcamp/bootcamp5.jpg"
   alt: "people comparing notes on paper and in code on a laptop"
 - image: "/static/img/bootcamp/bootcamp6.jpg"
@@ -85,21 +85,21 @@ It's possible to check and quantify contrast, and many websites exist to help co
 
 ## General Examples
 
-![Blue hydrangea flowers soon after rain](/static/img/guidelines/flower.png)
+There is always a question of how much detail should get included in these descriptions. In addition to the guidance above, here is a short example: 
 
-😊a-ok! →  "Blue hydrangea flowers soon after rain"
+<img src="/static/img/guidelines/flower.png" alt="Blue hydrangea flowers soon after rain" width="300px">
 
-😤functional, but too simple to be pleasant→ "Flowers"
+😊 a-ok! →  "Blue hydrangea flowers soon after rain"
+
+😤 functional, but too simple to be pleasant→ "Flowers"
 
 😬 too long → "photo of light lavender hydrangea flowers after a recent rain set against a mottled concrete background, with 25 leaves present, and a small bite out of one leaf which could have been from a dog, but alternatively could have been a cute bug"
 
 ## Social Media
 
-*Communicating with the outside net*
+[https://sfpc.io/](https://sfpc.io/) isn't the only place where people see content from SFPC, so it isn't the only place where web access is a concern. Most external platforms have procedures for adding alt-text to images, and largely already follow requirements for contrast and other regulations. In this section are a few common services and how to describe images textually in them.
 
 ### Blogging and Medium Posts
-
-*Adding care to editorial systems*
 
 Largely, the Medium design team has this covered. Just make sure to add alternative text.
 
@@ -109,13 +109,13 @@ In the Medium editor, hovering over an image presents this view. Make sure to ad
 
 ![medium blog alt text view](/static/img/guidelines/medium2.png)
 
-Clicking on the alt text button presents this view
+
+Clicking on the alt text button presents this view, from which it's possible to edit and save descriptions.
 
 ### Instagram
 
-- Guide for adding alt text
-[https://help.instagram.com/503708446705527](https://help.instagram.com/503708446705527)
-
+> Official Instagram guide for adding alt text:
+> [https://help.instagram.com/503708446705527](https://help.instagram.com/503708446705527)  
 When posting, an example situation might look like this. Although Instagram uses machine learning to infer the contents of images and provide automatic alternative text, doing it manually will be much more usable and far more accurate.
 
 <div style="display: flex; flex-direction: row;">
@@ -132,10 +132,10 @@ When posting, an example situation might look like this. Although Instagram uses
 
 ### Twitter
 
-- Guide for adding alt text
-[https://help.twitter.com/en/using-twitter/picture-descriptions](https://help.twitter.com/en/using-twitter/picture-descriptions)
+> Official Twitter guide for adding alt text
+> [https://help.twitter.com/en/using-twitter/picture-descriptions](https://help.twitter.com/en/using-twitter/picture-descriptions)
 
 ### MailChimp
 
-- Guide for adding alt text
-[https://mailchimp.com/help/add-alt-text-to-images/](https://mailchimp.com/help/add-alt-text-to-images/)
+> Official MailChimp guide for adding alt text
+> [https://mailchimp.com/help/add-alt-text-to-images/](https://mailchimp.com/help/add-alt-text-to-images/)
