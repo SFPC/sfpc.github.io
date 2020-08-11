@@ -87,7 +87,7 @@ It's possible to check and quantify contrast, and many websites exist to help co
 
 ## General Examples
 
-![image of medium photo add view](/static/img/guidelines/flower.png)
+![medium blog photo add view](/static/img/guidelines/flower.png)
 
 😊a-ok! →  "Blue hydrangea flowers soon after rain"
 
@@ -99,17 +99,17 @@ It's possible to check and quantify contrast, and many websites exist to help co
 
 *Communicating with the outside net*
 
-### Blogging // Medium Posts
+### Blogging and Medium Posts
 
 *Adding care to editorial systems*
 
 Largely, the Medium design team has this covered. Just make sure to add alternative text.
 
-![image of medium photo add view](/static/img/guidelines/medium1.png)
+![medium blog photo add view](/static/img/guidelines/medium1.png)
 
 In the Medium editor, hovering over an image presents this view. Make sure to add a caption AND some alternative text. These serve different purposes.
 
-![image of medium alt text view](/static/img/guidelines/medium2.png)
+![medium blog alt text view](/static/img/guidelines/medium2.png)
 
 Clicking on the alt text button presents this view
 
@@ -120,11 +120,11 @@ Clicking on the alt text button presents this view
 
 When posting, an example situation might look like this. Although Instagram uses machine learning to infer the contents of images and provide automatic alternative text, doing it manually will be much more usable for folks and far more accurate.
 
-![image of instagram photo add view](/static/img/guidelines/instagram1.png)
+![instagram photo add view](/static/img/guidelines/instagram1.png)
 
-![image of instagram photo detail view](/static/img/guidelines/instagram2.png)
+![instagram photo detail view](/static/img/guidelines/instagram2.png)
 
-![image of instagram alt text view](/static/img/guidelines/instagram3.png)
+![instagram alt text view](/static/img/guidelines/instagram3.png)
 
 ### Twitter
 
