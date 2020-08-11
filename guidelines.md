@@ -7,18 +7,21 @@ contact: sfpc
 
 ## Website Updates and Markdown Editing
 
-*How to keep [sfpc.io](https://sfpc.io/) accessible*
+*A style guide for keeping  [sfpc.io](https://sfpc.io/) accessible*
+
+The web as we know it is built and standardized to be accessible for a wide variety of people. Browsers and phones have a variety of tools which assist experiencing the web however it's accessed across a gradient of assistance. As an organization which publishes text and images frequently online, we owe it to people reading and interacting with SFPC to fully enable these browser accessibility tools. Activists, policy makers, and developers have paved the way so that we can make an experience for everyone. In that vein, here are a few tips to use when writing content for SFPC. At the bottom of this document, there is also a checklist to compare against when making your own content.
 
 ### Image tagging
 
+Wherever a image provides editorial information or context for a post or article, it should get tagged with an "alt-tag." These are used when someone is using a slower internet connection, and, first and foremost, when a screen reader is active.
+
 Perkins School for the Blind is a forefront resource on improving access and education for people who are blind. It's a great institution, and they have some advice for tagging:
 [https://www.perkinselearning.org/technology/blog/how-write-alt-text-and-image-descriptions-instagram](https://www.perkinselearning.org/technology/blog/how-write-alt-text-and-image-descriptions-instagram)
+ Some simple guidelines for writing useful alt-tags:
 
-Wherever a image provides editorial information or context for a post or article, it should get tagged with an "alt-tag." These are used when someone is using a slower internet connection, and, first and foremost, when a screen reader is active. Some simple guidelines for writing useful alt-tags:
-
-1. Do: provide information about the literal content of the image
-2. Don't: Say that it is a "Photo of ___", screen readers and browsers already know and indicate that it is an image, and people using readers are extremely efficient with them.
-3. Decide: whether to provide implied context of the image. I think it usually isn't necessary, but if it is a complex art piece which is very challenging to describe in one or two sentences, it may be a good idea to add abstract meaning.
+1. **Do**: provide information about the literal content of the image
+2. **Don't**: Say that it is a "Photo of ___", screen readers and browsers already know and indicate that it is an image, and people using readers are extremely efficient with them.
+3. **Decide**: whether to provide implied context of the image. It isn't always helpful, but if it is a complex art piece which is very challenging to describe in one or two sentences, it may be a good idea to add abstract meaning.
 
 For someone who has the ability, writing image tags is usually as simple as if you looked at a picture and tried to describe it to someone next to you in one or two sentences. Think back to when you've done that during a phone call, for instance. Perkins doesn't recommend making the description hard to understand for the sake of accurately describing colors (e.g. [https://colors.lol/](https://colors.lol/).) Instead, it's usually best to focus on the subject matter.
 
@@ -27,6 +30,46 @@ In the sfpc website when editing a page, the markdown for alternative text looks
 ```markdown
 ![Zine creation in progress](/static/img/nytechzinefair2.jpg)
 ```
+
+In some SFPC website pages, we use a carousel image "slide" system. In order to set up some slides, we might use markdown text at the top of a file like:
+
+```markdown
+---
+title: SFPC Creative Coding Bootcamp (online)
+layout: participate
+location:
+contact: sfpc
+slides:
+
+  - "/static/img/bootcamp/bootcamp1.jpg"
+  - "/static/img/bootcamp/bootcamp2.jpg"
+  - "/static/img/bootcamp/bootcamp5.jpg"
+  - "/static/img/bootcamp/bootcamp6.jpg"  
+---
+```
+
+Setting up slides as shown above doesn't make that content accessible for people who use screen readers. Let's add alternative text to the slides:
+
+```markdown
+---
+title: SFPC Creative Coding Bootcamp (online)
+layout: participate
+location:
+contact: sfpc
+slides:
+
+  - image: "/static/img/bootcamp/bootcamp1.jpg"
+    alt: ""
+  - image: "/static/img/bootcamp/bootcamp2.jpg"
+    alt: ""
+  - image: "/static/img/bootcamp/bootcamp5.jpg"
+    alt: ""
+  - image: "/static/img/bootcamp/bootcamp6.jpg"  
+    alt: ""
+---
+```
+
+Now, when people look at your page, they'll be able to access the content of the image whether they're looking at an image or using a screen reader to describe it.
 
 ### Logotype images versus textuals
 
