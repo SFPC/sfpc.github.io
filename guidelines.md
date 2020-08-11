@@ -58,14 +58,12 @@ location:
 contact: sfpc
 slides:
 
-  - image: "/static/img/bootcamp/bootcamp1.jpg"
-    alt: ""
-  - image: "/static/img/bootcamp/bootcamp2.jpg"
-    alt: ""
-  - image: "/static/img/bootcamp/bootcamp5.jpg"
-    alt: ""
-  - image: "/static/img/bootcamp/bootcamp6.jpg"  
-    alt: ""
+- image: "/static/img/bootcamp/bootcamp1.jpg"
+  alt: "people studying at laptops in SFPC space"
+- image: "/static/img/bootcamp/bootcamp5.jpg"
+  alt: "people comparing notes on paper and in code on a laptop"
+- image: "/static/img/bootcamp/bootcamp6.jpg"
+  alt: "a group sfpc creative coding bootcamp photo, with projected stars on top"
 ---
 ```
 
@@ -87,7 +85,7 @@ It's possible to check and quantify contrast, and many websites exist to help co
 
 ## General Examples
 
-![medium blog photo add view](/static/img/guidelines/flower.png)
+![Blue hydrangea flowers soon after rain](/static/img/guidelines/flower.png)
 
 😊a-ok! →  "Blue hydrangea flowers soon after rain"
 
@@ -118,13 +116,19 @@ Clicking on the alt text button presents this view
 - Guide for adding alt text
 [https://help.instagram.com/503708446705527](https://help.instagram.com/503708446705527)
 
-When posting, an example situation might look like this. Although Instagram uses machine learning to infer the contents of images and provide automatic alternative text, doing it manually will be much more usable for folks and far more accurate.
+When posting, an example situation might look like this. Although Instagram uses machine learning to infer the contents of images and provide automatic alternative text, doing it manually will be much more usable and far more accurate.
 
-![instagram photo add view](/static/img/guidelines/instagram1.png)
-
-![instagram photo detail view](/static/img/guidelines/instagram2.png)
-
-![instagram alt text view](/static/img/guidelines/instagram3.png)
+<div style="display: flex; flex-direction: row;">
+<div>
+<img style="padding: 10px;" src="/static/img/guidelines/instagram1.png" alt="instagram photo add view">
+</div>
+<div>
+<img style="padding: 10px;" src="/static/img/guidelines/instagram2.png" alt="instagram photo detail view">
+</div>
+<div>
+<img style="padding: 10px;" src="/static/img/guidelines/instagram3.png" alt="instagram alt text view">
+</div>
+</div>
 
 ### Twitter
 
