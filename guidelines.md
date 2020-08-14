@@ -9,8 +9,7 @@ contact: sfpc
 
 *A style guide for keeping  [sfpc.io](https://sfpc.io/) accessible*
 
-The web as we know it is built and standardized to be accessible for a wide variety of people. Browsers and phones have a variety of tools which assist experiencing the web however it's accessed across a gradient of assistance. As an organization which publishes text and images frequently online, we owe it to people reading and interacting with SFPC to fully enable these browser accessibility tools. Activists, policy makers, and developers have paved the way so that we can make an experience for everyone. In that vein, here are a few tips to use when writing content for SFPC. At the bottom of this document, there is also a checklist to compare against when making your own content.
-
+The web as we know it is built and standardized to be accessible for a wide variety of people. Browsers and phones have a variety of tools which assist experiencing the web however it's accessed across a gradient of assistance. As an organization which publishes text and images frequently online, we owe it to people reading and interacting with SFPC to fully enable these browser accessibility tools. Activists, policy makers, and developers have paved the way so that we can make an experience for everyone. In that vein, here are a few tips to use when writing content for SFPC.
 ### Image tagging
 
 Wherever a image provides editorial information or context for a post or article, it should get tagged with an "alt-tag." These are used when someone has a screen reader active, or when they're using a device with a slower internet connection.
