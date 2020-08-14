@@ -116,17 +116,18 @@ Clicking on the alt text button presents this view, from which it's possible to 
 
 > Official Instagram guide for adding alt text:
 > [https://help.instagram.com/503708446705527](https://help.instagram.com/503708446705527)  
+
 When posting, an example situation might look like this. Although Instagram uses machine learning to infer the contents of images and provide automatic alternative text, doing it manually will be much more usable and far more accurate.
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <div>
-<img style="padding: 10px;" src="/static/img/guidelines/instagram1.png" alt="instagram photo add view">
+<img style="padding: 10px; max-width: 250px;" src="/static/img/guidelines/instagram1.png" alt="instagram photo add view">
 </div>
 <div>
-<img style="padding: 10px;" src="/static/img/guidelines/instagram2.png" alt="instagram photo detail view">
+<img style="padding: 10px; max-width: 250px;" src="/static/img/guidelines/instagram2.png" alt="instagram photo detail view">
 </div>
 <div>
-<img style="padding: 10px;" src="/static/img/guidelines/instagram3.png" alt="instagram alt text view">
+<img style="padding: 10px;max-width: 250px;" src="/static/img/guidelines/instagram3.png" alt="instagram alt text view">
 </div>
 </div>
 
@@ -134,6 +135,20 @@ When posting, an example situation might look like this. Although Instagram uses
 
 > Official Twitter guide for adding alt text
 > [https://help.twitter.com/en/using-twitter/picture-descriptions](https://help.twitter.com/en/using-twitter/picture-descriptions)
+
+Twitter has a nice UI for describing images too. When composing a tweet and attaching an image, a "+ALT" button appears on the image, which allows access to the image description entry view. Type a short description, click done, and you're all set!
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<div>
+<img style="padding: 10px; max-width: 250px;" src="/static/img/guidelines/twitter1.png" alt="twitter add tweet view">
+</div>
+<div>
+<img style="padding: 10px; max-width: 250px;" src="/static/img/guidelines/twitter2.png" alt="twitter photo alt view">
+</div>
+<div>
+<img style="padding: 10px; max-width: 250px;" src="/static/img/guidelines/twitter3.png" alt="twitter photo alt tag written out">
+</div>
+</div>
 
 ### MailChimp
 
