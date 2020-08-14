@@ -16,7 +16,12 @@ slides:
 
 ---
 
-## Upcoming
+
+### Artist Statement: A User Guide (online)
+
+Five weeks class by Celine Katzman between August 18 - September 15, 2020. This workshop offers a combination of practical writing and critical thinking skills. Enrollment is open to anyone including artists, designers, creative technologists, engineers, architects, and others whose practices are difficult to define. [More information](/artiststatement-july2020/)
+
+## In progress
 
 Announced on April 27,2020
 
@@ -38,9 +43,7 @@ Ten weeks class by CW&T starting in June. Learn computational hardware as a way 
 
 Ten weeks class by Melanie Hoff starting in June. Learn to cultivate code as a love language that can be gentle, healing, and intimate. This class is about building poetic tools for online communion through a re-introduction to computers and a call to action for expanding computation’s capacity for fostering interdependence and creative expression. [More information](/digitallove-spring2020)
 
-### Artist Statement: A User Guide (online)
-
-Five weeks class by Celine Katzman starting in June. This workshop offers a combination of practical writing and critical thinking skills. Enrollment is open to anyone including artists, designers, creative technologists, engineers, architects, and others whose practices are difficult to define. [More information](/artiststatement-spring2020)
+ 
 
 ### Teaching as Art (online)
 

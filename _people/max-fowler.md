@@ -5,9 +5,13 @@ affiliation:
   role: Student
 - class: Fall 2017
   role: TA
+- class: Online
+  role: TA
 twitter: notplants
 github: mhfowler
-website: http://maxhfowler.net/portfolio/
-place: NYC, USA
+website: http://mfowler.info
+place: Berlin, Germany
 ---
-Max Fowler is a programmer and artist currently based in New York City. Some of his recent projects have explored the ways that we conceptualize space, expressive analysis of text message history and how to use a twitter bot to take out the trash. He is interested in using data visualization to explore subjectivity, generative poetry, and the ways we use technology to decide what to read. He also does freelance development and interaction design for startups. 
+Max Fowler is an artist and programmer living in Berlin. Their new media work explores the politics of connectivity and queering feed algorithms. They are currently a member of >top lab, and are one of the stewards of Sari-Sari, a community kitchen and art space. They are interested in helping to grow a collaborative network of healing community spaces, and in providing technical support for artists and activists
+
+Amber was a TA in the Online Digital Love Languages: Codes of Affirmation class

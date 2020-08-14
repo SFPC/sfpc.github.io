@@ -14,4 +14,6 @@ github:
 website: http://celinekatzman.com
 place: NYC
 ---
-Celine Wong Katzman is a Singaporean-American writer, curator, and educator based in New York. Her research is concerned with time-based media, performance, and other forms critically engaged with new technologies. Celine is a founding member of EST, a curatorial collective that questions the Western imaginary of Asia as a monolithic entity and is interested in its potential to organize across a spectrum of experiences. She holds a B.A. in Visual Art from Brown University. Celine has been a teaching assistant at SFPC since Spring 2018.
+[Celine](celinekatzman.com) is a Singaporean-American writer, curator, and educator based in New York. Her work is focused on supporting artists and creative practitioners who critically engage with new technologies, emphasizing social, political, and ecological responsibility. She has held positions at the Queens Museum, bitforms gallery, and other arts institutions.
+
+Celine graduated from Brown University in 2015. Her writing appears in publications such as Rhizome, The Nation, and Art in America, as well as in the New Museum's exhibition catalog, The Art Happens Here: Net Art's Archival Poetics. She has lectured at Bard College, the School of Visual Arts, and Brown University, and is a regular guest critic at residency programs.
