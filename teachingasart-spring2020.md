@@ -4,7 +4,7 @@ layout: participate2
 location:
 contact: sfpc
 ---
-![](/static/img/teachingasart/teachersretreat.jpg) 
+![Overhead view of sfpc teachers in a circle during a retreat, discussing and eating](/static/img/teachingasart/teachersretreat.jpg) 
 
 ### Teaching as Art
 
