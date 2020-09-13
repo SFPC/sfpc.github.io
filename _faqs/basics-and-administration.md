@@ -1,6 +1,6 @@
 ---
 title: Basics and Administration
-order: 1
+order: 2
 ---
 
 ### Is this a real school?

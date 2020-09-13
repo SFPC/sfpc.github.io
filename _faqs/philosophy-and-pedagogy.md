@@ -1,6 +1,6 @@
 ---
 title: Philosophy and Pedagogy
-order: 3
+order: 4
 ---
 
 ### What is the School for Poetic Computation?
