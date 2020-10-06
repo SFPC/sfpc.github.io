@@ -36,7 +36,7 @@ layout: default
 <div class="row">
 	<ul id="people-grid">
 		{% for person in site.people %}
-			<li class="col-md-2 col-sm-3 col-xs-4 {% for affiliation in person.affiliation %}{{ affiliation.class | downcase | replace: " ", "-" }} {{ affiliation.role | downcase | replace: " ", "-" }} {% endfor %}"><img src="{{site.baseurl}}/static/img/{{ person.id }}.jpg" alt="photo of {{ person.title }}"/>
+			<li class="col-md-2 col-sm-3 col-xs-4 {% for affiliation in person.affiliation %}{{ affiliation.class | downcase | replace: " ", "-" }} {{ affiliation.role | downcase | replace: " ", "-" }} {% endfor %}"><img src="{{site.baseurl}}/static/img/{{ person.id }}.jpg" />
         <span class="info"><span class="name">{% if person.content.size > 1 %}<a href="{{ person.url }}">{% endif %}{{ person.title }}
           {% if person.content.size > 1 %}</a>{% endif %}
           </span><span class="links">
