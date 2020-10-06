@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<div class="jumbotron" style="overflow:hidden;position:relative">
-	<img src="{{page.background}}" style="position:absolute;pointer-events:none;top:-60px;left:-60px;height:90vh;max-width:none" alt="" />
+<div class="jumbotron" {% if page.background %}style="background-image:url('{{ page.background }}');"{% endif %}>
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2 overlay solidOverlay">
 			{{content}}
