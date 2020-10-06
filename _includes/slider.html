@@ -1,10 +1,6 @@
 <div class="slider">
 	{% for slide in page.slides %}
-	  {% if slide.image and slide.alt%}
-	  <img src="{{ slide.image }}" alt="{{ slide.alt }}">
-	  {% else %}
-		<img src="{{ slide }}">
-	  {% endif %}
+		<img src="{{ slide.image }}" alt="{{ slide.alt }}">
 	{% endfor %}
 </div>
 <script src="https://www.builtbyevolve.com/files/nerveSlider/jquery.nerveSlider.min.js"></script>
