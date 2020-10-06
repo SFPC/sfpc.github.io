@@ -62,7 +62,7 @@ The main outcome will be experience with literary arts, with other ways that lan
 
 - <a href="http://hotwriting.com/">Todd Anderson.</a> (TA) Todd undertakes type of performance writing he has developed and named “hotwriting.” An alumnus of Brown’s literary arts MFA program as well as SFPC, Todd organizes the reading series WordHack at Babycastles and teaches at the New School.
 
-![Code words poster](/static/img/participate/code_words_banner.png)
+![](/static/img/participate/code_words_banner.png)
 
 ### What will happen in one week?
 The session will kick off with a group brunch on Sunday 1-5pm. Classes are held in the evenings Monday-Friday from 6:30-9:30pm. SFPC space will be open for students on weekdays between 1pm-6pm.

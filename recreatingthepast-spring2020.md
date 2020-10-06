@@ -50,7 +50,7 @@ Here are examples of some of the artists / works / ideas we will be exploring ac
 
 A more detailed syllabus will be shared in class with specific readings and assignments. 
 
-![original bauhaus graphic and programmatic recreation side by side](/static/img/recreating/recreatingthepast2.png) 
+![](/static/img/recreating/recreatingthepast2.png) 
 
 ### From our students
 
@@ -81,16 +81,16 @@ This class is not right for you if:
 -  You are interested in a more skills based, less theoretical approach to learning creative code
 -  You are not interested in research or engaging with artworks from the past
 
-![digital graphic with peoples names in perspective](/static/img/recreating/recreatingthepast3.png) 
+![](/static/img/recreating/recreatingthepast3.png) 
 
-![1961 text bokeh original and recreated](/static/img/recreating/slide1.jpg) 
+![](/static/img/recreating/slide1.jpg) 
 
 
 ### How will this class work online?
 
 The class will be taught for 2 hours weekly with an additional ½ hour to 1 hr or asynchronous content which includes short lectures and code explanations. The homework will take additional time per week depending on the complexity of the artwork being recreated (Estimated 1-4 hours / week). In addition the teacher and TA will each offer 2 hours of office hour support, at a scheduled time TBD throughout the week.  We will use github, dropbox paper, and slack as our primary tools with zoom used for the class meetings and TA hours. Recordings of the live portions of each class will be archived and shared with participants for a limited time. 
 
-![generative digital artwork, black and white maze-like](/static/img/recreating/slide4.jpg) 
+![](/static/img/recreating/slide4.jpg) 
 
 ### Instructors
  

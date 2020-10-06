@@ -25,7 +25,7 @@ Please join the School for Poetic Computation (SFPC) in partnership with the [Ta
 
 We are specifically looking for Detroit-based practitioners including artists, designers, activists and educators. We will prioritize applicants who are underrepresented in art and tech spaces, including but not limited to, people who identify as Queer and Trans people of color (QTPOC) and/or Disabled, Deaf or Hard of Hearing (HoH). Students of all levels of coding experiences are welcome! We encourage patience to learn the fundamentals. We encourage you to be willing to to reconsider your relationship to technology, habits and the larger environment. We are supported by Detroit-based organizations including the [Detroit Community Technology Project](https://www.alliedmedia.org/dctp) and the [Room Project](https://www.roomproject.org/).
 
-![poetic computation workshop, students writing on paper](/static/img/detroit/roomproject1.jpg)
+![](/static/img/detroit/roomproject1.jpg)
 Poetic Computation Workshop at the Room Project, Detroit, 2019.
 
 
@@ -35,7 +35,7 @@ Classes are held in the evenings with workshops and field trips in the afternoon
 
 Students will have access to the tools and materials for the week of the session to work on projects. Mentors will be readily available for technical, conceptual, and artistic guidance.
 
-![SFPC organizers and talking dolls](/static/img/detroit/talkingdolls.jpg)
+![](/static/img/detroit/talkingdolls.jpg)
 SFPC organizers and Talking Dolls, Detroit, 2019.
 
 
@@ -47,19 +47,19 @@ Video by Spring 2018 student Nitcha Fame Tothong.
 
 Check out more weekly video recaps of past classes [here](https://vimeo.com/user50134452), our [blog](https://medium.com/sfpc) and [Instagram](https://instagram.com/sfpc_nyc).
 
-![Poetic science fair, people using computers](/static/img/participate/totallyrad.jpg)
+![](/static/img/participate/totallyrad.jpg)
 Poetic Science Fair, community program at the Silent Barn, 2015.
 
-![poetic computation project project](/static/img/detroit/galen.jpg)
+![](/static/img/detroit/galen.jpg)
 Project by Fall 2018 student Galen Macdonald, 2018.
 
-![poetic computation project and person standing by it](/static/img/detroit/neta.jpg)
+![](/static/img/detroit/neta.jpg)
 Project by Fall 2018 student Neta Bomani, 2018.
 
-![poetic computation project and student ](/static/img/detroit/yelli.jpg)
+![](/static/img/detroit/yelli.jpg)
 Project by Spring 2018 student Sean Catangui, 2018.
 
-![four people in room discussing](/static/img/detroit/nabil.jpg)
+![](/static/img/detroit/nabil.jpg)
 Project by Spring 2018 student Nabil Hassein, 2018
 
 ### How does the application process work?
@@ -102,7 +102,7 @@ The session will be hosted at Talking Dolls, an experimental studio on 7145 E Da
 
 ### Organizers
 
-![SFPC teachers](/static/img/detroit/teachers.jpg)
+![](/static/img/detroit/teachers.jpg)
 
 *SFPC Teachers: American Artist, Sam Lavigne, Lauren Gardner, Nabil Hassein, Taeyoon Choi, April Soetarman*
 
@@ -134,7 +134,7 @@ Public events
 - [Showcase](https://www.eventbrite.com/e/poetic-computation-detroit-showcase-tickets-67655678957) on August 25, 2019 at the Talking Dolls
 
 
-![Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019](/static/img/detroit/mocad.jpg)
+![](/static/img/detroit/mocad.jpg)
 Study Group, Mike Kelley’s Mobile Homestead at MOCAD, 2019.
 
 

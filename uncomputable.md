@@ -4,7 +4,7 @@ layout: participate2
 
 ---
 
-![uncomputable logotype, with face drawing in the o](/static/img/participate/uncomputable2.jpg)
+![](/static/img/participate/uncomputable2.jpg )
 
 - Alexander R. Galloway and Taeyoon Choi.
 - School for Poetic Computation (SFPC), 155 Bank Street, NYC.
@@ -46,7 +46,7 @@ Uncomputable consists of lectures by Alexander R. Galloway on June 20th and June
 
 ### Paintings
 
-![uncomputable painting, swirls of lines and ladder shapes with yellows, browns, and deep blues](/static/img/uncomputable/uncomputable1.png )
+![](/static/img/uncomputable/uncomputable1.png )
 
 
 *Analog* by Taeyoon Choi, 48 * 62 inches, Acrylics on canvas.
@@ -58,7 +58,7 @@ speak, throw away the ladder after he has climbed up it.” Wittgenstein’s lad
 staircase of four steps and a connected series of ramps are all thrown away here, small rectilinear forms in space. <!--more--> Paint has otherwise been applied in smooth rotations, some of it — of day and thin cloud — placed atop broader strokes — of night and its hard, abrupt pathways. Smoothed bristles are felt everywhere. In a few places, the paint has narrowly dripped down, following gravity’s desire, a force that also must be gripping the discarded ladder.
 
 
-![uncomputable painting, swirls of lines and ladder shapes with yellows, pinks, and deep blues](/static/img/uncomputable/uncomputable2.png )
+![](/static/img/uncomputable/uncomputable2.png )
 
 
 *Digital* by Taeyoon Choi, 48 * 62 inches, Acrylics on canvas.

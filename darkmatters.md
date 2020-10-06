@@ -5,7 +5,7 @@ location:
 contact: sfpc
 ---
 
-![Dark Matters Logotype](/static/img/darkmatters/darkmatters3.png)
+![](/static/img/darkmatters/darkmatters3.png)
 
 ### Dark Matters Expanded  
 

@@ -20,7 +20,7 @@ When we fold, we imbue an inert material with pattern, structure, animation, fun
 
 Lead by paper engineer and designer Kelli Anderson and origami artist and developer Robby Kraft, SFPC's two-week session will explore the wide variety of ways that a piece of paper can produce function.
 
-![paper folded camera in book](/static/img/codepaper/camera.jpg)
+![](/static/img/codepaper/camera.jpg)
 Kelli Anderson - This Book is a Camera
 
 ### Course objectives include:
@@ -37,7 +37,7 @@ Students will have access to resources and mentorship by leading practitioners i
 
 *“The distant universe and our immediate world can both be found in paper.” – Kenya Hara*
 
-![paper folding pushed by finger](/static/img/codepaper/auxetic.gif)
+![](/static/img/codepaper/auxetic.gif)
 
 ### Who are the teachers?
 
@@ -48,15 +48,15 @@ Students will have access to resources and mentorship by leading practitioners i
 - [**Coralie Gourguechon**](https://www.coraliegourguechon.fr/) - Coralie Gourguechon is a designer and a paper electronics maker. Her projects aim to to demystify electronics by simplifying the execution of simple circuits in a graphical way and using paper.
 - [**Taeyoon Choi**](http://taeyoonchoi.com/) (*Session Advisor*) - Taeyoon is an artist, a co-founder of School for Poetic Computation, an adjunct professor at NYU ITP and a former fellow at Data and Society. In 2018, Taeyoon is working on Distributed Web of Care and ongoing research with a critical perspective towards technology, ethics, justice and sensitivity to the concept of personhood.
 
-![Several pages of planetarium pop up book](/static/img/codepaper/planetarium.gif)
+![](/static/img/codepaper/planetarium.gif)
 
 Kelli Anderson - This Book is a Planetarium
 
-![Paper sculpture](/static/img/codepaper/coralie.jpg)
+![](/static/img/codepaper/coralie.jpg)
 
 Coralie Gourguechon - Paper electronic modules
 
-![Voronoi origami folding pattern](/static/img/codepaper/voronoi-origami-slideshow.gif)
+![](/static/img/codepaper/voronoi-origami-slideshow.gif)
 
 Robby Kraft - orthogonal Voronoi molecules
 
@@ -74,7 +74,7 @@ Students will have full access to the space during open hours for the two weeks 
 - A laptop computer will be useful for some sessions.
 - All other materials and supplies will be provided by SFPC.
 
-![screenshot of origami software, origami folding patterner](/static/img/codepaper/rabbit-ear.gif)
+![](/static/img/codepaper/rabbit-ear.gif)
 
 [Rabbit Ear](https://rabbitear.org), creative coding origami library
 
@@ -106,7 +106,7 @@ Please note that if you apply for work study, we will consider your application 
 - No refunds can be given after the first day of class.
 - Participation is not transferrable to another person.
 
-![simulation of space filling origami model](/static/img/codepaper/kraft-space-filling-origami.gif)
+![](/static/img/codepaper/kraft-space-filling-origami.gif)
 
 space filling origami by Robby, rendered in [Origami Simulator](http://apps.amandaghassaei.com/OrigamiSimulator/) by Amanda Ghassaei.
 
@@ -118,4 +118,4 @@ We are located at 155 Bank Street, in the courtyard of the Westbeth Artists' Com
 
 Feel free to contact organizer Robby Kraft ([robbykraft@gmail.com](mailto:robbykraft@gmail.com)) with any questions about the session, or [info@sfpc.io](mailto:info@sfpc.io) for any general questions about finances or the school.
 
-![Origami paper sculpture](/static/img/codepaper/crane-small-crop.jpg)
+![](/static/img/codepaper/crane-small-crop.jpg)

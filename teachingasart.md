@@ -18,7 +18,7 @@ In this class, students will learn about applying creative processes to teaching
 
 This class was offered at Interactive Telecommunications in New York University’s Tisch School of the Arts in 2017 and 2018 as well as the EYEO Festival in 2017. The class builds upon previous work by SFPC teachers, such as Learning to Learn class by Amit Pitaru and Learning to Teach, Teaching to Learn conference organized by Tega Brain and Taeyoon Choi in partnership with the Processing Foundation. Students of the previous classes went on to become teaching artists in institutions such as MoMA, the New Museum and the Whitney Museum of American Art, professors in various universities, and organizers of Afrotectopia, Computer Mouse Conference and more.   
 
-![Taeyoon and students walking and moving outside, Taeyoon holds flag](/static/img/teachingasart/teachingasart-eyeo.jpg)
+![](/static/img/teachingasart/teachingasart-eyeo.jpg)
 Teaching as Art workshop at Eyeo Festival 2017. 
 
 ### Hear from the students
@@ -45,11 +45,11 @@ How would you evaluate the instructor?
 
 "Learning the fundamentals of pedagogy, while also appreciating it's context in certain art practices. What unique qualities come from combining them? Also, social critique, and "unlearning" as a method of learning in a broader, cultural and political context."
 
-![People working and talking at table](/static/img/teachingasart/francesca.jpg) 
+![](/static/img/teachingasart/francesca.jpg) 
 
 [Weaving and Storytelling](https://www.moma.org/calendar/events/5929) at MoMA by Francesca Rodriguez who was a student of Teaching as Art, 2019 
 
-![Nick Montfort talking with audience and AV equipment](/static/img/teachingasart/nick.jpg) 
+![](/static/img/teachingasart/nick.jpg) 
 
 Nick Montfort during [Learning to Teach](https://processingfoundation.org/advocacy/learning-to-teach-teaching-to-learn), organized by Tega Brain and Taeyoon Choi with the Processing Foundation, 2017 
 
@@ -77,13 +77,13 @@ Week 10: Final presentation. Students will present their syllabus and workshop s
 
 ### Meet the teacher
 
-![Portrait of Taeyoon Choi](/static/img/teachingasart/taeyoonchoi.png) 
+![](/static/img/teachingasart/taeyoonchoi.png) 
 
 
 Teacher: [Taeyoon Choi](http://taeyoonchoi.com) is an artist, educator, and organizer. He is a co-founder of the School for Poetic Computation, an artist-run institution with the motto of “More Poetry, Less Demo!” Taeyoon seeks a sense of gentleness, intellectual kinship, magnanimity, justice and solidarity in his work and collaboration. He has presented installations, performances and workshops at Eyebeam Art and Technology Center, Los Angeles County Museum of Art, New Museum, M+ Museum, Istanbul Design Biennale, Seoul Mediacity Biennale and Venice Biennale for Architecture. He contributed to alternative education such as the Public School New York, Occupy University and Triple Canopy Publication Intensive. He organized Learning to Teach conference with Tega Brain, in partnership with the Processing Foundation. In 2019, Taeyoon worked with Mimi Onuoha to start the New York Tech Zine Fair, with support from Ritu Ghiya and Neta Bomani. He also collaborated with Nabil Hassein and Sonia Boller to organize the Code Ecologies conference about the environmental impact of technology. As a disability justice organizer, Taeyoon continues to work with the Deaf and Disability community towards accessibility and inclusion.
 
 
-![Portrait of Ashley Jane Lewis](/static/img/teachingasart/ashley.jpg) 
+![](/static/img/teachingasart/ashley.jpg) 
 
 
 Teaching Assistant: [Ashley Jane Lewis](http://ashleyjanelewis.com/) is an interactive artist with a focus on tech education and speculative design. Her art practice envisions empowered black communities of the past, present and future through machine learning, data weaving, networked devices, analog textiles, bio art and performance. Her award winning work has exhibited in both Canada and the US, most notably on the White House website during the Obama presidency. As an educator, Ashley has taught more than 3500 youth how to code, landing her on the 2016 Top 100 Black Women to Watch in Canada as well as press coverage as a tech activist from Reader’s Digest, Huffington Post, Metro News and Washington Square News. Ashley is proud of the work she has done with Daniel Shiffman and his team on ml5.js, a “friendly machine learning for the web” platform that lowers the barrier to entry into creative computing. She is currently finishing a Master’s degree in Interactive Telecommunications at ITP in New York University’s Tisch School of the Arts. 

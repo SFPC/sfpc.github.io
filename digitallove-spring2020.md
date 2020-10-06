@@ -4,7 +4,7 @@ layout: participate2
 location:
 contact: sfpc
 ---
-![digital love languages poster, codes of affirmation.](/static/img/codesocieties/digital-love-languages-6-withnames-grey.png)
+![](/static/img/codesocieties/digital-love-languages-6-withnames-grey.png)
 
 # Digital Love Languages: Codes of Affirmation
 
@@ -28,7 +28,7 @@ No prior coding experience is necessary, as this class is oriented towards new p
 
 Let's gather for the creation of placemaking on the internet where sweetness and solidarity are valued and supported.
 
-![sfpc teacher Melanie teaching, with students](/static/img/codesocieties/melanie-teaching.jpeg)
+![](/static/img/codesocieties/melanie-teaching.jpeg)
 
 # What will students learn?
 
@@ -56,12 +56,12 @@ Let's gather for the creation of placemaking on the internet where sweetness and
 
 ## Instructor Bio
 
-![portrait of Melanie Hoff](/static/img/codesocieties/melanie-bio-photo-sm3.jpg)
+![](/static/img/codesocieties/melanie-bio-photo-sm3.jpg)
 
 [Melanie Hoff](https://melanie-hoff.com/) is an artist and educator examining the role technology plays in social organization and the reinforcing of hegemonic structures. Their work uncovers and re-scripts coded conventions of norms, interfaces, and sex, through software, installation, and new choreographies of exchange. They are a co-founder of Soft Surplus, (a collective space for making and learning near each other), the Cybernetics Library (an art and research collective offering resources for study and critique of socio-technological systems). They teach at NYU IDM, RISD, and the School for Poetic Computation, where they organize [Code Societies](http://sfpc.io/code-societies), a learning initiative about the social histories of technology and the expressive capacity of coding with care. They have presented their work internationally in spaces like the Tate Exchange London, the New Museum, the Queens Museum, The Internet Archive, Pioneer Works, and elsewhere.
 
 
-![portrait of Max Fowler](/static/img/codesocieties/max.jpg)
+![](/static/img/codesocieties/max.jpg)
 
 TA: [Max Fowler](http://mfowler.info) is an artist and programmer living in Berlin. Their new media work explores the politics of connectivity and queering feed algorithms. They are currently a member of >top lab, and are one of the stewards of Sari-Sari, a community kitchen and art space. They are interested in helping to grow a collaborative network of healing community spaces, and in providing technical support for artists and activists
 
@@ -100,4 +100,4 @@ If you have questions about the class, please write dll@sfpc.io and for administ
 [Application](https://airtable.com/shr2q0neXIgi478Wa) is now open until June 1st, 2020
 
 
-![computer terminal with field of emoji symbols creating diagonal patterns](/static/img/codesocieties/terminal.png)
+![](/static/img/codesocieties/terminal.png)
