@@ -5,12 +5,10 @@ location:
 contact: sfpc
 slides:
 
-- image: "/static/img/bootcamp/bootcamp1.jpg"
-  alt: "people studying at a laptop"
-- image: "/static/img/bootcamp/bootcamp5.jpg"
-  alt: "people studying at a laptop"
-- image: "/static/img/bootcamp/bootcamp6.jpg"
-  alt: "people studying at a laptop"
+  - "/static/img/bootcamp/bootcamp1.jpg"
+  - "/static/img/bootcamp/bootcamp2.jpg"
+  - "/static/img/bootcamp/bootcamp5.jpg"
+  - "/static/img/bootcamp/bootcamp6.jpg"  
 ---
 ***
 
