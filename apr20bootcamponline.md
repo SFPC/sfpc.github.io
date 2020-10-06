@@ -6,11 +6,11 @@ contact: sfpc
 slides:
 
 - image: "/static/img/bootcamp/bootcamp1.jpg"
-  alt: "people studying at laptops in SFPC space"
+  alt: "people studying at a laptop"
 - image: "/static/img/bootcamp/bootcamp5.jpg"
-  alt: "people comparing notes on paper and in code on a laptop"
+  alt: "people studying at a laptop"
 - image: "/static/img/bootcamp/bootcamp6.jpg"
-  alt: "a group sfpc creative coding bootcamp photo, with projected stars on top"
+  alt: "people studying at a laptop"
 ---
 ***
 

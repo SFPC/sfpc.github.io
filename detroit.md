@@ -3,14 +3,10 @@ title: Detroit 2019
 layout: participate
 slides:
 
-  - image: "/static/img/detroit/dctp.jpg"
-    alt: "Three people discussing in front of computers"
-  - image: "/static/img/detroit/netaandtawana.jpg"
-    alt: "Neta Bomani and Tawana Petty looking at papers"
-  - image: "/static/img/detroit/taeyoonandkim.jpg"
-    alt: "Taeyoon and Kim looking at a laptop; taeyoon is pointing at a window on screen"
-  - image: "/static/img/detroit/melanie.jpg"
-    alt: "Melanie Hoff looking over the should of a student using a computer"
+  - "/static/img/detroit/dctp.jpg"
+  - "/static/img/detroit/netaandtawana.jpg"
+  - "/static/img/detroit/taeyoonandkim.jpg"
+  - "/static/img/detroit/melanie.jpg"
 
 ---
 

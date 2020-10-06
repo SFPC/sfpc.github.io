@@ -2,18 +2,13 @@
 title: Code Societies Winter 2020
 layout: participate
 slides:
-- image: "/static/img/codesocieties/long-p2020.jpg"
-  alt: "Code Societies Winter 2020 logo with long connected ropey letters"
-- image: "/static/img/codesocieties/k.2.jpg"
-  alt: "people discussing and listening to presentation in front of colorful pink and blue abstract artworks"
-- image: "/static/img/codesocieties/h.2.jpg"
-  alt: "multicolor handmade booklets, or zines, laid out on a table"
-- image: "/static/img/codesocieties/fluct.jpg"
-  alt: "performers laying flat on a dance floor with darkly lit audience"
-- image: "/static/img/codesocieties/class.jpg"
-  alt: "code societies group photo"
-- image: "/static/img/codesocieties/crowd.jpg"
-  alt: "crowd listening to and watching a presentation of artwork"
+- "/static/img/codesocieties/long-p2020.jpg"
+- "/static/img/codesocieties/k.2.jpg"
+- "/static/img/codesocieties/h.2.jpg"
+- "/static/img/codesocieties/fluct.jpg"
+- "/static/img/codesocieties/class.jpg"
+- "/static/img/codesocieties/crowd.jpg"
+
 ---
 
 

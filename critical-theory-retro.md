@@ -2,8 +2,7 @@
 title: Critical Theory Retrospective
 layout: participate3
 slides:
-  - image: "/static/img/critical-theory-retro-square-final.png"
-    alt: "Critical Theory Retrospective logo, photo collage of content from darkmatters and other sfpc courses"
+  - "/static/img/critical-theory-retro-square-final.png"
 
 ---
 

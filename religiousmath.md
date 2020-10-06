@@ -2,8 +2,7 @@
 title: Math as Religion
 layout: participate3
 slides:
-  - image: "/static/img/math-religion-moving.gif"
-    alt: "artwork of animated interconnected maze-like paths"
+  - "/static/img/math-religion-moving.gif"
 
 ---
 
