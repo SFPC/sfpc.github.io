@@ -68,7 +68,7 @@ Che-Wei Wang [pron. sey-wey] is an artist, designer & architect with expertise i
 
 Taylor Levy [pron. tey-ler] is an artist & designer with a penchant for taking things apart, understanding how they work, and then putting them back together in a way that exposes their inner workings.The results take on a variety of forms from low-tech electronic sculpture to high-tech software & other executions. She has work on view at The Leonardo Museum of Science and Technology and was a resident at Fabrica Interactive in Treviso, Italy. She is an alumna of MIT Media Lab, ITP at NYU, and Vassar College.
 
-![device by Sebastian Moralest](/static/img/poetichardware/symbiosis.gif) 
+![device by cwandt](/static/img/poetichardware/symbiosis.gif) 
 
 [Sebastián Morales](https://www.adorevolution.com/) is an artist, engineer and researcher based in NYC. He develops interactive works at the intersections of robotics, digital culture and living systems. He is currently a new media artist in residence at Mana Contemporary in NJ working on speculative symbiotic relationships between single cells and internet bots. Creating estuaries for them to evolve into new hybrid forms.
 
