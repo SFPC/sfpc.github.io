@@ -16,16 +16,21 @@ slides:
 
 ---
 
+Announced on November 13,2020
 
-### Artist Statement: A User Guide (online)
+Thanks for your interest in SFPC. SFPC is working on internal organizing and planning for the future classes. We are not offering any classes in the fall of 2020. Please sign up to our mailing list to get an announcement about future events. 
 
-Five weeks class by Celine Katzman between August 18 - September 15, 2020. This workshop offers a combination of practical writing and critical thinking skills. Enrollment is open to anyone including artists, designers, creative technologists, engineers, architects, and others whose practices are difficult to define. [More information](/artiststatement-july2020/)
 
-## In progress
+## Past classes
 
 Announced on April 27,2020
 
 Due to the COVID-19 outbreaks, the School for Poetic Computation is offering classes for online, remote learning for the first time. Each class is lead by one of our core teachers. Apply now as the space is limited. Also, please support our fundraiser on [GoFundMe](https://gofundme.com/help-the-school-for-poetic-comptuation) to help us transition to online programs. We will announce summer/fall 2020 programs in mid-May. Sign up to our mailing list to get the latest updates. We will be announcing more short form workshops for spring/summer 2020.
+
+
+### Artist Statement: A User Guide (online)
+
+Five weeks class by Celine Katzman between August 18 - September 15, 2020. This workshop offers a combination of practical writing and critical thinking skills. Enrollment is open to anyone including artists, designers, creative technologists, engineers, architects, and others whose practices are difficult to define. [More information](/artiststatement-july2020/)
 
 ### Recreating the Past (online)
 
