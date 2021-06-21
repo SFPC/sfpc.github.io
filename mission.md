@@ -6,7 +6,9 @@ redirect_from:
   - /about/
 ---
 
-<p class="lead">The School for Poetic Computation is organized around exploring the creative and expressive nature of computational approaches to art and design. The school approaches writing code like creative writing — focusing on the mechanics of programming, the demystification of tools, and hacking the conventions of art-making with computation.</p>
+<p class="lead">SFPC is changing. Read about our organization's recent history <a target="_blank" href="https://sfpc.medium.com/dear-sfpc-community-c195d3dc1d00">here</a>, <a target="_blank" href="https://zachlieberman.medium.com/stepping-down-from-sfpc-6e1a0fe998f8">here</a>, and <a target="_blank" href="https://tchoi8.medium.com/open-letter-to-sfpc-community-58d658b92d79">here</a>.</p>
+
+The School for Poetic Computation is organized around exploring the creative and expressive nature of computational approaches to art and design. The school approaches writing code like creative writing — focusing on the mechanics of programming, the demystification of tools, and hacking the conventions of art-making with computation.
 
 We value the craft necessary to realize an idea, recognizing that every writer needs space and time to hone their trade. Our school aims to provide a safe haven for you to get acquainted with the craft of coding at your own pace, make it your own, and investigate the space between creative process and craft. This takes conversations with colleagues and the right push at the right time.
 
