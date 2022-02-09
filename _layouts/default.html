@@ -17,6 +17,9 @@
 		<link rel="manifest" href="/static/site.webmanifest">
 	</head>
 	<body id="{% if page.collection %}{{page.collection}}{% else %}{{ page.title | downcase | replace: " ", "" }}{% endif %}"  {% if page.toc %}data-spy="scroll" data-target="#toc"{% endif %}>
+		<div style="width:100vw;background-color:black;display: block;height: 40px;color: #DDDDDD; text-align: center;">
+  <h2 style="margin: 0px;">This website is no longer up to date, but is kept here for archival purposes. Please visit the new sfpc website at <a href="http://sfpc.study" style="text-decoration: underline;color: #AADDFF;">sfpc.study</a></h2>
+</div>
 		<div class="container">
 			<header id="header" class="page-header">
 				{% include nav.html %}
