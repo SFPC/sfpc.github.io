@@ -4,8 +4,15 @@ layout: default
 <div class="row">
 {% if content %}
 	<section class="col-md-6  col-sm-6">
-		<h1>{{page.title}}</h1>
+		<h1>{{ page.title }}</h1>
 		{{content}}
+		{% assign projects = site.projects | where: "artist", page.slug %}
+		{% if projects != '' %}
+		<h3>Projects</h3>
+		{% for project in projects %}
+			{% include project.html project=project %}
+		{% endfor %}
+		{% endif %}
 	</section>
 {% endif %}
 	<section class="info col-md-4 col-md-offset-1 col-sm-6">
