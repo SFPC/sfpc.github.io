@@ -1,5 +1,5 @@
 ---
-title: Zai Aliyu
+title: Zainab "Zai" Aliyu
 affiliation:
 - class: Fall 2019
   role: Student
