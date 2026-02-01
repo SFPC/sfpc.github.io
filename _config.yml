@@ -16,6 +16,9 @@ collections:
   classes:
     output: true
     permalink: /classes/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
   faqs:
     output: false
 defaults:
